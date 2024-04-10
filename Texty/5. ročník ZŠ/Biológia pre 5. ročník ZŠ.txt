@@ -1,0 +1,6801 @@
+﻿
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pre 5. ročník základnej školy
+
+
+
+
+
+
+Biológia
+pre 5. ročník základnej školy
+Mária Uhereková Ida Hantabálová Iveta Trévaiová Elena Margalová Zuzana Piknová
+Veronika Zvončeková
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EXPOL PEDAGOGIKA, s. r. o.
+Heydukova 12 — 14
+811 08 Bratislava www.expoIpedagogika.sk info@expolpedagogika.sk Telefon 02/32 66 18 62
+
+Konatel'ka spolocnosti
+Mgr. Miroslava Bianchi Schrimpelova
+
+Copyright O
+EXPOL PEDAGOGIKA, s. r. o., 2008
+
+Autorky O
+PaedDr. Maria Uherekova, PhD. Mgr. Ida Hantabâlova
+Ing. Iveta Trévaiova Mgr. Elena Margalovâ RNDr. Zuzana Piknovâ
+RNDr. Veronika Zvoncekova
+
+Recenzenti
+RNDr. Jana Cellârovâ Mgr. Daniela Pikulova
+RNDr. Vladimir Slobodnik, CSc.
+
+Grafickâ éprava0
+Bruno Musil
+
+Autori fotografii0
+Veronika Bahnova, Mgr. Daniel Balaz, www.sopsr.sk, Maria Beñackovâ, www.kvetinky.eu, Stefan Benko, www.vtaky.sk, Jirf Berkovec, Radek Bidlo, www.radekbidIo.net, Jiri Bohdal, www.naturfoto.cz, Peter Buncak, Mgr. Ondrej Cerveny, www.agrinet.sk, Pavel Danék, Miroslav Deml, Ing. Michal Dubina, Jirf Duchon, www.naturfoto-duchon.com,
+Josef Dvorâk, Marta Everlingovâ, www.nahuby.sk, FISHER Slovakia, s.r.o., www.fisherww.sk, Bohus” Gazda, Statne lesy TANAPu, Ivan Godâl, www.nahuby.sk, Mgr. Jan Gugh, www.vtaky.sk, Josef Hlasek, www.hIasek.com, Ladislav Hloska, www.bioIib.cz, Jakub Holec, www.bioIib.cz, Lubomfr Hurajt, www.lubohurajt.com,Zdenék Chalupa, Andrej Chudy, www.vtaky.sk,
+Jan Jad‘ud, www.nahuby.sk, Ing. Martin Janocko, Jirf Jech, www.jirijech.cz, Ing. Milan Kânya, www.pIazyunas.com, Tomas* Klacek, MUDr. Petr Kocna, CSc.,
+www1.If1.cuni.cz/-kocna/pkweb1.htm,RNDr. Petr Kocârek PhD., www1.osu.cz/orthoptera, Vladimir Kochanik, Luka's Konecny, Libus'e Kralova, Stanislav Krejcfk, www.meIoidae.com, Bozena Kuzmova, www.foto-net.sk, Jan Kvasnica, Mgr. Roman Lehotsky, www.miniopterus.com, Bc. Lukas” Lovich - LUKAS, www.topgarden.eu,
+Andrej Makara, Stefan Malec, www.nahuby.sk, Jirf Maiik, www.bioIib.cz, Klaudia Medalovâ, www.biospotrebiteI.sk, Ivan Miks”ik, www.naturebIink.com, MO SRZ Pdchov,
+Milan Nejezchleba, Jiii Novâk, www.bioIib.cz, Tomâs Pauko, www.tomaspauko.com, Ing. Petr Pivoñka, www.bioIib.cz, Jana Platichova, www.bioIib.cz, Ing. Pavol Polâk, www.sopsr.sk, Pavel Pomykal, PhDr. Milena Pouchova, Ing. Eugen Regula,
+Ing. Jarmila Richmanova, www.nahuby.sk,Petra Slamova, www.dangerita.net,Ian Slivinsky, www.Iesytanap.sk, Jakub Stanco, www.poutnik2.sweb.cz, Mgr. Radomir Studeny, Vladimir Sifra, www.slovensky-raj.sk,Ing.Jana Simurkova, Ian Suvada, www.nahuby.sk, Josef Tec, Karel Tejkal, www.nasehouby.cz, Irena Tichâ, Hana Vymazalova, www.garten.cz, Ondrej Zicha, www.bioIib.cz, Jana Zichova, www.bioIib.cz, Eduard Zakovic
+Séfredaktorka
+PhDr. Sylvia Radvanska Zodpovednâ redaktorka Mgr. Adriana Jankovicova
+
+Vsetky prâva vyhradené. Ziadna cast tohto diela nesmie byt reprodukovanâ alebo prenâsana v akejkoI‘vek forme alebo akymkolvek sposobom, elektronickym alebo mechanickym, vratane fotokopii, nahravanim alebo akymkolvek dostupnym prenosom informacif bez pisomného sd- hlasu vydavatelstva EXPOL PEDAGOGIKA, s. r. o., okrem recenzif, kde sd citované krâtke pasâze na ucely zaradenia recenzie.
+Schvalilo Ministerstvo s”koIstva, vedy, vyskumu a s'portu Slovenskej republiky pod c.2019/11766:2- A1001 ako ucebnicu Biologia pre S. rocnfk zâkladnej skoly. Schvalovacia dolozka nadobuda ucin- nost 15. septembra 2019 a ma platnost do 31 augusta 2024.
+
+Piate vydanie, 2019 (tlacenâ verzia) Druhé vydanie, 2019 (elektronicka verzia)
+
+ISBN 978-80-8091-567-4
+2
+
+Úvod
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stromy, ako aj iné zelené rastliny prijímajú z okolitého prostredia anorga- nické látky – vodu a oxid uhličitý.
+Z anorganických látok (voda, oxid uhličitý) vznikajú v zelených listoch orga- nické látky (cukry). Tento zložitý dej prebieha len za prítomnosti slnečného žiarenia a zeleného farbiva chlorofylu. Do okolitého prostredia sa uvoľňuje kyslík.
+Tento zložitý dej sa nazýva fotosyntéza.
+
+
+
+
+
+slnečné žiarenie
+
+
+
+
+
+Obr. 45 Mravenisko si lesné mravce robia z ihličia a iných zvyškov drevín a bylín
+
+
+
+
+základné
+učivo
+
+
+
+
+
+
+
+
+
+voda
+(anorganická látka)
+
+
+
+
+
+
+
+cukry
+(organické látky)
+
+
+
+
+
+
+
+
+
+oxid uhličitý
+(anorganická látka)
+
+
+
+
+
+
+
+
+kyslík
+(anorganická látka)
+
+
+4. Aký význam má opadané lístie v lese?
+5. V ktorej časti tela drevín prebieha fotosyntéza?
+6. Ktoré anorganické látky
+sa pri fotosyntéze premieňajú na organické látky?
+7. Ktoré farbivo v listoch je nevyhnutné na fotosyntézu?
+8. Aký význam má fotosyntéza pre živočíchy?
+
+rozširujúce informácie
+
+Obr. 44 Pri fotosyntéze sa z anorganických látok tvoria organické látky – rastliny pritom využívajú slnečnú energiu, vodu, oxid uhličitý zo vzduchu a zelené farbivo v listoch
+
+Rastliny preto spôsobom výživy nezávisia od iných organizmov. Sú sebe- stačné.
+Organické látky, ktoré vznikajú pri fotosyntéze, sú potrebné na výživu Obr. 46 Dudok hniezdi v dutinách stromov
+
+živočíchov a kyslík na dýchanie.
+
+a pňov
+
+
+Uvažuj a odpovedz
+1. Ktoré lesné kry poskytujú potravu lesným vtákom?
+2. Ktoré vtáky hniezdia v korunách stromov a dutinách kmeňov?
+3. Ktoré živočíchy majú úkryty v kroch?
+4. Ktoré lesné živočíchy sa živia listami stromov?
+
+
+Rieš a skúmaj
+1. Nakresli vlastnú predstavu fotosyntézy. Šípkami znázorni, ktoré látky rastliny prijímajú a ktoré látky uvoľňujú pri fotosyntéze.
+2. Vytvorte v skupine na baliacom papieri „svoj“ les. Nakreslite stromy, kry, byliny, nalepte obrázky (výstrižky) živočíchov na miesta, kde žijú v lese.
+
+
+
+
+Obr. 47 Drozd
+hniezdi v korunách stromov
+
+25
+
+
+3
+
+
+
+
+
+
+
+
+1. Príroda a život okolo nás	6
+Poznávame prírodu	8
+Poznávame rastliny a živočíchy	11
+Praktické aktivity	13
+Spoločenstvo organizmov a ekosystém	14
+2. Život v lese	16
+Ako žije les	18
+Lesné dreviny	21
+Význam lesných drevín	24
+Praktické aktivity	26
+Lesné mikroorganizmy a nekvitnúce byliny	27
+Lesné kvitnúce byliny	29
+Praktické aktivity	30
+Lesné huby a lišajníky	31
+Praktické aktivity	34
+Lesné bezstavovce	35
+Iné lesné bezstavovce	37
+Drobné lesné živočíchy (výberová téma)	40
+Lesné stavovce	41
+Lesné obojživelníky a plazy	41
+Lesné vtáky	43
+Lesné cicavce	45
+Vysokohorské rastliny a živočíchy	47
+Lesný ekosystém	49
+
+
+
+
+
+
+
+
+3. Život vo vode a na brehu	52
+Voda a jej okolie	54
+Vodné rastliny	57
+Brehové rastliny	59
+Drobné vodné živočíchy	61
+Praktické aktivity	62
+Vodné bezstavovce	63
+Hmyz žijúci vo vode a na brehu	65
+Praktické aktivity	67
+Vodné a brehové stavovce	68
+Ryby	68
+Praktické aktivity	71
+Obojživelníky a plazy vo vode a na brehu	72
+Vodné vtáky	74
+Vodné cicavce	77
+Vodný ekosystém (výberová téma)	79
+Príroda nášho okolia (výberová téma)	81
+4. Život na poliach a lúkach	82
+Lúky, pasienky a polia	84
+Lúčne rastliny a huby	87
+Poľné plodiny	89
+Obilniny a krmoviny	89
+Olejniny a okopaniny	91
+Lúčne a poľné bezstavovce	93
+Lúčne a poľné stavovce	96
+Obojživelníky a plazy na lúkach a poliach	96
+Lúčne a poľné vtáky	98
+Lúčne a poľné cicavce	101
+Praktická aktivita	103
+Trávnatý ekosystém (výberová téma)	104
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6
+
+
+
+
+
+Príroda a život okolo nás
+1
+
+Poznávame prí rodu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 2 Rastliny a živočíchy
+
+1. V lete cez prázdniny ste trávili voľné chvíle aj v prírode. Porozprávajte sa o tom,
+čo ste videli a zažili v lese, na lúke, pri jazere alebo na horskej túre.
+2. Nakresli, čo ťa v prírode najviac zaujalo.
+3. Pomenuj organizmy na obr. 2.
+V akom prostredí žijú?
+Čo potrebujú na svoj život?
+4. Ktoré neživé prírodniny poznáš?
+5. Ktoré živé a neživé prírodniny sa nachádzajú v tvojom okolí?
+
+Obr. 1 Príroda – živé a neživé prírodniny
+
+Lúky s rozkvitnutými rastlinami a motýľmi, tečúca rieka so pstruhmi, ka- mene a piesok na dne jazera, slnečnice na poli, huby v lese – to všetko je príroda. Príroda je všetko okolo nás, čo nevytvoril človek. Prírodu tvoria prírodniny.
+Neživé prírodniny sú slnko, voda, vzduch, pôda, minerály (napr. živec, kremeň) a horniny (napr. žula). Môžu meniť tvar, ale nežijú a nerastú.
+Živé prírodniny sú baktérie, huby, rastliny a živočíchy – organizmy (telo väčšiny z nich tvoria orgány). Žijú – prijímajú potravu, vylučujú nepotrebné látky, dýchajú, rastú, pohybujú a rozmnožujú sa, reagujú na podnety z oko- lia, hynú.
+Telo organizmov tvoria najmä organické látky. Zdrojom živín a energie pre organizmy (rastliny) sú neživé prírodniny (anorganické látky).
+Organizmy žijú v rozličnom životnom prostredí. Z prostredia čerpajú látky potrebné na život a prispôsobujú sa zmenám, ktoré prebiehajú v prostredí.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 3 Stromy čerpajú živiny (rozpustené vo vode) z pôdy koreňmi (z neživých prírodnín)
+
+Obr. 4 Rozličné životné prostredia
+organizmov
+
+
+
+
+
+
+
+
+
+Základné spôsoby skúmania prírody sú pozorovanie a pokus. Pozorova- nie je sústredené sledovanie organizmov a prírodných javov – procesov. Pokus je zisťovanie a dokazovanie prírodných procesov, napr. význam vody pre život rastliny.
+
+Prírodu možno pozorovať:
+voľným okom – stromy, byliny, listy,
+lupou – vlákna pavučiny, tykadlá hmyzu, šupinu kapra, mikroskopom – veľmi drobné vodné živočíchy, pokožku listov, ďalekohľadom – šišky na strome, letiace vtáky a pod.
+
+
+
+Lupa je zväčšovacie sklo,
+používa sa na zväčšovanie pozorovaného predmetu.
+Mikroskop je zložitý prístroj, ktorým sa pozorujú veľmi malé organizmy, časti tela organizmov pri 100- až 1000-násobnom zväčšení.
+
+uAnorganické látky sú napr. kyslík, oxid uhličitý, dusík, vápnik, voda. Organické látky sú napr. bielkoviny, cukry, tuky, vitamíny.
+u Ak organizmus zahynie, organické látky, ktoré tvorili jeho telo,
+sa rozložia v pôde na anorganické látky a stanú sa súčasťou
+neživej prírody.
+uMedzi živou a neživou prírodou ustavične prebieha obeh látok.
+
+6. Opíš, čo vidieť voľným okom na prechádzke v lese.
+7. Aký je rozdiel pri pozorovaní hviezd voľným okom a ďalekohľadom?
+
+okulár
+
+
+
+
+
+
+
+
+objektív
+
+Obr. 6 Pozorovanie kvetu lupou – pomaly približuj lupu ku kvetu, kým sa zaostrí zväč- šený obraz
+
+
+
+
+     stolček  so svorkami
+
+10x	45x
+
+
+zrkadlo
+
+
+
+ 	 zaostrovacia skrutka
+
+okulár	objektív
+(zväčšuje 10-krát)	(zväčšuje 45-krát)
+
+Obr. 7 Hlavné časti mikroskopu
+
+
+
+
+
+
+Obr. 5 Laboratórny mikroskop
+Mikroskopom sa pozoruje mikroskopický preparát – časť prírodniny pripra- venej na pozorovanie. Niekedy sa používa hotový trvalý preparát (väčšinou zafarbený farbivami na lepšie odlíšenie pozorovaných častí).
+Na pozorovanie je vhodný veľmi tenký plátok prírodniny, napr. stonky rast- liny.
+
+u Na okulári a objektíve sú hodnoty zväčšenia uvedené číslom.
+u Zväčšenie pozorovania mikroskopom sa určí, keď sa vynásobí hodnota zväčšenia okulára a objektívu.Ak je hodnota zväčšenia okuláru 10-krát a hodnota zväčšenia objektívu 20-krát, zväčšenie
+je 200-krát (lebo 10 . 20 = 200).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 9
+Príprava mikroskopického preparátu:
+• na podložné sklo kvapni vodu,
+• pinzetou do nej vlož pozorovaný pred- met,
+• preparačnou ihlou predmet vyrovnaj (nesmie byť pokrčený),
+• krycie sklíčko pridrž za hrany a opatrne polož na podložné sklo,
+• zvyšnú vodu odsaj pijavým papierom.
+
+
+uZahrajte sa hru Čo som?
+Rozdeľte sa na tri skupiny.
+Prvá skupina znázorní pohybom a zvukom rozličné organizmy.
+Druhá skupina zistí pomocou otázok, o ktoré organizmy ide. Tretia skupina doplní,
+kde organizmy žijú
+a čo potrebujú na život.
+uPorozprávajte sa vo dvojici:
+a) Čo potrebujú rastliny na svoju výživu?
+b) Akou potravou sa živia bylinožravé a mäsožravé živočíchy? Uveď príklady.
+c) Ktorými látkami sa živia huby?
+d) Ako súvisí život organizmov s prostredím, v ktorom žijú?
+uNavrhni pokus na dokázanie nevyhnutnosti vody a svetla pre rastlinu.
+
+Obr. 8 Pomôcky na pozorovanie mikroskopom
+
+Ako postupovať pri práci s mikroskopom?
+1. Upevni mikroskopický preparát k stolčeku.
+2. Nastav objektív na najmenšie zväčšenie.
+3. Pozeraj jedným okom do okulára a pomaly otáčaj zrkadlo, až sa rozjasní kruhovité pole.
+4. Opatrne otáčaj zaostrovacou skrutkou dovtedy, kým sa ostro neohraničia obrysy preparátu.
+5. Nakresli pozorovaný predmet, vypočítaj hodnotu zväčšenia.
+
+5. Zisti odlišnosti pri pozorovaní krídla muchy (motýľa) lupou a pod mikroskopom.
+
+
+
+
+Organizmy sa odlišujú tvarom, farbou, veľkosťou aj zložitosťou. Môžu mať rôznu stavbu tela podľa prostredia, v ktorom žijú. Telo organizmov tvoria orgány.
+Koreň, stonka a listy sú orgány, ktoré poskytujú rastline najmä výživu, preto sa nazývajú vyživovacie orgány.
+Kvety a plody so semenami zabezpečujú rozmnožovanie, nazývajú sa roz- množovacie orgány.
+Rastliny sa rozlišujú podľa stonky na byliny a dreviny (stromy a kry). Byliny majú dužinatú stonku. Dreviny (stromy a kry) majú drevnatú stonku.
+
+
+1. Uveď podľa svojich poznatkov,
+aký význam majú pre rastlinu koreň, stonka, listy, kvety a plody.
+2. Čo vieš z vlastného pozorovania rastlín o stavbe ich tela?
+3. Porovnaj význam vyživovacích
+a rozmnožovacích orgánov rastliny.
+
+
+
+
+
+vyživovacie orgány
+
+
+rozmnožovacie orgány
+
+kvety
+
+
+ 	  koruna
+(tvoria
+ju konáre s listami)
+
+
+
+listy  	
+
+
+
+
+plody
+konáre
+
+
+
+
+stonka
+
+
+
+
+koreň
+
+kvety
+
+
+
+kmeň
+
+
+
+
+koreň
+
+
+
+
+BYLINA
+
+
+Obr. 10 Stavba tela byliny a dreviny
+
+
+DREVINA
+
+
+
+4. Porovnaj bylinu a drevinu na obr. 10.
+Ktoré znaky majú spoločné a ktoré odlišné?
+5. Vyhľadaj v učebnici obrázky piatich bylín a piatich drevín a vzájomne ich porovnaj.
+6. Ktoré byliny, stromy a kry rastú
+v tvojom okolí? Poznáš ich názvy?
+
+
+ker
+
+Obr. 11 Bylina (A) a drevina (strom a ker – B)
+
+
+
+
+
+
+
+
+
+
+
+Niektoré rastliny a živočíchy sú chránené. Do zoznamu chráne- ných organizmov sa dostávajú rast- liny a živočíchy, ktoré sa vyskytujú v chránených územiach. Ďalej sú to rastlinné a živočíšne druhy, ktoré sa vyskytujú už len v malom počte, sú zriedkavé, vzácne hrozí im vyhynu- tie.
+
+Niektoré organizmy alebo len ich časti sú pre človeka jedovaté. Treba sa im vyhýbať, chrániť sa, nejesť ich. Nesmú sa ničiť, trhať, treba dodržia- vať hygienu rúk.
+
+Iné rastliny sú pre človeka liečivé. Pomáhajú pri liečení niektorých ochorení.
+
+Stavba tela živočíchov závisí najmä od prostredia, v ktorom žijú, a od spô- sobu výživy.
+Živočíchy sa živia rastlinami, inými živočíchmi, prípadne rastlinami aj živo- číchmi. Podľa toho sa rozlišujú na bylinožravé, mäsožravé a všežravé ži- vočíchy.
+Podľa stavby tela sa živočíchy delia na bezstavovce a stavovce.
+Bezstavovce nemajú kostru zloženú z kostí, napr. dážďovka, slimák, mu- cha.
+Stavovce majú vnútornú oporu tela – kostru. Jej základ tvorí chrbtica zlože- ná zo stavcov, napr. pes, kapor.
+
+A/ BEZSTAVOVCE
+
+
+
+
+
+B/ STAVOVCE
+
+
+
+
+
+
+
+
+
+
+
+Obr. 12 Živočíchy a človek
+
+
+
+
+
+
+
+
+
+
+7. Opíš tvary tiel živočíchov na obr.
+12. V čom sa zhodujú a odlišujú?
+8. Opíš stavbu tela slimáka, motýľa, psa, skokana a človeka.
+Ako sa odlišujú povrchom tela?
+
+Uvažuj a odpovedz
+1. Pomenuj vyživovacie a rozmnožovacie orgány rastliny.
+2. Podľa čoho poznáš v prírode bylinu a drevinu?
+3. Povedz príklad bezstavovca a stavovca, ktoré poznáš.
+4. Uveď príklady bezstavovcov, ktoré žijú v lese, vo vode, na poli, na lúke, v záhrade.
+
+Rieš a skúmaj
+1. Porovnaj stavbu tela rastlín a živočíchov na obr. 10 a 12.
+2. Vyhľadaj v učebnici príklady stavovcov, ktoré žijú celý život vo vode, časť života žijú vo vode a časť na suchu, plazia sa, lietajú.
+
+
+Potreby:
+lupa, kvitnúca rastlina s koreňom.
+Pracovný postup:
+1. Pozoruj voľným okom celú rastlinu a jednotlivé orgány – koreň, stonku, listy, kvety.
+2. Pozoruj lupou koreň, stonku, listy, kvety, prípadne plody.
+3. Nakresli jednoducho celú rastlinu, označ a pomenuj pozorované orgány.
+4. Pozoruj voľným okom kvety. Zisti, akú majú farbu, či má rastlina jeden kvet, alebo viac kvetov, či sú kvety v skupinách (v súkvetí).
+5. Pozoruj lupou vnútornú časť kvetu – tyčinky a piestik (jeden alebo viac). Svoje pozorovanie porovnaj s kvetom záružlia a repky na obr. 13. Nakres- li pozorované časti kvetu a pomenuj ich.
+Záver:
+1. Ktoré časti rastliny sa dali pozorovať voľným okom?
+2. Ktoré časti rastliny si pozoroval/a lupou?
+3. Aký postup bolo treba dodržať, aby bolo pozorovanie lupou jasné (zaos- trené)?
+4. Aký je rozdiel v pozorovaní voľným okom a lupou?
+Čím sa odlišoval pozorovaný kvet od nákresu na obr. 13?
+Úlohy pre záujemcov:
+1. Z ktorých častí sa skladá kvet rastliny?
+2. Ktorá časť pozorovania ťa najviac zaujala?
+
+
+
+
+Potreby:
+lupa, mikroskop, podložné sklo a krycie sklíčko, pinzeta, preparačná ihla (špendlík), kvapkadlo, kadička s vodou, handrička, časti rastlín (palístky ma- chu, výtrusy machov – pozri s. 27, pokožka listu, peľové zrná a pod.).
+Pracovný postup:
+1. Pozoruj lupou časť rastliny.
+2. Priprav mikroskopický preparát a mikroskop na pozorovanie.
+3. Pozoruj pod mikroskopom mikroskopický preparát.
+4. Zistenie zobraz jednoduchým nákresom (ceruzou) a opíš podľa pokynov učiteľa.
+5. Vypočítaj veľkosť zväčšenia a napíš k nákresu.
+Záver:
+1. Aký je rozdiel medzi pozorovaním lupou a mikroskopom?
+2. Ktorá časť práce s mikroskopom bola zaujímavá a pri ktorej boli problé- my?
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Poznáš niektoré huby, rastliny a živočíchy žijúce v lese?
+Vymenuj aspoň desať príkladov.
+
+
+V prírode (v lese, pri vode, na lúke a pod.) žijú rôzne rastliny, ktoré spolu tvoria spoločenstvo rastlín, a veľa živočíchov, ktoré tvoria spoločenstvo živočíchov. Spolu tvoria spoločenstvo organizmov. Pre ich život sú roz- hodujúce podmienky prostredia, v ktorom žijú.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. Ktoré organizmy na obr. 15 tvoria spoločenstvo rastlín a ktoré spoločenstvo živočíchov?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. Ktoré živé a neživé prírodniny sú v ekosystéme na obr. 16?
+4. Uveď príklad dvoch neživých a dvoch živých prírodnín
+ekosystému lesa, jazera (potoka), poľa.
+
+Obr. 15 Lesné spoločenstvo organizmov tvorí spoločenstvo rastlín a spoločenstvo živočíchov
+
+Organizmy nevyhnutne potrebujú na život neživé prírodniny – svetlo, vzduch, vodu, slnečné žiarenie, pôdu.
+Spoločenstvá organizmov a neživé prírodniny tvoria v prostredí kde žijú
+ekosystém.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 16 Ekosystém – spoločenstvá organizmov a neživé prírodniny
+
+Les, jazero, potok, rieka sú prírodné ekosystémy. Človek do nich zasahuje málo.
+Zásahy človeka do prírodných ekosystémov spôsobujú ich znečistenie a na- rúšajú v nich život.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A/ potok	Obr. 17 Prírodný ekosystém
+
+
+B/ les
+
+Umelé ekosystémy sú polia, sady, záhrady alebo parky. Ľudská činnosť do nich podstatne zasahuje.
+
+5. Ako môže znečistenie vody, pôdy alebo ovzdušia ovplyvniť ekosystémy? Uveď príklady.
+6. Čo v tvojom okolí najviac ovplyvňuje prírodné ekosystémy?
+7. Uveď príklady spoločenstiev rastlín a živočíchov.
+8. V čom sa podstatne odlišuje prírodný ekosystém od umelého ekosystému? Využi obr. 17 a 18.
+
+
+
+
+
+Obr. 18 Umelý ekosystém	A/ pole
+
+
+Pestujú sa v nich hospodárske plo- diny alebo kultúrne rastliny.
+Človek rozhoduje o druhoch a poč- te pestovaných rastlín. Zasahuje do ich života po celý rok, napr. presá- dzaním, orbou pôdy, prihnojova- ním alebo zavlažovaním.
+
+
+B/ záhrada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16
+
+
+
+
+
+
+
+
+Život v lese
+2
+
+
+
+
+
+
+
+
+
+
+1. Uveď príklady lesných rastlín a živočíchov, ktoré poznáš.
+
+
+svetlo
+
+
+
+
+vzduch
+
+
+
+
+
+
+
+
+
+teplo
+
+Všetky organizmy, ktoré žijú v lese – baktérie, huby, rastliny (byliny, stromy, kry) a živočíchy tvoria spoločenstvo lesa.
+V lese sa rastliny prispôsobili určitému množstvu svetla, tepla, vody, vzdu- chu a látok v pôde.
+
+
+
+
+
+
+
+
+
+voda
+
+
+
+
+ pôda 
+
+
+
+Obr. 22 Živé a neživé prírodniny v lese navzájom súvisia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 23 Veverica sa živí rastlinami – naj- mä rozličnými semenami
+
+Obr. 19 Samostatne rastúci strom
+má dostatok priestoru, bohatú a košatú korunu
+
+
+    Obr. 20 Stromy v lese rastú v skupinách, prekážajú si v raste,
+majú redšie koruny
+
+Organizmy a neživé prírodniny sú medzi sebou navzájom prepojené.
+Rastliny, napr. snežienka a smrek, závisia od pôdy, vzduchu, svetla a vody – čerpajú z nich potrebné látky – živiny.
+Lesné huby závisia od koreňov drevín výživou.
+Živočíchy závisia od rastlín a iných živočíchov, napr. srna sa živí rastlinami, ďateľ sa živí hmyzom, hmyz sa živí napr. rastlinnými šťavami.
+Medzi organizmami navzájom existuje vzájomná závislosť.
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 21 Ďateľ sa živí živočíchmi – dlhým jazykom vyberá spod kôry stromov hmyz alebo jeho vajíčka
+18
+
+
+
+
+
+
+
+
+
+Les sa v priebehu roka mení podľa množstva tepla a svetla.
+Na jar, kým sa na stromoch rozvinú listy, rastie a kvitne množstvo jarných bylín, ktoré majú dostatok svetla a vody z topiaceho sa snehu.
+V lete majú stromy najviac listov a dobré podmienky na rast. Letné byliny kvitnú v riedkych lesoch a na okrajoch hustých lesov. Porasty machov zadr- žiavajú vodu, zabezpečujú vlhkosť pre dozrievajúce plody.
+V lete a na jeseň majú rastliny a živočíchy najväčší dostatok živín, zhromaž- ďujú zásobné látky na prezimovanie. Listnatým stromom sa sfarbujú a opa- dávaju listy.
+V zime niektoré byliny prežívajú semenami, cibuľami, hľuzami a podzem- kami v pôde. Niektoré živočíchy sú aktívne aj v zime, iné ju prežívajú v zim- nom spánku a niektoré sa odsťahujú do teplých krajín.
+
+   Obr. 24 Krajina v jednotlivých ročných obdobiach
+2. 
+Ktoré ročné obdobie je pre rastliny a živočíchy v lese najpriaznivejšie a ktoré najmenej priaznivé? Zdôvodni.
+3. Kedy rastie v lese najviac húb a prečo?
+4. Ktoré rastliny kvitnú v lese na jar a v lete? Uveď príklady.
+5. Porovnaj, ako žijú lesné živočíchy v lete a v zime.
+6. Porovnaj podľa vlastných skúseností zmeny v listnatom a ihličnatom lese v priebehu ročných období.
+7. Opíš podľa obr. 24, ako sa mení krajina v jednotlivých ročných obdobiach.
+
+
+
+
+
+
+
+
+
+
+
+
+Rastliny v lese sú určitým spôsobom usporiadané. Členia sa podľa hĺbky uloženia koreňov v pôde a výšky, do ktorej doras- tajú na machy, byliny, kry a stromy. Tvoria nad sebou vrstvy (etáže, po- schodia), v ktorých žijú rozličné organizmy.
+
+
+A/ jar	B/ leto
+
+
+C/ jeseň	D/ zima
+
+
+
+stromová vrstva
+
+koruny listnatých
+a ihličnatých stromov
+
+ďateľ, sojka, kukučka, lykožrút, sýkorka, hýľ
+kerová vrstva
+lieska, baza, hloh
+kliešť, lienkabylinná vrstvaprvosienka, snežienka, fialkaslimák, mravce, larvy hmyzumachová vrstvamachyhmyz, slimákkoreňová vrstvapôdne baktérie, korene rastlín, podhubie húbdážďovka, larvy hmyzu19
+
+
+
+
+
+
+
+
+
+
+
+
+
+muchárik		húsenica veverica
+
+V lese sa rastlinami živia bylinožravé živočíchy. Tie sú potravou mäsožravých živočíchov, ktoré sa živia aj inými mäsožravými živočíchmi. Pri získavaní po- travy jednotlivé organizmy v lese od seba závisia, vytvárajú potravové re- ťazce.
+
+
+
+
+jastrab penica
+
+
+
+
+
+
+   myš chvostostok
+
+
+
+
+ďateľ
+
+
+
+lykožrút
+
+
+
+dážďovka
+
+sojka čmeľ
+
+
+
+
+
+skokan
+
+
+
+
+dub
+
+
+
+
+
+
+
+
+
+chrúst
+
+
+
+
+
+
+
+
+
+
+
+
+škorec
+
+
+
+
+žižiavka
+
+
+huby
+
+baktérie
+
+
+
+jastrab
+
+Obr. 27 Organizmy žijúce v rôznych les- ných vrstvách
+
+
+8. Ktoré organizmy žijú
+v jednotlivých lesných vrstvách?
+9. Ako spolu súvisia rastliny a živočíchy v jednotlivých vrstvách?
+10. Ktoré lesné vrstvy sú na obr. 27? Zostav príklady potravových reťazcov.
+11. Odhadni, čo by sa stalo, keby ďatle prestali žiť v stromovej vrstve.
+12. V ktorých lesných vrstvách žijú huby?
+
+
+Obr. 26 Potravový reťazec
+
+
+Uvažuj a odpovedz
+1. Uveď príklady lesných organizmov.
+2. Ako od seba závisia lesné rastliny, huby a živočíchy?
+3. Kedy je v lese najviac a kedy najmenej svetla? Aký to má vplyv na lesné rastlinné spoločenstvo?
+4. Pomenuj lesné vrstvy a uveď príklady organizmov, ktoré v nich žijú. Využi
+obr. 25 a 27.
+
+Rieš a skúmaj
+1. Pozoruj život jedného lesného stromu alebo byliny počas jednotlivých ročných období. Zhromažďuj údaje o raste a zmenách, dokumentuj vy- sušenými listami, kvetmi, plodmi, fotografiami a pod.
+2. Dokáž na príklade dvoch potravových reťazcov, ako navzájom súvisia or-
+ganizmy viacerých lesných vrstiev.
+3. Prediskutujte v skupine, aký vplyv môže mať požiar na lesné rastliny a živočíchy. Ktoré organizmy môžu požiar prežiť a umožniť obnovu lesa?
+4. Čo by sa stalo, keby sa v lese vyzbierali všetky huby?
+5. Stromy žijú počas života vo viacerých vrstvách. Odhadni, v ktorých vrstvách žije dub, keď dosahuje výšku 50 cm, 150 cm a 15 m.
+
+20
+
+
+
+
+
+
+
+
+
+Dreviny sú rastliny s drevnatou stonkou. Dreviny, ktorých stonka sa rozko- náruje v určitej výške nad zemou, sú stromy (napr. buk, dub, vŕba). Ich telo tvoria koreň, kmeň a koruna.
+
+
+koruna – tvoria ju konáre, na konároch rastú listy; na konároch sa vyvíjajú aj kvety a plody
+so semenami
+
+
+1. Ktoré dreviny poznáš?
+Čo majú spoločné a čo odlišné?
+2. Prečo patrí dub medzi listnaté stromy a borovica medzi ihličnaté stromy?
+
+
+
+
+kmeň – zhrubnutá drevnatá stonka, ktorá nesie korunu, vedie živiny z koreňov
+do koruny a z koruny
+do koreňov   	
+
+
+
+
+
+Obr. 32
+
+Obr.31
+Konárik ihličnatého stromu (borovica)
+
+
+       koreň – nasáva vodu z pôdy a dopravuje živiny do kmeňa; väčšinou sa rozpre- stierajú korene pod zemou
+do takej istej šírky, akú má koruna
+
+Obr. 28 Orgány stromu a ich význam
+
+Konárik listnatého stromu (dub) strom	koruna
+ 	 drevnatá stonka – kmeň
+koreň
+
+
+
+Ihličnaté stromy majú štíhle a pružné kmene, ktoré sú schopné odolať sil- nému vetru a chladnému počasiu. Majú tuhé ihlicovité listy – ihlice, kto- ré na nich zostávajú aj cez zimu (okrem smrekovca), lebo odolávajú suchu a mrazu. Semená majú uložené v šiškách.
+Listnaté stromy rastú väčšinou v miernom pásme. Menia svoj vzhľad po- dľa ročného obdobia. Na jar pučia na konároch listy a kvety. V lete dozrieva- jú plody a na jeseň opadávajú listy.
+Ker je drevina, ktorá má stonku rozkonárenú hneď od zeme (napr. lieska či
+
+
+ker
+
+
+
+
+
+bylina
+
+
+konáre s listami koreň
+ 	 dužinatá
+stonka s listami koreň
+
+baza).
+
+Obr. 33 Strom, ker a bylina
+
+
+Obr. 29 Ihličnatý strom počas roka nemení vzhľad
+
+
+
+
+
+
+
+
+
+
+        Obr. 30 Listnatý strom mení vzhľad
+v každom ročnom
+období
+21
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+borovica
+
+rek
+
+
+
+
+
+
+
+
+
+
+
+
+edľa
+
+dub
+
+lipa
+
+javor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mrekovec
+
+Obr. 34 Ihličnaté a listnaté stromy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ostružina malinová (malina)
+má chutné plody, listy majú liečivé účinky
+
+ostružina černicová (černica) – čierne plody dozrie- vajú na jeseň
+brusnica pravá rastie vo vyšších polohách
+
+
+
+
+
+
+
+
+
+
+
+
+lieska obyčajná má chutné a výživné plody – oriešky
+
+
+
+brusnica čučoriedková
+(čučoriedka)
+má veľmi zdravé plody
+
+
+Uvažuj a odpovedz
+1. Ktoré časti má telo stromu?
+2. Ktorý listnatý strom poznáš podľa listu alebo plodu?
+3. Ktorý ihličnatý strom poznáš podľa šišky a konárika?
+4. Podľa ktorých znakov rozlíšiš strom a ker?
+5. Ktoré lesné kry poznáš?
+
+Rieš a skúmaj
+
+
+
+
+Obr. 37 Lesné kry
+
+
+
+
+
+
+
+
+
+
+
+
+     baza čierna je liečivá rastlina, zbiera sa najmä
+kvet
+
+1. Nakresli jednu bylinu a jednu drevinu. Opíš ich stavbu a vysvetli, čím sa od seba odlišujú.
+2. „Adoptuj“ si strom... Nájdi v blízkom lese alebo okolí strom a zisti o ňom
+čo najviac údajov. Všetky si zaznamenaj. Čo môžeš urobiť: zistiť výšku stromu, tvar koruny, obvod kmeňa, odtlačok kôry, nazbierať kvety a plo- dy, zistiť, ktoré živočíchy žijú na ňom alebo v jeho blízkosti, odhadnúť jeho vek a pod.
+23
+
+
+
+
+
+
+
+
+
+1. Ktoré ihličnaté stromy majú uložené semená v šiške? Ktorý lesný živočích sa nimi živí?
+2. Ktoré lesné živočíchy sa živia semenami a plodmi listnatých stromov?
+3. Ktoré vtáky hniezdia v korunách stromov?
+
+
+
+
+
+
+
+
+
+Obr. 38 Plody jarabiny
+sú potravou pre vtáky
+
+Listy, kvety, plody a semená drevín sú zdrojom potravy živočíchov. Lista- mi sa živia napr. húsenice motýľov, semenami a plodmi veverica.
+V korunách alebo v dutinách stromov (kmeňov) si živočíchy hľadajú a robia
+úkryty.
+Vtáky si stavajú na stromoch hniezda, v ktorých sa ukrývajú a starajú sa o mláďatá. Niektoré druhy hmyzu žijú a vyvíjajú sa v štrbinách kôry alebo pod kôrou. Na kroch bývajú siete pavúkov – pavučiny.
+
+
+
+
+Obr. 39 Ďateľ má úkryt v dutine kmeňu stromu
+
+Obr. 40 Drozd má hniezdo s mláďatami v korune stromu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 42 Papraď rastie v lese na tienistých miestach
+
+Mnohým druhom bylín poskytujú stromy vhodné podmienky na rast (tieň, opora).
+V listnatom lese na jeseň opadne množstvo listov, ktoré vytvoria na zemi hrubú vrstvu. Z opadaných listov sa tvorí humus, ktorý obohacuje pôdu živinami.
+V pôde s veľkým dostatkom humusu sa dobre darí napr. baktériám, hubám (napr. plesne, hríb, muchotrávka).
+V lesnej pôde žijú drobné živočíchy (napr. dážďovka) a prezimujú rôzne dru- hy hmyzu (kukly chrobákov a motýľov).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 43 Lesné kry sú vhodným úkrytom pre križiaka a iné živočíchy
+
+
+Obr. 41 Opadané listy v lese poskytujú úkryty a potravu drobným lesným živočíchom, tvorí sa z nich humus
+24
+
+
+
+
+
+
+
+
+Listy stromov prijímajú z okolitého prostredia anorganické látky – vodu a oxid uhličitý.
+Zelené listy drevín sú dôležité pre výživu a dýchanie živočíchov. Prebieha v nich zložitý proces fotosyntéza. Na jej priebeh je potrebné slnečné žia renie a zelené farbivo v listoch (chlorofyl). Pri fotosyntéze vznikajú v listoch organické látky (cukry) z anorganických látok (oxid uhličitý, voda).
+
+
+
+Obr. 44 Pri fotosyntéze v listoch sa z anorganických látok tvoria organické látky – využíva sa slnečná energia, voda, oxid uhličitý zo vzduchu a zelené farbivo
+
+
+ Organické látky, ktoré vznikajú pri fotosyntéze, sú potrebné na výživu živočíchov a kyslík na dýchanie.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pomôcky:
+• lupa, pinzeta, učebnica alebo atlas rastlín,
+• konáriky ihličnatých a listnatých stromov (okrem tisu), kúsky kôry, listy, šišky, plody, semená.
+Pracovný postup:
+1. Pozoruj časti drevín v triede alebo v okolí školy priamo na stanovišti voľ- ným okom a lupou.
+2. Priraď časti drevín, ktoré patria spolu (listy, semená, plody, šišky).
+3. Podľa učebnice, atlasu alebo s pomocou učiteľa urč pozorované ihličnaté a listnaté dreviny.
+4. Nakresli pozorované časti a napíš z pozorovania stručné informácie a po- strehy.
+Záver:
+1. Ktoré znaky boli podstatné pri určovaní ihličnatých a listnatých drevín?
+2. Uveď názvy určených ihličnatých a listnatých stromov.
+3. Čo umožňuje šírenie semien a plodov ihličnatých a listnatých stromov?
+4. Čo ťa na pozorovaní najviac zaujalo?
+5. Čím sa odlišovali ihličnaté a listnaté dreviny?
+Rieš podľa záujmu.
+• Na obr. 51 sú smrekové šišky a lieskové oriešky, z ktorých zostali iba zvyš- ky.
+• Zisti pomocou obrázkov lesných živočíchov (obr. 48 – 50), ktorý z nich si na nich pochutnával.
+• Priraď k príslušnému číslu na obr. 51 názov živočícha.
+
+
+
+Obr. 51 Zvyšky smrekových šišiek a lieskových orieškov
+
+
+
+26
+
+
+
+
+
+
+
+
+
+V lesnej pôde žijú aj také malé organizmy, že sa dajú pozorovať iba pod mikroskopom – nazývajú sa mikroorganizmy (mikro = malý). Patria medzi ne baktérie – pôdne baktérie.
+Ich telo tvorí jedna bunka (najmenšia živá časť organizmov). Vykonáva všetky dôležité životné procesy – prijíma potravu, rastie, rozmnožuje sa a pod.
+Pôdne baktérie rozkladajú odumreté rastlinné a živočíšne telá. Tým sa do- stávajú do pôdy živiny (podporuje sa tvorba humusu).
+Na vlhkej kôre stromov tvorí zelené povlaky iba pod mikroskopom viditeľ- ná riasa drobnozrnko. Je to drobný jednobunkový guľovitý organizmus (telo tvorí iba jedna bunka).
+V jeho tele sa nachádza zelené farbivo chlorofyl, ktoré umožňuje fotosyn- tézu (obr. 55).
+1. 
+Zisti podľa obr. 25, v ktorej vrstve lesa žijú baktérie.
+
+uRastliny v lese majú jednoduchú alebo zložitú stavbu tela a rôzny spôsob života. Spoločným znakom je spôsob výživy fotosyntézou.
+
+
+
+
+
+jedna bunka zväčšená
+
+
+
+
+Obr. 54 Drobnozrnko tvorí zelené povla- ky na stromoch
+
+
+
+
+
+
+
+
+
+Obr. 52 Baktérie majú rozličné tvary
+
+
+Obr. 53 Ploník obyčajný
+
+kyslík
+
+
+oxid uhličitý
+
+
+
+Machy sú lesné rastliny, ktoré rastú v tieni a na vlhkých miestach. Patrí me- dzi ne ploník. Vytvára v lesoch husté porasty.
+Telo machu tvoria pakorienky (príchytné vlákna), pabyľka a palístky. Za sucha sú palístky zvinuté a pritisnuté k pabyľke, vo vlhku sa rozvinú do plo- chy. Vyparovaním vody udržiavajú machy v lese vlhkosť.
+Rozmnožujú sa výtrusmi. V lete sa na pabyľke vytvorí stopka s výtrusni-
+
+
+
+
+
+
+zelené farbivo chlorofyl
+
+
+
+
+
+
+voda
+
+cou, v ktorej dozrievajú výtrusy. Z dozretej výtrusnice vypadávajú výtrusy, vo vlhkej pôde vyklíčia a vyrastie nová rastlina machu.
+
+palístok
+
+
+
+pabyľka
+
+
+
+Obr. 56 Prasknutá výtrusnica, z ktorej vy- padávajú výtrusy
+
+Obr. 55 Drobnozrnko prijíma pri fotosyn- téze z prostredia vodu a oxid uhličitý a do okolia uvoľňuje kyslík
+
+2. Ktoré látky prijíma drobnozrnko z prostredia a ktoré vylučuje
+do okolia pri fotosyntéze?
+3. V ktorej časti tela zadrží mach najviac vody?
+
+uNa 1 mm plochy je asi 100 buniek drobnozrnka.
+uVäčšina rias žije vo vode, ale aj na vlhkých miestach na stromoch alebo skalách.
+Ich telo, ako je to pri drobnozrnku,
+
+Obr. 57 Rastliny machu za sucha (A),
+vo vlhku (B) sa palístky pri dostatku vody
+rozvinú do plochy	A	B
+
+
+pakorienky
+
+27
+
+tvorí jedna bunka (jednobunkové) alebo množstvo buniek (mnohobunkové).
+
+
+
+
+
+
+
+
+
+
+
+
+rašeliník
+
+
+uVo vlhkých horských oblastiach rastie rašeliník. Nadzemné časti dorastajú na vrchole, podzemné odumierajú. Z odumretej
+vrstvy sa vytvára rašelina, ktorá sa využíva ako hnojivo.
+
+
+
+
+merík príbuzný
+
+A
+
+bielomach sivý
+
+
+
+
+Obr. 58 Machy
+
+
+
+
+
+
+
+
+
+
+B
+Obr. 59 Papraď – celá rastlina (A), výtrusni- ce na spodnej strane listu (B)
+
+Paprade sú byliny, ktoré rastú na vlhkých a tienistých miestach. Listy majú usporiadané lievikovito, čo umožňuje stekanie dažďovej vody ku koreňom.
+Na jar sa na spodnej strane listov tvoria kôpky výtrusníc (obr. 59 B). Po do- zretí výtrusnice pukajú a do okolia sa vymršťujú výtrusy. Vo vlhkých pod- mienkach výtrus vyklíči, vyrastie nová rastlina paprade.
+V pôde majú podzemnú stonku (podzemok) s koreňmi, z ktorého na jar ras- tú zložené listy. Mladé listy sú stočené.
+Prasličky sú príbuzné papradiam. V podzemnej stonke (podzemku) sa hro- madia zásobné látky.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 60 Praslička lesná – hnedá byľ – ston- ka – má na jar na vrchole výtrusnicu, po vy- padaní výtrusov stonka neskôr zozelenie a prebieha v nej fotosyntéza
+28
+
+Lesné kvi tnúce byli ny
+Na lesných lúkach a lesných okrajoch rastú aj rozličné kvitnúce byliny. Telo tvoria koreň, stonka, listy a kvety. Z kvetov sa vyvíjajú plody a semená. Byliny majú dužinatú stonku.
+Jarné lesné byliny kvitnú pred pučaním stromov, kým ich ešte nezatieňu- jú listy stromov. Znášajú nízke teploty (napr. snežienka rastie aj cez vrstvu snehu).
+Byliny opeľuje hmyz, najmä čmele. Semená rozširujú živočíchy (napr. seme- ná fialky majú tukový výrastok, pre ktorý ich vyhľadávajú mravce).
+
+
+
+
+
+
+
+
+kvet
+
+
+
+
+
+plod	list
+
+
+
+
+
+
+
+stonka
+
+
+koreň
+
+podzemok
+
+Obr. 61 Telo byliny – jahoda obyčajná
+
+
+
+blyskáč	snežienka
+
+
+
+
+
+
+
+
+
+
+
+konvalinka
+
+
+
+
+prvosienka vyššia
+
+
+
+
+fialka
+
+
+Obr. 62 Jarné
+lesné byliny
+
+Chránená bylina je napr. bleduľa jarná. Ochrana sa vzťahuje na všetky časti tela rastliny. Zoznam chránených druhov sa aktuálne mení (podľa ich ohro- zenia).
+Liečivé byliny sú napr. pľúcnik lekársky, prvosienka vyššia.
+Jedovaté rastliny sú napr. konvalinka voňavá a vranovec.
+Lesné byliny majú v zásobných orgánoch (cibuliach, podzemkoch) uložené živiny. Z nich čerpajú na jar energiu na rast (pred tým, ako začne prebiehať fotosyntéza v zelených častiach rastliny – najmä v listoch).
+
+Uvažuj a odpovedz
+1. Opíš na ukážke časti tela byliny.
+2. Ktorú liečivú a jedovatú lesnú bylinu poznáš?
+3. Ktoré orgány majú lesné byliny cez zimu v pôde?
+
+Rieš a skúmaj
+1. Nájdi v atlase rastlín lesné byliny, ktoré sa vyskytujú v tvojom regióne. Zisti, ktoré sú chránené, liečivé alebo inak významné.
+2. Aké liečivé účinky majú kvety prvosienky a pľúcnika lekárskeho?
+
+
+
+
+hľuza (blyskáč, kyslička)
+
+
+
+
+
+
+cibuľa (snežienka, bleduľa)
+
+
+
+
+
+
+
+
+
+podzemok (veternica, konvalinka, pľúcnik)
+
+Obr. 63 Podzemné zásobné orgány les- ných bylín, ktorými prežívajú zimu
+
+29
+
+
+
+
+
+
+
+
+
+
+
+Pomôcky:
+mikroskop, podložné sklo, krycie sklíčko, preparačná ihla, nádoba s vodou, kvapkadlo, čistý papier, kôra stromu so zeleným povlakom.
+Pracovný postup:
+1. Zoškrab z kôry preparačnou ihlou malú vzorku riasy (zelený povlak) na čistý papier.
+2. Priprav mikroskopický preparát. Do kvapky vody na podložnom skle pre- nes malé množstvo povlaku a prikry krycím sklíčkom.
+3. V mikroskope skontroluj, či je pozorovacie pole dostatočne osvetlené. Pozorovanie začni pri najmenšom zväčšení.
+4. Pozoruj bunky pri najväčšom zväčšení.
+5. Vyber skupinu 2 – 4 buniek drobnozrnka a nakresli ich. Uveď zväčšenie, pri ktorom si riasu pozoroval.
+Záver:
+1. Prečo sa drobnozrnko zaraďuje medzi jednobunkové riasy?
+2. Čo znamená prítomnosť zeleného farbiva chlorofylu pre život drobno- zrnka? Ako vplýva na jeho sfarbenie?
+3. Aký podstatný význam má drobnozrnko, prípadne iné riasy pre život na Zemi?
+
+
+
+
+
+Potreby:
+rastlina machu, lupa, mikroskop, pinzeta, preparačná ihla, podložné sklo, krycie sklíčko, nádoba s vodou, kvapkadlo.
+Pracovný postup:
+1. Pozoruj lupou rastlinu machu.
+2. Pozorovanú rastlinu nakresli. Označ a pomenuj jednotlivé časti tela.
+3. Priprav mikroskopický preparát palístka machu.
+4. Pozoruj palístok, nakresli jeho tvar.
+5. Vyber skupinu 4 – 5 buniek, nakresli ich a porovnaj s obr. 14.
+Záver:
+1. Aký význam majú pakorienky, pabyľka a palístky pre rastlinu machu?
+2. Vysvetli, prečo patria machy medzi rastliny.
+3. Aký význam majú porasty machov pre les?
+4. Prezri si potravové vzťahy živočíchov žijúcich v machu na obr. 65. Vytvor tri potravové reťazce.
+
+
+
+
+
+
+
+30
+
+
+
+
+
+
+
+
+
+V lese rastú rôzne huby. V pôde majú vláknité podhubie, ktorým čerpa- jú z pôdy výživu. Z podhubia vyrastá plodnica, ktorá sa skladá z hlúbika a klobúka.
+Niektoré huby majú na spodku klobúka lupene (napr. bedľa, muchotrávka) alebo rúrky (napr. hríb, kozák). Lupene mladých húb chráni závoj, ktorý sa počas rastu trhá a na hlúbiku zostáva jeho zvyšok v podobe prsteňa.
+1. 
+Ktoré huby rastúce v lese poznáš?
+2. Ktorými znakmi sa podstatne odlišujú rastliny a huby?
+
+
+lupene
+
+
+klobúk
+
+
+
+
+
+
+
+Obr. 66 Vzhľad jedlej
+
+
+prsteň
+
+
+
+A
+
+rúrky
+
+a jedovatej	 	hlúbik
+huby
+
+
+plachtička
+
+
+
+
+
+
+
+pečiarka ovčia
+– jedlá huba
+
+závoj pošva
+podhubie
+muchotrávka zelená (hľuznatá)
+– smrteľne jedovatá huba
+
+
+
+
+B
+
+
+Obr. 68 Huby – klobúky húb s lupeňmi (A)
+
+Mladá muchotrávka zelená je celá zakrytá v plachtičke. Po vyrastení sa plachtička trhá a na spodku hlúbika zostane zvyšok v podobe pošvy.
+Na lupeňoch alebo v rúrkach sa tvoria vo výtrusniciach výtrusy, ktorými sa huby rozmnožujú.
+Pri zbere treba dobre poznať a odlišovať jedlé, nejedlé a jedovaté huby.
+
+kuriatko jedlé
+
+a rúrkami (B)
+
+
+
+
+
+
+
+
+
+hríb dubový (dubák)
+
+
+
+
+
+bedľa vysoká
+
+kozák brezový
+
+
+
+
+
+
+kozák osikový
+
+suchohríb hnedý
+
+
+
+Obr. 67 Jedlé huby
+31
+
+
+
+
+
+
+
+
+uTelá húb neobsahujú zelené farbivo chlorofyl, preto v nich neprebieha fotosyntéza.
+uVäčšina húb získava živiny (organické látky) z pôdy a z tiel odumretých organizmov.
+uNiektoré huby (parazitické) rastú na kmeni stromov a živiny čerpajú zo stromu – živého organizmu. Hovoríme, že tieto huby parazitujú.
+
+
+
+
+hríb satan (jedovatý)
+
+hodvábnica veľká (smrteľne jedovatá)
+
+
+
+
+
+
+
+rýdzik kravský (nejedlý)
+
+
+muchotrávka červená (jedovatá)
+
+Obr. 69 Nejedlé a jedovaté huby
+
+
+
+
+
+
+
+Obr. 70 Spolužitie stromu s hubou – sym- bióza, kozák osikový rastie často pri kore-
+
+
+Jednotlivé druhy húb rastú pod určitými druhmi stromov. Huby umožňujú stromom čerpať vodu z pôdy a z odumretých častí stromov huby získavajú živiny (napr. hríb dubový, kozák osikový).
+Takýto navzájom prospešný vzťah dvoch organizmov sa nazýva spolužitie
+– symbióza.
+
+ňoch topoľa osikového (osika)	Zásady zberu húb:
+1. Zbieraj len tie huby, ktoré dobre poznáš.
+2. Je dobré chodiť do lesa s atlasom s farebnými obrázkami húb.
+3. Huby ukladaj do košíka, nie do plastového vrecka, aby sa nesparili.
+4. Zbieraj len zdravé plodnice.
+5. Plodnice z pôdy „vykrúť“, aby sa neporušilo podhubie.
+6. Hlúbik očisti nožom a zvyšky vráť do pôdy.
+7. Po zbere dobre skontroluj kvalitu plodníc.
+8. Huby treba čo najskôr tepelne spracovať alebo usušiť.
+9. Nenič nejedlé a jedovaté huby, sú súčasťou lesa.
+10. Deti do troch rokov huby jesť nemajú.
+Prvá pomoc pri otrave hubami
+1. Ak sa po požití húb prejaví nevoľnosť, slabosť, vracanie či hnačka, treba
+
+Obr. 71 Trúdnik je drevokazná huba, rastie na pni živého stromu, spôsobuje hnilobu dreva
+
+ihneď vyhľadať lekársku pomoc.
+2. Lekár urobí výplach žalúdka.
+3. Iba v prípade nedostupnosti odbornej lekárskej pomoci vyvoláme vra- canie a čo najskôr sa snažíme postihnutého dopraviť do zdravotníckeho zariadenia.
+4. Otrava muchotrávkou zelenou je nebezpečná, prejavuje sa až po 24
+– 48 hodinách, keď sa jedovaté látky dostanú do krvi.
+
+Huby v prírode rozkladajú zvyšky organizmov (drevo, listy, odumreté živočíchy) na jednoduché látky, ktoré sa vracajú do prírody. Sú dôležitým článkom v lesných potravových reťazcoch.
+Huby sú potravou mnohých živočíchov – živí sa nimi napr. slimák a pod.
+
+
+
+
+32
+
+
+
+
+
+
+
+
+Lišajníky žijú na skalách, múroch, ale aj na stromoch, na ktorých obrastajú kmene a konáre.
+Telo lišajníka tvoria dva organizmy – huba a riasa. V riase prebieha fotosyn téza (obsahuje zelené farbivo), vytvárajú sa organické látky, ktoré potrebu je huba, a huba poskytuje riase vodu.
+Spolužitie huby a riasy je vzájomne prospešné – žijú v symbióze.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 72 Stavba tela lišajníka
+riasa + huba = lišajník
+
+riasy
+
+
+hubové vlákna
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 73 Zemepisník
+sa vyskytuje na skalách
+
+
+Lišajníky rozrušujú skalný povrch. Vytvárajú v ňom trhlinky, v ktorých sa zachytáva prach a organické zvyšky. Po čase sa tak vytvorí pôda, ktorá je vhodným prostredím na život iných organizmov.
+Lišajníky sú veľmi citlivé na znečistené ovzdušie. Kde rastú lišajníky, tam je čisté a zdravé ovzdušie.
+V severských krajinách sú lišajníky súčasťou potravy ľudí a sobov. Niektoré lišajníky majú liečivé účinky.
+Uvažuj a odpovedz
+1. Porovnaj zhodné a odlišné znaky bedle, pečiarky a muchotrávky.
+2. Aké dôsledky môže mať zbieranie neznámych húb?
+3. Podľa ktorých znakov možno v prírode poznať hubu a lišajník?
+4. Aký význam majú huby a lišajníky v prírode?
+
+Rieš a skúmaj
+1. Nauč sa z atlasu húb poznávať bežné druhy jedlých a jedovatých húb.
+2. Urobte si v triede nástenku s obrázkami húb. Zostavte zásady ich zberu.
+3. Janko má po zjedení hubovej praženice žalúdočnú nevoľnosť, hnačku a vracia. Čo urobíš?
+4. Pokús sa nájsť vo svojom okolí rôzne druhy lišajníkov. Pomenuj ich, na
+kresli a vystav v triede.
+5. Zisti podľa prítomnosti lišajníkov v okolí, či žijete v čistom, alebo znečis tenom ovzduší.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Potreby:
+atlas húb, modely alebo obrázky húb.
+Pracovný postup:
+1. Pozoruj vybrané plodnice húb voľným okom a hľadaj rozlišovacie znaky.
+2. Zistené znaky prehľadne napíš.
+3. Nakresli pozorované huby a doplň prostredie, v ktorom rastú.
+4. Pomenuj pozorované huby.
+5. Roztrieď pozorované huby na jedlé, nejedlé a jedovaté.
+Úlohy pre záujemcov:
+1. Naša najjedovatejšia huba je muchotrávka zelená. Ľahko sa zamení s pečiarkou ovčou, ktorú možno nájsť na okraji lesa. Urč zhodné a odlišné časti obidvoch húb na obr. 77.
+Muchotrávka   zelená  ............................................................
+Pečiarka    ovčia   ........................................................................
+
+2. Roztrieď huby na obr. 78 na jedlé a jedovaté:
+bedľa vysoká	................ hliva ustricová	.................
+masliak obyčajný	................ muchotrávka červená .................
+hríb satanský	................ hodvábnica veľká	.................
+plávka zelená	................ kozák brezový	.................
+
+3. Označ nesprávne tvrdenia a oprav ich.
+a) Plodnice nakrájané na plátky treba prudko sušiť na slnku alebo teplým vzduchom.
+b) Po zbere huby je vhodné podhubie zahrnúť a chrániť pred vyschnu- tím.
+c) Zásadne sa majú zbierať len plodnice jedlých húb, ktoré s istotou po- známe.
+d) Nájdené jedovaté huby treba ničiť, pretože nemajú nijaký význam.
+Záver:
+1. Ktoré znaky mali pozorované huby spoločné a ktoré odlišné?
+2. Ktoré pozorované huby boli jedlé, nejedlé a jedovaté?
+3. Ktoré znaky si treba všímať pri rozlišovaní jedlej a jedovatej huby?
+
+
+
+
+
+
+
+
+muchotrávka zelená	pečiarka ovčia
+
+
+
+    Obr. 77 Znaky jedovatej
+a jedlej huby
+34
+
+
+
+
+
+
+
+
+
+V lese žije množstvo drobných živočíchov, ktoré nemajú vnútornú oporu tela – kostru. Nazývajú sa bezstavovce.
+Na teplých a vlhkejších miestach žije slimák. Pohybuje sa sliznatou svalna- tou nohou, čo umožňuje pohyb po suchých miestach.
+Predná časť nohy prechádza do hlavy. Na nej je ústny otvor s drsným jazýč- kom. Ako strúhadlom ním obrusuje rastliny a huby, ktorými sa živí.
+Oči má na dlhých vysúvateľných tykadlách. Pár krátkych tykadiel pod nimi slúži na čuchanie a hmatanie.
+1. 
+Ako sa orientuje slimák v prostredí ?
+2. Aký význam majú slimáky
+a slizniaky pre život ostatných lesných organizmov?
+
+
+
+
+staršie časti ulity
+
+
+
+oči
+
+
+nové časti ulity
+
+
+
+
+sliz
+
+
+           Obr. 79 Slimák mäkké telo slimáka chráni tvrdá ulita, ktorá rastie celý život, pohyb slimáka po rozličných povrchoch
+umožňuje sliz
+
+
+
+
+
+
+tykadlá
+
+
+
+svalnatá noha
+
+
+
+
+Obr. 80 Slizniak pásikavý má za hlavou kožovitý štít
+V nebezpečenstve slimák vtiahne hlavu aj nohu do špirálovitej schránky
+– ulity. V nepriaznivých podmienkach a počas zimy ulitu zatvorí viečkom.
+Slizniak nemá ulitu. Hustý sliz chráni jeho telo pred vysychaním. Je po- hyblivejší než slimák. V nebezpečenstve sa zahrabáva pod lístie alebo do rôznych štrbín.
+Cez zimu spí v úkrytoch, často vo vrstve lístia. Na jar kladie do pôdy vajíčka. Mláďatá podobné dospelým slimákom bývajú potravou pre chrobáky, vtá- ky a iné lesné živočíchy.
+Dážďovka zemná žije v pôde. Jej valcovité telo má množstvo článkov
+– obrúčok. Na každom článku sú štyri páry tuhých štetín, o ktoré sa pri pohybe opiera.
+V prednej časti tela dážďovky je opasok, ktorý obsahuje vajíčka a vylučuje sa z neho sliz. Sliz umožňuje navlhčovanie pokožky, pohyb v pôde, spevňu- je vyryté chodbičky a obaľuje vajíčka.
+
+
+
+Obr. 81 Slizniak karpatský má modrú far- bu, niekedy môže byť podľa prostredia hne- dý alebo fialový, žije pod kôrou stromov
+
+uPo daždi nachádzame dážďovky na povrchu pôdy. Vyliezajú
+z pôdy, lebo voda v chodbičkách im bráni dýchať. Väčšinou však zahynú, lebo sú citlivé na svetlo.
+
+35
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       Obr. 82 Dážďovka zemná
+(A) vyrýva v pôde
+      chodbičky a vťahuje do nich odumreté zvyšky
+rastlín (B)
+B
+Dážďovka sa živí zvyškami rastlín, ktoré prijíma spolu s pôdou. V noci vťa- huje potravu z povrchu pôdy do chodbičiek. Vylúčené nestrávené zvyšky obsahujú organické látky, čo podporuje tvorbu humusu.
+Pohybom v pôde vytláča spodnejšie vrstvy pôdy na povrch. Tým sa pôda emiešava a kyprí. Vyrývaním chodbičiek spevnených slizom umožňuje
+prenikanie vzduchu a prevzdušňovanie pôdy.
+
+
+Iné lesné bezstavovce
+V lese žije pavúk križiak obyčajný. Jeho telo sa delí na hlavohruď a bruš- ko spojené tenkou stopkou.
+Na hlavohrudi má osem očí, ústne orgány, ku ktorým patria klepietka a hmatadlá. Na spodnej strane hlavohrude má štyri páry článkovaných končatín. Posledný pár je zakončený hrebienkovitými pazúrikmi.
+Na spodnej strane bruška sú snovacie bradavice, vytláča z nich tekutinu, ktorá na vzduchu tuhne (tak vzniká pavučina). Hrebienkovitými pazúrik- mi ju spriada na vlákno a sieť. Pri tkaní siete sa riadi inštinktom, čo je vro- dená schopnosť určitej činnosti alebo správania.
+Križiak sa živí hmyzom zachyteným v lepkavej sieti – pavučine. Korisť usmr- tí jedom z jedovej žľazy v ústnych orgánoch. Obalí ju vláknom, vpustí do nej tráviace šťavy a obsah vycicia.
+Kliešť obyčajný žije na okraji listnatých lesov na kroch a tráve. Má podob- nú stavbu tela ako pavúk križiak.
+Samička je parazit, živí sa krvou človeka alebo živočícha, ktorého nájde čuchom. Samček sa živí rastlinnými šťavami.
+Samička kliešťa sa na hostiteľa prichytí prvým párom končatín, ústnymi or- gánmi prepichne kožu a cicia krv. To je parazitovanie na povrchu tela, preto sa kliešť nazýva vonkajší parazit.
+Pre človeka je nebezpečný, lebo prenáša nákazlivé choroby (napr. kliešťový zápal mozgu, boreliózu). V súčasnosti je možné očkovanie proti kliešťové- mu zápalu mozgu.
+
+
+
+
+
+1. V ktorej lesnej vrstve možno najčastejšie vidieť pavučinu križiaka?
+2. Ktoré spoločné vonkajšie znaky má kliešť a pavúk križiak?
+
+uPavúky majú v klepietkach jedovú žľazu. Klepietka používajú
+na omráčenie a usmrtenie koristi.
+
+klepietka
+
+
+
+
+
+
+
+
+
+
+
+hlavohruď
+
+bruško
+
+
+
+
+
+Obr. 86 Križiak s pavučinou
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 85 Kliešť
+
+snovacie bradavice s množstvom otvorčekov
+
+
+hrebienkovité pazúriky
+na štvrtom páre nôh
+
+
+Čo treba urobiť, ak nájdeš po vychádzke v lese na tele kliešťa?
+* Po každej návšteve lesa si prehliadni celé telo.
+* Kliešťa treba z tela vytiahnuť jemne a pomaly pinzetou alebo nechtami. Chytiť ho treba čo najbližšie k miestu prisatia.
+* Ranu treba vždy dezinfikovať.
+* V prípade zapálenia rany a výskytu červených fľakov je potrebná odbor- ná lekárska prehliadka.
+
+Obr. 87 Orgány križiaka na tkanie pavu- činy
+
+3. Čím sa líši spôsob života kliešťa a pavúka križiaka?
+4. Akou potravou sa živí pavúk križiak a kliešť?
+5. Zistil/a si po prechádzke v lese na svojom tele prichyteného
+kliešťa? Ako si postupoval/a pri jeho odstraňovaní?
+
+
+
+
+37
+
+
+
+
+
+
+
+
+
+uMraveniská ničia veľké živočíchy, ale aj nedbalí návštevníci lesa.
+uMravce skonzumujú veľké množstvo hmyzu a uhynutých živočíchov.
+Sú lesnými „upratovačmi“, preto ich treba chrániť.
+
+
+robotnica
+
+V lese žije veľa druhov hmyzu.
+Hmyz má hlavu, hruď a bruško. Na hlave má zložené oči a jeden pár ty- kadiel a ústne orgány.
+Na hrudi má tri páry končatín a dva páry krídel.
+Mravec žije vo veľkých spoločenstvách – v mravenisku. Sú v ňom bezkrídle robotnice, okrídlené samičky a samčeky. Robotnice sú neplodné (nepri- nášajú potomstvo), vyhľadávajú potravu, dohliadajú na vajíčka, starajú sa o larvy a pod.
+
+
+
+
+
+komora zrelých vajíčok
+
+robotnice dohliadajú na vajíčka
+
+
+samček
+
+
+
+
+
+
+
+
+samička
+
+
+
+
+Obr. 89 Mravec lesný
+
+uAk je les zdravý, všetky organizmy žijú v biologickej rovnováhe,
+
+komora pre larvy (kŕmia ich robotnice)
+
+
+Obr. 88 Mravenisko má veľa komôrok spojených chodbičkami
+
+komora pre kukly (robotnice čistia kukly a dohliadajú na ne)
+
+teda množstvo lovcov a koristi je vyrovnané.
+uAk je les poškodený víchricami, zásahmi človeka či znečisteným ovzduším, môžu sa niektoré druhy hmyzu premnožiť.
+Stanú sa pre les nebezpečné a nežiaduce.
+
+Mravce sa živia inými malými bezstavovcami (vajíčka, kukly, húsenice, malé dospelé jedince) aj rastlinami. Niektoré druhy spolunažívajú v symbióze s voškami. Vošky vylučujú sladkú šťavu, ktorú mravce oblizujú.
+Lykožrút žije pod kôrou starých alebo odumierajúcich stromov. Pri prem- nožení je nebezpečný, lebo napáda i zdravé stromy a spôsobuje ich vysy- chanie.
+larvy sa živia lykom stromu, robia si pod kôrou chodbičky
+
+
+
+
+dospelý jedinec
+
+
+
+
+
+
+
+Obr. 90 Lykožrút napáda smreky
+38
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rieš a skúmaj
+1. Zisti zaujímavosti o živote pavúkov. Oboznám spolužiakov formou refe rátu.
+2. Všímaj si na prechádzke lesom pavučinové siete. Pokús sa ich nakresli
+aj s časťou prostredia, v ktorom sa vyskytujú. Urob si z kresieb zbierku a ukáž ju spolužiakom. Pridaj krátky komentár.
+3. Vyhľadaj na internete chránené druhy hmyzu žijúce v lese.
+4. Zisti v atlase alebo na internete, čím sa živia ďatle a kukučky. Vysvetli, ako ich potrava súvisí so životom v lese.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 97 Žižiavka
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 98 Mnohonôžka
+
+V lese pod listami, kameňmi, v pôde, v kôre odumierajúcich stromov žije veľa živočíchov s článkovaným telom. Patria k nim mnohonôžky, stonôžky, chvostoskoky, žižiavky a iné. Väčšinou sa živia rozkladajúcimi sa zvyškami, čím prispievajú k tvorbe humusu.
+Žižiavka má telo pokryté pancierom. Žije vo vlhkom prostredí, najmä pod spadnutým lístím, lebo dýcha žiabrami. Povrch jej tela chráni (podobne ako rakom) hrubý pancier.
+Má sploštené oválne telo. Živí sa rozkladajúcimi sa zvyškami rastlín, je ak- tívna v noci.
+Mnohonôžky majú okrúhle článkované telo s dvoma pármi krátkych kon- čatín na každom článku (spolu môžu mať aj 100 nôh). Živia sa zvyškami rast- lín. Zvinavec si v prípade nebezpečenstva chráni hlavu tým, že sa zvinie do guľky. Živí sa rozkladajúcimi sa rastlinnými a živočíšnymi zvyškami v pôde.
+Stonôžka je dravá. Má silné hryzadlá a jeden pár končatín na každom člán- ku (najviac 21 – 23 párov). Na korisť striehne v úkrytoch pod kameňmi, v škárach kôry a pod. Živí sa drobnými živočíchmi – chrobákmi, dážďovkami a pod.
+Chvostoskok žije pod opadaným lístím, kameňmi, na hubách, pod spadnu- tým drevom, v machu. Skáče odrazom pomocou vidlice na brušku. Živí sa rozkladajúcimi sa zvyškami rastlín a živočíchov.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 99 Chvostoskok
+uChvostoskok snežný, hovorovo nazývaný „snežná blcha“ , žije
+v machu, v lišajníkoch a v lesnom
+
+Obr. 100 Stonôžka
+
+Rieš a skúmaj
+
+Obr. 101 Zvinavec
+
+humuse. Má len 1 mm, v zime často vidieť čierne škvrny na snehu,
+ktoré tvorí množstvo chvostoskokov vyfúknutých vetrom z úkrytov.
+1. 
+Porovnaj spoločné znaky žižiavky, mnohonôžky a stonôžky a vyvoď z po- rovnania záver.
+2. Zisti na internete a spracuj informácie o ďalších živočíchoch, ktoré žijú
+v opadanom lístí a v lesnej pôde.
+3. Na vychádzke v lese opatrne vlož do igelitového vrecka opadané lístie s časťou pôdy. Preskúmaj obsah voľným okom a lupou. Pokús sa určiť nájdené živočíchy, pomôže ti atlas a učiteľ.
+4. Spracuj jednoduchý projekt o živote živočíchov žijúcich v lesnej pôde
+a v lístí. Zisti informácie o ich potrave, pre ktoré živočíchy sú potravou a aký význam majú pre život v lese.
+
+40
+
+
+V lese žije veľa živočíchov, ktoré majú vnútornú oporu tela – kostru a chrb- ticu zloženú zo stavcov. Nazývajú sa stavovce.
+Lesné potoky a malé vodné plochy sú vhodným prostredím pre obojživel- níky. Dospelé obojživelníky žijú na suchu a mladé vyvíjajúce sa jedince vo vode (napr. žaby). Obojživelníky počas života striedajú súš a vodu.
+Žaba – skokan hnedý má na sploštenej hlave veľké oči, široké ústa a v nich doďaleka vymršťovaný lepkavý jazyk. Kŕkanie zosilňujú zvukové mechúriky pri ústach. Na trupe má na predných končatinách štyri prsty, na zadných päť prstov spojených plávacou blanou. Telo je pokryté hlad- kou a vlhkou kožou.
+Skokan i ostatné obojživelníky potrebujú na svoj život vodné prostredie, v ktorom sa z vajíčok vyvíjajú žubrienky a z nich dospelé žaby.
+K lesným obojživelníkom s chvostom patrí mlok – salamandra škvrnitá.
+Potravou obojživelníkov sú drobné živočíchy, napr. mäkkýše, pavúky, sto- nôžky a hmyz. Sú dôležitým článkom lesných potravových reťazcov.
+
+
+
+
+Obr. 102 Lovenie potravy
+
+Obr. 103 Skokan potrebuje v čase roz- množovania vodné prostredie, vyhľadá- va lesné tône, vodné nádrže
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 104 Skokan hnedý	Obr. 105 Salamandra škvrnitá
+
+Na okrajoch lesov a na miestach s vyrúbanými stromami žijú plazy – hady. Telo majú pokryté suchou kožou so šupinami a štítkami. Pohybujú sa plazením (napr. hady), niektoré majú aj krátke končatiny (napr. jašterica či korytnačka).
+Medzi plazy patrí jašterica zelená. Má štíhle telo s chvostom. Krátke konča- tiny s piatimi prstami má zakončené pazúrikmi. Dlhým jazykom loví korisť, napr. hmyz, pavúky a dážďovky. Pri nebezpečenstve sa chráni odlomením časti chvosta, ktorý jej dorastie. Koža nerastie spolu s telom, preto sa po častiach zvlieka.
+
+Obr. 106 Jašterica zelená
+žije na slnečných miestach na okraji lesa
+41
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+užovka hladká
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 108 Slepúch
+
+
+1. Prečo patria obojživelníky a plazy medzi stavovce?
+2. Ktoré znaky majú jašterice a hady spoločné a ktoré odlišné?
+3. Vyhľadaj v atlase užovku stromovú, opíš jej vonkajšie znaky a zisti spôsob jej života.
+
+uĽudia užovku často zabíjajú zo strachu pred uhryznutím,
+mýlia si ju s jedovatou vretenicou.
+
+
+Obr. 107 Hady žijúce v lese
+
+Slepúch je jašterica so zakrpatenými končatinami. Ľudia ho často zabíjajú v domnení, že ide o hada. Živí sa hmyzom, larvami hmyzu, slimákmi a pavúk- mi. Chvost sa mu ľahko odlomí, ale nedorastá.
+Užovka hladká je had. Žije v teplých svetlých lesoch na slnečných stráňach, ale aj v opustených lomoch. Valcovité telo má pokryté suchou kožou, ktorú zvlieka naraz.
+Rýchlo sa pohybuje. Loví myši, žaby, jašterice silným ovinutím sa okolo tela koristi. Pri ohrození sa bráni hryzením a útočením. Nie je jedovatá.
+
+Užovka stromová je náš najdlhší had. Nie je jedovatá. Na zemi je pomalá, ale na stromoch obratná a rýchla. Vyskytuje sa v teplých listnatých lesoch a na kamenistých stráňach s krovinami. Loví najmä myši, jašterice, niekedy vyberá i vtáčie hniezda.
+Žaby a jašterice sú potravou hadov a hady zasa väčších mäsožravých živo- číchov. Jašterice zabraňujú premnoženiu hmyzu a hady zabraňujú premno- ženiu jašteríc.
+
+
+Uvažuj a odpovedz
+1. Podľa ktorých znakov by si poznal/a v lese skokana, jaštericu a užovku?
+2. Akou potravou sa živia obojživelníky a plazy?
+3. Porovnaj spoločné a odlišné znaky jašterice a slepúcha.
+4. Opíš podstatné rozdiely jašterice a užovky.
+5. Podľa ktorých znakov rozlíšiš na lesnej cestičke slepúcha od užovky?
+
+Rieš a skúmaj
+1. Na niektorých cestách sa na jar objavujú informačné značky Pozor žaby!
+Vysvetli ich význam.
+2. Opíš typické znaky skokana, mloka a salamandry. Uveď, ktoré majú spo- ločné a ktoré odlišné.
+3. Vyhľadaj v atlase živočíchov jaštericu živorodú a slepúcha lámavého. Zisti
+informácie o ich živote.
+4. Zostav potravové reťazce so zastúpením obojživelníkov a plazov.
+42
+
+
+
+
+
+
+
+
+
+Vtáky sú prispôsobené na lietanie – predné končatiny sa im premenili na
+krídla.
+Telo vtákov pokrýva perie, ktoré ich chráni pred stratou tepla. Na krídlach a chvoste sú letky. Na hlave majú vtáky zobák prispôsobený na získavanie potravy.
+V lese žije veľa dravých vtákov – dravcov. Živia sa menšími a drobnými lesnými živočíchmi (napr. myšami), čím udržujú biologickú rovnováhu. Ich typickým znakom je zahnutý zobák, silné pazúry. Myšiak lesný loví najmä hraboše v okolí lesa. Medzi stromami loví jastrab lesný stredne veľké vtáky.
+Podobne lovia potravu sovy. Lovia za súmraku a v noci. Umožňuje im to dobrý zrak a tichý let. V lesoch žije naša najväčšia sova výr skalný, sova lesná a naša najmenšia sova kuvik vrabčí.
+
+
+
+
+V zmiešaných lesoch sa neraz ozýva klopotavý zvuk ďatľa veľkého. Po- hybuje sa po kmeni šplhavými nohami, silným zobákom vytesáva kôru a drevo, lepkavým jazykom s háčikmi vyberá larvy hmyzu.
+Kukučka uprednostňuje v potrave chlpaté húsenice. Kukaním sa ozýva sa- mec. Samica znáša vajíčka na zem a v zobáku ich prenáša do hniezd iných vtákov. O mláďatá sa nestará. Mláďa kukučky postupne vytláča z hniezda iné vajcia a mláďatá, tak si zabezpečuje potravu len pre seba.
+
+
+
+
+
+
+
+orol skalný
+
+
+
+
+
+
+
+myšiarka ušatá
+Obr. 111 Zobák a noha dravcov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 114
+Ďateľ veľký –
+získavanie potravy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 115 Kukučka
+
+43
+
+
+
+
+
+
+
+
+V zmiešaných a listnatých lesoch v horských oblastiach žije tetrov hlucháň.
+Živí sa semenami, listami a púčikmi.
+Spevavé vtáky – spevavce typickými hlasovými prejavmi ohraničujú úze- mie, na ktorom získavajú potravu a hniezdia. Živia sa rastlinnou a živočíšnou potravou, viaceré prevažne hmyzom.
+
+
+
+
+
+
+
+Obr. 117 Tetrov hlucháň – samec (v čase párenia je výrazne sfarbený)
+
+
+
+
+
+
+
+
+
+
+
+
+
+sýkorka bielolíca
+
+
+Obr. 116 Lesné spevavé vtáky
+
+
+
+
+
+
+
+
+
+
+
+hýľ lesný
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sojka škriekavá
+
+Vtáky potrebujú na život dostatok potravy, životného priestoru a vhodné hniezdiská (miesta na hniezdenie). Vtáky živiace sa rastlinnou potravou rozširujú svojím trusom semená rastlín. Hmyzožravé druhy vtákov bránia premnoženiu hmyzu.
+Vtáky, ktoré odlietajú na zimu do iných krajín, sú sťahovavé vtáky (napr. kukučka). Vtáky, ktoré zimujú u nás, sú stále vtáky (napr. myšiak, výr).
+
+Uvažuj a odpovedz
+1. Ktoré tri lesné vtáky dokážeš poznať v lese podľa vzhľadu alebo hlasové- ho prejavu?
+2. Aký význam majú dravé a spevavé vtáky v lese?
+
+Rieš a skúmaj
+1. Opíš potravový reťazec na obr. 142.
+2. Zostav samostatne potravový reťazec, v ktorom bude lesný vták.
+3. Zisti miesta prezimovania sťahovavých vtákov, vypočítaj vzdialenosť, ktorú musia preletieť.
+4. Zisti zaujímavosti o živote lesných vtákov.
+5. Priprav so spolužiakmi kŕmidlá a prikrmujte vtáky v zime. Pozoruj ich správanie v kŕmidle, z pozorovania napíš stručnú správu.
+44
+
+
+
+
+
+
+
+
+Cicavce rodia živé mláďatá, ktoré sa po narodení živia materským mliekom Telo cicavcov pokrýva srsť, ktorá chráni pred stratou tepla.
+Typickým cicavcom našich lesov je srnec. Živí sa bylinami a výhonkam stromov, je to bylinožravý živočích. Samec má parohy, ktoré na jeseň zha dzuje.
+Jeleň je väčší než srnec. V čase párenia sa ozýva hlasným „trúbením“. Sami ca sa nazýva laň. Jeleň žije v stádach.
+Sviňa divá žije v čriedach. Kožu má pokrytú hrubými štetinami. Na hlave má nápadné kly. Je všežravá, živí sa napr. bukvicami, žaluďmi, orieškam korienkami, ale aj larvami hmyzu.
+Lesné mäsožravé živočíchy sú prispôsobené na lov a živia sa živočíšno potravou. Medveď a jazvec sú všežravé živočíchy. Ukladajú sa na zimný spánok.
+
+	
+
+rys má na konci ušníc štetinky, loví skokom
+
+
+
+
+
+
+
+
+
+
+
+vlk žije vo svorkách
+a korisť prenasleduje dovtedy, kým ju neuštve
+
+
+
+
+          medveď sa živí lesnými plodmi, hmyzom,
+larvami hmyzu a zdochlinami
+
+
+
+
+
+Obr. 118 Lesné cicavce
+
+líška požiera prevažne hlodavce a bezstavovce, prenáša nákazlivú chorobu besnotu
+
+
+kuna sa živí hrabošmi, vevericami, hmyzom a lesnými plodmi
+
+
+
+
+
+
+
+
+
+
+
+
+Netopier má lietaciu blanu, ktorá je medzi predĺženými prstami predných končatín, bokmi tela a zadnými končatinami.
+Ušnicou zachytáva zvuk odrazený od okolitých predmetov, čím sa orientuje v priestore a pri vyhľadávaní potravy vo vzduchu. Živí sa hmyzom.
+Veverica sa živí semenami, hubami, suchými plodmi (orieškami) a drobný- mi živočíchmi.
+
+
+
+
+
+
+
+
+
+
+
+Obr. 125 Netopier veľký
+
+
+
+Obr. 123 Muflón má rohy
+
+
+
+
+
+
+
+
+
+Obr. 124 Zubor
+
+
+Obr. 126 Veverica má hlodavé zuby, ktoré jej stále dorastajú, obrusuje si ich potravou
+
+
+
+
+
+
+
+
+Lesné cicavce
+bylinožravé – srnec, jeleň, veverica všežravé	– sviňa divá, medveď mäsožravé – rys, líška, vlk, kuna hmyzožravé – netopier
+
+Mäsožravé druhy živočíchov, ktoré si obstarávajú potravu lovom koristi, regulujú v lese najmä počet bylinožravých živočíchov a zabraňujú ich pre- množeniu.
+
+Uvažuj a odpovedz
+1. Ktoré cicavce žijú v lese? Uveď príklady.
+2. Uveď príklad bylinožravého, mäsožravého a všežravého cicavca a príklad jeho potravy.
+
+Rieš a skúmaj
+1. Zisti na internete alebo v encyklopédii spôsoby lovu lesných cicavcov.
+2. Zisti z rôznych zdrojov, ktoré stavovce žijú v najbližšom lese. Využi kon- takty s lesníkmi, poľovníkmi, ochranárskymi združeniami, regionálnu li- teratúru (napr. turistických sprievodcov) a informácie z internetu.
+3. Zisti informácie o prenášaní infekčných chorôb cicavcami.
+4. Pozoruj v lese stopy lesných cicavcov (trus, zvyšky šišiek a lieskových orieškov, zhodené parohy, stopy v pôde a pod.). Z pozorovania napíš stručnú správu.
+
+46
+
+
+
+
+
+
+
+
+
+V najvyšších polohách Slovenska sú vysokohorské spoločenstvá najme- nej zasiahnuté činnosťou človeka. Tvorí ich horná hranica lesa, kosodrevina, horské lúky a skalné bralá.
+Rastliny a živočíchy, ktoré tu žijú, sa prispôsobili drsným klimatickým pod- mienkam – tuhej dlhej zime bohatej na sneh a krátkemu letu.
+Vo vyšších polohách prevládajú smrekové lesy, rastie tam jarabina a vŕ- ba rakytová. Časté vetry poškodzujú smreky, ktoré majú korene plytko v zemi.
+V smrekových lesoch rastie brusnica čučoriedková a brusnica pravá. Na skalnej pôde prevládajú machy a paprade.
+V oblasti hornej hranice lesa rastie borovica kosodrevinová (kosodrevina). Borovica limbová – má širokú zaokrúhlenú korunu. Je odolná voči vetru a mrazu.
+Vo vyšších polohách rastú vysokohorské trávy a na skalách lišajníky.
+Vysokohorské rastliny sú nízke a drobné. Poduškovité porasty odolávajú náporu vetra, lepšie si udržiavajú vlhko a teplo. Žije v nich hmyz, ktorý ope- ľuje voňavé kvety.
+
+Obr. 127 Lomikameň rastie v štrbinách vápencových skál
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 130 Borovica kosodrevinová (koso- drevina)
+
+1. Vysvetli, prečo je pre vysokohorské rastliny výhodný nízky vzrast a rast v poduškovitých formách.
+2. Ako sa opeľujú vysokohorské rastliny?
+
+
+
+
+Obr. 128 Horec bodkovaný
+
+
+
+
+
+
+Obr. 131 Borovica limbová
+má vo zväzku päť ihlíc
+
+
+
+
+3. Aká je príčina menšieho počtu druhov vysokohorských živočíchov?
+
+
+
+
+
+
+47
+
+
+
+
+
+
+
+
+
+
+uVo vysokohorskom prostredí žije menej druhov živočíchov, silný vietor a tvrdá zima
+sú náročné na prežitie
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 133 Orešnica v jeseni robí zásoby, v pôde ukrýva semená ihličnatých stromov a prispieva tak k ich rozširovaniu
+
+
+
+
+
+
+
+
+
+
+Obr. 134 Svišť na stráži vystríha ostatné svište štekavým piskotom, hvizdom (sviš- ťaním)
+
+Z bezstavovcov sa vyskytujú slimáky, hmyz a pavúky. Vysokohorské sta- vovce majú husté perie a srsť. Niektoré si vytvárajú tukové zásoby, prežívajú zimu zimným spánkom (napr. svišť, medveď). Živia sa aj menej hodnotnou potravou.
+Vtáky majú dobré podmienky na hniezdenie v nedostupných skalách. V zi- me odlietajú za potravou do nižších polôh.
+Orešnica žije v smrekových porastoch. Živí sa prevažne hmyzom, bobuľami a semenami ihličnatých stromov. Je stály vták (na zimu od nás neodlieta).
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 132
+Kamzík
+vie vycítiť nebezpečenstvo a vyhnúť sa lavínovým oblastiam
+Svišť žije v skalných dutinách, na lúkach a v kosodrevine. Živí sa rastlinami. Má dlhý zimný spánok (sedem mesiacov). V priestrannom brlohu spí celá kolónia svišťov.
+Kamzík žije na holých skalách. Samce aj samice majú rohy. V lete sa živí bylinami, v zime vyhrabáva spod snehu stále zelené rastliny.
+V horskom prostredí žije aj medveď, rys a vlk.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 135 Orol skalný je dravec, hniezdi na skalách a mohutných stromoch, jeho potra- vou sú cicavce a vtáky
+uStavy kamzíkov vo Vysokých Tatrách klesajú. Príčinou je turistika, lyžovanie, používanie vrtuľníkov.
+48
+
+Lesný ekosystém
+Lesný ekosystém tvoria všetky organizmy žijúce v lese a neživé prírodniny lesa. Organizmy v lese od seba závisia najmä spôsobom výživy a druhom potravy.
+Lesné rastliny sú potravou niektorých lesných živočíchov, napr. veverica sa živí semenami stromov, myš semenami tráv. Niektoré živočíchy sa živia iný- mi živočíchmi, napr. sova loví myši.
+Lesné organizmy tvoria podľa vzájomných potravových vzťahov skupiny. Delia sa na:
+
+
+
+
+
+
+
+PRODUCENTY
+zelené rastliny (byliny, dreviny) produkujú, vytvárajú
+pri fotosyntéze organické látky z anorganických látok
+
+
+
+
+
+
+
+
+1. Ktoré lesné živočíchy sa živia rastlinnou potravou?
+2. Ktoré lesné živočíchy lovia iné živočíchy?
+
+3. Ako získavajú živiny lesné producenty?
+4. Uveď príklad získavania potravy živočíchov v bylinnej, krovej
+a stromovej vrstve.
+5. Ako súvisia s ostatnými organizmami v lese živočíchy v bylinnej
+a machovej vrstve? Uveď príklad.
+6. Opíš život a získavanie potravy lesných konzumentov a rozkladačov.
+
+
+
+
+
+
+
+
+
+
+
+
+é
+rys loví drobné aj väčšie živočíchy, napr.
+králiky, zajace, ovce, srny
+
+
+
+
+
+Obr.136 Potravové vzťahy v lese
+
+Zelené riasy a huby tvoria telo lišajníkov a navzájom si prospievajú pri zís- kavaní živín. Takýto vzťah je symbióza – spolunažívanie (navzájom pro- spešný vzťah).
+
+myšiak sa živí najmä drobnými hlodavcami
+- hrabošmi, myšami, ale aj menšími plazmi a hmyzom
+Obr. 137 Živočíchy – predátory sa živia lo- vom iných živočíchov
+49
+
+
+
+
+
+
+
+
+Kliešť sa živí krvou stavovcov. Žije na úkor iného živočícha ako parazit (cu- dzopasník), je to parazitizmus (vzťah prospešný len jednému, v tomto prí- pade kliešťovi).
+Sova loví myši, líška loví zajace. Sú to predátory (lovci), ktoré lovia korisť.
+Slnečné žiarenie je zdroj energie. V potravových reťazcoch sú základom zelené rastliny. Sú zdrojom potravy pre bylinožravé živočíchy a tie pre mä- sožravé živočíchy – predátory.
+Uhynuté telá organizmov rozkladajú pôdne baktérie a iné rozkladače. Do- stávajú sa tak do pôdy živiny potrebné pre rastliny.
+
+
+
+
+
+
+
+
+
+äsožravý živočích
+
+
+
+
+
+
+
+kliešť – parazit
+Obr. 139
+Rozličné druhy potravy lesných
+živočíchov	Obr. 138 Vzájomné vzťahy lesných organizmov
+
+
+     Obr. 140 Zložité potravové reťazce lesných organizmov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+50
+
+
+
+
+
+
+
+
+Les ako celok prežíva dobre, keď sú jednotlivé druhy organizmov a ich poč ty vyvážené, ak je v lese biologická rovnováha.
+Zníženie počtu alebo premnoženie určitého druhu organizmov spôsobuj narušenie potravových vzťahov – reťazcov a narušenie biologickej rov nováhy.
+
+
+Obr. 141 Dôsledky premnoženia lykožrúta na rast stromov (smrekov)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+52
+
+
+
+
+
+
+
+
+Život vo vode a na brehu 3
+
+
+
+
+1. Porovnaj vlastnosti pramenistej, potočnej, riečnej, minerálnej
+a morskej vody.
+2. Aké skupenstvá vody poznáš? Uveď príklad.
+3. Pri akej teplote sa voda mení na paru a na ľad?
+4. Čo spôsobujú vodné zrážky?
+5. Kde sa vyskytuje v prírode voda v kvapalnom, plynnom a tuhom skupenstve?
+6. Ako sa mení voda pri kolobehu na Zemi? Opíš podľa obr. 143.
+
+Voda a jej okoli e
+V moriach, jazerách a riekach žijú rozličné organizmy. Tvoria vodné spolo- čenstvá. Pre ich život sú dôležité aj vlastnosti vody.
+Čistota vody je dôležitá, čistá voda obsahuje dostatok kyslíka. V znečistenej vode je málo kyslíka, veľa hnilobných zvyškov, odpadu a škodlivých chemic- kých látok.
+Obsah plynov – kyslík je nevyhnutný na dýchanie vodných organizmov, oxid uhličitý je potrebný pre rastliny na priebeh fotosyntézy.
+Teplota vody má vplyv na aktivitu organizmov. Voda sa ohrieva pôsobením slnečného žiarenia. Čím je vyššia teplota (v rozmedzí vhodnom na život), tým rýchlejšie prebieha fotosyntéza, organizmy rýchlejšie rastú, prijímajú živiny, sú aktívnejšie (napr. ryby).
+
+
+
+
+
+
+
+
+
+ odparovanie povrchovej 
+  vody a vlhkosti z rastlín 
+
+  prenos v atmosfére 
+
+
+
+  zrážky 
+
+
+
+
+ odparovanie morskej vody 
+
+
+
+
+
+  povrchová voda 
+
+
+
+
+
+  spodná voda 
+
+
+
+
+
+
+
+
+uSamočistiaca schopnosť vody má v prírode veľký význam.
+V čistých vodách je bohatý život. Na samočistení vody sa podieľajú baktérie (ktoré sa živia rozkladom niektorých látok), mikroskopické prvoky a drobné vodné živočíchy – mäkkýše, larvy hmyzu a niektoré bylinožravé ryby.
+
+
+Obr. 143 Kolobeh vody v prírode
+
+Ľad na hladine vody v zime je tepelnou vrstvou. Chráni v zime ryby a ostat- né vodné živočíchy pred zamrznutím.
+Povrchové vlastnosti vody umožňujú niektorým druhom hmyzu pohybo- vať sa po hladine.
+Obsah solí má rozdielny vplyv na živé organizmy. Voda na zemskom povr- chu tvorí oceány a moria ako slaná voda a na súši je kontinentálne vodstvo (napr. rieky atď.) ako sladká voda. Organizmy sú spôsobom života prispôso- bené životu v slanej alebo sladkej vode.
+
+
+
+
+54
+
+
+
+
+
+
+
+
+
+Na Zemi je stály obeh vody vplyvom slnečného žiarenia a zemskej príťaž- livosti. Je to plynulá výmena medzi vodou v atmosfére, na súši v moriach a oceánoch. V prírode je voda v neustálom pohybe – kolobeh vody.
+Jednotlivé druhy organizmov žijú vo vode len v určitých podmienkach
+(hĺbka vody, teplota vody, čistota vody, osvetlenie).
+Stojaté vody – jazerá, rybníky, močiare, vodné nádrže – majú len malý prí- tok a odtok vody. Žije v nich množstvo rozličných organizmov.
+Na dne žijú baktérie, bahenník, škľabky. Vo vode sa vznášajú riasy, pláva vodný hmyz a ryby. Na brehu rastú brehové dreviny a byliny, v ktorých majú úkryty a hniezda vtáky.
+7. 
+Aký význam má kolobeh vody pre život organizmov na súši a v mori?
+8. Ako ovplyvňuje kolobeh vody život rastlín a živočíchov na súši?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 144 Stojaté vody
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 145 Tečúce vody
+
+
+rybník
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+rieka
+
+
+
+Tečúce vody sú bystriny, potoky, rieky (prirodzené) a kanály (umelé). Voda v nich tečie rôznou rýchlosťou.
+V každom úseku tečúceho vodného toku žijú určité organizmy.
+
+
+
+
+
+
+
+
+Rýchlo tečúca voda (napr. horské potoky) je čistá, studená s dostatkom kyslíka. Rastliny v nej majú menší vzrast a pevné stonky. Žijú v nej pijavice, vodné mäkkýše, larvy hmyzu a raky. Vo vode sa vyskytuje pstruh, na brehu hniezdi rybárik a trasochvost, vzácne sa vyskytuje vydra alebo bobor.
+Voda v strednom toku obsahuje menej kyslíka, lebo tečie pomlšie. Poskytu- je dobré podmienky na život šťukám, sumcom, bocianom, volavkám, kor- moránom.
+Vodné rastliny, živočíchy a mikroorganizmy súvisia s rastlinami, živočíchmi a organizmami žijúcimi na brehu. Napríklad kačica má na brehu úkryty a živí sa rastlinnou aj živočíšnou potravou vo vode a na brehu.
+
+Obr. 146 Vo vode a na brehu žijú organizmy vo vzájomných vzťahoch
+
+
+Uvažuj a odpovedz
+1. Ktoré vlastnosti vody sú dôležité pre život?
+2. Akým spôsobom človek znečisťuje rieky, jazerá a rybníky?
+3. Ako sa odlišujú podmienky života v stojatej a tečúcej vode?
+4. Ktoré organizmy žijúce v stojatej a tečúcej vode poznáš?
+
+Rieš a skúmaj
+1. Ľudia vypustili rybník. Aký bol dôsledok tohto zásahu?
+2. Diskutujte v skupine a vysvetlite, prečo sa nemá dávať do akvária preva- rená voda.
+3. V ktorej rieke – regulovanej alebo neregulovanej – má voda väčšiu samo-
+čistiacu schopnosť? Pokús sa zdôvodniť (použi literatúru, internet).
+4. Zisti na internete alebo v encyklopédii odlišné vlastnosti sladkej a mor- skej vody. Aký to má význam pre život organizmov?
+56
+
+
+
+
+
+
+
+
+
+Stojatá a tečúca voda je životným prostredím rozličných rast- lín, ktoré sú zdrojom výživy a energie (teda potravou) pre vodné živočíchy.
+Vo vode sa voľne vznášajú veľmi malé organizmy – mikro-
+
+
+slnečné žiarenie
+
+
+oxid uhličitý
+
+
+
+
+zelené farbivo
+– chlorofyl
+
+organizmy, ktorých telo tvorí jedna bunka alebo skupina buniek. Obsahujú zelené farbivo chlorofyl. Prebieha v nich fotosyntéza (pozri s. 25).
+Sú potravou pre vodné a niektoré brehové organizmy. Tieto mikroorganizmy tvoria planktón (skupinu veľmi malých vo vode žijúcich organizmov). Planktón sa v čistých vodách vy- skytuje vo veľkom množstve.
+
+kyslík rastliny uvoľňujú
+
+rastliny spotrebúvajú
+
+v rastlinách
+
+Riasy žijú vo vode, majú jednoduchú stavbu tela. Obsahujú zelené farbivo chlorofyl a prebieha v nich fotosyntéza. Vytvá- rajú kyslík.
+
+Obr. 148 Fotosyntéza prebieha aj vo vodnom prostredí
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bičík
+
+červenoočko má zelené farbivo chlorofyl, čo umožňuje priebeh fotsyntézy (jednobunková riasa)
+
+
+
+v závitnicovom
+       útvare je zelené farbivo
+chlorofyl
+
+
+Obr. 149 Riasy
+
+
+jadro
+
+
+
+
+
+
+závitnicovka má bunky spojené do dlhého vlákna (mnohobunková riasa)
+
+
+
+
+
+
+
+žabí vlas tvorí rozkonárené vlákna (mnohobunková riasa)
+
+Červenoočko je jednobunková riasa, ktorej telo tvorí jedna bunka. Pohybuje sa pomocou vláknitého bičíka. Mnohobunková riasa je závitnicovka, tvorí vlákna dlhé niekoľko metrov. Skupinu buniek – kolóniu – tvorí riasa váľač gú- ľavý.
+Podobné organizmy ako riasy sú sinice. Môžu žiť aj vo vlhkom prostredí (v pôde, na dreve). Ak sa premnožia v stojatej alebo pomaly tečúcej vode, vytvárajú „vodný kvet“ viditeľný ako povlaky alebo zhluky. Taká voda nie je vhodná na kúpanie, lebo môže spôsobovať alergie a rôzne kožné ochorenia (vylučovaním jedovatých látok).
+
+
+1. Pouvažuj, aké životné procesy prebiehajú v jednej bunke riasy.
+2. Ako sa volá riasa, ktorá vytvára na kôre stromov zelené povlaky?
+3. Aké spoločné znaky má riasa drobnozrnko žijúca v lese
+a červenoočko žijúce vo vode?
+
+uV jednej kolónii váľača žije
+až 20 000 jednobunkových rias
+– jedincov – navzájom spojených slizom.
+uBaktérie a sinice sú najstaršie organizmy na Zemi,
+žili už pred 3,5 – 2,7 miliardy rokov.
+uSinice žijú v sladkých aj slaných vodách, ale vyskytujú
+sa aj v horúcich prameňoch aj v povrchových vrstvách snehu a ľadu.
+
+Obr. 150 Kolónia riasy
+– váľač gúľavý
+
+Obr. 151 Jednoduché vláknité sinice žijú v zaraste- ných vodách (je ich veľa druhov)
+
+
+
+
+
+
+
+
+
+uVo vode a na dne žije množstvo baktérií (sú viditeľné len pod mikroskopom). Niektoré sa živia rozkladom rôznych látok
+a tým čistia vodu.
+
+4. Prebieha v rybníku husto porastenom „vodným kvetom“ dobre výmena plynov medzi vodou a ovzduším? Majú tam živočíchy dobré podmienky na dýchanie?
+5. Aký význam majú baktérie žijúce vo vode?
+
+Žaburinka je vodná rastlina plávajúca voľne na vodnej hladine. Vodu a živiny prijíma povrchom tela, má len jeden korienok vyrastajúci   z listu (korienkom nie je rastlina upevnená). Často pokrýva vodnú hladinu, lebo sa rýchlo rozmnožuje.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 153 Lekno rastie
+v čistých vodách, je chránené
+
+Obr. 152 Žaburinka patrí medzi naše najmenšie rastliny
+
+Lekno je trváca bylina, ktorá rastie z dna, ale listy plávajú na hladine. Po- dzemné stonky (podzemky) rastú v bahne alebo v rašeline stojatých vôd. Vyrastajú z nich stopkaté listy a biele kvety.
+Listy leknice plávajú na vodnej hladine. Kvety sú žltej farby.
+Vodné rastliny ohrozuje úprava tokov (odvodňovanie, umelé zaplavovanie priehradami). Vo vode, ktorá neprúdi alebo je chemicky znečistená, sa nie- ktoré druhy rastlín premnožujú (napr. riasy, sinice, žaburinka), vytláčajú iné druhy a hladina nimi postupne zarastá.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 154 Leknica – dlhé stopky umožňujú rozloženie listov
+a kvetov na vodnej hladine
+
+uVodné rastliny poskytujú rybám svojimi listami potrebný tieň, bránia premnoženiu rias.
+uSemená lekna a leknice majú na okraji háčiky, ktorými
+sa prichytávajú na telo vodných živočíchov, čo im pomáha
+pri rozširovaní.
+
+Uvažuj a odpovedz
+1. V akom prostredí rastú riasy?
+2. Aký význam má vodný planktón a vodné rastliny?
+3. Ktoré rastliny rastú priamo na hladine vody a ktoré sa zakoreňujú na dne?
+4. Ako škodí človeku premnoženie siníc vo vode?
+5. Prečo sa v lete v stojatej vode premnožia niektoré organizmy?
+
+Rieš a skúmaj
+1. Žijú vo vode organizmy, ktoré tvoria organické látky? Žijú vo vode orga- nizmy, pre ktoré sú tieto látky potravou? Diskutujte v skupine a zdôvod- nite svoje názory.
+2. V akváriu rastú vodné rastliny a riasy. Aký majú význam pre akváriové
+ryby?
+3. Zostav potravový reťazec z organizmov: dravá ryba, človek, bylinožravá ryba, riasa, planktón.
+4. Čo znamená tvrdenie, že riasy sú sebestačné organizmy?
+
+
+
+
+
+
+
+
+
+Brehové rastliny tvoria dreviny, napr. vŕby, jelše, topole, a úzkolisté byliny, napr. pálka, trsť, kosatec. Majú v zemi hlboko rozkonárené korene a pod- zemné stonky – podzemky, ktorými sa rýchlo rozmnožujú.
+Korene brehových rastlín spevňujú brehy riek a potokov. Chránia ich pred silným prúdom vody (vlnobitím, pohybujúcim sa ľadom, prívalovou vodou pri prudkých dažďoch) a odnášaním zeminy. Nadzemné časti znižujú vypa- rovanie vody a vytvárajú tieň na brehoch.
+Brehové porasty rastlín poskytujú živočíchom zdroj potravy, úkryty. Bre- hové rastliny vytvárajú vhodné podmienky napr. pre život hmyzu. Kvety drevín, ktoré kvitnú skoro na jar, sú zdrojom potravy pre opeľovače.
+Na brehu rastie vŕba ako ker alebo menší strom.
+Strom jelša rastie pozdĺž riek a potokov. Má malé zdrevnatené šištičky, kto- ré zostávajú na strome aj cez zimu.
+1. 
+Ktoré byliny a dreviny rastúce na brehu poznáš?
+2. Aký význam majú brehové dreviny?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+vŕba
+má žlté kvety
+       v súkvetí (jahňady), známe ako „bahniatka“
+
+
+
+
+
+
+155 Dreviny na brehoch potokov a riek
+
+
+jelša
+– semená sú
+v zime potravou pre spevavé vtáky
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+nezábudka rastie v močiaroch, priekopách, na mokrých lúkach a brehoch riek a potokov
+
+záružlie rastie na brehoch potokov, na vlhkých lúkach a v mo- čiaroch
+
+
+Obr. 156 Byliny na brehoch potokov a riek
+
+
+
+
+
+
+
+
+
+3. Ako sa odlišuje podzemok od koreňa?
+4. V podzemku sa zhromažďujú zásobné látky. Aký to má pre rastlinu význam?
+5. Ktoré jarné lesné byliny
+s podzemkom poznáš? Porovnaj ich život s brehovými rastlinami.
+
+Kosatec má podzemnú stonku – podzemok, odťial na jar čerpá výživu.
+Na brehu, v bahne a v plytkej vode rastie vysoká trváca bylina pálka (1 – 2 m). Kvety majú po dozretí množstvo semien s páperím. Rozmnožuje sa aj pod- zemkom.
+Rozsiahle porasty na brehu vytvára vysoká bylina trsť (1 – 4 m). Má veľmi rozkonárenú koreňovú sústavu, dutú stonku, široké a dlhé listy. Rýchlo sa rozmnožuje.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 157 Pálka
+A
+B
+
+
+Obr. 158 Kosatec
+
+
+C
+D
+
+
+
+E
+
+
+Obr. 159 Trsť
+
+
+
+
+A brehové rastliny – zakoreňujú na brehu, znášajú vlhkosť (nezábudka)
+B príbrežné rastliny – zakoreňujú sa v pôde, z vody vyčnievajú stonky, listy a kvety (trsť, kosatec)
+C pevne zakorenené rastliny – korene majú na dne, listy plávajú na hladine (lekno, leknica)
+D voľne plávajúce rastliny na hladine
+– nezakoreňujú sa v dne (rožkatec, žaburinka)
+E ponorené rastliny – rastú pod vodou
+
+Obr. 160 Vodné a brehové rastliny
+
+(vodomor)
+
+
+
+
+
+
+
+
+
+
+Obr. 161 Porasty pálky sa rýchlo rozras- tajú, z púčikov na podzemkoch vyrastajú nové rastliny
+
+Uvažuj a odpovedz
+Ktoré byliny a dreviny rastú pri vode a v jej okolí? Aký majú význam?
+
+Rieš a skúmaj
+1. Prečo okolie vodných plôch rýchlo zarastá brehovými rastlinami?
+2. Pozoruj brehové dreviny v okolí. Podľa ktorých znakov poznáš vŕbu a jelšu?
+3. Ako môže človek narušiť život rastlín vo vode a na brehu?
+4. Vyhľadaj v atlase (v encyklopédii, v učebnici alebo na internete) rastliny, ktoré rastú v jednotlivých pásmach podľa obr. 160.
+
+
+
+
+
+
+
+
+
+Vo vode žije veľké množstvo živočíšnych mikroorganizmov a drobných vodných živočíchov. Stojatá prehriata voda im poskytuje dobré podmienky na život.
+Sú súčasťou planktónu (pozri s. 57), poskytujú potravu iným vodným ži- vočíchom (nezmarovi, niektorým rybám a vodným vtákom). Ich telo tvorí jedna bunka alebo mnoho buniek.
+Črievička je jednobunkový živočích (jej telo tvorí jedna bunka). Živí sa bak- tériami a inými mikroorganizmami. Pohybuje sa brvami, ktoré sa pravidel- ne vlnia. Orgánčeky vo vnútri bunky vykonávajú rozličné životné funkcie (prijímanie potravy, pohyb a pod.).
+1. 
+Ktoré mikroorganizmy už poznáš? Kde žijú?
+2. Aký je podstatný rozdiel medzi výživou drobnozrnka a črievičky?
+3. Poznáš vodné živočíchy, ktoré
+sa živia planktónom? Uveď príklady.
+4. Porovnaj telo rias a vodných živočíšnych mikroorganizmov.
+5. Z koľkých buniek je zložené telo črievičky? Ako sa pohybuje?
+
+uJednobunkové organizmy
+sú väčšinou citlivé na čistotu vody.
+uPodľa ich výskytu možno posudzovať použiteľnosť vody.
+uJednobunkové organizmy sú významným článkom
+v potravových reťazcoch vo vode, sú potravou pre iné vodné živočíchy.
+
+
+
+
+
+
+
+Obr. 162 Črievička	Obr. 163 Meňavka
+Meňavka je jednobunková, nemá stály tvar tela. Prelievaním vnútornej časti tela (cytoplazmy) vysúva výbežky – panôžky. Pomocou nich sa me- ňavka pohybuje a chytá potravu.
+Nezmar je mnohobunkový živočích dlhý asi 1 cm. Žije prichytený na rastli- nách, kameňoch, ulitách, na ktoré sa prichytáva nožným diskom.
+Má valcovité telo s ramenami, na ktorých má pŕhlivé bunky. Pomocou nich ochromí alebo usmrtí korisť. Živí sa planktónom.
+Nezmar je potravou iných živočíchov (napr. lariev a dospelých jedincov vod- ného hmyzu), preto je dôležitou súčasťou vodných potravových reťazcov.
+
+Uvažuj a odpovedz
+1. Akou potravou sa živia vodné mikroorganizmy? Porovnaj potravu črie- vičky a nezmara.
+2. Aký význam majú mikroskopické a drobné vodné živočíchy v stojatých
+a tečúcich vodách?
+3. Aký je podstatný rozdiel medzi jednobunkovými a mnohobunkovými živočíchmi?
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 164 Nezmar prichytený na vodnej rastline nožným diskom
+
+
+
+Rieš a skúmaj
+
+pŕhlivá bunka v pokoji
+
+pŕhlivá bunka po podráždení
+s vymršteným vláknom
+
+1. Zostav potravový reťazec, v ktorom bude črievička (nezmar, dafnia).
+2. Vodný planktón sú malé organizmy, ktoré sa vznášajú vo vode. Ktoré z týchto organizmov nepatria do vodného planktónu: kapor, nezmar, črievička, rak, žaburinka, červenoočko?
+3. Zisti na internete alebo v encyklopédii informácie o význame planktó-
+nu.
+
+Obr. 165 Pŕhlivé bunky nezmara
+
+6. Črievička je súčasťou planktónu. Pre ktorého živočícha je potravou?
+7. Porovnaj stavbu tela jednobunkového a mnohobunkového organizmu.
+
+61
+
+
+
+
+
+
+
+
+
+
+
+Potreby:
+mikroskop, podložné sklo, krycie sklíčko, pinzeta, kvapkadlo, preparačná ihla (špendlík), chumáčik vaty, senný nálev.
+Poznámka:
+Senný nálev priprav v skupine podľa návodu pod dohľadom učiteľa v časovom predstihu.
+Pracovný postup:
+1. Zhotov mikroskopický preparát z kvapky senného nálevu. Kvapku získaj z najbližšieho miesta pri povrchovej blanke (pozri text na okraji).
+2. Kvapni na podložné sklo kvapku nálevu a opatrne vlož niekoľko vláken vaty (na spomalenie rýchleho pohybu črievičiek). Prikry krycím sklíč- kom.
+3. Vyhľadaj v zornom poli mikroskopu miesto s najväčším množstvom črie- vičiek a pozoruj pri veľkom zväčšení.
+4. Pozoruj pohyb a viditeľné časti tela črievičky.
+5. Nakresli črievičku a pozorované časti tela. Označ ich čiarou a opíš (pome- nuj). Ako pomôcku využi obrázok črievičky v učebnici.
+6. Vyjadri slovami alebo znázorni nákresom pohyb črievičky.
+7. Porovnaj črievičku a drobnozrnko. Uvažuj, čím sa odlišujú.
+Záver:
+1. Ktoré časti črievičky boli viditeľné mikroskopom? (Pozri obr. 162.)
+2. Čo ťa na pozorovaní najviac zaujalo?
+Úloha pre záujemcov
+
+Potreby:
+mikroskop, podložné sklo, krycie sklíčko, pinzeta, kvapkadlo, preparačná ihla (špendlík), vzorka vody z akvária, jazera, rybníka alebo mláky.
+Pracovný postup:
+1. Kvapni na podložné sklo kvapku vody z akvária, rybníka, jazera alebo mláky.
+2. Prikry krycím sklíčkom a pozoruj pri malom zväčšení organizmy, ktoré tvoria planktón. Všímaj si tvar tela a spôsob pohybu.
+3. Vyhľadaj v zornom poli mikroskopu 1 – 2 organizmy a pozoruj pri veľkom zväčšení.
+4. Pozoruj tvar tela a spôsob pohybu.
+5. Pozorované organizmy skús jednoducho nakresliť.
+6. Pokús sa ich zaradiť medzi rastlinný alebo živočíšny planktón podľa obr. 166.
+Záver:
+1. Ako sú pozorované organizmy prispôsobené životu vo vode?
+2. Aký majú význam pre ostatné vodné organizmy?
+
+
+
+
+
+
+
+
+
+Vo vode žijú živočíchy, ktoré majú schránku – ulitu alebo lastúru. Nemajú vnútornú kostru s chrbticou zo stavcov – sú bezstavovce. Ulita je špirálo- vito stočená, lastúra má dve časti. Zo schránky sa vysúva hlava a svalnatá noha.
+Živia sa vodnými rastlinami a planktónom. Prezimujú v znehybnenom sta- ve v ulite alebo lastúre. Prijímajú len malé množstvo kyslíka, potravu nepri- jímajú. Väčšina z nich dýcha kyslík rozpustený vo vode.
+Škľabka žije na dne stojatých alebo pomaly tečúcich vôd. Je potravou nie- ktorých rýb a vtákov.
+Vodniak žije v blízkosti vodnej hladiny.
+1. 
+Ktoré spoločné a odlišné znaky má slimák a vodniak?
+2. Porovnaj spoločné a odlišné znaky dážďovky a pijavice.
+3. Porovnaj život vonkajších parazitov kliešťa a pijavice.
+
+
+
+
+
+
+
+
+
+
+
+C
+Obr. 167 Kotúľka (A), kôstkovka (B), močiarka (C)
+
+ 
+
+Obr. 168 Pijavica lekárska	Obr. 169 Škľabka má pri pohybe vysunutú
+svalnatú nohu
+Pijavica žije na dne potokov a rybníkov. Má článkované telo bez štetín. Na prednom a zadnom konci tela má sval- naté prísavky. Živí sa ako parazit alebo krvou vodných stavovcov.
+
+Obr. 170 Vodniak má ulitu na vrchole končisto zakon- čenú
+
+
+
+
+
+
+Obr. 171 Bahenník
+je potravou rýb
+Rak žije len v čistých vodách. Podľa výskytu raka možno posudzovať čistotu vody. Vyhľadáva úkryty v brehových dutinách, pod koreňmi stromov alebo pod kameňmi. Živí sa uhynutými živočíchmi, ktoré vyhľadáva dobrým ču- chom.
+
+
+
+
+Obr. 172 Vodnár je pavúk, žije v pomaly te- čúcich vodách, loví larvy vodného hmyzu a požiera ich vo zvone utkanom z pavučiny, ktorý slúži ako zásobáreň vzduchu
+
+
+
+
+
+
+
+
+
+4. Z ktorých častí sa skladá telo raka?
+5. V akom životnom prostredí môžeme nájsť raka?
+6. Ktorá časť tela umožňuje rakovi rýchly pohyb dozadu?
+7. Aký význam má dafnia a cyklop pre ostatné vodné živočíchy?
+
+Telo raka tvorí hlavohruď a bruško. Chráni ho tvrdý pancier, ktorý počas rastu niekoľkokrát zvlieka (aby sa pancier prispôsobil veľkosti tela).
+Na hlavohrudi má ústny otvor a článkované končatiny. Oči má na krát- kych stopkách. Má viac párov končatín.
+Prvý pár končatín – klepetá – používa pri získavaní potravy a na obranu. Na hrudi má štyri páry kráčavých končatín. Krátke končatiny na brušku používa samica na prichytávanie vajíčok a mláďat. Chvostovú plutvičku používa na pohyb dozadu.
+
+hlavohruď
+
+
+1. pár končatín (klepetá)
+
+
+
+
+dlhé a krátke tykadlá
+
+
+bruško
+
+
+
+
+
+chvostová plutvička
+
+
+
+
+
+Obr. 173 Rak	2., 3., 4., 5. pár končatín
+
+Dafnia a cyklop žijú v stojatých vodách. Sú malé (2 – 6 mm), dobre viditeľné pod mikroskopom. Sú dôležitou zložkou potravy rýb. Majú priehľadný pan- cier, ktorý podobne ako rak zvliekajú.
+Dafnia sa vo vode pohybuje trhavým pohybom dlhých tykadiel na hlave, ktorými si do ústneho otvoru priháňa potravu – riasy, baktérie a iné mikro- organizmy.
+Cyklop má telo zakončené vidlicovitými výbežkami, ktorými stále vesluje. Samička nosí prichytené vajíčka vo vačkoch na boku zadnej časti tela.
+
+
+
+Obr. 174 Cyklop
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 175 Dafnia má priehľadné telo, vidieť vnútorné orgány
+uAkvaristi poznajú dafniu ako „vodnú blchu“. Je súčasťou sušeného krmiva pre akváriové ryby.
+
+Uvažuj a odpovedz
+1. Ktorý lesný bezstavovec má podobné vonkajšie znaky ako vodniak?
+2. Podľa ktorých znakov možno rozlíšiť ulitu a lastúru?
+3. Aký význam má vlnovitý pohyb zadnej časti tela bahenníkov?
+4. Akou potravou sa živí pijavica? Prečo je vonkajší parazit? Aký význam má v medicíne?
+5. Ako súvisí čistota vody s výskytom raka?
+
+Rieš a skúmaj
+1. Vnútorná strana lastúry je pokrytá perleťou. Preskúmaj perleťový gom- bík a zisti, akú farbu a povrch má perleť.
+2. Zostav potravový reťazec so štyrmi organizmami, v ktorom bude vodný
+bezstavovec.
+3. Nakŕm akváriové ryby sušenými dafniami (z obchodu s chovateľskými potrebami). Pozoruj ryby pri prijímaní potravy a opíš zistenie.
+
+64
+
+
+
+
+
+
+
+
+
+Väčšina vodného hmyzu a larvy hmyzu dýchajú kyslík rozpustený vo vode.
+Niektoré druhy vodného hmyzu žijú vo vode celý život, iné len počas vývi- nu (larvy). Na život vo vode sú prispôsobené špeciálnymi orgánmi na pohyb a dýchanie. Vodný hmyz a jeho larvy dýchajú kyslík rozpustený vo vode alebo kyslík zo vzduchu.
+1. 
+Ktorý hmyz žijúci v lese a vo vode poznáš?
+2. Ktorú látku pri dýchaní prijímajú suchozemské a vodné druhy hmyzu?
+
+
+Potápnik je vodný chrobák. Žije v stojatých vodách. Tretí pár nôh má prispôsobený na veslovanie. Dýcha kyslík zo vzduchu, ktorý sa mu udržiava pod tvrdými vrchnými krídlami (krovkami).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 176 Potápnik loví korisť, je prispôsobený dravému životu vo vode
+
+Vážky a šidlá si preletmi nad vodnou hladinou hľadajú potravu. Lietajú rýchlo, ale dokážu takmer nehybne stáť vo vzduchu.
+Vážka sa živí hmyzom. Vážky striehnu na korisť na rastlinách a rýchlo za ňou „vyrazia“. Larvy žijú vo vode, sú dravé (ulovia aj žubrienku).
+Šidlo veľmi dobre lieta, loví korisť aj vo vzduchu pomocou prvých dvoch párov nôh. Krídla má počas letu vodorovne rozprestreté.
+              Obr. 177 Šidlo je dravý hmyz, loví aj za letu, potravou sú žubrienky,
+               rybie plôdiky, aj príslušníci vlastného druhu;
+
+
+
+
+3. Ktorý vzdušný dopravný prostriedok sa pohybuje podobne ako vážka?
+
+uVážka skonzumuje za jeden deň viac hmyzu, ako je jej hmotnosť.
+uVážky kladú do vody vajíčka,
+z ktorých sa vyvíjajú larvy. Larva
+sa počas rastu niekoľkokrát zvlieka. Vývin trvá jeden i viac rokov.
+Na konci vývinu vylezie z vody, prichytí sa na rastlinu, pokožka pukne a vylezie dospelá vážka
+– dospelý jedinec.
+
+
+
+
+
+
+
+
+
+
+
+Obr. 178 Vážka
+sa vznáša nad hladinou, loví a často odpočíva na listoch rastlín
+
+
+
+
+
+
+
+
+Dospelý komár žije v okolí vôd, larvy a kukly sa vyvíjajú vo vode (sú potra- vou rýb). Samček sa prevažne živí rastlinnými šťavami, samička ako vonkajší parazit krvou cicavcov (aj človeka).
+Komár má bodavý a zároveň cicavý ústny orgán, ním pichne do kože a krvnej cievy, z ktorej cicia krv. Po nacicaní sa bruško komára viditeľne zväčší.
+
+
+
+Obr. 179 Korčuliarka pobieha po povrchu vodnej hladiny, vyhľadáva utopený hmyz a vyciciava ho, je dravá
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 180 Komár – larvy prichytené na vodnej hladine sú potravou rýb, prijímajú kyslík zo vzduchu
+
+
+Vodomerka sa pohybuje pomaly, ale prerušovane po hladine stojatej vody. Umožňujú to drobné chĺpky na končatinách, medzi ktorými je zadržaný vzduch. Živí sa hmyzom.
+Ovad žije v okolí vodných plôch. Samičky sa živia krvou podobne ako ko- már. Larvy žijú dravým spôsobom v bahne.
+
+
+
+
+Obr. 181 Vodomerka má štíhle telo, dlhú hlavu a končatiny, živí sa drobným hmy- zom, je dravá
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 182 Ovad má na hlave nápadne veľké oči a na brušku svetlé škvrny
+uOvad často napáda dobytok a kone, keď sa pasú v blízkosti vodnej plochy.
+
+Uvažuj a odpovedz
+1. Ktoré druhy hmyzu alebo ich vývinové štádiá sú potravou iných vodných živočíchov?
+2. Ktorý druh hmyzu sa často premnožuje pri povodniach?
+3. Porovnaj život hmyzu v lese, vo vode a na brehu.
+4. Je potápnik vo vodných potravových vzťahoch lovec alebo korisť (potra- va)?
+5. Aký význam má vodný hmyz pre život vo vode? Uveď príklad.
+
+Rieš a skúmaj
+1. Zisti informácie o spôsobe pohybu vodomerky po vode a vysvetli jeho princíp.
+2. Zdôvodni, prečo vážka, ovad a potápnik majú veľké oči.
+3. Zisti, ako sa volajú chemické látky odpudzujúce dotieravý hmyz. Ako sa používajú?
+4. Zostav potravový reťazec, na konci ktorého bude larva alebo dospelý je-
+dinec hmyzu s dravým spôsobom života (napr. potápnik, vážka, šidlo).
+5. Vymenuj bezstavovce, ktoré poznáš.
+
+
+
+Potreby:
+lupa, rôzne ulity a lastúry, atlas živočíchov.
+Pracovný postup:
+1. Pozoruj voľným okom ulity a lastúry.
+2. Nakresli ulitu a lastúru vybraného pozorovaného živočícha.
+3. Pozoruj lupou vonkajšiu a vnútornú stavbu ulity a lastúry.
+4. Zisti rozdielne znaky ulity a lastúry a zobraz jednoduchým nákresom.
+5. Porovnaj podľa atlasu živočíchov pozorované ulity a lastúry.
+6. Ako pomôcku využi obr. 183, 184.
+Záver:
+1. Aký význam má schránka pre živočícha?
+2. Aký je podstatný rozdiel v tvare a stavbe ulity a lastúry?
+3. Napíš názvy určených živočíchov, rozdeľ ich na ulitníky a lastúrniky po- dľa toho, či majú ulitu alebo lastúru.
+
+
+Potreby:
+akvárium s vodnými bezstavovcami s ulitou alebo lastúrou, lupa, atlas živočíchov.
+Poznámka:
+Živočíchy s ulitou alebo lastúrou možno v akváriu pozorovať jednorazo- vo, vhodnejšie je dlhodobejšie pozorovanie.
+Pracovný postup:
+1. Pozoruj a zisti vonkajšiu stavbu tela živočíchov s ulitou alebo lastúrou.
+2. Pozoruj spôsob pohybu, prijímanie potravy a ďalšie životné prejavy.
+3. Zistenia jednoducho opíš a dokumentuj nákresmi.
+4. Zisti vzájomné vzťahy rýb a živočíchov s ulitou alebo lastúrou z hľadiska správania.
+5. Urč podľa atlasu živočíchov názvy pozorovaných živočíchov.
+Záver:
+1. Ktorou časťou tela sa pohybujú vodné bezstavovce?
+2. Akou potravou sa živia živočíchy s ulitou alebo lastúrou v akváriu?
+3. Akým spôsobom prijímajú potravu?
+
+
+
+
+
+
+
+1. Nakresli obrys tela kapra a farebne vyznač párne a nepárne plutvy.
+2. Ktoré plutvy kapra slúžia na udržanie rovnováhy?
+3. Ktorým zmyslovým orgánom kapor vníma tlak a pohyb vody?
+4. Kapor je všežravý živočích. Čo to znamená?
+
+Vodné a brehové stavovce
+Ryby
+Kapor žije v pomaly tečúcich a stojatých vodách.
+Telo tvorí hlava, trup a chvost, pokrývajú ho škridlicovito uložené šupiny.
+Sliz na pokožke a šupinách znižuje trenie pri pohybe vo vode.
+
+chvostová plutva
+
+uVo voľnej prírode kapor narastie do dĺžky 1 m a môže mať
+až skoro 25 kg.
+
+chrbtová plutva
+
+bočná čiara
+
+
+
+hlava
+
+
+
+
+
+
+
+
+
+
+análna plutva
+
+
+trup
+
+
+brušná plutva
+
+
+prsná plutva
+
+hmatové fúziky a čuchové jamky
+
+
+
+
+
+
+
+Obr. 186 Šupina kapra – podľa nej sa dá zistiť vek ryby
+
+Obr. 185 Vonkajšia stavba tela kapra
+
+Na hlave má oči a ústa s mäsitými fúzikmi. Sú v nich uložené chuťové
+a hmatové orgány. Čuch má na bokoch hlavy v plytkých jamkách.
+Bočná čiara slúži na vnímanie nárazov vĺn, tlaku vody a smeru prúdenia vody.
+Na boku hlavy má žiabrové viečka. Chránia žiabre, ktorými dýcha kyslík rozpustený vo vode.
+Kapor je všežravý, živí sa larvami hmyzu, drobnými vodnými živočíchmi a rastlinami.
+
+
+
+
+
+
+
+Obr. 187 Pohyb kapra vo vode
+
+
+uKapry sa chovajú v chovných rybníkoch. Tvoria ich plytké rybníky na rozmnožovanie rýb (neresiská)
+a chov vyliahnutých rýb (plôdikov), dospelé jedince sa chovajú v hlbších rybníkoch, kde sa prikrmujú.
+uPo výlove sa rybníky vypúšťajú a prihnojujú na podporu rozmnožovania planktónu.
+uPstruhy sa chovajú aj v umelých liahňach, mladé pstruhy
+sa vypúšťajú do horských potokov.
+
+
+
+
+
+
+
+Obr. 188 Výlov rýb
+
+
+
+
+
+
+
+
+V našich riekach žijú sladkovodné ryby pri rozličnej teplote, hĺbke vody, obsahu kyslíka, prietoku vody a čistote vody.
+
+
+
+lipeň žije v tečúcich vodách v teplejších podhorských vodách; má pestrofarebné telo s veľkou chrbtovou plutvou, je dravý
+
+
+
+pstruh žije vo vodách s vysokým obsahom kyslíka, prevažne v studených a horských tečúcich vodách, jeho potravou sú menšie ryby, vodné živočíchy a hmyz, je dravý
+
+
+
+úhor má štíhle hadovité telo s drobnými šupinami; nemá vyvinuté brušné plutvy; rozmnožuje sa v mori, do ktorého pláva z riek; vracia sa naspäť do riek,
+kde dospieva, je dravý;
+zimu prespí zahrabaný v bahne
+
+     šťuka žije v pomaly tečúcich a stojatých vodách; typickým znakom je pretiahnuté telo, dlhá hlava a hlboko rozštiepené ústa;
+živí sa dravo menšími rybami a inými vodnými živočíchmi
+
+
+
+
+sumec žije v pomaly tečúcich
+až stojatých vodách; na hlave má dva dlhé a štyri kratšie fúziky, na konci tela dlhú análnu plutvu; živí sa rybami; ako naša najväčšia ryba máva dĺžku až 2 m
+a hmotnosť do 60 kg, len výnimočne viac
+
+
+
+
+Obr. 189 Ryby našich vôd
+
+
+5. Ktorá ryba žije v horských potokoch a má chutné mäso?
+6. Ktorá ryba žije a rozmnožuje
+sa v rozličnom vodnom prostredí?
+7. Ako je šťuka prispôsobená dravému spôsobu života?
+8. Je šťuka lovec? Ku ktorému živočíchovi žijúcemu v lese
+sa podobá lovom koristi (potravy)?
+9. Opíš potravový vzťah kapra na obr. 192.
+
+
+
+
+
+
+
+
+
+Obr. 190 Plotica je malá všežravá ryba rozšírená v stojatých vodách, žije v húfoch
+
+Obr. 191 Ostriež je menšia dravá ryba, žije v riekach a priehradách; má dve chrbtové plutvy, predná plutva má kostené lúče
+
+
+červenoočko
+
+
+
+dafnia
+
+
+
+črievička
+
+cyklop
+baktérie
+meňavka
+
+
+
+kapor
+kormorán
+
+Obr. 192 Potravový reťazec vodných organizmov
+
+Uvažuj a odpovedz
+
+uBylinožravé ryby sa živia časťami rastlín, napr. amur.
+uDravé ryby sa živia larvami hmyzu, hmyzom, malými rybami, napr. šťuka, pstruh.
+uVšežravé ryby sa živia rastlinnou a živočíšnou potravou, napr. kapor.
+1. 
+Ako sú ryby prispôsobené životu vo vode?
+2. Čo sa dá zistiť zo šupiny kapra?
+3. Aké informácie získava kapor bočnou čiarou?
+4. Aké opatrenia sú potrebné na zabezpečenie dostatku rýb v tečúcich a stojatých vodách (potoky, rieky priehrady, rybníky)?
+5. Ktoré druhy rýb poznáš z vlastnej skúsenosti?
+
+Rieš a skúmaj
+1. Povrch rýb je pokrytý slizom. Aký to má význam pre ich život? Ktoré iné živočíchy vylučujú na povrchu tela sliz? Porovnaj.
+2. Pozoruj lupou šupinu kapra a pokús sa zistiť jeho vek.
+3. Niektorí ľudia umývajú autá v potoku alebo rieke. Vyjadri svoj názor na toto správanie motoristov.
+4. Vysvetli potravový reťazec na obr. 192.
+5. Vysvetli význam rýb pre organizmy žijúce vo vode a na brehu.
+
+
+Potreby:
+akvárium s rybami, potrava pre akváriové ryby, lupa, akvaristická litera- túra.
+Poznámky:
+• Pri pozorovaní sa správaj pokojne a ticho, aby boli ryby čo najmenej vy- rušované.
+• Pred pozorovaním zisti informácie o chove rýb v akváriu.
+• Pozorovanie urob v skupine, rozdeľte si úlohy.
+Pracovný postup:
+1. Pozoruj životné podmienky rýb.
+2. Zisti, ktoré druhy rýb žijú v akváriu.
+3. Pozoruj vonkajší vzhľad a stavbu tela akváriových rýb a porovnaj so stav- bou tela kapra na obr. 185.
+4. Dokumentuj zistenia nákresmi.
+5. Pozoruj spôsob pohybu akváriových rýb, význam párnych a nepárnych plutiev pri plávaní.
+6. Nakresli aspoň dve fázy pohybu pozorovaných rýb.
+7. Pozoruj dýchanie a pohyb žiabrových viečok.
+8. Schematicky znázorni smer prúdenia vody pri dýchaní.
+9. Pozoruj správanie sa rýb pri kŕmení a ich vzájomné vzťahy.
+Záver:
+1. Ako súvisí vonkajšia stavba tela rýb so spôsobom života vo vode?
+2. Ako využívajú akváriové ryby plutvy pri pohybe?
+3. Aký význam majú žiabrové viečka pri dýchaní rýb?
+4. Porovnaj dýchanie vodných bezstavovcov a rýb.
+5. Zhodnoť životné podmienky rýb v akváriu (umiestnenie akvária, teplotu vody, osvetlenie, dostatok kyslíka, veľkosť akvária vo vzťahu k počtu a druhom rýb, zloženie dna, vhodnosť dekorácie, možnosti úkrytov, dru- hové zloženie akváriových rýb a vodných rastlín).
+
+živorodka
+
+
+
+
+
+
+
+1. Pouvažuj, od čoho je odvodený názov obojživelník.
+2. Ktoré lesné druhy obojživelníkov poznáš?
+3. V akom prostredí sa rozmnožujú obojživelníky?
+4. Porovnaj vzhľad skokana hnedého a skokana zeleného a prostredia, kde žijú. Zdôvodni odlišnosti.
+
+Obojživelníky a plazy vo vode a na brehu
+Skokan zelený – žaba žije na brehu močiarov a rybníkov. Na povrchu tela má kožu pokrytú hlienom. Zimu prespí v bahne na dne.
+Zadnými končatinami pláva a skáče na brehu (až do vzdialenosti 2 m). Pri plávaní používa prsty spojené plávacou blanou. Dospelé jedince sa živia hmyzom, sú potravou plazov (napr. užovky) a vodných vtákov (napr. bo- ciana).
+Larvy – žubrienky sa vyvíjajú vo vode a živia planktónom.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 194
+Skokan zelený
+Rosnička je malá žaba (asi 5 cm), má hladkú zelenú kožu, ktorej farbu doká- že meniť podľa prostredia, v ktorom sa nachádza.
+Na prstoch má prísavné vankúšiky, ktoré jej umožňujú šplhať sa a udržiavať na hladkom povrchu rastlín. Živí sa drobným hmyzom.
+
+
+
+
+
+
+Obr. 195 Kunka sa vyskytuje v priekopách a pri lesných potokoch, má škvrnité bruško, živí sa drobným
+hmyzom, najmä komármi v letnom období
+
+
+uHlienovitá koža žiab je vždy vlhká.
+Vyschnutie kože spôsobuje ich úhyn, pretože zabraňuje dýchaniu kožou.
+uSamček má pri ústach zvukové mechúriky, ktoré zosilňujú kŕkanie v čase rozmnožovania.
+
+
+  Obr. 196 Rosnička sa vyskytuje na kroch alebo stromoch
+   v listnatých hájoch a močariskách, prezimuje na dne vôd
+alebo v pôde
+
+
+
+
+
+
+
+
+
+Obr. 197 Budovanie zábran pozdĺž ciest v úsekoch, kde sa žaby pre- miestňujú na miesta rozmnožovania
+
+
+
+
+
+
+
+
+
+Mlok žije v stojatých alebo pomaly tečúcich vodách. Na jar je samec pestro sfarbený. Mloky sa rozmnožujú vo vode.
+Skokan, rosnička a mlok sú obojživelníky.
+5. 
+Akým spôsobom pomáhajú obojživelníkom ochrancovia prírody?
+7. Ktorými znakmi sa podstatne odlišuje mlok od jašterice?
+
+
+
+
+
+
+
+
+
+samec
+
+
+
+
+
+
+
+
+
+
+Obr. 198 Mlok žije v teplejších oblastiach na krajoch rybníkov, riečnych ramien a močiarov
+
+samica
+
+
+Obr. 199 Užovka obojková nie je jedovatá
+
+
+
+Had – užovka obojková je sivo sfarbená (dlhá asi 1 m). Suchú kožu pokrý- vajú rohovinové šupiny. Žije v blízkosti vôd. Poznávacím znakom sú dve biele alebo žltkasté polmesiačikovité škvrny za hlavou.
+Živí sa živočíchmi vo vode a v jej okolí (myši, žaby, menšie ryby). Má roztiah- nuteľné čeľuste a korisť prehĺta vcelku.
+Korytnačka močiarna má pancier (dlhý do 30 cm). Žije v teplejších oblas- tiach v stojatých zarastených vodách. Živí sa mäsitou potravou – žubrienka- mi, hmyzom, žabami a mladými rybami.
+Had užovka a korytnačka sú plazy.
+
+Uvažuj a odpovedz
+1. Ako sú skokan, ropucha, užovka, korytnačka prispôsobené stavbou tela životnému prostrediu?
+2. Podľa ktorých znakov by si v prírode rozlíšil/a skokana a mloka?
+3. Akou potravou sa živí skokan a užovka?
+4. Aký je dôvod ochrany obojživelníkov a plazov u nás?
+
+Rieš a skúmaj
+1. Aké dôsledky má vysušovanie vodných plôch pre obojživelníky?
+2. Uveď na základe vlastných skúseností najčastejšie príčiny ohrozenia obojživelníkov.
+3. Zostav potravový reťazec, v ktorom bude užovka, žubrienka, riasy, daf-
+nia, skokan.
+4. Chováš korytnačku? Porozprávaj svoje skúsenosti z chovu.
+5. Prediskutujte v skupine význam žiab, mlokov, hadov a korytnačiek pre život vo vode a na brehu.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 200 Korytnačka močiarna
+
+uV dôsledku znečisťovania
+a vysušovania vôd sa počet obojživelníkov znižuje.
+uVšetky naše obojživelníky a plazy sú chránené.
+
+
+
+
+
+1. Ako sa odlišuje povrch tela obojživelníkov, vtákov a cicavcov?
+2. Pouvažuj, ako sa vtáky rozmnožujú.
+3. Ktoré druhy vtákov si videl/a na vodnej hladine?
+4. Akou potravou sa živí všežravý vták?
+
+Vodné vtáky
+
+
+
+
+V tečúcich a stojatých vodách, pri prameňoch potokov a riek, na podmáčaných lúkach, ryb- níkoch, jazerách a vodných nádržiach žijú rôzne druhy vtákov.
+Vodné vtáky sú prispôsobe- né na plávanie a potápanie sa vo vode plávacími blanami na nohách a perím, ktoré sa nezmáča. Majú mastné perie a kožu, ktoré si mastia tukom z mazovej žľazy pri chvoste.
+
+
+
+
+
+
+noha s plávacou blanou
+
+
+
+
+spôsob plávania kačice
+
+
+Obr. 201
+Prispôsobenie vtákov na plávanie
+
+Zobák, krídla a končatiny sú prispôsobené rôznemu spôsobu získavania potravy a pohybu.
+Kačica dobre pláva, lieta a potápa sa. Je čiastočne sťahovavá, časť u nás prezimuje, časť jedincov odlieta na jeseň do teplejších oblastí na juh. Kačica sa živí drobnou rastlinnou aj živočíšnou potravou.
+Hus obýva stojaté vody, dobre pláva a lieta. Je sťahovavá, na zimu odlieta do teplejších oblastí. Živí sa rastlinnou potravou (semená, výhonky).
+
+
+Obr. 202 Spôsob potápania sa vodných vtákov
+
+samec
+
+
+
+5. Čím sa odlišuje vzhľad samice od samca kačice?
+6. Je rozdiel v zložení potravy kačice, husi a labute?
+
+
+
+samica
+
+
+
+Obr. 203
+Kačica divá
+
+
+
+
+
+
+
+
+
+Obr. 204 Spôsob vzletu labute z hladiny,
+rozbiehanie, prudké mávanie krídel
+
+Obr. 205 Hus divá sa živí prevažne rastlinnou potravou
+
+
+
+
+
+
+
+
+
+Labuť patrí medzi veľké lietajúce vtáky.
+
+
+
+
+
+
+Obr. 206
+Labuť hrubozobá
+
+       sa živí vodnými rastlinami, je čiastočne
+      sťahovavá,        v zime časť labutí
+          zostáva          na nezamrznutých vodných plochách
+Kačice, husi a labute drobnými zúbkami na okraji zobáka preciedzajú vodu s bahnom a zachytávajú drobné živočíchy a rastliny.
+Mláďatá kačice, husi a labute sú nekŕmivé, po vyliahnutí si samy hľadajú potravu.
+
+Obr. 208 Kaňa močiarna je sťahovavá
+Kaňa je dravá, žije pri rybníkoch a vlhkých lúkach. Živí sa hmyzom, žabami, vodnými vtákmi, príležitostne rybami. Dobre lieta.
+Kormorán hniezdi v kolóniách, na stromoch. Živí sa najmä rybami.
+7. 
+Ako sú prispôsobené vtáky na plávanie a potápanie sa?
+
+uSamce labute sú väčšie a ťažšie ako samice. Dosahujú hmotnosť až 22 kg. Na koreni zobáka má
+labuď čierny „hrb“. Žije na rybníkoch, jazerách a vodných nádržiach.
+Je chránená.
+
+
+
+
+
+
+
+
+
+Obr. 207 Lyska čierna
+má typickú bielu škvrnu na čele
+
+
+
+
+
+
+
+
+
+letiaca kaňa
+
+
+Obr. 209 Kormorán veľký
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 210 Bocian biely
+loví žaby, myši, je sťahovavý
+
+
+
+
+
+
+
+
+Bocian patrí medzi vtáky, ktoré sa brodia v plytkej vode. Má dlhé nohy, dlhý krok, dlhý zobák, ktorým si hľadá potravu. Dobre lieta. Mláďatá sú kŕ- mivé (kŕmi ich samica alebo samec).
+V okolí vôd žije aj množstvo spevavých vtákov, napr. kúdelníčka, tra- sochvost, rybárik. Mláďatá sú kŕmivé.
+volavka popolavá hniezdi
+v kolóniách, je sťahovavá
+
+
+
+
+rybárik riečny žije pri čistých
+riekach a potokoch
+
+
+
+
+
+
+
+potápka chochlatá si stavia plávajúce hniezdo v tŕstí, živí sa malými
+rybami, dobre lieta
+
+čajka smejivá má dlhé
+         a úzke krídla, dobre pláva a lieta, loví drobné ryby,  larvy hmyzu a slimáky
+v okolí jazier a rybníkov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+kúdelníčka lužná
+sa živí hmyzom
+a semenami, stavia si typické vakovité hniezdo z bylín
+
+Obr. 211 Vodné vtáky
+
+Uvažuj a odpovedz
+1. Vysvetli, čo znamená, že vták je kŕmivý, a čo znamená, že vták je nekŕmivý.
+2. Ktorý vták žijúci pri vode je lovec?
+3. Môžu znečistené vodné toky ohroziť druhovú rozmanitosť vtákov?
+4. Čo znamená, že labuť je čiastočne sťahovavá?
+5. Porovnaj potravu kačice, bociana, kane a spôsob jej získavania.
+
+Rieš a skúmaj
+1. Rozlíš na obrázkoch vtáky, ktoré plávajú, potápajú sa a brodia sa.
+2. Ktorý vodný vták sa živí drobnými živočíchmi v plytkej vode?
+3. Zostav potravový reťazec, v ktorom bude: rybárik riečny, dafnia, cyklop, riasy, ryba, kaňa.
+
+
+
+
+
+
+
+
+Vydra, bobor a ondatra sú dobre prispôsobené životu vo vode. Ich život- ným prostredím sú rieky, jazerá, rybníky, vodné priehrady.
+Spoločným znakom je lesklá, hustá a nepremokavá srsť (zadržiava sa v nej vzduch, čo chráni živočíchy pred zimou). Silný chvost slúži ako veslo a kormidlo. Plávacie blany medzi prstami im umožňujú dobre plávať.
+
+Obr. 212 Vydra 
+Vydra má pretiahnuté valcovité telo s plochou hlavou a malými ušami.
+Žije v čistých vodách s dostatkom potravy a vhodnými úkrytmi. Je mäsožra- vá. Živí sa bezstavovcami (raky, hmyz) a drobnými stavovcami (ryby).
+
+Obr. 213 Bobor má silný chvost, ktorý slúži ako veslo a kormidlo 
+Bobor dorastá do dĺžky 1 m. Veľké hlodavé zuby (rezáky) mu dorasta- jú celý život, preto patrí do skupiny hlodavcov. Hlodavé zuby si obrusuje
+
+
+
+
+
+
+
+
+
+
+
+
+vetranie
+
+(ohrýza kmene stromov). Živí sa rastlinnou potravou, žije v kolóniách. V brehu si vyhrabáva nory, nad ktorými si z konárov stavia „hrady“, sú ako hrádze na vode.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+uBobrie hrádze môžu mať výšku až 1,5 m a priemer 3 – 4 m.
+Bobor ich robí z kameňov, konárov a kmeňov stromov.
+uVýskyt bobra sa najčastejšie zistí podľa ohryzených stromov.
+Bobor sa vyskytuje v riekach
+
+obytná komôrka	zimné zásoby	vodná hrádza
+Obr. 216 Prierez obydlia bobra
+
+Poprad, Ondava, Dunaj, Morava. uOndatra si v brehoch stojatých vôd vyrýva dlhé cesty, stavia hniezdo
+„chatku“, kde má „kŕmne stolčeky“ so zásobami potravy (zvyšky lastúr, brehové rastliny).
+
+
+
+
+
+
+5. Vysvetli, čo znamená, že bobor žije v kolóniách.
+
+Obr. 217 Ondatra bola dovezená zo Severnej Ameriky, je rozšírená po celej Európe, patrí medzi hlodavce
+
+Ondatra má dĺžku asi 40 cm. Z bokov sploštený chvost má pokry- tý šupinami. Dobre pláva a potápa sa. Robí si kopovité hniezdo – noru z rastlín. Rastliny sa zakorenia a tak pomáha ich rozširovaniu. Živí sa prevaž- ne rastlinnou potravou.
+
+Uvažuj a odpovedz
+1. Ktoré spoločné znaky majú vodné cicavce?
+2. Aký význam majú plávacie blany medzi prstami a silný chvost?
+3. Ako znečistené vody ovplyvňujú život vydry?
+4. Čím sa živí vydra, bobor a ondatra?
+5. Vysvetli svoj názor na lov vodných hlodavcov na získavanie kožušín.
+
+Rieš a skúmaj
+1. Vyhľadaj v Červenej knihe alebo na internete informácie o ohrozených druhoch živočíchov (vydra a bobor). Získané informácie spracuj ako refe- rát.
+2. V ktorom ročnom období sa dajú najlepšie pozorovať stopy vydry a pre-
+čo?
+3. Vysvetli, prečo si bobor stavia hrádze.
+4. Vyhľadaj na internete informácie o výskyte vydry a bobra na Slovensku.
+
+
+
+
+
+
+
+
+
+Rastliny vo vode a na brehu poskytujú vodným a brehovým živočíchom vodného ekosystému kyslík, potravu, úkryt.
+Vodný ekosystém je životným prostredím množstva organizmov. Sú vo vzájomných potravových vzťahoch – reťazcoch, závisia od neživých prí- rodnín.
+Vodné a brehové rastliny sú potravou pre bylinožravé živočíchy, ktorými sa živia všežravé a mäsožravé živočíchy žijúce vo vode a v jej okolí.
+
+
+
+1. Ktoré prírodniny tvoria vodný ekosystém?
+2. Uveď príklady producentov, ktoré žijú vo vode a na brehu.
+3. Uveď príklad bylinožravých, hmyzožravých a mäsožravých konzumentov žijúcich vo vode a na brehu.
+
+
+
+
+
+
+
+
+
+
+
+črievička	dafnia	plotica	šťuka
+
+Obr. 218 Potravový reťazec vodných organizmov
+
+
+Biologickú rovnováhu vo vode a na brehu udržiavajú vzájomné vzťahy organizmov.
+Rozličné podmienky vodného a brehového životného prostredia spôso- bujú rozmanitosť druhov. Zmeny v neživých prírodninách majú vplyv na zmeny v živých organizmoch.
+4. 
+Aký význam majú brehové organizmy pre vodný ekosystém?
+5. Opíš podľa obr. 219 potravový reťazec. Rozšír ho o ďalšie producenty a konzumenty.
+6. Aký význam majú rozkladače žijúce vo vode?
+
+
+
+producenty	konzumenty (1. rádu)	konzumenty (2. rádu)	konzumenty (3. rádu)
+
+močiarna rastlina
+
+
+
+motýľ
+
+
+lastovička
+
+
+
+bocian
+
+
+komár
+skokan
+
+
+
+vodné rastliny
+
+
+
+riasy
+
+
+
+dafnia
+
+
+kotúľka
+
+
+
+
+larva vážky
+
+
+kačica
+
+
+
+plotica
+
+šťuka
+
+
+Obr. 219 Potravové vzťahy vo vodnom ekosystéme
+
+
+
+
+
+
+
+
+Zmeny v neživých prírodninách vo vodnom ekosystéme menia zloženie spoločenstiev organizmov. Napríklad v znečistenej vode nemôže žiť rak riečny. Výskyt jednotlivých druhov rýb sa mení v závislosti od množstva kyslíka vo vode, rýchlosti vodného toku a čistoty vody.
+Civilizačné problémy zasahujú do vodného prostredia. Jedovaté látky (far- bivá, hnojivá, chemické postreky) ničia organizmy žijúce vo vode. Ak sa do- stanú do rieky, ovplyvňujú život na celom jej toku.
+
+
+Obr. 220 Odstraňovanie ropnej havárie
+
+
+
+
+
+
+
+
+
+
+Vytvorte si obraz o prírodninách v okolí bydliska alebo školy. Využite svoje poznatky o rastlinách a živočíchoch a dajte ich do súvislosti s najbližším okolím.
+
+Pomôcky:
+učebnica, informačné materiály o okolí, atlasy, internet a pod.
+Pracovný postup:
+* Pracujte v skupine. Podľa vzájomnej dohody získajte informácie z rôz- nych zdrojov o svojom okolí (napr. v priebehu jedného alebo dvoch týž- dňov).
+* Pracujte s učebnicou. Vyhľadajte v učebnici vhodné časti textu a obráz- ky, ktoré sa týkajú vášho okolia. Využite informácie a zaujímavosti v kapi- tolách Ako žije les, Život vo vode a na brehu, Život na lúkach a poliach.
+* Získajte ďalšie informácie od učiteľa, z internetu a z dostupnej literatúry (napr. z atlasov rastlín, atlasov živočíchov).
+* Získajte a využite podľa možnosti informačné materiály o okolitej prí- rode z informačného alebo turistického centra, prípadne z iných zdro- jov.
+* Využite vlastné poznatky z vychádzok a výletov do prírody (s rodičmi, s učiteľom a pod.).
+* Dokumentujte podľa možnosti svoje poznatky o rastlinách a živočí- choch v okolí fotografiami, nákresmi, náčrtmi, obrázkami a pod.
+* Prediskutujte v skupine získané informácie a poznatky na vyučovacej hodine.
+* Urobte závery a stručne ich zaznamenajte.
+Záver:
+* Opíšte prírodné prostredie v okolí. Uveďte, či sa v okolí vyskytuje les, rieka, potok, jazero, polia, lúky a pod.
+* Pokúste sa znázorniť prírodné prostredie jednoduchým náčrtom.
+Rastliny a živočíchy v okolí
+* Uveďte príklady rastlín, ktoré prevládajú v okolí. Rozdeľte ich na dreviny (stromy a kry) a byliny.
+* Uveďte príklady výskytu chránených a liečivých rastlín.
+* Uveďte príklady živočíchov – rozdeľte ich na bezstavovce a stavovce.
+* Uveďte príklady výskytu chránených živočíchov.
+* Zaraďte ich do okolitého prírodného prostredia – uveďte, či sa vyskytujú napr. v lese, v rieke, v potoku alebo na brehu, na poli alebo na lúke.
+* Uveďte niektoré zaujímavosti o živote rastlín a živočíchov.
+* Uveďte, čo vás najviac zaujalo v prírodnom prostredí vášho okolia.
+
+
+
+
+
+
+
+
+
+
+Obr. 222 Prírodné prostredie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+82
+
+
+
+
+
+
+
+
+Život na poliach a lúkach
+4
+
+
+
+
+
+
+
+
+
+1. Vieš, ako vzniká pôda?
+Ak nie, zisti v odbornej literatúre alebo na internete.
+
+uKde je nevhodná klíma na rast stromov pre sucho alebo vlhko, prevládajú porasty tráv
+(sú to napr. savana, step, préria, pampa, tundra).
+
+Trávnaté porasty tvoria lúky, pasienky a polia. Vyskytujú sa na nich rozlič- né rastliny a živočíchy.
+Väčšina lúk, pasienkov a polí vznikla vyrubovaním lesov na získanie pôdy na pestovanie plodín a chov hospodárskych zvierat.
+Lúky
+Na lúkach s prevahou bylín žije veľa živočíchov, najmä hmyz a drobné sta- vovce.
+Suché lúky a kamenisté svahy prevažujú na miestach s nedostatkom vlahy.
+Vlhké lúky sa vyskytujú v údoliach riek s dostatkom vody.
+Kosené lúky sa raz alebo viackrát do roka kosia, čo podporuje rast rastlín. Z prvej kosby (mládza), z druhej kosby (otava) aj z tretej kosby (seno) sa zís- kava potrava pre hospodárske zvieratá.
+Lúky spestrujú rozličné rastliny, ktoré postupne kvitnú od jari do jesene.
+
+
+
+
+
+
+Obr. 223 Suchá horská lúka – trávnatý po- rast, do ktorého človek nezasahuje
+
+uVtáky hniezdiace väčšinou na zemi bezpečne vyvádzajú mláďatá,
+ak sa lúky kosia v druhej polovici júla. Dovtedy dozrejú
+aj semená lúčnych rastlín, ktorými sa mnohé vtáky živia.
+
+Medzi rozptýlené rastliny patria aj remízky. Je to drevinový porast na lúkach, pasienkoch a poliach – malé lesíky, ktoré poskytujú úkryt živočíchom
+
+Obr. 224 Vlhké lúky v údoliach riek s vysokou hladinou podzemnej vody sú chránené pre bohatý výskyt rôznych rastlín a živočíchov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 225 Kosená lúka
+
+
+
+
+
+
+
+
+
+Pasienky
+Trávnaté porasty, ktoré spásajú hospodárske zvieratá, sú pasienky. Ich stav závisí od spôsobu pasenia a druhu zvierat (hovädzí dobytok spása porast nerovnomerne, udupáva ho, ovce spásajú porast nakrátko).
+Pri pasení sa majú pasienky striedať. Pasenie dobytka stále na jednom mies- te ničí porasty postupným udupávaním a hromadením výkalov.
+Na pasienkoch žije veľa motýľov a malých cicavcov. Hmyz, semená tráv aj drobné cicavce sú potravou pre vtáky.
+
+
+Obr. 226 Pasienok s rozptýlenými rastlinami (tráva, stromy a kry)
+
+Polia
+Polia, na ktorých sa pestujú hospodárske plodiny, sú vytvorené človekom.
+Hospodárske plodiny sú zdroj výživy pre človeka, krmivo pre hospodárske zvieratá, suroviny pre spracovateľský priemysel.
+Jeden druh pestovanej plodiny na poli tvorí monokultúru (napr. pšenica, kukurica, zemiaky). Medzi poľami sa vyskytujú voľne rastúce rastliny (trávy, dreviny a pod.).
+
+uČinnosť bezstavovcov aj stavovcov žijúcich na pôde a v pôde (mraveniská, krtince, diery hlodavcov) obnažuje malé plôšky pôdy
+na povrchu a prenáša semená ukryté v pôde. Tým sa tvorí priestor
+na rast rastlín a rozšírenie počtu druhov organizmov.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 227 Vajcia vtákov hniezdiacich na zemi sú počas kosby na lúke a zbere plodín na poli ohrozené
+
+uNa poli sa majú striedať poľnohospodárske plodiny
+a používať vhodné agrotechnické postupy (zber, orba).
+uChemické postreky pri premnožení škodcov poškodzujú aj iné druhy rastlín a živočíchov.
+uPolia potrebujú hnojenie (dodatočnú výživu)
+na udržanie úrodnosti.
+
+
+
+Obr. 228 Kukuričné pole	Obr. 229 Pole cukrovej repy
+
+Často sa premnožujú živočíchy (najmä hmyz), ktoré sa viažu na jeden druh rastliny a stávajú sa z nich nežiaduce živočíchy (pásavka zemiaková a pod.).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+uMálo členité prostredie polí, nedostatok úkrytov, hluk, ťažké mechanizmy zapríčiňujú nedostatočnú rozmanitosť druhov organizmov.
+
+Striedanie obilnín, trávnatých porastov a úhorov (neobrábaná pôda, na kto- rej sa nič nepestuje) vytvára vhodné podmienky na rast rastlín.
+Polia oddeľujú medze – neobrábané časti pôdy. Dreviny – kry, stromy – tvo- ria na lúkach, pasienkoch a medziach polí remízky.
+Spevňujú pôdu, čím zabraňujú jej odnosu. Zadržiavajú vodu, zabraňujú od- nášaniu pôdy, zachytávajú škodlivé látky z ovzdušia, pôsobia ako protihlu- ková bariéra. Poskytujú úkryt hmyzu a drobným cicavcom, miesto na hniez- denie vtákov.
+Lúky, pasienky a polia veľmi poškodzuje vypaľovanie trávy. Je to rušivý zásah do vývinu všetkých organizmov. Poškodzujú sa výhonky rastlín aj pôdne mikroorganizmy. Vypaľovanie ničí najmä bezstavovce (čmele), zdro- je potravy a úkryty stavovcov.
+
+
+
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+uPri horení starej trávy vzniká teplota asi 600 – 800 oC, pôsobením ohňa sa zničia všetky vývinové
+štádiá hmyzu.
+uOsamelé rastliny, stromoradia, medze a riedke lesíky na poliach
+a lúkach sa volajú rozptýlené rastliny (nie sú pestovanými plodinami na poliach, ani celistvý lúčny porast).
+uMedzi rozptýlené rastliny patria aj remízky. Je to drevinový porast na lúkach, pasienkoch a poliach – malé riedke lesíky, ktoré poskytujú úkryt živočíchom.
+
+
+Obr. 230 Remízky – riedke lesíky, osamelé dreviny na lúke alebo na poli sú zdrojom potravy pre vtáky, slúžia ako úkryty pre vtáky a hmyz, sú miestom na stavanie hniezd
+
+
+
+
+
+
+
+
+Typické rastliny pasienkov a lúk sú najmä lúčne byliny a trávy. Majú spo- medzi rastlín najväčšiu odolnosť voči zásahom človeka. Väčšina rastlín, kto- ré rastú na lúkach a pasienkoch, sú trváce byliny (žijú niekoľko rokov).
+Na lúke rastú rastliny v určitých vrstvách (etážach) podobne ako v lese.
+K najrozšírenejším lúčnym trávam patrí lipnica, kostrava, psiarka, timo- tejka, reznačka a mätonoh. Sú zdrojom potravy pre hospodárske zvieratá.
+
+
+ 	   vrstva vysokých tráv
+
+
+
+
+
+
+
+ 	  vrstva nízkych tráv
+a trsov
+
+koreňová vrstva
+
+Obr. 231 Lúčne vrstvy (etáže)
+
+
+Lúčne trávy majú zväzkovité korene a dutú stonku (steblo). Z plnej časti stonky (kolienka stebla) vyrastá list. Spevňuje stonku a zabraňuje lámaniu rastliny. Stonka (steblo) je ukončená drobnými kvietkami tvoriacimi klásky.
+Lúčne byliny rastú na suchých i mokrých lúkach.
+Na mokrých lúkach rastie napr. kukučka, iskerník, nezábudka, záružlie, jesienka.
+Na suchých lúkach rastie napr. margaréta, zvonček, rebríček, šalvia, pa- kost. Sú to trváce (niekoľkoročné) byliny.
+
+Obr. 233 Byliny suchých lúk
+
+
+
+
+
+
+
+
+
+
+4. Vyhľadaj v atlase rastlín príklady rastlín s liečivými účinkami, ktoré rastú na lúkach.
+5. Nájdi na internete chránené lúčne byliny.
+
+Dúška materina, rumanček kamilkový a rebríček obyčajný sú liečivé rast- liny. Liečivé rastliny sa využívajú vo farmaceutickom priemysle, sú časťou liekov, pripravujú sa z nich čajové zmesi a pod.
+Pri zbere liečivých rastlín platia určité pravidlá, treba poznať čas ich zberu. Liečivé rastliny treba zbierať na neznečistených miestach, ukladať ich do ko- šíka.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dúška materina
+
+
+
+
+
+
+
+
+
+
+
+Obr. 236 Tanečnica poľná
+
+rumanček kamilkový
+Obr. 235 Liečivé lúčne byliny
+
+rebríček obyčajný
+
+Na lúkach a poliach rastú aj huby.
+Pečiarka poľná rastie na poliach, lúkach, v sadoch, parkoch, priekopách (od mája do novembra). Je to chutná jedlá huba.
+Bedľa vysoká rastie na konci leta a v jeseni na trávnatých miestach. Je jedlá.
+Na trávnatých miestach, na lúkach, pri ces- tách aj v parkoch rastie chutná jedlá huba tanečnica poľná.
+
+
+Obr. 237 Bedľa vysoká
+
+
+
+
+
+
+
+
+
+
+
+Obr. 238 Pečiarka poľná – možno si ju po- mýliť so smrteľne jedovatou muchotrávkou zelenou, ktorá má na rozdiel od pečiarky na spodku hlúbika pošvu
+
+uPečiarka poľná má v mladosti biely guľovitý klobúk, ružové lupene. Dospelá huba má plochý klobúk, hnedočervenkasté
+(čokoládovohnedé až hnedočierne) lupene.
+
+Uvažuj a odpovedz
+1. Ako sa mení život rastlín počas roka na lúkach a pasienkoch?
+2. Ktoré lúčne byliny sú potravou pre živočíchy? Uveď príklady.
+3. Podľa ktorých znakov s istotou spoznáš na lúke pečiarku poľnú?
+4. Aký význam majú lúčne trávy? Vysvetli.
+
+Rieš a skúmaj
+1. Vyhľadaj na internete spôsob pestovania pečiarky a oboznám s ním spo- lužiakov.
+2. Porovnaj lesné vrstvy (etáže) s lúčnymi vrstvami. V čom sa zhodujú a od-
+lišujú?
+3. Urob so spolužiakmi malú výstavu obrázkov alebo fotografií liečivých rastlín. Zostav zásady ich zberu z prírody.
+4. Zisti, ktoré rastliny trávnatých porastov sa vyskytujú v tvojom okolí. Urč
+ich pomocou atlasu.
+
+
+
+
+
+
+
+
+
+
+
+Obilniny
+Obilniny sú rastliny, ktoré pestuje človek na poli. Majú podobnú stavbu tela ako lúčne trávy.
+
+
+1. Vyhľadaj v učebnici lúčne trávy a porovnaj ich s obilninami. Ktoré znaky majú spoločné?
+2. Porovnaj spoločné a odlišné znaky jednotlivých obilnín.
+3. Aký význam má pestovanie obilnín?
+
+
+
+
+pšenica	jačmeň	raž
+Obr. 239 Obilniny našich polí
+
+Pšenica je naša najdôležitejšia obilnina. Zo semena – zrna – sa mletím vyrába krupica a biela múka na pečenie chleba, bieleho pečiva, rôznych cestovín a cukrárenských výrobkov.
+Zo zrna raži sa získava ražná múka. Z nej sa vyrába tmavý pšeničnoražný chlieb, pečivo a perníky. Používa sa aj na výrobu sladovej ražnej kávy a lie- hu.
+Jačmeň je dôležitá priemyselná obilnina na výrobu jačmenných krúpov a kávovín. Vyrába sa z neho aj slad, z ktorého sa varí pivo.
+Ovos s jačmeňom a kukuricou sú najdôležitejšími kŕmnymi obilninami pre kone, ošípané a králiky. V potravinárstve sa využíva ovos na výrobu ovse- ných vločiek.
+Kukurica sa využíva ako krmivo pre hospodárske zvieratá. Kukuričný šrot je potravou pre ošípané a hydinu. Zelenou kukuricou sa kŕmi hovädzí do- bytok. Kukuričné zrná sa využívajú aj vo výžive ľudí ako kukuričná múka, krupica, pukance, zaváraná a mrazená kukurica.
+
+Krmoviny
+Na poliach sa pestujú aj kŕmne rastliny – krmoviny, najčastejšie ďatelina
+a lucerna.
+Okrem nich sa pestujú aj vika a bôb ako kŕmne rastliny – nazývajú sa stru- koviny, lebo majú plod – struk (napr. hrach).
+Semená strukovín sú dôležitým zdrojom bielkovín vo výžive ľudí a hos- podárskych zvierat. Sú súčasťou kŕmnych zmesí, na kŕmenie sa využíva aj nadzemná časť.
+
+ovos	kukurica
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 240 Zber krmovín
+
+4. Ktoré živočíchy sa pri premnožení na poli môžu stať pre obilniny nežiaduce?
+5. Zostav potravový reťazec tak, aby sa začínal obilninou.
+
+
+
+
+
+
+
+
+Kvety ďateliny a lucerny opeľujú čmele. Majú dlhý cuciak, môžu vniknúť do ich rúrkovitej koruny.
+Rastliny podobné bôbu sa nazývajú bôbovité rastliny (obr. 241).
+Na koreňoch bôbovitých rastlín sú hľuzky (obr. 242), v ktorých žijú hľuzko- vé baktérie. Sú schopné viazať dusík zo vzduchu, z ktorého si rastlina tvorí bielkoviny. Bôbovité rastliny sa preto nemusia hnojiť dusíkatými hnojivami, ani maštaľným hnojom. Zaorávajú sa do pôdy a tým sa obohacuje pôda o živiny (nazývajú sa zelené hnojivo).
+vika
+
+ďatelina
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bôb
+
+Obr. 241 Kŕmne strukoviny
+
+
+lucerna
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 242 Koreň s hľuzkovými baktériami
+
+uStrukoviny priaznivo ovplyvňujú úrodnosť pôdy.
+
+Uvažuj a odpovedz
+1. Podľa čoho by si spoznal/a na poli pšenicu, ovos a kukuricu?
+2. Prečo sú chlieb a pečivo z tmavej múky zdravšie ako z bielej múky?
+3. Ktoré potravinárske výrobky poznáš z raže, pšenice, jačmeňa a kukurice?
+4. Akým krmivom by si pri pobyte na farme nakŕmil/a hovädzí dobytok?
+5. Aký význam majú hľuzkové baktérie pre rastlinu?
+
+Rieš a skúmaj
+1. Nechaj naklíčiť zrno pšenice alebo kukurice. Pozoruj klíčenie. Z pozorova- nia spracuj referát.
+2. V obchode s potravinami zisti, ktoré výrobky z obilnín sa najčastejšie pre-
+dávajú.
+3. Všímaj si, ako rastú obilniny počas roka. Zaznamenaj obdobie ich siatia, zrelosti a zberu. Spracuj správu o výsledkoch pozorovania.
+4. Nechaj naklíčiť semeno fazule, pšenice, kukurice alebo hrachu. Pozoruj
+rastliny pri klíčení a porovnaj ich.
+
+
+
+
+
+
+
+
+
+Olejniny
+Olejniny sú rastliny, ktorých semená obsahujú tuky – rastlinné oleje. Olej sa zo semien získava lisovaním. Zvyšky semien po vylisovaní – výlisky – sú krmivom pre dobytok. Slnečnicové semená konzumujú s obľubou aj ľudia, prikrmujú sa nimi v zime aj vtáky.
+Z rastlinných olejov sa vyrábajú stolové jedlé oleje, ktoré sa používajú na prípravu jedál, výrobu pokrmových tukov, olejových farieb a jemných my- diel.
+Slnečnica rastie u nás v najteplejších oblastiach. Je to vysoká bylina, má drsné listy a veľké kvety.
+
+Obr. 243 Slnečnicové pole
+Kapusta repková pravá – repka olejka má jasnožlté kvety s charakteristic- kou vôňou pri kvitnutí. Zo semien sa získava repkový olej.
+1. 
+Ktoré druhy vtákov sa prikrmujú slnečnicovými semenami?
+2. Prečo sa zaraďujú slnečnica a repka olejka medzi olejniny?
+
+uOkrem slnečnice a kapusty repkovej pravej – repky olejky – sa ako olejnina pestuje aj mak siaty.
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 245 Rastlinný stolový olej obsahuje vitamíny a zdraviu prospešné látky
+
+
+
+semená
+
+
+
+
+prierez makovice
+
+
+ semená obsahujú
+olej
+
+
+
+
+
+
+
+
+
+
+Okopaniny
+
+
+
+
+
+
+
+
+Obr. 244 Mak
+
+
+
+
+
+
+makovica
+
+Obr. 246 Kapusta repková pravá – repka olejka
+
+uPred sadením sa hľuzy ľuľka zemiakového môžu nechať predklíčiť v teplej, vzdušnej a vlhkej miestnosti.
+Klíčky – nové stonky zemiaka sú jedovaté.
+uNa jar sa hľuzy – zemiaky – zasadia, vyrastá z nich stonka
+
+Okopaniny sú rastliny pestované na poliach, ktoré treba počas rastu okopá- vať (prevzdušňovať).
+Ľuľok zemiakový – zemiaky sa používajú ako potrava, spracúvajú sa aj ako priemyselná surovina na výrobu škrobu a liehu.
+
+s ružovofialovými kvetmi.
+uZ podzemnej časti stonky vyrastajú korene a dlhé výbežky,
+na konci ktorých vznikajú nové hľuzy – zemiaky.
+
+
+
+
+
+
+
+
+
+3. Čo najviac škodí porastom ľuľka zemiakového?
+4. Porovnaj buľvy repy cukrovej a kŕmnej. V čom sa odlišujú (obr. 249)?
+5. Aký význam má pestovanie repy cukrovej pre človeka a živočíchy?
+
+Po odkvitnutí sa na rastline ľuľka zemiakového vytvárajú plody – zelené bo- bule. Bobule i celá rastlina okrem hľúz je jedovatá. Zemiakové hľuzy – ze- miaky sa zberajú na jeseň, keď stonka zožltne a uschne.
+
+
+
+
+
+
+ľulok zemiakový
+
+
+
+
+
+pásavka zemiaková
+
+
+
+kvet	plod
+(bobuľa)
+
+
+
+
+Obr. 247
+Ľulok zemiakový
+
+jedlá hľuza s klíčkami
+
+
+
+bažant
+
+
+
+
+
+líška
+
+Obr. 248 Potravový reťazec na poli
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+repa cukrová	repa kŕmna
+Obr. 249 Repa – buľva (zhrubnutá časť ko- reňa) repy cukrovej obsahuje viac ako 21 % cukru
+
+Repa cukrová sa pestuje v teplých oblastiach nížin pre dužinatú zhrubnutú časť koreňa – buľvu. Odrezané listy s vrchnou časťou buľvy sa využívajú ako krmivo.
+Z cukrovej repy sa získava cukor.
+Kŕmna okopanina repa kŕmna sa používa ako krmivo pre dobytok.
+
+Uvažuj a odpovedz
+1. Aký význam má pestovanie slnečnice a kapusty repkovej pravej pre člo- veka?
+2. Prečo je zemiakové pole monokultúra?
+3. Prečo je nesprávne tvrdenie, že hľuza je plod ľuľka zemiakového?
+4. Vysvetli, prečo je nevhodné olamovať listy repe cukrovej počas rastu.
+5. Pomenuj prvý článok potravového reťazca – rastlinu a zdôvodni ostatné jeho články na obr. 248.
+
+Rieš a skúmaj
+1. Zisti v obchode s potravinami názvy stolového oleja zo slnečnice a repky olejky. Porovnaj ich zloženie a obsah látok. Ktorý je kvalitnejší?
+2. Prečo sú hľuzy ľuľka zemiakového v zime sladké, keď zamrznú?
+3. Proti chorobám a nežiadúcim živočíchom ľuľka zemiakového sa najčas- tejšie používa chemická ochrana – postreky. Navrhni ekologický – pre prírodu neškodný – spôsob boja.
+4. Urob pokus. Nechaj predklíčiť hľuzu ľuľka zemiakového na svetle a v tme.
+Vysvetli svoje zistenie.
+5. Dokáž, že semená slnečnice a kapusty repkovej pravej obsahujú tuky. Polož ich semená na pijavý papier a rozdrv ich.
+
+
+
+
+
+
+
+
+Na lúkach a poliach žije množstvo rozličných živočíchov, najmä bezstavov- cov.
+Slimáky a slizniaky sa živia rastlinnou potravou.
+
+slimák stepný
+sa vyskytuje na lúkach, pri cestách, železničných násypoch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+slimák meňavý
+
+strehúň
+Obr. 251 Pa
+
+
+ky a kosce
+
+
+kosec
+
+
+
+Obr. 250 Lúčne a poľné ulitníky
+
+žije v krovinách, pri krajoch ciest
+6. 
+Akou potravou sa živí dážďovka?
+Súvisí jej spôsob prijímania
+a spracúvania potravy s kvalitou pôdy?
+7. Ako je dážďovka prispôsobená
+
+Dážďovka žije v pôde v lese, ale aj v pôde na lúkach a poliach.
+Medzi trsmi tráv a pod kameňmi žijú pavúky a kosce. Ich potravou je naj- mä hmyz (muchy, mravce, larvy).
+Na stromoch, kroch alebo medzi lúčnymi rastlinami má siete križiak. Kosec netká pavučiny, korisť chytá klepietkami.
+Strehúň sa cez deň ukrýva v chodbičkách v zemi, v noci vychádza loviť potravu, loví ju skokom.
+
+
+
+
+
+
+Obr. 252 Dážďovka premiestňuje čiastočky pôdy
+v jednotlivých vrstvách
+
+Najväčšou skupinou lúčnych a poľných bezstavovcov je hmyz.
+Čmeľ má význam pri opeľovaní kvetov rastlín, najmä ďateliny a lucerny. Žije v menších skupinách – kolóniách. Veľa čmeľov zahynie nerozumným vypa- ľovaním suchej trávy.
+Za letných večerov a počas dňa počuť na lúkach cvrlikavý zvuk, ktorý vydá- va svrček. Žije v dierach v zemi a živí sa rastlinnou i živočíšnou potravou.
+
+životu v pôde? Ako sa v nej pohybuje?
+
+
+
+
+
+
+
+
+
+
+Obr. 253 Čmeľ cucia rúrkovitým cuciakom nektár z kvetov
+
+8. Poznáš živočíchy, ktoré sa živia dážďovkami?
+9. O križiakovi ste sa už učili.
+Kde by sa mohol okrem lúky a poľa ešte vyskytovať?
+10. Akou potravou sa živí križiak a ako ju získava?
+
+
+
+
+
+
+
+
+Kobylka má dlhé tykadlá, dva páry krídel (prvý pár tvrdý kožovitý, druhý pár blanitý) a tri páry nôh. Zadné končatiny sú dlhé a silné, prispôsobené na skákanie. Larvy aj dospelé kobylky sa živia hmyzom.
+Pásavka žije na zemiakových poliach, živí sa nadzemnou časťou ľuľka ze- miakového. Je potravou poľných vtákov (najmä jarabice a bažanta). Pri premnožení ohrozuje úrodu, je nežiadúci živočích.
+
+	
+
+koník vydáva zvuk trením zadných končatín o predné krídla
+
+
+
+
+lienka – larva aj dospelý chrobák sa živia dravo voškami a zabraňujú ich premnoženiu
+
+svrček vydáva zvuk trením krídel
+
+
+	
+
+	
+
+bystrušky sa živia hmyzom a mäkkýšmi, sú dravé – mäsožravé
+Obr. 254 Hmyz žijúci na poliach a lúkach
+
+pásavka – z vajíčka sa na spodnej strane listu vyvinie larva, ktorá sa živí listami ľuľka zamiakového
+
+
+
+
+
+
+
+
+Na lúkach a poliach žije množstvo motýľov. Živia sa nektárom z kvetov a niektoré opeľujú kvety. Larvy sa živia listami rastlín.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+babôčka admirálska
+
+vidlochvost feniklový
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+babôčka pávooká
+
+Uvažuj a odpovedz
+
+vretienka obyčajná obľubuje slnečné stanovištia
+Obr. 255 Poľné a lúčne motýle
+
+1. Ako prispieva dážďovka k zlepšovaniu kvality pôdy?
+2. Ktoré druhy hmyzu si už videl/a na poli alebo na lúke?
+3. Vysvetli, podľa čoho vieš, že na lúke je svrček, keď ho nevidíš.
+4. Prečo je vypaľovanie trávy zakázané?
+5. Ktorý druh hmyzu pri premnožení ohrozuje pestovanie rastlín na poli?
+6. Ktoré druhy hmyzu zabraňujú premnoženiu iných druhov hmyzu?
+7. Pre ktoré stavovce je hmyz na poli alebo na lúke potravou?
+
+
+Rieš a skúmaj
+1. Navrhni plagát, ktorý poučí ľudí o nebezpečnosti a škodlivosti vypaľova- nia tráv.
+2. Zostav potravový reťazec so zastúpením koníka alebo hrobárika.
+3. Roztrieď hmyz na obr. 254 a 255 na bylinožravé a dravé – mäsožravé dru- hy.
+4. Kedy sa bylinožravé druhy hmyzu stávajú nežiaduce?
+5. Zisti, v ktorých krajinách sa vyskytli prípady nadmerného premnoženia kobyliek, až zničili úrodu.
+
+Obr. 256 Vošky sa živia cicaním štiav rast- lín, čim rastliny oslabujú, vylučujú sladkú tekutinu, ktorou sa živia iné druhy hmyzu (mravce)
+
+
+
+
+
+1. Ktorými znakmi sa vyznačujú stavovce?
+2. Vysvetli, čo znamená slovo obojživelník.
+3. Ktoré obojživelníky už poznáš?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 257 Ropucha zelená
+má na tele veľa zelených škvŕn
+
+Lúčne a poľné stavovce
+Obojživelníky a plazy na lúkach a poliach
+Stavovce sa (v porovnaní s bezstavovcami) vyskytujú v trávnatých poras- toch v menšom počte druhov.
+Ropucha zelená a ropucha bradavičnatá sú naše najväčšie obojživelníky – žaby. Žijú na plochách – poliach, lúkach, pasienkoch, v záhradách, parkoch, ale aj na sídliskách miest a v mestských parkoch.
+Majú zavalité telo, kratšie a slabšie zadné končatiny ako skokan, pohybujú sa pomaly a nemotorne. V čase rozmnožovania sa sťahujú k vodným plo- chám. Ohrozuje ich znečistenie životného prostredia a doprava počas ich sťahovania.
+Žaba – ropucha zelená sa ukrýva pod kameňmi, v dutinách a norách hlo- davcov. Potravu si hľadá v noci. Živí sa dážďovkami, slimákmi a inými bezsta- vovcami.
+Žaba – ropucha bradavičnatá sa živí hmyzom (chrobáky, motýle, mravce) a inými drobnými živočíchmi (slimáky, dážďovky). Loví v noci. V poľnohos- podárstve a sadovníctve je prospešná.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 258 Ropucha bradavičnatá
+má zavalité telo s bradavičnatou kožou
+
+
+
+4. Porovnaj vzhľad ropúch na obr. 257 a obr. 258.
+5. Vysvetli, ako sa vyvíjajú žaby.
+6. Pre ktorého živočícha sú žaby potravou?
+
+uRopuchu chráni bradavičnatá koža pred vysychaním povrchu tela.
+uNa boku hlavy má na oboch stranách jedové žľazy, ktorých výlučok je pre človeka jedovatý.
+uTekutina z jedových žliaz
+chráni ropuchu pred živočíchmi, ktore ju lovia, lebo
+je pre ne potravou.
+
+
+Obr. 259 Jašterica zelená má výrazne belasé sfarbenie krku, obýva krovinaté porasty, železničné násypy
+
+Jašterica krátkohlavá je plaz, žije v suchom a slnečnom trávnatom pro- stredí. Má premenlivú teplotu tela, ktorá sa mení podľa teploty prostredia. S teplotou tela súvisí jej pohyblivosť. Čím je teplejšie, tým je aktívnejšia a pohybuje sa veľmi rýchlo. Zimu prespí v úkrytoch, neprijíma potravu a dý- chanie je obmedzené na minimum.
+Živí sa hmyzom, pavúkmi, dážďovkami a slimákmi. Na povrchu tela má su- chú kožu pokrytú rohovinovými šupinami.
+Samček má zelenú farbu s hnedým pruhom na chrbte, samička je sivohne- dá.
+
+
+
+
+
+
+
+
+
+V nebezpečenstve odpútava pozornosť živočíchov, ktoré ju lovia, tým, že pri dotyku odlomí chvost. Po čase jej chvost dorastie.
+Naším jedovatým plazom – hadom je vretenica. Obýva horské lúky, čis- tinky a rúbaniská stredných a vyšších polôh.
+Človeku sa vyhýba, uhryzne len vtedy, keď sa cíti ohrozená, keď na ňu člo- vek napr. stúpi.
+Živí sa myšami a žabami.
+
+
+
+
+
+
+jedový zub
+
+jedová žľaza
+
+Valcovité telo má pokryté suchou kožou, ktorú zvlieka naraz. V ústach má
+jedové zuby s jedovou žľazou, na obranu a usmrtenie koristi.
+
+
+Obr. 261 Jedové orgány vretenice
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 262 Užovka má na rozdiel od vreteni- ce oválny tvar hlavy a nemá výraznú kresbu na chrbte
+
+
+
+
+
+
+Obr. 260 Vretenica má trojuholníkový tvar hlavy a kľukatú čiaru na chrbte
+
+uPred uhryznutím vretenicou chráni pevná obuv, aspoň do výšky členka.
+Treba sa vyhýbať miestam
+s pravdepodobným výskytom.
+
+
+
+
+Uvažuj a odpovedz
+1. Prečo sú obojživelníky a plazy chránené?
+2. Ako sa ropucha chráni pred živočíchmi, ktoré ju lovia?
+3. Prečo sa jašterice rady vyhrievajú na slnku?
+4. Ako sa vzhľadom odlišuje užovka a vretenica?
+
+
+Rieš a skúmaj
+1. Zisti informácie o výskyte, význame a ohrození našich obojživelníkov a plazov v odbornej literatúre alebo na internete. Spracuj informácie so spolužiakmi na informačnom paneli.
+2. Akým spôsobom ropuchy a vretenice udržiavajú biologickú rovnováhu
+v prírode?
+
+Prvá pomoc pri uhryznutí vretenicou
+1. Zvyčajne býva poranená končatina (dve drobné krvavé ranky).
+2. Treba čo najrýchlejšie zavolať lekársku pomoc a riadiť sa pokynmi záchrannej služby.
+3. Dôležité je vedieť čas uhryznutia.
+
+
+7. Porovnaj znaky obojživelníkov
+a plazov podľa obrázkov 257, 258,
+259 a 260.
+
+
+
+
+
+
+
+
+V trávnatom poraste žije málo druhov vtákov trvalo, väčšinou len prilietajú za potravou.
+Jarabica sa sfarbením prispôsobuje prostrediu, v ktorom žije, zdržuje sa na poliach. Živí sa rastlinnou potravou – bylinami, semenami, požiera drobné bezstavovce (hmyz mäkkýše). Je stály vták – neodlieta na jeseň do teplej- ších krajín.
+Bažant žije na poliach a lúkach, v blízkosti krov a mladých listnatých stro- mov, v ktorých nachádza úkryt. Je stály vták.
+Potravu bažanta tvorí prevažne hmyz a jeho larvy, slimáky, mladé hraboše, na jeseň a v zime plody a semená.
+Bažant má výraznú pohlavnú dvojtvarosť. Kohút (samec) je nápadne sfar- bený, sliepka (samica) a mláďatá majú farbu prostredia. Ak je napr. inak sfar- bený samec a samica, hovoríme o pohlavnej dvojtvarosti.
+Jarabica a bažant vyhľadajú potravu rozhrabávaním pôdy. Mláďatá si potra- vu obstarávajú samy, sú teda nekŕmivé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 264 Bažant
+Drop (samec) je najťažší lietajúci vták (má hmotnosť 18 – 25 kg). Rýchlo beží, ťažko vzlieta, ale letí rýchlo. Samec má v čase tokania (párenia) „fúzy“ a ve- járovito rozprestiera chvost. Je stály vták.
+Rastlinnú potravu tvoria časti rastlín, (dužinaté plody), živočíšnu potravu tvoria slimáky, pavúky, hmyz, myši a malé vtáky.
+   Obr. 265 Drop
+
+
+
+
+
+
+
+
+
+Počet dropov klesá, patrí k najviac ohrozovaným druhom vtákov na Sloven- sku. Príčinou je mechanizácia a neúmerná chemizácia poľnohospodárstva, v poslednej dobe aj zaberanie poľnohospodárskej pôdy.
+Škovránok je sťahovavý. Prilieta k nám už vo februári. Obýva pasienky, suché lúky, polia a najmä medze.
+Živí sa hmyzom, zelenými časťami rastlín a semenami. Hniezdi dvakrát do roka na zemi v tráve.
+6. 
+Akými znakmi sa vyznačujú dravce? Vysvetli ich význam v prírode.
+7. Ktoré druhy dravcov poznáš?
+Ako ich možno spoznať v prírode?
+
+uSamček škovránka vytrvalo spieva a trepotavo sa vznáša nad poľom.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 267 Škovránok
+Havran žije na poliach, ale aj v mestských parkoch. Na jeseň i v zime vidieť kŕdle havranov poletovať nad poliami a zbierať vyorané myši a hraboše. Živí sa živočíšnou i rastlinnou potravou.
+Na poliach narobí škody, keď sa jeho potravou stáva klíčiace obilie. Hniezdo si stavia na vysokých stromoch. Hniezdi v kolóniách.
+
+
+
+kaňa
+
+
+
+
+
+
+
+
+
+
+
+Obr. 268
+Sokol myšiar
+Sokol myšiar (pustovka) patrí medzi dravé vtáky – dravce. Nad poľom alebo lúkou často vidieť, ako sa trepoce na jednom mieste. Zrazu prudko zaútočí.
+Živí sa najmä myšami a hrabošmi, čím vplýva na udržovanie biologickej rovnováhy v prírode.
+Hniezdo si nerobí, využíva cudzie hniezda na stromoch v blízkosti polí.
+
+
+
+myšiak
+Obr. 269 Siluety letiacich dravých vtá- kov – dravcov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+straka sa živí slimákmi, hmyzom, drobnými stavovcami a vajcami vtákov, je stála
+
+
+
+
+
+
+
+
+
+vrana obýva pasienky, okraje lesov, živí sa semenami a drobnými živočíchmi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+vrabec
+
+
+
+uV posledných rokoch pribúdajú hniezda sokola myšiara v mestách. Hniezdi na výčnelkoch panelákov, niekedy aj na balkónoch, vežiach a stožiaroch elektrického vedenia.
+
+Obr. 270
+Ďaľšie vtáky lúk
+a polí	strnádka je spevavý vták, hniezdi trikrát do roka, mláďatá živí najskôr hmyzom, neskôr semenami, jej počty ubúdajú pre nedostatok úkrytov na zemi
+
+Uvažuj a odpovedz
+1. Ktoré vtáky žijúce na lúkach a poliach poznáš?
+2. Ktoré vtáky sa vyznačujú pohlavnou dvojtvarosťou (samec sa výrazne odlišuje od samice)?
+3. Vysvetli, prečo sú živočíchy žijúce v trávnatých porastoch nenápadne
+sfarbené.
+4. Ktoré vtáky žijúce na lúkach a poliach sú stále a ktoré sťahovavé?
+5. Aký význam má jarabica, bažant a dravé vtáky na poli?
+
+Rieš a skúmaj
+1. Zisti, ktorý deň je vyhlásený za Deň vtáctva.
+2. Vysvetli nebezpečnosť používania chemických postrekov na poliach pre vtáky.
+3. Hraboš spotrebuje ročne asi 1 kg obilia. Sokol uloví ročne asi 500 hra-
+bošov. Koľko obilia približne zachráni sokol, ak má hraboš v každom zo 6 vrhov 6 mláďat (dospieva po 30 dňoch)?
+4. Prikrmujte vtáky v zime. Zistite informácie o vhodných spôsoboch prí-
+pravy krmiva. Pripravenú potravu pre vtáky rozvešajte na konáre stro- mov v okolí.
+
+
+
+
+
+
+
+
+
+Niektoré druhy cicavcov sa prispôsobili životu v trávnatom prostredí.
+Hraboš sa živí rastlinami aj semenami obilnín. Pre veľkú rozmnožovaciu schopnosť narobí veľké škody.
+Je potravou napr. pre líšky, lasice, sokola myšiara, ktoré zabraňujú jeho premnoženiu.
+1. 
+Prečo hraboš, myš a králik patria medzi cicavce?
+2. O ktorých cicavcoch ste sa už učili?
+
+
+
+Obr. 271 Hraboš	Obr. 272 Myš
+
+Myš je menšia ako hraboš. Na poliach a lúkach žije vo vyhrabaných norách. Je všežravá. V norách si robí zásoby, najmä zo zŕn tráv, celých klasov obil- nín.
+Žije aj v ľudských príbytkoch a ich okolí. Rýchlo sa rozmnožuje.
+
+
+
+Obr. 273 Chrček	Obr. 274 Syseľ
+Chrček sa živí nielen semenami a zelenými časťami rastlín, ale aj drobnými živočíchmi. Jeho úkryt – nora – má obytnú a zásobovaciu komoru s viace- rými vchodmi a východmi.
+Syseľ vyhrabáva nory na okrajoch polí, pasienkoch a suchých miestach.
+Živí sa zelenými časťami a semenami lúčnych a poľných bylín, najmä tráv, obilnín, kukurice, ďateliny a lucerny. Vyhľadáva aj drobný hmyz, najmä va- jíčka a larvy. Zásoby si nerobí.
+Žije v skupinách – kolóniách, ktoré môžu mať niekoľko desiatok, až stoviek jedincov. Zimné obdobie prespí a žije zo svojich tukových zásob.
+
+
+uMyš môže mať do roka až 500 potomkov.
+uHlodavce dokážu nahromadiť v pôde až 1 kg zŕn obilnín.
+uChrček nosí do nory zrná obilnín v lícnych vreckách.
+Obsah vrecka je asi 25 g.
+uSyseľ sa pri pozorovaní okolia postaví na zadné končatiny
+a hvizdnutím upozorní ostatné sysle pred blížiacim sa nebezpečenstvom.
+
+
+
+
+
+
+
+
+
+3. Porovnaj na obrázkoch hraboša, myš, sysľa a chrčka. Ktoré znaky majú spoločné a ktoré odlišné?
+4. Ako je krt prispôsobený životu v pôde?
+5. Porovnaj potravu hlodavcov a mäsožravých živočíchov.
+6. Uveď živočíchy,
+ktoré lovia poľné hlodavce.
+
+Hraboš, myš, syseľ a chrček sú hlodavce. Hlodavce majú veľké rezáky – hlo- davé zuby, ktorými ohrýzajú (ohlodávajú) potravu. Majú veľkú schopnosť rozmnožovať sa a pri premnožení spôsobujú škodu na poľnohospodár- skych plodinách, najmä obilninách. Sú potravou poľných dravých vtákov.
+Na poliach a lúkach žije zajac a králik. Rýchlo sa rozmnožujú, samica má 4-krát do roka 3 – 4 mláďatá.
+Rastlinnú potravu tvorí tráva, listy, korienky. V zime obhrýzajú mladé koná- riky, kríky alebo mäkké dreviny. Pri premnožení narobia škodu. Sú potravou dravých vtákov a mäsožravých cicavcov.
+ zajac poľný má dlhé ušnice, dlhé zadné končatiny,  rýchlo beží (55 km/h),  ukrýva sa v tráve, pod krami,
+osrstené mláďatá po narodení vidia
+
+
+Obr. 275 Králik divý a zajac poľný
+
+králik divý je menší ako zajac, má menšie ušnice ako zajac, pohybuje sa pomaly,
+ukrýva sa vo vyhrabaných norách, mláďatá sa rodia slepé bez srsti
+
+Krt žije v podzemnom systéme chodieb, na povrch lúk alebo polí vylieza zriedkavo. Rozrývaním prevzdušňuje pôdu.
+Hlavnou potravou je hmyz, jeho larvy a dážďovky. Loví ich drobnými zúb- kami.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 276 Krt nemá ušnice, očami ukrytými v srsti rozoznáva iba svetlo a tmu, orientuje sa sluchom, čuchom a hmatom
+
+
+7. Čo svedčí o výskyte krta na poli?
+
+uMláďatá krta sú po narodení malé, majú veľkosť asi ako semeno fazule.
+
+Obr. 277 Potravový vzťah – hraboš sa živí zrnom obilnín a sám je korisťou sokola myšiara
+
+Uvažuj a odpovedz
+1. Ktoré poľné hlodavce poznáš? Čo vieš o ich živote?
+2. Podľa ktorých znakov by si rozlíšil/a zajaca a králika?
+3. Aký význam má krt?
+4. Ktoré poľné hlodavce zimu prespia?
+5. Prečo sú hlodavce pri premnožení na poli nežiaduce?
+
+Rieš a skúmaj
+1. Usporiadaj potravový reťazec – hraboš, sokol, obilniny.
+2. Podľa čoho zistíš prítomnosť hlodavcov na poli?
+3. Koľkokrát si naplní chrček lícne vrecká, kým zhromaždí asi 15 kg zásob na zimu?
+4. Prediskutuj v triede dôsledky a príčiny premnoženia hrabošov, myší a sys-
+ľov na poli.
+
+
+
+
+
+
+
+
+Koreň
+
+
+
+
+Potreby:
+1 – 2 rastliny z okolia, lupa, pinzeta, obrázky rastlín v učeb- nici, atlas rastlín.
+Poznámka:
+• pri drevine skúmaj konárik s listami, prípadne kvetmi, pri byline skúmaj celú rastlinu s koreňmi a kvetmi,
+• podľa potreby použi aj herbárovú položku.
+Pracovný postup:
+1. Pozoruj vzhľad rastliny. Urči, či ide o drevinu (strom, ker) alebo bylinu.
+2. Pozoruj vonkajšie znaky bylín – koreň, stonku, listy a kvet (súkvetie). Pri drevinách si všímaj konárik, listy a kvety.
+3. Nakresli tvar koreňa, stonku, listy, kvet (súkvetie).
+4. Porovnaj nákresy s obrázkami, urči pomocou nich typ ko- reňa, stonky, listov, kvetu a označ na svojom nákrese.
+5. Urč na základe zistených znakov a podľa atlasu rastlín (ale- bo učebnice) názov rastliny.
+Záver:
+1. Aký je názov pozorovanej rastliny?
+2. Ktoré znaky boli podstatné na jej určenie?
+3. Čo ťa na pozorovaní najviac zaujalo? Ako sa ti darilo pri práci?
+
+Obr. 278 Korene, stonky, listy a kvety bylín Kvet
+
+
+
+
+
+
+niťovitý	valcovitý	vretenovitý	zväzkovitý
+
+Stonka – jednoduchá	rozkonárená
+
+
+
+
+
+
+
+
+byľ	stvol	steblo
+
+Jednoduché listy – okraj listu
+
+
+
+
+
+celistvookrajový pílkovitý	zúbkatý	vrúbkovaný
+
+Zložené listy
+
+
+
+
+
+kvet s kalichom a korunou	kvet s okvetím
+ 		trojpočetný	päťpočetný	sedempočetný
+Súkvetie
+
+
+
+
+
+
+
+
+strapec	metlina	klas  jahňada	šúľok zložený klas
+
+okolík	zložený okolík  hlávka úbor	vidlica	závinok
+
+perovito	dvojito perovito zložený		zložený
+
+Postavenie listov na stonke
+
+
+
+
+
+
+striedavé	protistojné	praslenovité	prízemná ružica
+listov
+
+
+
+
+
+
+
+
+
+
+
+1. Uveď príklad organizmov lesného, vodného a trávnatého ekosystému.
+2. Do akého ekosystému patria polia, pasienky a lúky? Zdôvodni.
+3. Aký je rozdiel medzi umelým a prírodným ekosystémom?
+4. Ktoré živočíchy trávnatého ekosystému sú bylinožravé a ktoré mäsožravé?
+
+
+
+
+
+
+
+
+
+
+
+
+v lete
+
+
+
+
+
+
+
+
+
+
+
+na jeseň
+Obr. 280 Obilné pole
+
+
+Obr. 279 Kvitnúca lúka
+Medzi rastlinami a živočíchmi trávnatého ekosystému sú vzájomné vzťa- hy. Prejavujú sa v spôsobe výživy, v potravových reťazcoch.
+Polia, kosené lúky a pasienky sú umelé spoločenstvá. Vytvoril ich človek na pestovanie kultúrnych rastlín (poľnohospodárskych plodín) a chov do- bytka.
+Život trávnatého ekosystému sa v priebehu roka mení. Súvisí so zmenami teploty a vodným režimom pôdy.
+Časté zásahy človeka do spoločenstiev sú príčinou zmien v počte druhov. Na živočíchy negatívne pôsobí odstraňovanie medzí, kosba, žatva, hlboká orba, používanie chemických látok, prehnojovanie a vypaľovanie suchých tráv.
+
+
+havran
+
+
+
+   králik 
+
+
+  larva chrústa 
+   pásavka 
+
+
+
+
+
+
+   myš 
+A	B
+
+  svrček 
+
+
+
+  chrček 
+
+
+Obr. 281 Zimu prežívajú lúčne a poľné rastliny a živočíchy väčšinou v pôde
+– rastliny podzemnými časťami a semenami (A), živočíchy v úkrytoch v pôde (B)
+
+
+
+
+
+
+
+
+Do života lúk a pasienkov človek zasahuje kosbou a pasením oviec alebo hovädzieho dobytka.
+Najviac zasahuje človek do polí. Na dosahovanie vysokých úrod sa strieda- vo zaraďujú plodiny podľa osevných postupov.
+Po sejbe osiva do pôdy začínajú rásť plodiny. Poľnohospodári sa o ne sta- rajú ničením buriny (okopávaním), nežiaducich druhov živočíchov a chorôb chemickými postrekmi.
+Počas rastu sa rastliny môžu prihnojovať a zavlažovať v čase sucha, vhodné je prevzdušňovanie pôdy. Dozretím pestovaných plodín sa začína zber, po ktorom nasleduje úprava pôdy orbou a hnojením.
+V každom spoločenstve musí byť zachovaný určitý počet jedincov a druhov organizmov, aby sa neporušila biologická rovnováha.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 282 Dôsledky zmien v ekosystéme
+
+Používanie chemických látok na poliach vedie k ničeniu hmyzu a živočí- chov, ktoré sa živia hmyzom.
+Nepriaznivé zásahy človeka do spoločenstiev sa prejavujú znižovaním poč- tu jedincov rozmanitosti a počtu jednotlivých druhov organizmov.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Lov bez zbraní
+Opíš slovami, vyjadri pohybom alebo znázorni jednoduchou kresbou svoj originálny spôsob lovu bez zbraní. Symbolicky
+„ulov“:
+
+
+2. Rodina
+Vytvor so spolužiakmi skupinu – „živočíšnu rodinu“ (samec, samica, jedno, alebo viac mláďat). Predveďte spolu scénku a napodobnite čo najvernejšie správanie zvierat.
+
+
+3. Pán a pes
+Pes, ktorý je sám doma, počuje prichádzajúce kroky... zavetrí... zdvihne uši... počuje štrkotať kľúče pred dverami... Predveď zvítanie psa s pánom, ktorý prichádza domov v dobrej a v zlej nálade ako:
+
+Zhodnoť so spolužiakmi, či, kedy, ako a prečo sa pán správal k psovi správne a nesprávne.
+
+
+4. Ako chodia, lovia, bránia...
+Napodobni čo najvernejšie spôsoby pohybu vybraného živočícha v prostredí, v ktorom žije.
+
+a) spoj pohyb s vydávaním typického zvuku živočícha,
+b) predveď ďalšie aktivity, napr. prijímanie potravy, čistenie sa, lov koristi, spôsob obrany a pod.,
+c) predveď pohyb živočícha, spolužiaci budú podľa pohybových prejavov hádať jeho názov.
+
+5. Oči
+Pozorne si prečítaj text.
+
+Koľko očí pozorovalo chlapcov?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. Monológ
+Predveď monológ, v ktorom vyjadríš pocity a dojmy:
+a) najkrajšej mačky na výstave mačiek, najkrajšieho psa na výstave psov, vtáka na výstave vtákov, najkrajšieho kvetu na výstave kvitnúcich rastlín,
+b) „miss” lesa, rybníka, rieky, záhrady, stromu, lúky, poľa, záhrady a pod.
+
+7. Pohľadnica
+Napíš stručný a vtipný text na pohľadnicu kamarátovi, kamarátke, rodičom, starým rodičom, učiteľovi biológie, príbuzným a pod.:
+
+Text napíš ako vášnivý botanik, zoológ alebo ochranca prírody.
+
+8. Prekvapenie
+Predstav si, že nájdeš rastlinu alebo živočícha v prostredí, kde sa bežne nevyskytuje. Aká rastlina alebo živočích by ťa prekvapil/a:
+
+Vymysli dôvod a príčinu nezvyčajného výskytu rastliny alebo živočícha.
+
+9. Stopár
+Dobrý stopár pátra po stopách na zemi a orientuje sa aj podľa rôznych zvyškoch rastlín a živočíchov.
+Napríklad si všíma zlomené konáriky, suché listy, zvyšky šišiek, spadnuté vtáčie perá, ožery listov, prázdne ulity alebo hniezda, sliz na listoch a inom podklade, pavučiny, škrupiny vajíčok, vypadnuté vajíčka z hniezda, odreté kmene stromov, chodbičky v starom dreve, dutiny v stromoch, zvyšky kože alebo panciera, prázdne kukly, roztrúsené semená alebo plody na zemi, zelený povlak na kmeňoch stromov a pod.
+Aké rastliny alebo živočíchy by si mohol/mohla objaviť podľa stôp:
+
+Zdôvodni svoje stopárske objavy.
+
+10. Návrh
+Navrhni nezvyčajný, ale funkčný spôsob využitia jedného alebo viacerých prírodných materiálov v domácnosti, v škole, v doprave, v stavebníctve, v elektrotechnike, v umení a pod.:
+
+lastúra šupiny ryby perie vtákahniezdo steblá tráv krídlo motýľašiška
+kôra stromu hniezdodrobné lesné plody pavučina
+výtrusy huby (paprade)kopyto koňa pancier raka tykadlo chrobákaSvoj nápad nakresli, opíš alebo predveď. Vymysli a navrhni čo najviac riešení.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11. Sci-fi
+Prenes sa do sveta fantázie a predstav si rastlinu alebo živočícha s fantastickým názvom:
+
+Nakresli jednoduchý náčrt rastliny alebo živočícha, charakterizuj prostredie, v ktorom žije, opíš jeho stavbu tela, správanie, spôsob výživy a pod.
+
+12. Plagát
+Navrhni plagát (na polovicu baliaceho papiera) na film s názvom:
+
+Usporiadajte súťaž o najvtipnejší a najoriginálnejší plagát. Usporiadajte výstavu – vyzdobte si miestnosť, v ktorej sa učíte alebo trávite voľný čas.
+
+13. Komiks
+Ku každému obrázku rastliny so žltým kvetom vymysli komiksový príbeh. K jednotlivým obrázkom napíš komentár, monológ alebo dialóg.
+
+a) Čo vidí, na čom sa smeje a čo hovorí žltý kvet?
+
+
+1.	2.	3.
+b) Čo vidí, čo si myslí, čo robí alebo by chcel robiť zvedavý vtáčik na jednotlivých obrázkoch?
+
+
+
+
+
+3.	4.
+
+
+
+
+
+
+5.	6.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,2531 @@
+﻿
+
+
+
+
+
+
+
+
+Helena Kopecká Erika Muchová
+
+
+
+
+
+
+
+
+              pre	ročník základnej školy a	ročník gymnázia s osemročným štúdiom
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Slovenské pedagogické nakladateľstvo
+
+Autorky © Mgr. Helena Kopecká
+          Mgr. Erika Muchová Lektorovali: Mgr. Slavomír Lesňák
+Mgr. Viera Minárová
+Ilustrácie © akademická maliarka Táňa Žitňanová Graﬁcký dizajn a obálka © SPN – Mladé letá, s. r. o.
+Schválilo Ministerstvo školstva, vedy, výskumu a športu Slovenskej republiky
+pod č. 2012-14083/41867:4-919 zo dňa 24. septembra 2012 ako učebnicu občianskej náuky pre 9. ročník základnej školy a 4. ročník gymnázia s osemročným štúdiom. Schvaľovacia doložka má platnosť 5 rokov.
+Prvé vydanie, 2012 Všetky práva vyhradené.
+Toto dielo ani žiadnu jeho časť nemožno reprodukovať bez súhlasu majiteľa práv.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zodpovedná redaktorka PhDr. Ľudmila Adamčíková Technická redaktorka Lucia Putnokyová
+Výtvarná redaktorka Mgr. Ľuba Suchalová
+Vyšlo vo vydavateľstve Slovenské pedagogické nakladateľstvo – Mladé letá, s. r. o. Sasinkova 5, 811 08 Bratislava
+Vytlačila Slovenská Graﬁa, a. s., Bratislava
+
+ISBN 978-80-10-02295-3
+
+
+Milé žiačky, milí žiaci,
+
+Slová na úvod
+
+   táto učebnica je posledná z radu nových učebníc občianskej náuky pre základnú školu. Je určená aj žiakom 4. ročníka gymnázia s osemročným štúdiom. Uvedie vás do sveta ekonómie   a ﬁnancií. Poskytne vám základné poznatky z ekonómie a ekonomiky, ktoré sú nevyhnutné na pochopenie ekonomických vzťahov v spoločnosti.
+   Po obsahovej i formálnej stránke nadväzuje na učebnicu pre 8. ročník. Učivo sme rozdelili na povinné a rozširujúce. Povinné učivo je záväzné pre všetky školy. Rozširujúce učivo môžu využiť školy, ktoré predmetu občianska náuka venujú viac vyučovacích hodín.
+   Povinné učivo tvorí tematický celok Ekonomický život v spoločnosti, ktorý sme rozčlenili na tri časti. Umožní vám pochopiť základné ekonomické pojmy, nájdete v ňom základné informácie o podnikaní a bude pre vás východiskom pre osvojenie si ﬁnančnej gramotnosti.
+   Rozširujúce učivo nadväzuje na obsah povinného učiva, rozširuje a prehlbuje učivo z po- vinnej časti. Obohatili sme ho témami, ktoré vychádzajú z Národného štandardu ﬁnančnej gra- motnosti pre žiakov základnej školy. Pomôže vám zorientovať sa v oblasti fungovania bánk, poisťovní, sporiteľní, poznávať a uplatňovať svoje práva ako spotrebiteľa a získať zručnosti, ako hospodáriť s peniazmi v každodennom živote.
+   Učebný text predstavuje učivo, ktoré si máte osvojiť. V úvode jednotlivých tém sú zvýraznené Kľúčové slová. Uvedomujeme si, že ekonomická problematika je pre vás nová a pomerne náročná, preto je učebný text prehľadne členený, doplnený grafmi, obrázkami, schémami, ktoré vám ná- zorne priblížia preberané učivo.
+   Otázky za učebným textom sú formulované tak, aby vám pomohli zistiť, ako ste učivo pocho- pili. Súčasťou každej témy sú Úlohy a námety. Majú rozličný stupeň náročnosti. Môžete ich riešiť samostatne, v skupine so spolužiakmi alebo s učiteľmi. Vytvárajú priestor na vašu tvorivosť    a schopnosť využiť poznatky v konkrétnych životných situáciách. Zhrnutie vám pomôže pri opa- kovaní a upevňovaní prebratého učiva.
+   V Slovníku sa stretnete s novými pojmami. Rubrika Zaujalo nás je zaradená iba v povinnom učive. Nájdete v nej doplňujúce informácie k daným témam, ktoré môžu byť využité ako motivá- cia k učeniu, ako podnet na samostatnú prácu alebo prehĺbenie učiva.
+V testových úlohách si môžete overiť úroveň zvládnutých vedomostí a zručností. Prajeme vám veľa chuti do objavovania sveta ekonómie a ﬁnancií.
+
+Autorky
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3
+
+Obsah
+Tematický celok
+Ekonomický život v spoločnosti
+Základné pojmy
+1. Potreby a statky / 5
+2. Výrobný proces / 7
+3. Ekonómia a ekonomika / 10
+4. Základné ekonomické otázky / 12
+5. Typy ekonomík / 15
+ 6. Trhový mechanizmus / 19 Samotestovacie úlohy / 22
+Základné formy podnikania
+7. Podnik a podnikanie / 24
+8. Hospodárenie podniku / 26
+9. Právne formy podnikania / 29
+10. Ako sa stať podnikateľom / 32
+11. Spotreba a spotrebiteľ / 35
+
+Peniaze a ﬁnančné inštitúcie v trhovej ekonomike
+12. Peniaze a funkcie peňazí   / 38
+13. Banky a sporiteľne / 40
+14. Poisťovne / 43 Samotestovacie úlohy / 46
+
+Rozširujúce učivo
+1. Produkty a služby bánk / 47
+2. Sporenie / 49
+3. Druhy poistenia / 51
+4. Euro v Slovenskej republike / 53
+5. Osobné ﬁnancie / 56
+6. Hospodárenie v domácnosti / 58
+7. Štátny rozpočet / 61
+8. Dane a daňová sústava / 63
+9. Ochrana spotrebiteľa / 65
+10. Vplyv reklamy na spotrebiteľov / 67
+11. Práva spotrebiteľa v Európskej únii / 69 Test ﬁnančnej gramotnosti / 71
+Príloha / 72
+
+
+
+4
+
+EKONOMICKÝ ŽIVOT V SPOLOČNOSTI
+Základné pojmy
+1. POTREBY A STATKY
+
+
+Kľúčové slová: potreby, základné potreby, vyššie potreby, statky, voľné statky, ekonomické (vzácne) statky, hmotné a nehmotné statky
+
+   Zamýšľali ste sa niekedy nad tým, čo všetko potrebujete pre život? Pravdepodobne by toho bolo veľmi veľa. Čo sú vlastne potreby?
+POTREBY A ICH USPOKOJOVANIE
+   Potreba je pocit nedostatku. Počas svojho života každý z nás pociťuje množstvo rozmanitých potrieb, napr. potrebu jesť, piť, oddychovať, komunikovať, vzdelávať sa.
+   S vývojom ľudskej spoločnosti sa vyvíjajú aj potreby. Niektoré zanikajú, ale súčasne vzniká množstvo nových potrieb (potreba kultúrneho vyžitia, zateplenia domu, komunikácie cez in- ternet atď.).
+
+
+
+
+Potreby delíme na:
+■ základné (primárne) – nevyhnutné pre život: potreba vody, potravy, odievania, bývania a ďalšie;
+■ vyššie (sekundárne) – bez ich uspokojenia sa človek zaobíde, ale sú dôležité pre jeho ďalší rozvoj, napr. potreba vlastniť auto, mať priateľov, ísť na koncert.
+   Cieľom každej ľudskej činnosti je snaha uspokojiť nejakú potrebu, odstrániť nedosta- tok.
+   Keďže ľudia nemajú rovnaké možnosti, nemôžu svoje potreby uspokojovať rovnako. Nie- ktorí uspokoja len svoje základné potreby (jedlo, oblečenie, bývanie), iní majú autá, chodia na dovolenky a podobne. Ľudia nepociťujú potreby rovnako, uspokojujú ich podľa vlastného po- radia dôležitosti. Niekto dá prednosť peknému zariadeniu domu, iný vzdelávaniu, nákupu kníh.
+STATKY
+   Na uspokojovanie potrieb slúžia statky. Statok je každá užitočná vec, ktorá uspokojuje ne- jaké ľudské potreby. Poznáme rôzne druhy statkov.
+
+
+
+
+
+
+
+
+
+
+5
+
+Z hľadiska dostupnosti rozlišujeme:
+■ voľné statky – nachádzajú sa v neobmedzenom množstve v prírode a sú každému do- stupné (voda riek, morí, vzduch, lesné plody a pod.);
+■ ekonomické (vzácne) – je ich obmedzené množstvo a sú zväčša vytvorené človekom, mu- sia sa vyrábať. Ich ekonomická vzácnosť vyplýva nielen z ich obmedzeného množstva, ale aj z ich užitočnosti, lebo uspokojujú určité potreby (chlieb, dom, obuv).
+Z hľadiska formy rozlišujeme:
+■ hmotné statky – získavajú sa z prírody alebo sa vyrábajú (nerastné suroviny, školská lavica, chata, kniha, zubná kefka);
+■ nehmotné statky – slnečné žiarenie (výsledok prírodného procesu) alebo služby (oprava obuvi, sťahovacia služba, kozmetika, vzdelávanie, zdravotná starostlivosť).
+   Ľudia nemôžu úplne uspokojiť všetky svoje potreby, lebo väčšinu statkov, ktoré potrebu-   jú, tvoria ekonomické čiže vzácne statky. Preto sa musia rozhodovať, ktoré z nich si vyberú  a ktorých sa musia vzdať. Racionálne sa rozhodujúci ľudia si zo všetkých statkov vyberajú tak, aby dosiahli maximálne uspokojenie.
+
+
+Potreby sú základom akejkoľvek ľudskej činnosti. Znamenajú pocit nedostatku. Na ich uspokojenie slúžia statky. Ekonomické statky sú vzácne, lebo ich je nedostatok, existujú v obmedzenom množstve a musíme ich vyrábať. Potreby si ľudia uspokojujú podľa vlastnej hierarchie – poradia dôležitosti, aké im pripisujú.
+
+
+Slovník
+racionálny – rozumový, hospodárny, účelný hierarchia – odstupňované usporiadanie, poradie priorita – prvé, prednostné miesto
+Otázky
+1. Čo sú potreby? Uveďte príklady.
+2. Ako a čím sa líšia potreby dnešných ľudí od potrieb ľudí v praveku?
+3. Čo sú statky? Aké druhy statkov poznáte?
+4. Od čoho závisí uspokojovanie ľudských potrieb?
+Úlohy a námety
+1. Samostatne premýšľajte, aké sú vaše potreby.
+a) Do zošita alebo do pracovného listu zapíšte 9 potrieb, ktoré považujete za najdôleži- tejšie.
+b) Vytvorte skupiny a rozhodnite, ako potreby zoradíte podľa dôležitosti na základe nasledu- júcej schémy: v prvom riadku bude najdôležitejšia potreba, nasledujú dve veľmi dôležité, potom tri dôležité, dve menej dôležité a v poslednom riadku jedna najmenej dôležitá.
+1
+2	2
+3	3	3
+4	4
+5
+c) Zástupcovia jednotlivých skupín oboznámia spolužiakov so svojím zaradením potrieb  a zdôvodnia svoje rozhodnutie.
+
+6
+
+2. Pokúste sa roztriediť zobrazené statky na voľné, vzácne, hmotné a nehmotné. Svoje roz- hodnutie zdôvodnite.
+
+
+
+
+
+
+nerasty	dopravný systém	toky riek	cesty
+
+
+
+
+
+
+
+potraviny	lesné plody	pôda	sťahovacia služba
+
+
+
+
+
+
+
+slnečné žiarenie	lavička v parku	zdravotná starostlivosť	chladnička
+
+
+
+
+Americký psychológ A. Maslow vypraco- val pyramídu ľudských potrieb. Spočíva v ich hierarchickom usporiadaní: čím nižšie sa nachádzajú v pyramíde,
+tým vyššiu majú prioritu – tým sú dôležitejšie.
+
+
+
+2. VÝROBNÝ PROCES
+
+Maslowova pyramída potrieb
+
+Potreba sebarealizácie
+Potreba uznania,
+ 	úcty	
+Potreba lásky, prijatia, spolupatričnosti
+Potreba bezpečia a istoty Základné fyziologické potreby
+
+
+
+Kľúčové slová: vstupy, výrobné faktory (činitele), prírodné zdroje, práca, kapitál, výstupy, výrobky, služby, reprodukcia, alternatívne využívanie zdrojov
+
+   Už vieme, že väčšinu vzácnych (ekonomických) statkov na uspokojovanie svojich potrieb musí človek produkovať – vyrábať.
+
+7
+
+   Výroba je činnosť, ktorou sa výrobné faktory (vstupy) premieňajú vo výrobnom procese na užitočné výrobky a služby.
+   Predstavte si krajčírsku dielňu. Na ušitie spoločenských šiat potrebujeme látku, nite, gom- bíky, nožnice, šijacie aj žehliace stroje, elektrickú energiu a prácu krajčírky. Výsledkom vstupov
+a práce budú spoločenské šaty.
+
+Vstupy, výrobné faktoryVýstupypôda a prírodné zdroje
+VýrobavýrobkyprácaslužbykapitálVSTUPY DO VÝROBY
+   Každá výroba si vyžaduje určité výrobné faktory – vstupy do výroby. Sú to všetky statky, ktoré sa využívajú vo výrobných procesoch. Všetky vstupy do výroby sa nazývajú aj výrobné činitele. Môžeme ich rozdeliť do 3 skupín.
+1. Pôda a prírodné zdroje – všetko to, čo človek získava z prírody, napr. prírodné bohatstvo, vzduch, voda.
+2. Práca – cieľavedomá a účelná ľudská činnosť vynaložená v procese výroby.
+Prírodné zdroje a práca nie sú výsledkom výroby, nazývame ich prvotné výrobné faktory.
+3. Kapitál – fyzický kapitál: tvoria ho statky, ktoré boli vyrobené na to, aby sa ďalej používali vo výrobe (stroje, zariadenia, budovy, počítače);
+– ﬁnančný kapitál: sú to peniaze, za ktoré možno kúpiť nové výrobné haly, mate- riál na výrobu. Množstvo kapitálu nie je obmedzené.
+   Výrobné faktory nie sú nekonečné, preto sú vzácne. Ekonomická vzácnosť výrobných faktorov spôsobuje, že spoločnosť sa musí rozhodovať, ako ich efektívne využiť, aby sa vyrábali potrebné výrobky a služby.
+   Výrobné faktory možno využiť na rôzne účely – vyrobiť z nich rôzne druhy výrobkov. Ide o al- ternatívne využívanie zdrojov. Napríklad drevo môžeme použiť ako palivo, môžeme z neho vyrobiť nábytok, papier a podobne.
+VÝSTUPY Z VÝROBY
+Výstupmi z výroby sú výrobky a služby.
+1. Výrobok je hmotný ekonomický statok určený na spotrebu (obuv, odev, potraviny) alebo
+na ďalšiu výrobu (automatická linka v pekárni).
+2. Služby sú nehmotné ekonomické statky, ktoré svojou činnosťou, svojím priebehom uspoko- jujú ľudské potreby (divadelné predstavenie, servis počítačovej techniky, krajčírstvo). Výrobky a služby, ktoré sa kupujú a predávajú na trhu, sa stávajú tovarom.
+   Keďže potreby ľudí treba uspokojovať nepretržite (jesť musíme každý deň), musí sa aj výroba neustále opakovať. Tento sústavný výrobný proces nazývame reprodukcia.
+
+
+
+Výroba je činnosť ľudí, ktorej cieľom je produkovať výrobky a služby na uspokojovanie potrieb. Vstupmi do výroby sú prírodné zdroje, práca a kapitál. Pôda a prírodné zdroje nie sú výsled- kom predchádzajúcej výroby. Práca súvisí s ľuďmi, s ich schopnosťou a ochotou pracovať. Ka- pitál je výsledok výrobného procesu. Výrobné faktory majú alternatívne použitie. Výstupom výroby sú výrobky alebo služby. Opakujúca sa výroba sa nazýva reprodukcia.
+
+
+8
+
+Slovník
+produkovať – vyrábať materiálne statky určené na spotrebu efektívnosť – hospodárnosť, maximálne využitie zdrojov, prínos faktor – činiteľ
+alternatívny – pripúšťajúci výber, voľbu
+Otázky
+1. Vysvetlite, aký je rozdiel medzi službou, statkom, výrobkom a tovarom.
+2. Opíšte výrobný proces, jeho vstupy a výstupy.
+3. Vysvetlite, čo znamená ekonomická vzácnosť výrobných faktorov.
+Úlohy a námety
+1. Príkladom jednoduchého výrobného procesu môže byť príprava palaciniek. Opíšte postup pri príprave tejto pochúťky z pohľadu výrobných faktorov a pomenujte jednotlivé fázy výrobného procesu. Pomôže vám tabuľka na predchádzajúcej strane a tieto obrázky.
+
+
+
+
+
+2. Uveďte ďalšie príklady výrobných procesov a určte ich vstupy do výroby a výstupy z výro- by. Pomôže vám nasledujúca ukážka.
+Krajčírstvo: výrobný proces – vstupy do výroby a výstupy z výroby Vstupy do výroby
+
+
+
+
+Výstupy z výroby
+
+
+
+
+3. V ktorom z uvedených prípadov ľudská činnosť predstavuje prácu ako výrobný faktor?
+a) Učiteľ číta odborný časopis s cieľom nájsť aktuálne informácie.
+b) Listovanie bulvárneho časopisu počas oddychu.
+c) Učiteľka v materskej škole sa hrá s deťmi.
+
+
+
+9
+
+Udržateľná výroba sa sústreďuje na zníženie vplyvu výrobných procesov na životné prostredie. Výrobné procesy by mali fungovať tak, aby čo najmenej znečisťovali životné prostredie.
+Jedným zo spôsobov ako šetriť prírodné zdroje, ovzdušie, vodu je predlžovať životnosť výrobkov, zaviesť ekologickú výrobu (napr. igelitové nákupné tašky z recyklovateľného materiálu),
+zaviesť nové technológie na využívanie odpadov ako druhotných surovín, znižovať spotrebu energií vo výrobnom procese, vyrábať energeticky menej náročné spotrebiče. Štát stanovuje poplatky za znečisťovanie životného prostredia.
+
+3. EKONÓMIA A EKONOMIKA
+
+Kľúčové slová: ekonómia, ekonomika, mikroekonómia, makroekonómia, vzácnosť zdrojov
+
+   So základmi ekonómie sa každodenne stretávate už vo svojich rodinách a domácnostiach,    v ktorých žijete. Vaši rodičia denne zabezpečujú potreby celej rodiny, keď nakupujú potraviny, obuv, odev, platia účty za byt, elektrinu a podobne.
+EKONÓMIA
+   Už v starovekom Grécku sa učenci zamýšľali nad otázkami hospodárenia v domácnosti, ako aj v štáte. Slovo ekonómia pochádza z gréckeho slova oikonomia (oikos – dom a nomos – zákon), čo v preklade znamená domáce hospodárenie alebo správa domácnosti. Ekonómia ako veda vznikla v druhej polovici 18. storočia. Za zakladateľa sa pokladá anglický ekonóm Adam Smith.
+   Z predchádzajúceho učiva už viete, že zdroje (pôda, voda, suroviny, peniaze a pod.) na uspo- kojovanie potrieb sú obmedzené. Preto sa jednotlivci, podnikatelia aj celá spoločnosť musia neu- stále rozhodovať, na čo vzácne zdroje použijú a ktoré svoje potreby uspokoja. Napríklad ak máte 200 €, môžete si za ne kúpiť bicykel alebo lyže, ale nemôžete mať oboje naraz. Takisto spoločnosť musí rozhodovať, ako efektívne využiť výrobné faktory, aby bol dostatok potravín, aby fungovalo zdravotníctvo, školstvo. Tento problém vzácnosti zdrojov platí všade a jeho riešením sa zaoberá ekonómia.
+   Ekonómia je veda, ktorá skúma, akým spôsobom spoločnosť používa vzácne zdroje na výrobu užitočných tovarov a ako ich rozdeľuje medzi rozličné skupiny obyvateľstva. Ekonómia sa teda zaoberá rozhodovaním iba o vzácnych zdrojoch, lebo tieto zdroje na uspokojovanie potrieb sú obmedzené.
+Najjednoduchšou deﬁníciou ekonómie je, že je to veda o ekonomike (hospodárstve).
+MIKROEKONÓMIA A MAKROEKONÓMIA
+Ekonómia sa neskôr rozčlenila na dve časti: mikroekonómiu a makroekonómiu.
+   Mikroekonómia (mikro – malý) skúma správanie jednotlivcov (spotrebiteľov) a výrob- cov (podnikov) na trhu. Odpovedá napríklad na otázky: Prečo jednotlivci uprednostňujú nie- ktoré tovary? Ako sa rozhodujú pri kúpe tovarov? Prečo podniky ponúkajú určitý druh tovarov? Ako sa určujú ceny jednotlivých tovarov?
+   Makroekonómia (makro – veľký) sa zaoberá fungovaním ekonomiky ako celku. Odpovedá na otázky: Ako riešiť nezamestnanosť v celej spoločnosti? Koľko výrobkov sa vyrába a predáva v celom hospodárstve? Čo je príčinou zvyšovania cien? Aké tovary vyvážame do krajín Európskej únie? Aké výrobky dovážame?
+
+10
+
+EKONOMIKA
+   Ekonomika je hospodárska činnosť ľudí. Zahrnuje výrobu statkov a služieb a ich rozdeľovanie, výmenu a spotrebu. Cieľom ekonomiky je uspokojovať potreby spoločnosti. Každá ekonomika musí riešiť tri základné ekonomické otázky: Čo vyrábať? Ako vyrábať? Pre koho vyrábať? Podrobnejšie sa nimi budeme zaoberať v nasledujúcej téme.
+Ekonómia a ekonomika spolu úzko súvisia a navzájom sa ovplyvňujú.
+Vzťah ekonómie a ekonomiky
+teoreticky skúma využívanie a rozdeľovanie vzácnych zdrojov
+EKONÓMIA	EKONOMIKA
+teória	hospodárska činnosť
+teoretické poznatky prakticky využíva v hospodárskej činnosti (praxi)
+
+
+Ekonómia je veda, ktorá skúma, akým spôsobom spoločnosť používa vzácne zdroje na výro- bu užitočných tovarov a ako ich rozdeľuje medzi rozličné skupiny obyvateľstva. Zaoberá sa rozhodovaním iba o vzácnych zdrojoch. Ekonómiu členíme na mikroekonómiu a makroe- konómiu. Mikroekonómia skúma správanie jednotlivcov (spotrebiteľov) a výrobcov (pod- nikov) na trhu. Makroekonómia sa zaoberá fungovaním ekonomiky ako celku. Ekonomické vedomosti nám pomáhajú riešiť problémy každodenného života.
+
+Slovník
+vzácnosť – pojem zahrnuje obmedzenosť zdrojov, nedostatok a ich užitočnosť, efektívne využitie
+Otázky
+1. Vlastnými slovami vysvetlite, čo skúma ekonómia.
+2. Prečo sa ekonómia zaoberá rozhodovaním len o vzácnych statkoch?
+3. Čo skúma mikroekonómia a makroekonómia?
+Úlohy a námety
+1. Učiteľ napíše do stredu tabule pojem ekonómia (pozri schému). To isté urobia žiaci do svojich zošitov (prípadne na papier). Úlohou žiakov je voľne napísať a zakrúžkovať všetko, čo im pri téme ekonómia napadne (napr. potraviny, kino, tovar, obchod). Keď jednotliví žiaci dokončia svoju úlohu (asi 4 – 5 minút), zapíšu si na okraj papiera počet zhromaždených poznatkov. Potom urobíme záverečný súhrn jednotlivých pojmov na tabuľu. Jeden žiak prečíta všetko, čo má k danej téme zapísané vo svojom zošite. Učiteľ to zapisuje do schémy na tabuľu. Os- tatní žiaci dopĺňajú ďalšie pojmy, ktoré si zapísali do svojich zošitov.
+
+
+
+
+
+EKONÓMIA
+
+
+
+
+
+
+11
+
+
+
+
+
+
+
+Aristoteles (384 – 332 pred Kr.) Veľkým prínosom je jeho myš- lienka, že podstatou ekonomickej činnosti je produkcia a výmena tovarov s cieľom uspokojiť ľudské potreby. Pod pojmom ekonomika rozumel	hospodársku	činnosť, pomocou ktorej  sa  uspokojujú potreby človeka.
+
+
+
+
+
+
+
+
+Adam Smith (1723 – 1790)
+V roku 1776 publikoval svoje dielo Bohatstvo národov, ktoré je zá- kladom vzniku modernej ekonó- mie. Za základ fungovania ekono- miky považoval slobodu človeka, vlastníctva a podnikania. Adam Smith  je   autorom    myšlienky o „neviditeľnej ruke trhu“. To znamená, že väčšina ekonomic- kých otázok sa rieši prostred- níctvom trhu. Na trhu sa stretáva- jú výrobcovia a spotrebitelia a určujú ceny tovarov. Výrobcovia dodávajú na trh potrebné  tova- ry a spotrebitelia ich podľa svo- jich možností kupujú. Všetky tie- to činnosti prebiehajú bez aké- hokoľvek centrálneho  riadenia štátu. Napriek tomu fungujú tak presne, akoby ich riadila nejaká neviditeľná ruka.
+12
+2. 
+Ktoré z uvedených ekonomických problémov skúma mikroekonómia a ktoré makroekonómia?
+a) nezamestnanosť
+b) spotreba domácnosti
+c) hospodárenie malého podniku
+d) hospodárstvo Európskej únie
+e) zvyšovanie cien potravín
+3. Inými  slovami  vysvetlite  myšlienku  Adama  Smitha  o „neviditeľnej ruke trhu“.
+
+
+Pojem ekonomika je synonymom slova hospodárstvo. Z toho vyplýva, že:
+ekonomika štátu znamená
+  národné hospodárstvo, podniková ekonomika
+  znamená podnikové hospodárstvo, hospodárenie domácnosti
+môžeme pomenovať ako
+ekonomika domácnosti.
+
+4. ZÁKLADNÉ EKONOMICKÉ OTÁZKY
+
+Kľúčové slová: Čo vyrábať? Ako vyrábať? Pre koho vyrábať? efektívnosť
+
+   Každá ekonomika, podnikateľ, ﬁrma aj jednotlivec musia riešiť tri základné ekonomické otázky:
+Čo vyrábať?
+Ako vyrábať?
+Pre koho vyrábať?
+Pri riešení týchto otázok pomáha ekonómia.
+ČO VYRÁBAŤ?
+Odpovedať na túto otázku znamená určiť,
+– aké druhy výrobkov treba vyrábať a v akom množstve;
+■ Budeme vyrábať viac potravín alebo počítačov, viac bežných alebo luxusných tovarov?
+■ Máme vyrábať menej kvalitných riﬂí a viac lacných nohavíc?
+■ Treba vyrábať spotrebné statky (mobily, bicykle, tričká) alebo stavať diaľnice?
+
+– v akom čase vyrábať.
+■ Budeme vyrábať zimné tovary v zime alebo už v lete?
+■ Kedy začneme vyrábať vianočné ozdoby a kedy veľkonočné vajíčka?
+   Najjednoduchšie by bolo, keby spoločnosť mohla vyrábať všetky tovary, ktoré ľudia potrebu- jú, a v takom množstve, aby uspokojila všetky ich potreby. Už vieme, že to nie je možné, lebo výrobné zdroje spoločnosti sú obmedzené. Preto sa musíme neustále rozhodovať.
+AKO VYRÁBAŤ?
+V spoločnosti to znamená rozhodnúť,
+– kto bude vyrábať a s akými zdrojmi;
+■ Budú vyrábať štátne, súkromné či družstevné podniky?
+■ Pôjde o malé podniky alebo veľké podniky?
+■ Z čoho sa bude vyrábať elektrina? Z uhlia, vody, atómovej energie alebo pomocou slnka  a vetra?
+■ Aké materiály sa budú využívať? Prírodné alebo umelé (syntetické) látky?
+– s akou technikou a akými technologickými postupmi.
+■ Kúpime modernejšie stroje alebo budeme vyrábať ručne?
+■ Využijeme modernejšie technologické postupy alebo doterajšie?
+   Odpoveď na tieto otázky nie je jednoduchá. Je potrebné hľadať správne celospoločenské rozhodnutia. Najdôležitejšie je vyrábať tak, aby sa dosiahla najvyššia efektívnosť pri výrobe výrobkov. Efektívnosť znamená maximálne využívať zdroje, neplytvať (napríklad aby bol pri výrobe nábytku, obuvi čo najmenší odpad, prípadne vyriešiť, ako možno odpad využiť).
+PRE KOHO VYRÁBAŤ?
+Znamená určiť,
+– kto bude spotrebiteľ, ako sa rozdelia výsledky výroby.
+■ Bude sa rozdeľovať všetkým rovnako alebo podľa výšky príjmov?
+■ Ako rozdeliť produkty výroby medzi domácnosti a ﬁrmy?
+■ Chceme, aby viac zarábali vysoko vzdelaní ľudia alebo pracujúci s najnižším vzdelaním?
+■ Majú sa mať dobre aj ľudia, ktorí odmietajú pracovať?
+   Pri hľadaní odpovedí na tieto otázky treba zohľadňovať aj to, aby jednotlivé skupiny obyvateľstva dosiahli primeranú životnú úroveň, ako aj dopad na životné prostredie.
+
+
+Základné ekonomické otázky Čo vyrábať? Ako vyrábať? Pre koho vyrábať? musí riešiť každá spoločnosť, všetci malí výrobcovia, veľké ﬁrmy aj jednotlivci. Keďže výrobné zdroje spoločnosti sú obmedzené, je ich nedostatok, musíme sa neustále rozhodovať, ktoré potreby uspokojíme, aby úžitok bol čo najväčší. O efektívnom využívaní zdrojov hovoríme vtedy, ak sú maximálne využité všetky zdroje, neexistujú žiadne straty.
+
+Slovník
+životná úroveň – pojem vyjadruje úroveň výživy, bývania, odievania, vybavenosť domácnosti, úroveň zdravotníctva, školstva, kultúrnych zariadení a i.; vyjadruje aj množstvo a druh vynaloženej práce, pracovné prostredie, prírodné prostredie, možnosti využívania voľného času
+Otázky
+1. Čo vyjadrujú tri základné ekonomické otázky?
+2. Zdôvodnite, prečo každá ekonomika musí riešiť tri základné ekonomické otázky.
+
+
+13
+
+3. Čo je efektívnosť? Uveďte príklady efektívneho a neefektívneho hospodárenia z vášho okolia.
+4. Je hospodárenie vašej rodiny efektívne? Ako by sa dalo zefektívniť?
+Úlohy a námety
+1. Ján Botaska je súkromný podnikateľ. Jeho ﬁrma vyrába obuv. Ktorými základnými prob- lémami sa musí zaoberať? Pomôžte pánovi Botaskovi s riešením základných ekonomických otázok. Pracujte s obrázkami.
+
+Čo vyrábať?Ako vyrábať?Pre koho vyrábať?
+Čo vyrábať?
+
+
+
+
+Ako vyrábať?
+
+
+
+
+Pre koho vyrábať?
+
+
+
+
+
+
+2. Ako vyriešite tri ekonomické otázky Čo? Ako? Pre koho? pri obstarávaní darčekov na Via- noce pre sestru/brata, mamu, otca, keď máte k dispozícii 10 €.
+3. Tri ekonomické otázky musí zodpovedať každá spoločnosť, od najrozvinutejšej až po naj- menej rozvinutú. Rozdeľte sa do skupín. Každá skupina bude riešiť základné ekonomické otázky v jednotlivých typoch spoločnosti. Využite poznatky z geograﬁe a dejepisu.
+Typy spoločnosti
+1. praveká spoločnosť
+2. Indiáni
+3. africké kmene
+4. stredoveká spoločnosť
+5. obyvatelia Aljašky
+6. vyspelá spoločnosť 21. storočia
+14
+
+Dnes žije v extrémnej chudobe jedna miliarda ľudí, teda 200-násobok počtu obyvateľov Slovenska. Jednou z foriem extrémnej chudoby je počet ľudí žijúcich z menej ako jedného amerického dolára na deň. Mnohí z nás dnes minú za jednu kávu, dlhší telefonát alebo časopis viac, ako má denne k dispozícii jedna miliarda ľudí na svete na to, aby prežila.
+Takmer polovica obyvateľov sveta, asi 2,5 miliardy ľudí, žije z menej ako dvoch dolárov na deň.
+(Zdroj: Zajac, L. – Návojský, A.: Panáčik proti chudobe. Metodická príručka pre učiteľov základných škôl. Bratislava, 2006, s. 8 – údaje o počte obyvateľov Zeme sú z citovaného zdroja.)
+
+5. TYPY EKONOMÍK
+
+
+Kľúčové slová: príkazová ekonomika, trhová ekonomika, zmiešaná ekonomika, vlastníctvo
+
+   Niektoré ekonomiky riešia tri základné otázky príkazmi, iné prostredníctvom trhu alebo kombináciou oboch prvkov. Na základe toho rozlišujeme tieto typy ekonomík.
+Typy ekonomík
+
+TrhováPríkazováZmiešanáVznik– 17. až 18. storočie v zá- padnej Európe
+– prevláda v 19. storočí– 20. roky 20. storočia v ZSSR
+– po 2. svetovej vojne
+v krajinách v strednej a východnej Európy, Čína, Sev. Kórea, Kuba, sev. Vietnam, Mongolsko– prelom 19. a 20. storočia, rozšírená po svetovej hospodárskej kríze (1929 – 1933)
+– v súčasnosti existuje v krajinách EÚ, USA, Japonsku, vo väčšine krajín svetaZnaky– prevláda súkromné vlastníctvo
+– trhový mechanizmus
+– sloboda podnikania
+– existuje konkurencia– prevláda štátne vlastníctvo
+– centrálne plánovanie
+– centrálne stanovené ceny, mzdy
+– neexistuje konkurencia– rôzne formy vlastníctva, prevláda súkromné vlastníctvo
+– slobodné podnikanie
+– trhový mechanizmus
+– existuje konkurencia
+– obmedzené zásahy štátu do ekonomikyKto rieši základné ekonomické otázky
+trh
+štát
+trh + štátTRHOVÁ EKONOMIKA
+   V trhovej ekonomike základné ekonomické otázky rieši trh. Trhová ekonomika funguje pro- stredníctvom trhového mechanizmu, t. j. procesu, v ktorom vstupuje do vzájomného vzťahu ponuka a dopyt a výsledkom je trhová cena. (Trhový mechanizmus podrobne rozoberieme
+
+15
+
+v nasledujúcej téme.) Sloboda podnikania znamená, že jednotlivci môžu zakladať nové pod- niky alebo ukončiť činnosť existujúcich podnikov.
+Ako rieši trhová ekonomika tri základné ekonomické otázky?
+■ Čo vyrábať – určujú spotrebitelia. Od nich závisí, ktoré tovary kúpia a ktoré nie.
+■ Ako vyrábať – rozhoduje konkurencia (súťaživosť) medzi výrobcami rovnakých tovarov. Ten výrobca, ktorý dokáže vyrábať kvalitnejšie a lacnejšie, vytlačí konkurenta z trhu.
+■ Pre koho vyrábať – rieši trh prostredníctvom ponuky a dopytu. Závisí to aj od príjmov spotrebiteľov a od cien tovarov a služieb. Vyrába sa pre toho, kto má peniaze na nákup vyrobeného tovaru.
+   Medzi nedostatky trhovej ekonomiky patrí nezamestnanosť, nestabilita cien, veľké rozdiely medzi bohatými a chudobnými, nezáujem o ochranu životného prostredia (o to, aký dopad má výroba na životné prostredie).
+PRÍKAZOVÁ EKONOMIKA
+   V príkazovej ekonomike odpovede na základné ekonomické otázky dáva štát. Centrálne plánovanie znamená, že štát prikazuje podnikom, čo a ako budú vyrábať. Existuje centrálny plán (napríklad tzv. päťročnice), prostredníctvom ktorého štát rieši tri základné ekonomické otázky. V centrálnom pláne je určené, čo sa má vyrábať, z akých zdrojov, akou technológiou. Štát centrálne určuje mzdy aj ceny všetkých tovarov. Napríklad v období príkazovej ekonomiky bola cena litra mlieka v každom obchode na celom Slovensku rovnaká a nemenila sa aj 10 rokov.
+   Ide o nedostatkovú ekonomiku, kde vždy nejaký tovar chýbal a iný, nepotrebný tovar sa hro- madil, lebo ho nikto nekupoval. Ľudia sa nemohli slobodne rozhodovať, čo znižovalo ich ochotu pracovať, produkovať a inovovať.
+ZMIEŠANÁ EKONOMIKA
+   Zmiešaná ekonomika je vyšším typom ekonomiky. Využíva všetky znaky trhovej ekonomiky, ale aj obmedzené zásahy štátu do ekonomiky. Jej základom je trhový mechanizmus. Keďže trhový mechanizmus nie je dokonalý, nie je schopný vyriešiť všetky problémy ekonomiky, musí zasahovať štát.
+   Štát prijíma právne predpisy (zákony, vládne nariadenia), stará sa o zdravotníctvo, školstvo, políciu, armádu, zásobovanie energiou, ochraňuje zdravotne postihnutých, starých ľudí, určuje životné minimum, minimálnu mzdu, podporu v nezamestnanosti a podobne. Veľkú pozornosť musí venovať aj ochrane životného prostredia. V praxi sa takýto typ ekonomiky zjednodušene označuje tiež ako „trhová“ ekonomika.
+   Ekonomika Slovenskej republiky sa po roku 1989 postupne zmenila z príkazovej ekonomiky na zmiešanú ekonomiku.
+VLASTNÍCTVO
+   Vlastníctvo znamená mať majetok, t. j. vlastniť dom, auto, ﬁrmu, pozemky a podobne. Vlast- níctvo má rôzne formy, ktoré znázorňuje schéma.
+
+
+
+
+
+
+16
+
+Súkromné – vlastníkom je súkromná osoba, jednotlivec alebo viac osôb, napr. súkromné ﬁrmy.
+Štátne – vlastníkom je štát. Vo vlastníctve štátu sú napr. hory, rieky, niektoré veľké podniky. Družstevné – patria sem družstvá, ktoré sa zaoberajú poľnohospodárskou výrobou, výrobné družstvá, kde sa realizuje výroba obuvi, šitie odevov atď., spotrebné družstvá
+s predajom potravín a podobne.
+Obecné/mestské – obce/mestá môžu vlastniť budovu základnej školy, kultúrny dom, ihrisko, domov dôchodcov.
+   Ľudia majú k majetku rôzny vzťah. Skúsenosti z historického vývoja spoločnosti ukazujú, že ľudia sa lepšie starajú o súkromný alebo družstevný majetok, ako o štátny alebo obecný majetok.
+
+
+Podľa toho, akým spôsobom ekonomiky riešia tri základné ekonomické otázky, rozlišujeme niekoľko typov ekonomík: trhovú, príkazovú a zmiešanú. V trhovej ekonomike odpovede na základné ekonomické otázky dáva trh, v príkazovej ekonomike štát a v zmiešanej ekonomike okrem trhu musí zasahovať štát, aby napravil nedostatky trhu a zabezpečil stabilitu, rovnosť a postaral sa o sociálne najslabších ľudí (nezamestnaných, chudobných, chorých a pod.).
+
+Slovník
+päťročnica – plán výroby celého hospodárstva na päť rokov
+životné minimum – zákonom stanovená minimálna hranica príjmov občana na zabezpečenie výživy, osobných potrieb a nevyhnutných nákladov na domácnosť
+nestabilita cien – prudké kolísanie, najmä zvyšovanie cien
+Otázky
+1. Vymenujte typy ekonomík a uveďte, kto v nich rieši základné ekonomické otázky.
+2. Uveďte tri znaky príkazovej, trhovej a zmiešanej ekonomiky.
+3. Aký typ ekonomiky prevláda v súčasnosti vo vyspelých štátoch?
+4. Je podľa vás nejaký vzťah medzi typom ekonomiky a politickým režimom v krajine?
+Úlohy a námety
+1. Pozorne si pozrite fotograﬁe. Určte, do akej formy vlastníctva patria zobrazené objekty či lokality a zapíšte ich do zošita.
+Súkromné ..........................................................................................................................
+Štátne ................................................................................................................................
+Družstevné ........................................................................................................................
+Obecné/mestské ................................................................................................................
+
+
+
+
+
+
+
+
+mestské kúpalisko	Liptovská Mara	kravín poľnohospodárskeho
+družstva
+
+súkromné gymnázium
+
+
+
+
+17
+
+
+
+
+Vysoké Tatry	obecná čistička vody	les pána Horáka	ﬁrma Botas –
+Ján Botaska
+2. Porovnajte jednotlivé typy ekonomík z hľadiska pozitív a negatív. Pomôžte si učebným textom.
+
+PozitívaNegatíva (nedostatky)Príkazová ekonomikaTrhová ekonomikaZmiešaná ekonomika3. Vyhľadajte na mape Európy krajiny, v ktorých po 2. svetovej vojne existovala príkazová ekonomika a zapíšte ich do zošita. V ktorých krajinách majú príkazové ekonomiky dodnes? Informácie o nich vyhľadajte na internete. Pokúste sa zdôvodniť, prečo tieto ekonomiky pretrvávajú dodnes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18
+
+Typy ekonomík na Slovensku z historického pohľadu
+ČSR (1918 – 1939) – zmiešaná ekonomika
+SR (1939 – 1945) – príkazová ekonomika (obdobie 2. svetovej vojny) ČSR (1945 – 1948) – prechod na príkazovú ekonomiku
+ČSSR (1948 – 1989) – príkazová ekonomika
+ČSFR (1990 – 1993) – prechod na zmiešanú ekonomiku SR (1993 – doteraz) – zmiešaná ekonomika
+
+6. TRHOVÝ MECHANIZMUS
+
+Kľúčové slová: trh, trhový mechanizmus, ponuka, zmeny ponuky, dopyt, zmeny dopytu, cena
+
+   V predchádzajúcom učive sme sa oboznámili so základnými typmi ekonomík. Doterajší vývoj spoločnosti ukazuje, že ekonomiky, ktoré základné ekonomické otázky riešili prostredníctvom trhu a trhového mechanizmu, dosahovali a dosahujú najvyššiu úroveň. Teraz si vysvetlíme pod- statu fungovania trhového mechanizmu.
+TRH
+   Pojem trhový mechanizmus je odvodený od slova trh. Trh je miesto, kde sa stretávajú ku- pujúci (spotrebitelia) a predávajúci (ﬁrmy, podniky), aby sa spoločne dohodli na kúpe a predaji určitého tovaru za určitú cenu, napr. trh počítačov, áut, zemiakov, obilia.
+   Na trhu sa stretáva ponuka určitého tovaru alebo služby s dopytom po tomto tovare alebo službe. Výsledkom ich vzájomného pôsobenia je cena. Vzájomné vzťahy medzi ponukou a dopy- tom znázorňuje schéma.
+
+Schéma trhu tovarov a služieb
+(zjednodušená)
+
+Ponuka FIRMY, PODNIKY
+
+CENA
+
+ 	predávajú 
+
+
+
+   Na trhu tovarov a služieb sa kupujú a predávajú tovary a služby určené na osobnú spotrebu (napr. chlieb, zelenina, obuv, bicykel, elektronika, oprava obuvi).
+TRHOVÝ MECHANIZMUS
+   Trhový mechanizmus je proces, v ktorom sa do vzájomného vzťahu dostávajú dopyt a ponu- ka a výsledkom tohto vzťahu je cena.
+
+
+19
+
+Dopyt
+   Domácnosti – spotrebitelia vystupujú na trhu tovarov a služieb ako kupujúci, ktorí sa slobodne rozhodujú, aké tovary a v akom množstve budú spotrebúvať. Ich rozhodovanie o kúpe ovplyvňujú tieto faktory:
+a) ceny tovarov,
+b) množstvo žiadaného tovaru,
+c) výška príjmov spotrebiteľov,
+d) záľuby, móda, ceny iných tovarov, počasie a podobne.
+   Dopyt predstavuje také množstvo tovarov a služieb, aké sú spotrebitelia ochotní kúpiť za určitú cenu.
+Ponuka
+   Firmy, podniky – výrobcovia vyrábajú tovary a služby a na trh prichádzajú s cieľom predať ich za určitú cenu.
+Ich ponuka závisí od týchto faktorov:
+a) cena ponúkaného tovaru,
+b) množstvo ponúkaného tovaru,
+c) náklady spojené s výrobou daného tovaru.
+Ponuka je množstvo tovarov a služieb, ktoré chcú výrobcovia za určitú cenu predať.
+
+Cena
+   Spotrebitelia aj výrobcovia prichádzajú na trh s konkrétnym cieľom. Spotrebitelia chcú čo najlacnejšie kúpiť, aby ušetrili, a výrobcovia chcú čo najdrahšie predať, aby mali čo najväčší zisk. Ceny tak plnia dôležitú úlohu a ich zmeny ovplyvňujú správanie spotrebiteľov i výrobcov. Cena, za ktorú sa tovar predá, závisí od situácie na trhu, teda od vzťahu medzi ponukou (P)
+a dopytom (D).
+■ Ak na trhu dopyt po tovare je vyšší ako ponuka, znamená to, že
+– na trhu je určitého tovaru nedostatok alebo spotrebitelia zvýšili záujem o určitý to- var;
+– výrobcovia začnú zvyšovať ceny, vyššia cena spôsobí aj zvýšenie výroby, lebo za vyššie ceny sa im oplatí viac vyrábať, to znamená, že ponuka sa zvýši;
+– za vyššiu cenu sa predá menej tovaru – dopyt sa zníži.
+Výsledkom bude vytvorenie dočasnej rovnováhy medzi ponukou a dopytom.
+
+■ Ak na trhu nastane situácia, že ponuka tovaru je vyššia ako dopyt, znamená to, že
+– na trhu je prebytok určitého tovaru čiže viac, ako sú spotrebitelia ochotní za danú cenu kúpiť;
+– ak výrobcovia chcú tovar predať, musia znížiť jeho cenu, ale súčasne znížia výrobu. Za nízke ceny sa niektorým neoplatí vyrábať, lebo dosahujú nízke zisky, to znamená, že ponuka sa zníži.
+Výsledkom bude vytvorenie dočasnej rovnováhy medzi ponukou a dopytom.
+
+
+
+20
+
+■ Ak sa ponuka rovná dopytu po určitom tovare, znamená to, že
+– cena sa nemení, všetok vyrobený tovar sa predá a aj dopyt po tovare je uspokojený.
+
+
+V trhovej a zmiešanej ekonomike sa ekonomické problémy riešia na trhu, pomocou trhového mechanizmu. Trh je miesto, kde sa za určitú cenu kupujú a predávajú tovary. Trhový mechanizmus je mechanizmus tvorby cien na trhu pod vplyvom ponuky a dopytu. Ponuka je množstvo tovarov a služieb, ktoré chcú výrobcovia za určitú cenu predať. Dopyt pred- stavuje také množstvo tovarov a služieb, aké sú spotrebitelia ochotní kúpiť za určitú cenu. Trhová ekonomika vyrába to, po čom je dopyt, čo spotrebitelia kupujú.
+
+Slovník
+náklady podniku – vyjadrujú, koľko peňazí stála výroba výrobkov a služieb (podrobnejšie to rozobe- rieme v nasledujúcom učive o podniku a podnikaní)
+Otázky
+1. Čo rozumiete pod pojmom trh?
+2. Kto predstavuje dopyt a kto ponuku na trhu?
+3. Vysvetlite, ako funguje trhový mechanizmus.
+4. Uveďte faktory, ktoré ovplyvňujú dopyt a ktoré ponuku.
+Úlohy a námety
+1. Pozrite si obrázky a určte, aký typ trhu znázorňujú. K písmenám pod obrázkami priraďte názvy trhov. Vyberte si z týchto možností:
+■ miestny trh ■ ﬁnančný trh ■ národný trh ■ trh pôdy ■ trh práce ■ trh kapitálu
+■ trh tovarov a služieb ■ svetový trh
+Uveďte príklady kúpy a predaja, dovozu alebo vývozu tovarov na týchto trhoch.
+
+
+
+
+
+
+
+A	B	C	D
+
+E	F	G	H
+
+2. V roku 2011 ceny na Slovensku rástli v priemere o 3,9%, čo bolo najviac za posledné tri roky. Podľa Štatistického úradu SR ľudia si priplatili najmä za dopravu a potraviny, kde zdraženie presiahlo 6%. Ceny potravín ovplyvnilo zvyšovanie daní, ako aj drahšia ropa. Naopak, miernejšie ceny potravín naznačuje dobrá vlaňajšia úroda. Rast cien potravín
+
+21
+
+tento rok sa odhaduje na 2%. Svoje urobí aj naďalej oslabený dopyt spotrebiteľov v čase dlhovej krízy. (TASR)
+a) Čo bolo príčinou zvyšovania cien potravín?
+b) Čo môže ovplyvniť znižovanie cien potravín?
+
+
+Výrobky sa z výroby dostávajú do obchodov. Medzi výrobcami, ale aj predajcami
+v obchodoch existuje na trhu konkurencia – súťaženie. Každá ﬁrma či obchod chce dosiahnuť čo najväčší zisk, a to aj na úkor iných výrobcov. Preto sa snažia získať na svoju stranu čo najviac spotrebiteľov. Využívajú na to: znižovanie cien, reklamu, rôzne akcie (najmä v obchodoch), poskytovanie zliav pri nákupe, predaj na splátky a podobne.
+
+SAMOTESTOVACIE ÚLOHY
+1. Roztrieďte uvedené ľudské potreby na základné potreby a vyššie potreby.
+
+PotrebyZákladnéVyššiebývaťuhasiť smädvlastniť autopočúvať hudbuísť na futbalový zápasobliecť samať priateľov2. Vytvorte správne dvojice z mien a uvedených pojmov.
+A) Maslow	1. neviditeľná ruka trhu
+B) Smith	2. Nobelova cena za ekonómiu
+C) Samuelson	3. hierarchia potrieb
+3. Vysvetlite, prečo ekonómia v starovekom Grécku dostala názov správa domácnos- ti.
+4. Vo vývoji spoločnosti rozlišujeme niekoľko typov ekonomík. Zoraďte uvedené typy ekonomík podľa toho, ako po sebe časovo nasledovali.
+príkazová	■	zmiešaná	■	trhová
+5. Na ľavú stranu schémy napíšte vstupy do výroby a na pravú stranu výstupy z výroby.
+
+
+
+
+
+
+22
+
+6. Uveďte po tri príklady z ekonomickej činnosti, čo skúma mikroekonómia a čo makroekonómia.
+Mikroekonómia	Makroekonómia
+
+----------------------
+----------------------
+----------------------
+7. Pôda je a) voľný statok
+b) prvotný výrobný faktor
+
+-----------------------
+-----------------------
+-----------------------
+
+c) druhotný výrobný faktor
+8. Doplňte vety.
+Dopyt na trhu tovarov a služieb predstavujú .....................................
+Ponuku na trhu tovarov a služieb predstavujú ..................................
+9. Stav v trhovej ekonomike, keď dopyt po tovare prevyšuje ponuku, spôsobí, že
+a) cena sa zvyšuje
+b) cena sa znižuje
+c) cena sa nemení
+10. Uvedené pojmy priraďte k typu ekonomiky.
+trhový mechanizmus – centrálne plánovanie – prevláda štátne vlastníctvo – sloboda pod- nikania – existuje konkurencia – neexistuje konkurencia – prevláda súkromné vlastníctvo
+– centrálne stanovené ceny
+
+Príkazová ekonomikaTrhová ekonomika11. Podľa Ústavy SR „hospodárstvo SR sa zakladá na princípoch sociálne a ekolo- gicky orientovanej trhovej ekonomiky“.
+a) Ktoré princípy hospodárstva v SR zakotvuje Ústava SR?
+b) Vysvetlite, čo tieto princípy znamenajú.
+12. Výrobky a služby, ktoré sa kupujú a predávajú na trhu, sú
+a) službou
+b) výrobkom
+c) tovarom
+13. Sú nasledujúce tvrdenia správne? Odpovedzte áno – nie.
+■ Zmiešaná ekonomika predstavuje prvky trhovej a príkazovej ekonomiky.
+■ Dnešné moderné ekonomiky majú charakter trhových ekonomík.
+■ Rozhodujúca väčšina statkov nie je voľných, ale ekonomických.
+■ Trhový mechanizmus tvoria tri skupiny procesov: utváranie dopytu, ponuky a ceny.
+■ Nedostatok tovaru nastáva vtedy, keď ponuka prevyšuje dopyt po tovare.
+14. Uveďte tri príklady, kedy ste poznatky z ekonómie využili praxi.
+
+23
+
+Základné formy podnikania
+7. PODNIK A PODNIKANIE
+
+
+Kľúčové slová: podnik, podnikanie, zložky podniku, fyzická osoba, právnická osoba, obchodný register, práva a povinnosti podniku
+
+   Na predchádzajúcich hodinách sme sa dozvedeli, ako funguje trhový mechanizmus a aj to, že výrobky a služby na trh ponúkajú podniky rôzneho druhu.
+PODNIK A JEHO ZLOŽKY
+   Podnik je samostatná hospodárska jednotka, ktorá využívaním výrobných faktorov vyrába výrobky alebo poskytuje služby určené na predaj. Podniky sú hospodárske organizácie, ktoré zabezpečujú produkciu väčšiny statkov. Majú právnu subjektivitu, to znamená, že majú právo vo vlastnom mene uzatvárať zmluvy s inými podnikmi.
+Aby podnik mohol dobre fungovať, musí mať:
+■ fyzický a peňažný kapitál – autá, výrobné linky, budovy, pozemky (fyzický kapitál) a peniaze (ﬁnanč- ný kapitál);
+■ dobré meno, povesť, postavenie na trhu – serióznou prácou si podnik získa stálych zákazníkov a tým aj stály zdroj príjmov;
+■ kvaliﬁkovaných zamestnancov – zamestnanci majú mať vzdelanie a odbornú spôsobilosť na vy- konávanie práce v príslušnom podniku.
+
+Právne normy pre podnikanie
+   Každý podnik musí rešpektovať všeobecné pravidlá podnikania, ktoré určuje štát. Základné právne normy, ktoré deﬁnujú podnikanie a ktorými sa musia podniky v SR riadiť, sú:
+■ Obchodný zákonník – stanovuje všeobecné pravidlá pri zakladaní a fungovaní podnikov, vymedzuje ich právne formy, účtovníctvo a ďalšie požiadavky;
+■ živnostenský zákon – vymedzuje všeobecné aj osobitné podmienky prevádzkovania živ- ností, potrebné údaje pri ohlasovaní živnosti atď.
+PODNIKANIE
+   Podnikanie je sústavná činnosť, ktorú podnikateľ vykonáva samostatne (sám rozhoduje   o činnosti podniku), vo vlastnom mene (obchodné meno, názov a sídlo ﬁrmy), na vlastnú zodpovednosť (podnikateľ je zodpovedný za dosiahnutý výsledok podnikania, ktorým môže byť zisk alebo strata) a s cieľom dosiahnuť zisk.
+Za podnikanie pokladáme len sústavnú (nepretržitú) zárobkovú činnosť. Jednorazová,
+náhodná činnosť podnikaním nie je. Všetky tieto podmienky musia byť splnené súčasne.
+
+
+
+
+
+24
+
+
+
+
+
+
+
+   Rozhodovanie o podnikaní nie je jednoduché. Dôležité je dôkladne premyslieť a správne si vybrať oblasť podnikania (oprava áut, cestovná kancelária, výroba zdravotníckych potrieb, predaj či výroba určitého tovaru). Musíme zvážiť všetky faktory, ktoré môžu ovplyvniť úspech v podnikaní.
+Podnikať môžu fyzické aj právnické osoby (občania aj organizácie).
+   Fyzická osoba je každý človek, ktorý narodením nadobúda práva a povinnosti (môže napríklad dediť alebo vlastniť majetok). Spôsobilosť na právne úkony (aj právo podnikať) vzniká po dovŕšení veku 18 rokov. Až vtedy môže jedinec podpisovať zmluvy a dokumenty vo vlastnom mene, berie na seba povinnosti, teda má právnu zodpovednosť.
+   Právnická osoba je taký subjekt podnikania, ktorý má práva a povinnosti a nie je fyzickou osobou. Vzniká dňom zápisu do obchodného registra. Právnickými osobami sú najmä obchodné spoločnosti.
+   Obchodný register SR je verejný zoznam s dôležitými údajmi o podnikateľskej organizácii: IČO – identiﬁkačné číslo organizácie, obchodné meno, sídlo, predmet podnikania, právna forma podnikania a ďalšie (www.orsr.sk).
+Každý podnik má svoje práva a povinnosti.
+Práva podnikov
+■ používať vlastný obchodný názov ﬁrmy (je to zároveň aj jeho povinnosť)
+■ nadobúdať neobmedzené množstvo majetku
+■ zamestnávať neobmedzený počet pracovníkov
+Povinnosti podnikov
+■ viesť účtovníctvo (zaznamenávanie nákladov, príjmov, výsledkov hospodárskej činnosti)
+■ chrániť životné prostredie – vplyvy, ktoré spôsobuje podnikanie, nesmú ohrozovať zamest- nancov, občanov alebo životné prostredie (napr. poľnohospodárske stroje na dopravných komunikáciách, odpadové vody, hluk)
+■ platiť štátu dane
+
+
+Podnik je samostatná hospodárska jednotka, ktorá využívaním výrobných činiteľov vyrába výrobky alebo poskytuje služby určené na predaj. Podnikanie je sústavná činnosť, ktorú podnikateľ uskutočňuje samostatne, vlastným menom, na vlastnú zodpovednosť, s cieľom dosiahnuť zisk. Podnikať môže fyzická aj právnická osoba, ktorá je zapísaná v obchodnom registri a má vymedzené práva aj povinnosti.
+
+Slovník
+právny subjekt – osoba alebo organizácia spôsobilá na právne úkony
+
+
+25
+
+Otázky
+1. Vymenujte päť podmienok podnikania.
+2. Ktoré právne normy upravujú podnikateľskú činnosť v SR?
+3. Čo je obchodný register a čo znamená skratka IČO?
+4. Aké sú práva a povinnosti podniku?
+Úlohy a námety
+1. Podnik. Aké predstavy vo vás vyvoláva toto slovo? Zapíšte si do zošita slová, ktoré vám   v súvislosti s ním napadnú. Deﬁnujte ich a doplňte ďalším slovom. Napríklad: kapitál → ﬁnančný atď.
+
+?
+?	kapitál
+
+ﬁnančný
+
+
+?	PODNIK	?
+
+?	?
+?
+
+2. Vyhľadajte v tlači a sledujte v médiách konkrétne prípady porušovania povinností podni- kateľov. Zapíšte si ich a informácie prezentujte na vyučovacej hodine.
+
+
+Od roku 2000 používame na Slovensku členenie podnikov podľa veľkosti tak, ako je to bežné v Európskej únii. Hlavným kritériom je počet zamestnancov.
+
+PodnikPočet zamestnancovmalý1 – 49stredný50 – 249veľký250 a viac
+8. HOSPODÁRENIE PODNIKU
+
+
+Kľúčové slová: príjmy, náklady, zisk, strata, dodávateľ, odberateľ, konkurencia, produktivita práce
+
+   Cieľom podnikania je zväčšiť kapitál podniku. Podmienkou je uspokojovanie potrieb ľudí prostredníctvom výroby alebo poskytovaním služieb tak, aby za predaj výrobkov alebo služieb podnik získal viac peňazí, ako potreboval na ich výrobu.
+   Aj keď je podnik ekonomicky a právne samostatný, nevyhnutne sa dostáva do vzťahu s inými podnikmi. Potrebuje:
+
+
+26
+
+– dodávateľov, ktorí dodávajú materiál, suroviny, zabezpečujú prepravu a podobne;
+– odberateľov čiže zákazníkov, ktorí odoberajú tovar, môžu to byť koneční spotrebitelia, ale aj iní výrobcovia.
+   Celkové príjmy (P) podniku predstavujú peniaze, ktoré podnik získa predajom výrobkov  a služieb.
+   Celkové náklady (N) podniku vyjadrujú, koľko peňazí stála výroba výrobkov a služieb. Ak od sumy získanej za predaj výrobkov odpočítame sumu potrebnú na prevádzku podniku, do- staneme zisk. Ten dosahujú podniky, ktoré majú vyššie príjmy ako náklady.
+
+Príjmy podnikuNáklady podniku– peniaze, ktoré podnik získa za predaj výrobkov a služieb
+– výška príjmov závisí od počtu predaných výrob- kov a služieb a cien, za ktoré sa predali– nákup surovín
+– nákup strojov na výrobu
+– peniaze na mzdy zamestnancov
+– spotreba energií (elektrina, plyn, voda)Zisk dosahujú podniky, ktoré majú príjmy vyššie ako náklady.
+Ak sú príjmy nižšie ako náklady, výsledkom hospodárenia je strata.
+P > N = zisk
+
+P < N = strata
+
+výsledok hospodárenia
+
+
+Výsledok hospodárenia = príjmy mínus náklady.
+   Úspešnosť hospodárenia podniku ovplyvňuje aj produktivita práce a jeho konkurencie- schopnosť. Produktivita práce je hodnota výrobkov alebo služieb, ktoré vyrobí jeden zamest- nanec za jednu hodinu. Čím menej času je potrebného na výrobu jedného výrobku a čím viac výrobkov sa vyrobí za určitý čas, tým je produktivita vyššia.
+
+
+
+
+
+
+
+
+Vďaka vyššej produktivite môžu podniky svojim zamestnancom zvyšovať mzdy a tí si môžu
+kúpiť viac tovarov a služieb.
+
+27
+
+   Zvyšovanie produktivity práce ovplyvňuje hospodárenie podniku aj jeho konkurencie- schopnosť.
+   Na trhu sa stretávajú záujmy podnikov a spotrebiteľov, každý z nich sa usiluje dosiahnuť nejakú výhodu.
+Hovoríme tomu konkurencia (súťaž).
+   Najväčšie súperenie je medzi podnikmi a spotrebiteľmi – podniky chcú čo najdrahšie predávať a spotrebitelia čo najlacnejšie kupovať.
+   Najviac si však uvedomujeme konkurenciu medzi podnikmi v súvislosti s cenami to- varov. Podniky chcú získať zákazníka na svoju stranu – ponúkajú zľavy, akciový predaj, veľkú pozornosť venujú napríklad reklame (bližšie informácie nájdete v rozširujúcom učive   o reklame) či obalom svojich tovarov, zabezpečujú kvalitný servis, predávajú na úver a vy- lepšujú rôzne vlastnosti svojich výrobkov.
+
+
+Hlavným cieľom činnosti každého podniku je získať čo najviac peňazí. Zisk dosahujú     tie podniky, ktoré majú vyššie príjmy ako náklady. Podniky sa navzájom líšia nielen predmetom svojej činnosti, ale aj veľkosťou či vlastníkmi. Produktivita práce je jedným   z ukazovateľov kvality podniku a zároveň určuje jeho konkurencieschopnosť. Deľba práce, špecializácia, nákup nových strojov, zariadení, starostlivosť o zdravie zamestnancov a pod- porovanie ďalšieho vzdelávania vedú k rastu životnej úrovne.
+
+Otázky
+1. Čo tvorí príjmy a náklady podniku?
+2. Ako špecializácia a deľba práce ovplyvňujú produktivitu?
+3. Prečo je zvyšovanie produktivity v ekonomike dôležité pre každého z nás?
+Slovník
+kritérium – meradlo pri porovnávaní; odlišovací znak, poznávacie znamenie
+dotácia – poskytnutie peňažných prostriedkov zo štátnych, verejných zdrojov
+Úlohy a námety
+1. Pán Novák je poisťovacím agentom. Za 8 hodín práce uzatvorí s klientmi 8 zmlúv o ha- varijnom poistení auta a 6 zmlúv o poistení domácnosti. Za jedno havarijné poistenie získa od ﬁrmy 35 eur a za jedno poistenie domácnosti 60 eur. Aká je jeho produktivita práce za hodinu?
+2. Podnik vyrobil za určitý čas 500 kusov riﬂí, pričom náklady na 1 kus boli 10 eur. Cena výrobku bola 15 eur a predalo sa 250 kusov. Vypočítajte hospodársky výsledok.
+3. Predstavte si, že ste zamestnancami knihovníckej ﬁrmy. Budete vyrábať „knihy“.
+1. kolo hry – každý z vás je samostatným knihovníkom.
+Váš výrobný proces: papier formátu A4 roztrhnite na dve polovice, položte ich na seba a opäť ich obe roztrhnite na polovice. Vzniknuté štvrtiny položte na seba a v polovici ich zohnite. Vznikne „kniha“, ktorá bude mať 16 strán. V ľavom hornom rohu spojte papiere kancelárskou spinkou. Na titulnú stranu napíšte vymyslený názov ﬁrmy a vnútorné nepárne strany knihy očíslujte číslami od 2 do 14 umiestnenými v ľavom dolnom rohu strany.
+2. kolo hry – pracujte v 4-členných skupinách. Rozdeľte si prácu pri výrobe – jeden bude trhať papier, druhý ho bude skladať, tretí písať a štvrtý číslovať strany.
+Na každé kolo máte 3 minúty, aby ste vyrobili čo najviac kníh, ktoré musia spĺňať pred- písané požiadavky.
+
+28
+
+Po uplynutí času v oboch kolách si spočítajte „knihy“. V druhom kole si zvoľte hovorcov ﬁrmy, ktorí oboznámia ostatných s produktivitou práce v jednotlivých skupinách. V dis- kusii porovnajte výhody a nevýhody špecializácie a deľby práce.
+(Zdroj: Kolektív autorov: Podnikateľské vzdelávanie. Základy ekonómie. Bratislava: Združenie pod- nikateľov Slovenska, 2008, lekcia 10, s. 3 – upravené)
+
+
+Ako vláda v SR podporuje podnikanie?
+Vláda SR podporuje projekty týkajúce sa ekologickej výroby, nových zdrojov elektrickej energie (slnečná energia – kolektory), cestovného ruchu a ďalšie. Poskytuje dotácie na nákup hmotného a nehmotného majetku, úľavy na dani, ﬁnančné príspevky na vytvorenie nových pracovných miest, štátny príspevok na samostatnú zárobkovú činnosť z Úradu práce, rodiny a sociálnych vecí a ďalšie.
+Na webovej stránke Národnej agentúry pre rozvoj malého a stredného podnikania (www.nasme.sk) vyhľadajte aktuálne informácie o podpore podnikania.
+
+9. PRÁVNE FORMY PODNIKANIA
+
+Kľúčové slová: živnosti, obchodné spoločnosti, družstvá, osvedčenie o živnostenskom oprávnení
+
+   Už sme sa dozvedeli, že v zmiešanej ekonomike existujú rôzne formy vlastníctva a rôzne druhy podnikov. Teraz sa zameriame na právne formy podnikania.
+Organizačno-právne formy podnikania
+
+ŽivnostiObchodné spoločnostiDružstvá– remeselné– verejná obchodná spoločnosť– roľnícke– viazané– spoločnosť s ručením obmedzeným– bytové– voľné– komanditná spoločnosť
+– akciová spoločnosť– výrobné
+– spotrebnéVšeobecné podmienky podnikania
+   V Slovenskej republike môže podnikať každý občan, ktorý má záujem o podnikanie a spĺňa tieto všeobecné podmienky:
+– dosiahol vek 18 rokov,
+– je spôsobilý na právne úkony,
+– je bezúhonný.
+ŽIVNOSTI
+   Sú najrozšírenejšími formami podnikania u nás. Ide prevažne o malé podniky, ktoré pôsobia  v oblasti obchodu, služieb a remesiel. Riadi ich sám vlastník, ktorý ručí za všetky záväzky (vrá- tane strát) neobmedzene, t. j. celým svojím majetkom. Delíme ich na remeselné, viazané a voľné.
+■ Remeselné živnosti – podmienkou prevádzkovania živnosti je odborná spôsobilosť získaná vyučením v odbore (zámočníctvo, kovoobrábanie, tesárstvo, kaderníctvo atď.). Odborná spôsobilosť sa preukazuje výučným listom alebo iným dokladom o riadnom ukončení príslušného učebného alebo študijného odboru.
+
+29
+
+■ Viazané živnosti – na ich prevádzkovanie sa vyžaduje aj iná odborná spôsobilosť (ako odborná spôsobilosť získaná vyučením v odbore), ktorej získanie stanovujú osobitné pred- pisy. Predstavujú náročnejšie činnosti: napríklad očná optika, prevádzkovanie autoškoly, cestovná kancelária, výroba zbraní a streliva.
+■ Voľné živnosti – nie je ustanovená osobitná podmienka na ich prevádzkovanie, teda nevyžaduje sa žiadna odborná spôsobilosť (podomový predaj, predaj v tržnici). Stačí, ak podnikateľ spĺňa všeobecné podmienky.
+   Po splnení predpokladov na získanie živnostenského oprávnenia vydá príslušný živnosten- ský úrad preukaz živnostenského oprávnenia – Osvedčenie o živnostenskom oprávnení.
+OBCHODNÉ SPOLOČNOSTI
+   Sú to združenia viacerých podnikateľov, ktorí podnikajú pod spoločným názvom, zapisujú sa do obchodného registra a riadia sa Obchodným zákonníkom.
+■ Verejná obchodná spoločnosť (v.o.s.) – združenie dvoch alebo viacerých podnikateľov, za záväzky spoločnosti ručia neobmedzene, teda celým svojím majetkom.
+■ Spoločnosť s ručením obmedzeným (s.r.o.) – založiť ju môže 1 až 50 spoločníkov na základe spoločenskej zmluvy. Sú povinní vložiť určitý kapitál, ktorým ručia za záväzky spoločnosti. Každý spoločník však ručí za záväzky spoločnosti len do výšky svojho vkladu.
+■ Komanditná spoločnosť (k.s.) – spoločníci sa delia na
+– komplementárov – ručia celým svojím majetkom, majú právo riadiť a zastupovať spoločnosť;
+– komanditistov – ručia obmedzene, len do výšky svojho vkladu.
+■ Akciová spoločnosť (a.s.) – na jej podnikateľskú činnosť je potrebný veľký kapitál. Ten je rozdelený na určitý počet podielov – akcií, a tie vlastnia jednotliví akcionári. Spoločnosť zodpovedá za záväzky celým svojím majetkom, akcionári za záväzky neručia.
+DRUŽSTVÁ
+   Podstatou tejto formy podnikania je, že sa v ňom dobrovoľne združia viaceré osoby, ktoré spojením svojich vkladov vytvoria spoločný majetok družstva. O ten sa potom spoločnými silami starajú, čo je efektívnejšie, ako keby jednotlivé osoby hospodárili samostatne. Družstvo musí mať najmenej 5 členov, za porušenie záväzkov zodpovedá celým svojím majetkom.
+
+
+
+Podľa vlastníctva poznáme štátne, súkromné, družstevné a zmiešané podniky. V Sloven- skej republike je viacero organizačno-právnych foriem podnikania: obchodné spoločnosti, živnosti, družstvá. Existujú štyri typy obchodných spoločností – verejná obchodná spo- ločnosť, spoločnosť s ručením obmedzeným, komanditná spoločnosť, akciová spoločnosť    a družstvá. Podnikanie obchodných spoločností upravuje Obchodný zákonník. Živnosti   sa členia na remeselné, viazané a voľné. Živnostenské podnikanie upravuje živnostenský zákon. Živnostníci môžu podnikať po získaní osvedčenia o živnostenskom oprávnení. Obchodné spoločnosti a družstvá sa zapisujú do obchodného registra.
+
+Slovník
+akcia – cenný papier, predstavuje práva akcionára podieľať sa na zisku spoločnosti
+bezúhonnosť – stav toho, kto nebol právoplatne odsúdený za trestný čin, ktorý súvisí s predmetom podnikania, napr. ak bol niekto odsúdený za ﬁnančné podvody, nemôže robiť ﬁnančného poradcu
+ručenie obmedzené – vlastníci alebo spoločníci ručia len do výšky svojho vkladu
+ručenie neobmedzené – vlastník alebo spoločníci ručia za všetky záväzky a prípadné straty svojho podniku celým svojím majetkom, t. j. majetkom podniku, ale aj osobným majetkom
+
+30
+
+Otázky
+1. Uveďte všeobecné podmienky podnikania.
+2. Aké organizačno-právne formy podnikania poznáte?
+3. Aký je rozdiel medzi ručením obmedzeným a ručením neobmedzeným?
+4. Pouvažujte o výhodách a nevýhodách jednotlivých foriem podnikania. Ktorú formu by ste si vybrali a prečo?
+Úlohy a námety
+1. Zistite, aké podniky fungujú vo vašom okolí. Zapíšte si ich názvy, predmet podnikania     a právnu formu podnikania. Využite rôzne formy prieskumu – internet, osobná návšteva, obchodný register, inzertné noviny a pod. Zapíšte do tabuľky podľa vzoru.
+
+Názov podnikuPredmet podnikaniaPrávna forma podnikaniaVzorodevšitie odevovvýrobné družstvo2. Chystáte sa na školský výlet. Potrebujete si objednať autobus na prepravu. Vyhľadajte   v obchodnom registri alebo v živnostenskom registri ﬁrmy či podnikateľov, ktorí vykonáva- jú túto činnosť.
+3. Pokúste sa z hľadiska podnikania vysvetliť prácu učiteľa anglického jazyka, ak
+a) vyučuje anglický jazyk ako zamestnanec školy,
+b) je aj majiteľom jazykovej školy.
+
+
+
+ Ekonomické subjekty v SR podľa vybraných právnych foriem a veľkostnej kategórie podľa počtu zamestnancov k 31. 12. 2011
+
+
+Právna forma
+Spolu1)v tom s počtom zamestnancov0 – 910 – 4950 – 249250 – 499500 – 9991000
+a viacakciové spol.5 6163 1931 0436311177851spol. s r.o.138 395107 87311 8721 8351706940ostatné obch. spol.1 09988679131–3družstvá1 57379948919012121živnostníci375 722134 0264 0161091––1) vrátane ekonomických subjektov s nezisteným počtom vlastníkov (Zdroj: Štatistický úrad SR)
+
+■ Obchodný zákonník uvádza štyri typy obchodných spoločností. Okrem toho vymedzuje, aký peňažný kapitál musia mať jednotlivé spoločnosti pri svojom založení (tabuľka na strane 32).
+
+
+
+31
+
+Obchodná spoločnosťZákladný (peňažný) kapitálverejná obchodná spoločnosťnevyžaduje saspoločnosť s ručením obmedzeným5 000 €
+750 € – každý zo spoločníkovkomanditná spoločnosť250 € – vklad komanditistovakciová spoločnosť25 000 €
+Aj pri založení družstva potrebujeme základný kapitál – minimálne 1 250 €.
+
+10. AKO SA STAŤ PODNIKATEĽOM
+
+
+Kľúčové slová: živnostník, podnikateľ, riziko podnikania, podnikateľský plán, osobné vlastnosti podnikateľa
+
+   Podnikať či „podniknúť“ môžeme čokoľvek. Môžeme napríklad podnikať túry do prírody, či podniknúť výlet s priateľmi. My sa však zaoberáme podnikaním vo význame stať sa živnostní- kom, podnikateľom.
+   Rozhodnutie stať sa podnikateľom je osobným rozhodnutím, ktoré si vyžaduje istú odvahu, pretože podnikanie môže priniesť aj neúspech.
+AKO SI ZALOŽIŤ ŽIVNOSŤ
+   Založenie živnosti je jedným z najjednoduchších spôsobov, ako začať podnikať. Z predchá- dzajúcej kapitoly vieme, že po splnení všeobecných podmienok je potrebné získať Osvedčenie o živnostenskom oprávnení. Žiadosť podávame na živnostenský úrad. Na vydanie osved- čenia je potrebné:
+■ vyplniť tlačivo s osobnými údajmi	■ občiansky preukaz
+● meno, priezvisko, rodné číslo	■ kolky v príslušnej hodnote
+● predmet podnikania
+● miesto podnikania
+● obchodný názov
+● dátum začiatku podnikania
+AKO ZAČAŤ PODNIKAŤ
+   Cesta k úspešnému podnikaniu vedie cez dôležité rozhodnutia. Preto skôr, ako začneme podnikať, je potrebné:
+– oboznámiť sa so všetkými právnymi predpismi (aké vzdelanie, odborná spôsobilosť sa vyžaduje),
+– uvedomiť si riziko podnikania,
+– získať Osvedčenie o živnostenskom oprávnení,
+– vypracovať podnikateľský plán (používa sa aj pojem biznis plán), ktorý zahŕňa
+● predmet podnikania – predstava, v čom chcem podnikať,
+● formu podnikania – živnosť, obchodná spoločnosť,
+● dostatočne veľký kapitál – podnikatelia ho získavajú z vlastných zdrojov (úspory) alebo si peniaze požičajú (úver),
+
+
+32
+
+● personálne zabezpečenie – koľko zamestnancov potrebujem mať, mzdy,
+● predstavu o reklame, propagácii – ako si získam klientov, zákazníkov,
+● informácie o konkurencii – aké ﬁrmy podobného zamerania sú v okolí.
+PODMIENKY ÚSPEŠNÉHO PODNIKANIA
+Každý, kto chce úspešne podnikať, musí
+– mať potrebné osobné vlastnosti: odvahu, cieľavedomosť, vytrvalosť v práci, čestnosť, vedieť sa správne rozhodovať, schopnosť riešiť problémy a krízové situácie, vedieť zaobchádzať   s ľuďmi, mať nové nápady;
+– sa na podnikanie dôsledne pripraviť, neočakávať rýchle zisky, neustále sa učiť, priznať si nedostatky, poradiť sa s odborníkmi;
+– vedieť odhadnúť riziko podnikania, ktoré môže viesť k zániku, krachu podniku;
+– získať dostatok informácií o dôveryhodnosti partnerov, s ktorými spolupracuje (ich pla- tobná schopnosť, serióznosť pri rokovaniach a pod.);
+– vytvoriť si dobré meno – podnikateľ, ktorý používa metódu „fair play“, môže dosahovať menšie okamžité zisky ako neseriózny podnikateľ, ktorý chce rýchlo a ľahko zbohatnúť. Ten prvý podnikateľ však získa dobré meno, stálych zákazníkov a tým aj dlhodobý zdroj ziskov.
+   Pre každého podnikateľa je dôležité mať kvalitných zamestnancov. Napriek zákonom,  ktoré majú zabezpečovať rovnaký prístup k práci a postavenie v práci, existuje na trhu práce nerovnosť medzi mužom a ženou, ktorá sa prejavuje najmä v týchto oblastiach:
+– nižšie platy u žien na rovnakých alebo porovnateľných pracovných miestach;
+– ženy majú nízke zastúpenie vo vyšších funkciách;
+– viac žien pracuje na horšie platených miestach alebo v tradičných „ženských“ povolaniach (v zdravotníctve, školstve atď.).
+   Cieľom opatrení prijímaných u nás aj v EÚ je zvyšovanie zamestnanosti žien a odstraňovanie existujúcich rozdielov na trhu práce.
+
+
+
+Všeobecnou podmienkou podnikania je vek 18 rokov, spôsobilosť na právne úkony, bezúhonnosť. Podnikatelia musia spĺňať aj ďalšie podmienky, ak im to ukladá zákon. Živnostníci žiadajú o oprávnenie vykonávať živnosť. Obchodné spoločnosti a družstvá sa zapisujú do obchodného registra, spoločníci obchodných spoločností podpisujú spoločenskú zmluvu. Každý podnikateľ musí mať aj potrebné osobné vlastnosti a predpoklady, inak jeho podnikanie nebude úspešné.
+
+
+Slovník
+úver – poskytnutie peňazí zo strany jednej osoby či banky (veriteľ) inej osobe (dlžník); dlžník ich musí vrátiť v plnej výške a navyše zaplatiť úroky
+klient – osoba používajúca služby podniku, zákazník
+Otázky
+1. Kto a za akých podmienok môže podnikať v SR?
+2. Aké sú najväčšie riziká podnikania?
+3. Uveďte, čo obsahuje podnikateľský plán.
+4. V akej oblasti by ste chceli v budúcnosti podnikať a prečo?
+
+
+33
+
+Úlohy a námety
+1. Predstavte si, že ste vyučení v nejakom remesle a chcete začať podnikať ako živnostníci. Napíšte, ako by ste postupovali.
+Premyslím si .............................................................................................................................
+Oboznámim sa ..........................................................................................................................
+Požičiam si ................................................................................................................................
+Podám si ....................................................................................................................................
+Zistím si ....................................................................................................................................
+Zájdem na .................................................................................................................................
+Pripravím si ..............................................................................................................................
+Uvedomím si .............................................................................................................................
+2. Zistite, aké údaje obsahuje Osvedčenie o živnostenskom oprávnení.
+3. Vyhľadajte a opíšte úspešného podnikateľa z vášho mesta/obce.
+4. Rozhodli ste sa začať podnikať. Na základe obrázka opíšte, čo všetko musíte brať do úvahy pri svojom rozhodovaní.
+
+
+
+predmet podnikania
+
+reklama
+
+
+zamestnanci
+
+právne predpisy
+
+
+kapitál
+
+
+konkurencia
+
+
+podnikateľský plán
+
+
+
+riziko podnikania	osvedčenie
+
+
+
+
+
+
+
+Podnikateľka roka
+Súťaž založila Národná agentúra pre rozvoj malého a stredného podnikania v roku 1999 v spolupráci s profesionálnym združením žien. Cieľom projektu je poskytnúť slovenským ženám – podnikateľkám možnosť prezentovať svoje podnikateľské aktivity a motivovať ďalšie ženy, aby začali podnikať. (www.podnikatelkaslovenska.sk)
+Podnikateľ roka (tlačová správa)
+Súťaž vyhlasuje medzinárodná spoločnosť ErnstSYoung. Cieľom súťaže je podporiť ďalší rozvoj podnikania na Slovensku. Kritériom hodnotenia je osobnosť podnikateľa, jeho podnikateľský príbeh a ﬁnančné výsledky. (www.podnikatelroka.sk)
+
+34
+
+Študentská podnikateľská cena
+Je to celoslovenská súťaž študentských ﬁriem, ktorá je organizovaná pod záštitou Minis- terstva školstva, vedy, výskumu a športu SR. Jej cieľom je podporiť súťaživosť, nápaditosť, kreativitu, vzdelávanie a prípravu študentov na svoje budúce povolanie.
+ Cieľom je podporovať študentov v tom, aby pracovali na svojom podnikateľskom sne        a zároveň ho už počas štúdia začali aj realizovať. Do súťaže sa môžu prihlásiť študenti vy- sokých škôl na Slovensku. (www. podnikajte.sk )
+
+11. SPOTREBA A SPOTREBITEĽ
+
+
+Kľúčové slová: spotreba, spotrebiteľ, súkromná spotreba, verejná spotreba
+
+   Už vieme, že s rozvojom spoločnosti množstvo potrieb rastie a ľudia svoje potreby uspokojujú tak, že spotrebúvajú statky. Spotreba v značnej miere ovplyvňuje fungovanie ekonomiky ako celku.
+Spotreba je využitie statkov na uspokojovanie potrieb ľudí. Poznáme tri druhy spotreby:
+■ krátkodobá spotreba – tvoria ju statky krátkodobej spotreby (potraviny, odev, energie),
+■ dlhodobá spotreba – patria sem statky dlhodobej spotreby (auto, domáce spotrebiče, chata),
+■ spotreba služieb – doprava, komunikačné služby, rekreačné, zdravotná starostlivosť     a podobne.
+Ten, kto spotrebúva, je spotrebiteľ. Spotrebiteľmi sú jednotlivci, domácnosti, ﬁrmy a štát.
+Podľa toho, kto spotrebúva, rozlišujeme súkromnú spotrebu a verejnú spotrebu.
+SÚKROMNÁ SPOTREBA
+   Súkromnú spotrebu predstavujú najmä domácnosti. Štruktúru súkromnej spotreby tvoria výdavky na potraviny, bývanie, energie, služby a ďalšie (pozri schému na s. 36). Súkromnú spotrebu domácnosti ovplyvňujú najmä tieto činitele:
+■ výška príjmov,
+■ majetok domácnosti,
+■ národné zvyky, tradície,
+■ štruktúra spoločnosti podľa vzdelania a veku,
+■ stupeň ekonomického rozvoja spoločnosti a ďalšie.
+Hlavným činiteľom, od ktorého závisí rast spotreby domácnosti, je príjem domácnosti.
+Priemerná nominálna mesačná mzda (€)
+
+
+
+
+
+
+(Zdroj: Štatistický úrad SR)
+
+35
+
+   Ak rastú príjmy obyvateľstva, rastie aj dopyt po spotrebných statkoch a službách. Domác- nosti s vyššími príjmami spotrebúvajú viac ako domácnosti s nižšími príjmami.
+   V čase ﬁnančnej krízy dochádza k poklesu celkovej spotreby domácností. Prevládajú nevy- hnutné výdavky na potraviny, bývanie a energie.
+   S rastom príjmov obyvateľstva a ekonomickým rozvojom krajiny by sa úroveň súkromnej spotreby na Slovensku mala približovať k vyspelým krajinám EÚ.
+   V posledných rokoch sa čoraz viac hovorí o udržateľnej výrobe a spotrebe. Európska komi- sia predložila v júli 2008 plán na udržateľnú spotrebu a výrobu, pretože podľa jej štatistík
+„domácnosti, tovar pre domácnosť, potraviny a cestovanie sú spoločne zodpovedné za 70% až 80% všetkých vplyvov na životné prostredie, či už ide o znečisťovanie a emisie skleníkových plynov, alebo o využitie pôdy a odpad.
+   Udržateľná spotreba a výroba znamená účinnejšie využívanie prírodných zdrojov a ener- gie, ako aj zníženie emisií skleníkových plynov a obmedzenie iných vplyvov na životné pros- tredie. Podstatou je vyrábať a využívať výrobky a služby tak, aby sa čo najmenej poškodzovalo životné prostredie.“ (Rozumnejšie a ohľaduplnejšie k prírode. Udržateľná spotreba a výroba. Vydala Európska komisia, 2010.)
+   Prechod na udržateľnú spotrebu od nás vyžaduje preskúmať to, čo kupujeme a koľko skon- zumujeme.
+VEREJNÁ SPOTREBA
+Verejnú spotrebu tvoria výdavky štátu. Verejnú spotrebu rozdeľujeme na:
+■ verejnú spotrebu štátu – výdavky na políciu, armádu, súdy, prokuratúru a štátne úrady (štátnu správu) atď.;
+■ verejnú spotrebu obyvateľstva – výdavky na školstvo, zdravotníctvo, kultúru, sociálnu starostlivosť a ďalšie.
+   Výdavky na verejnú spotrebu štátu predstavujú vyššiu sumu ako na verejnú spotrebu obyvateľstva. Štát môže ovplyvňovať štruktúru výdavkov na verejnú spotrebu. Na niektoré položky môže sumu zvýšiť, na iné znížiť. (Viac sa o tom dozviete v učive Štátny rozpočet.)
+
+
+
+
+        potraviny alkoholické nápoje a tabak
+odievanie a obuv bývanie, energie nábytok a údržba domu zdravie
+doprava
+pošta a telekomunikácie vzdelanie
+reštaurácie a hotely rozličné tovary a služby
+
+
+
+
+
+polícia armáda súdy prokuratúra
+štátna správa
+
+
+
+školstvo zdravotníctvo kultúra sociálne dávky
+starobné dôchodky
+
+
+
+
+
+36
+
+Spotreba je využitie statkov na uspokojovanie potrieb ľudí. Môže byť krátkodobá, dlhodobá a spotreba služieb. Ten, kto spotrebúva, je spotrebiteľ. Rozlišujeme súkromnú spotrebu domácností a verejnú spotrebu. Verejnú spotrebu rozdeľujeme na verejnú spotre- bu štátu a verejnú spotrebu obyvateľstva. Súkromnú spotrebu domácností ovplyvňuje veľa činiteľov. Štát môže ovplyvňovať štruktúru výdavkov na verejnú spotrebu.
+
+Slovník
+nominálna mzda – peňažná suma, ktorú zamestnanec dostane za vykonanú prácu
+Otázky
+1. Čo je spotreba? Aké druhy spotreby poznáte?
+2. Uveďte činitele, ktoré ovplyvňujú súkromnú spotrebu domácnosti.
+3. Ako štát môže ovplyvňovať štruktúru výdavkov na verejnú spotrebu?
+Úlohy a námety
+1. Pozorne si prezrite graf.
+a) Zostavte poradie konečnej spotreby domácností od najvyšších výdavkov po najnižšie výdavky na jednotlivé položky.
+b) Je štruktúra spotreby domácností na Slovensku vyhovujúca? Na ktoré položky by sme mali vynakladať viac peňazí, na ktoré menej?
+Konečná spotreba domácností podľa klasiﬁkácie individuálnej spotreby (COICOP) v mil. EUR bežných cien za rok 2011
+■ Potraviny a nealkoholické nápoje
+■ Alkoholické nápoje a tabak
+■ Odevy a obuv
+■ Bývanie, voda, elektrina, plyn a iné palivá
+■ Nábytok, bytové zariadenie a bežná údržba domu
+■ Zdravie
+■ Doprava
+■ Pošta a telekomunikácie
+■ Rekreácia a kultúra
+■ Vzdelávanie
+■ Hotely, kaviarne a reštaurácie
+■ Rozličné tovary a služby
+(Zdroj: Štatistický úrad SR)
+
+2. Podľa Štatistického úradu SR v roku 2009 najväčšiu časť spotreby domácností tvorili vý- davky na potraviny, bývanie a energie – spolu 44%. Z uvedeného grafu vypočítajte, koľko percent tvorili výdavky na potraviny, bývanie a energie v roku 2011. Výsledky porovnajte.
+3. Navrhnite spôsoby zníženia súkromnej spotreby domácností s ohľadom na ochranu život- ného prostredia.
+
+
+
+
+
+
+37
+
+Zaujíma vás vplyv výrobkov na životné prostredie? Hľadajte logo
+s kvietkom – environmentálnu značku EÚ. Výrobky a služby s týmto logom dodržiavajú prísne environmentálne normy od výroby až po balenie a dopravu. Toto logo môžete nájsť na školských pomôckach, oblečení, elektronických zariadeniach, kozmetike aj v hoteloch. Viac informácií nájdete na uvedenej webovej stránke.
+
+
+Peniaze a finančné inštitúcie v trhovej ekonomike
+12. PENIAZE A FUNKCIE PEŇAZÍ
+
+
+Kľúčové slová: peniaze, funkcie peňazí, papierové peniaze, kovové mince, bankové peniaze,
+„skoro peniaze“
+
+   Súčasnú spoločnosť si nevieme predstaviť bez peňazí. Potrebujeme ich pri každodenných ná- kupoch v obchode, pri platení účtov za bývanie, elektrinu, obedy, na cestovné do školy a podobne. Peniaze vznikli preto, aby uľahčili výmenu tovarov. V každej modernej ekonomike majú peniaze dôležitú úlohu a funkcie. Bez peňazí by sa spoločnosť nemohla rozvíjať.
+Peniaze sú špeciﬁckým tovarom, za ktorý možno vymeniť všetky ostatné druhy tovarov.
+V každej ekonomike plnia peniaze tri základné funkcie.
+
+FUNKCIE PEŇAZÍ
+Prostriedok výmeny (ako platidlo)
+Peniaze umožňujú pomerne jednoduchú a rýchlu výmenu
+tovarov na trhu.
+Za peniaze kupujeme všetky tovary, napr. potraviny, te- nisky, platíme na pošte a podobne. Platiť môžeme aj platob- nými kartami alebo z účtu v banke.
+
+
+
+Zúčtovacia jednotka (meradlo cien)
+Pomocou peňazí vyjadrujeme hodnotu ktoréhokoľvek tovaru. Určujú sa nimi ceny iných tovarov, za ktoré sa potom tovary predávajú, výška mzdy, dosiahnutý zisk podnikov a podobne.
+
+
+
+
+
+38
+
+Uchovávateľ hodnôt
+
+
+Peniaze sa zhromažďujú ako úspory. Môžeme ich použiť vtedy, keď to potrebujeme. Ak si nasporíme dosť peňazí, môžeme si kúpiť auto, dom, využiť ich na podnikanie, štúdium na vysokej škole alebo aj odložiť do banky a použiť neskôr.
+
+
+
+SÚČASNÉ FORMY PEŇAZÍ
+■ Papierové peniaze – bankovky, ktoré slúžia ako hotovostné peniaze. Používame ich na platenie za tovary a služby v hotovosti. Vydáva ich centrálna banka štátu, u nás Národ- ná banka Slovenska.
+■ Kovové mince – hotovostné peniaze,  ktoré  používame na drobné platby za tovary     a služby v hotovosti. V súčasnosti je snaha odstraňovať drobné mince z obehu, lebo ich výroba je drahšia ako ich hodnota.
+■ Bankové (depozitné) peniaze – sú bezhotovostné peniaze. Neplatíme nimi v hoto- vosti, ale prevodmi z účtu na účet. Sú to napr. vklady na vkladných knižkách bez výpoved- nej lehoty, šeky, bežné účty v banke a podobne. V prípade potreby ich môžeme zmeniť na hotovostné peniaze, ak si ich vyberieme z účtu v banke alebo z bankomatu.
+■ „Skoro peniaze“ (kvázipeniaze) – vklady v bankách s určitou výpovednou lehotou (napr. 3 mesiace), vklady na 1 až 5 rokov (tzv. termínované vklady), vkladné knižky s výpovednou lehotou a podobne.
+hotovostné peniaze	papierové peniaze kovové mince
+
+
+
+bezhotovostné peniaze
+
+bankové peniaze
+„skoro peniaze“
+
+
+   Hodnota peňazí bola v minulosti krytá zlatom. To znamená, že centrálna banka nemohla vydať do obehu väčšie množstvo peňazí, ako vlastnila zlata, lebo vymieňala papierové bankovky za zlato. Hovoríme tomu „zlatý štandard“.
+   V súčasnosti hodnota všetkých peňazí v obehu je krytá množstvom tovarov a služieb, ktoré sa v krajine vyrobí. Centrálna banka vydá do obehu také množstvo peňazí, ktoré zodpovedá vyrobenému množstvu tovarov a služieb v štáte.
+
+
+
+Peniaze vznikli preto, aby uľahčili výmenu tovarov. V zmiešanej ekonomike plnia tri funkcie: prostriedok výmeny, zúčtovacia jednotka a uchovávateľ hodnôt. V súčasnosti sa peniaze vyskytujú v štyroch formách – ako papierové peniaze (bankovky), kovové mince, bankové peniaze a „skoro peniaze“. Papierové peniaze a mince slúžia ako hotovostné pe- niaze, bankové peniaze a „skoro peniaze“ sú bezhotovostné peniaze.
+
+Slovník
+termínovaný vklad – vklad viazaný na niekoľko rokov (1, 2, 3, 5); ak si peniaze vyberieme pred stanoveným termínom, platíme poplatok
+
+
+39
+
+Otázky
+1. Vysvetlite, prečo sú peniaze výhodným platidlom.
+2. Charakterizujte funkcie peňazí v zmiešanej ekonomike.
+3. Vymenujte súčasné formy peňazí.
+Úlohy a námety
+1. Uveďte, ktorú z funkcií peňazí vyjadrujú uvedené situácie:
+a) Uložíte peniaze, ktoré ste dostali od starých rodičov na narodeniny, doma do pokladničky, lebo si šetríte na nový bicykel. ..............................................................
+b) V kníhkupectve si kúpite novú knihu a zaplatíte za ňu 10 €. ....................................
+c) V športovom obchode sú vystavené bicykle, kolieskové korčule, turistické vaky označené cenovkami. ..........................................................................................................................
+2. Rodičia vám chcú kúpiť nový notebook. Ako môžu použiť bankové peniaze na nákup note- booku?
+3. Porovnajte hotovostné a bezhotovostné peniaze z týchto hľadísk:
+a) z hľadiska použiteľnosti,
+b) z hľadiska dostupnosti,
+c) z hľadiska bezpečnosti.
+Uveďte príklady platieb v hotovosti a príklady bezhotovostného styku.
+
+
+■ Slovania používali ako platidlo plátno, od čoho sa odvodilo aj slovo „platiť“.
+■ Najstaršími mincami z nášho územia sú strieborné keltské mince s nápisom BIATEC.
+■ Na Veľkej Morave sa ako platidlo používali hrivny – prúty železa.
+■ Prvé papierové peniaze sa používali v Číne už v 11. storočí.
+
+13. BANKY A SPORITEĽNE
+
+
+Kľúčové slová: banky, Národná banka Slovenska, obchodné banky, stavebné sporiteľne
+
+   Pohyb peňazí v ekonomike zabezpečujú ﬁnančné inštitúcie, predovšetkým banky, sporiteľne a poisťovne. Aby sme si vedeli vybrať najvýhodnejšie služby týchto inštitúcií, potrebujeme vedieť, aké úlohy plnia v ekonomike.
+Banky sú ﬁnančné inštitúcie, ktoré zhromažďujú úspory a realizujú rôzne peňažné operácie.
+V každej zmiešanej ekonomike existujú dva druhy bánk: centrálna banka a obchodné banky.
+CENTRÁLNA BANKA
+   Centrálnou bankou v Slovenskej republike je Národná banka Slovenska. Centrálnu banku zriaďuje štát. Sídlo má v Bratislave.
+Úlohy centrálnej banky:
+a) vydáva bankovky a mince;
+b) uskutočňuje ﬁnančné operácie štátu, vedie účty štátneho rozpočtu, napr. ﬁnancovanie školstva, zdravotníctva, armády;
+c) poskytuje úvery obchodným bankám.
+Označuje sa aj ako „banka bánk“.
+
+40
+
+OBCHODNÉ BANKY
+V spoločnosti vždy existuje niekto, kto má dočasný prebytok peňazí, iní zas potrebujú požičať.
+Na tento účel slúžia obchodné banky. Obchodné banky:
+a) prijímajú vklady peňazí
+■ Obyvatelia a podniky (klienti) si môžu uložiť peniaze na účet, vkladnú knižku alebo využiť iné produkty (pozri rozširujúce učivo Produkty a služby bánk).
+■ Za uložené peniaze banky potom klientom platia úroky.
+b) poskytujú úvery (pôžičky)
+■ Úvery poskytujú obyvateľom, napr. na kúpu auta, bytu, televízora, ale aj podnikateľom, napr. na nákup strojov, technológií, výstavbu nových výrobných hál.
+■ Tí, ktorí si zobrali úver, musia požičané peniaze vrátiť v plnej výške aj s dohodnutými
+úrokmi.
+c) realizujú sprostredkovateľské operácie
+■ Vedenie účtov, rôzne prevody z účtu na účet, napr. z účtu môže klient platiť nájomné, elektrinu, obedy, poistenie, podnikatelia faktúry (účty) za rôzne práce.
+■ Vydávajú platobné karty.
+■ Poskytujú zmenárenské služby – menia jednu menu za druhú (napr. euro za dolár).
+■ Predávajú a nakupujú valuty iných štátov.
+   Predaj a nákup valút si vysvetlíme podrobnejšie. Valuty sú bankovky a mince iných štátov v hotovostnej podobe (dolár, libra atď). Dnes sa používajú len v cestovnom ruchu. Pri ceste do zahraničia, kde sa ako platidlo nepoužíva euro, si musíme zameniť valuty.
+   Pri každej mene banka uvádza dva kurzy – valuta nákup a valuta predaj. Tie sú uvedené   z pohľadu banky.
+   Valuta predaj uvádza, za koľko nám banka predá cudziu menu, keď povedzme chceme za eurá kúpiť české koruny. Čím je kurz vyšší, tým viac českých korún za svoje eurá dostaneme.
+   Valuta nákup uvádza, za koľko od nás komerčná banka kúpi zahraničnú menu, keď chceme české koruny zameniť za eurá. Čím je kurz nižší, tým viac eur za zamenené české ko- runy dostaneme.
+   Od 1. 1. 2009 menový kurz vyjadruje, koľko napr. českých korún dostaneme za 1 euro. Me- nové kurzy sa zaznamenávajú v kurzovom lístku.
+STAVEBNÁ SPORITEĽŇA
+   Okrem Národnej banky Slovenska a obchodných bánk pôsobia u nás aj ďalšie ﬁnančné inštitúcie. Sú to stavebné sporiteľne. Stavebná sporiteľňa je ﬁnančnou inštitúciou, ktorá vykonáva činnosti súvisiace so stavebným sporením.
+Jej úlohou je
+– prijímať vklady od stavebných sporiteľov na účet v stavebnej sporiteľni;
+– poskytovať stavebný úver na kúpu domu, bytu, na rekonštrukciu, na kúpu bytového zariadenia a podobne.
+   Stavebné sporenie podporuje aj štát, ktorý poskytuje štátnu prémiu. Štátna prémia sa pri- pisuje k vkladom stavebného sporiteľa.
+
+
+V zmiešanej ekonomike existuje jedna centrálna banka (u nás je to Národná banka Slo- venska) a množstvo obchodných bánk. Centrálna banka vydáva eurové bankovky a eurové mince, uskutočňuje ﬁnančné operácie štátu a poskytuje úvery obchodným bankám. Ob- chodné banky prijímajú vklady, poskytujú úvery a realizujú rôzne sprostredkovateľské operácie. Úlohou  stavebných  sporiteľní  je  prijímať  vklady  od  stavebných  sporiteľov  a poskytovať zvýhodnené stavebné úvery na ﬁnancovanie bývania.
+
+41
+
+Otázky
+1. Aké úlohy plní centrálna banka v štáte?
+2. Vysvetlite, aké druhy bankových služieb uskutočňujú obchodné banky.
+3. Uveďte, na aké účely by ste využili stavebný úver.
+4. Vysvetlite vzťah medzi Národnou bankou Slovenska a obchodnými bankami.
+Úlohy a námety
+1. Zistite, aké banky sa nachádzajú vo vašom meste, okolí. Na vyučovaciu hodinu doneste rôzne informačné materiály z rôznych bánk a stavebných sporiteľní. Porovnajte služby jednotlivých ﬁnančných inštitúcií.
+2. Prečítajte si nasledujúce situácie a odpovedzte na otázky. Pracujte s uvedenými kurzový- mi lístkami.
+■ Niekoľko žiakov 9. A sa chystá na poznávací zájazd do Veľkej Británie. Potrebujú vymeniť eurá za libry.
+a) Vyberte banku, v ktorej si výhodnejšie zamenia eurá za libry. Koľko libier dostanú za 100 eur?
+b) Ktorý kurz použijú, ak si budú chcieť naspäť zameniť libry za eurá?
+■ Tiborov otec pracuje v Čechách a výplatu dostáva v českých korunách. V máji zarobil 20 000 českých korún. Potrebuje ich zameniť za eurá.
+a) Koľko eur získal za 20 000 českých korún?
+b) V ktorej banke to bolo výhodnejšie? O koľko viac získal?
+■ Dvojičky Janka a Danka sa veľmi tešia na letnú dovolenku k moru do Chorvátska. Ve- dia, že v Chorvátsku sa eurá nepoužívajú.
+a) Aká mena sa používa v Chorvátsku?
+b) Vyberte banku, v ktorej ju výhodnejšie zamenia za eurá.
+■ Pani Venclová ide navštíviť dcéru do USA. Chce vymeniť 1 000 eur v hotovosti a získať za ne americké doláre.
+a) V ktorej banke to bude výhodnejšie?
+b) Koľko amerických dolárov získa za 1 000 eur?
+Kurzový lístok. Banka 1
+KrajinaSkratkaMenaValuta predajValuta nákupČeská republikaCZKkoruna25,580926,1010V. BritániaGBPlibra0,76030,8157ChorvátskoHRKkuna7,09107,7388USAUSDdolár1,18691,2603Kurzový lístok. Banka 2
+KrajinaSkratkaMenaValuta predajValuta nákupČeská republikaCZKkoruna24,65826,184V. BritániaGBPlibra0,76920,8206ChorvátskoHRKkuna7,12257,7288USAUSDdolár1,17401,2502Poznámka: Administratívny poplatok u oboch bánk je nulový. Na webovej stránke Národnej banky Slo- venska alebo komerčných bánk, prípadne v novinách si pozrite aktuálny kurzový lístok.
+
+
+42
+
+Ako a prečo vznikli banky?
+Prvé banky vznikli v Anglicku v 17. storočí. Obchodníci, ktorí cestovali za obchodom do iných miest, sa obávali prepadov lúpežníkov. Preto si uložili zlato u zlatníkov, ktorí mali trezory. Zlatníci na ich meno vystavili potvrdenie, že zlato sa nachádza u nich. Obchodník v druhom meste prijal toto potvrdenie ako platidlo.
+Neskôr zlatníci zistili, že obchodníci si nikdy nevybrali všetko zlato naraz. A tak začali časť zlata požičiavať za úrok. Z týchto zlatníkov sa stali bankári, čo viedlo k vzniku bánk. Banky začali vydávať vlastné potvrdenie o uložení zlata – papierové bankovky. Na požiadanie ich vymenili za zlato. Takúto formu peňazí nazývame zlatým štandardom.
+
+14. POISŤOVNE
+
+
+Kľúčové slová: zdravotné poisťovne, sociálna poisťovňa, komerčné poisťovne, zdravotné, sociálne, komerčné poistenie, povinné poistenie, dobrovoľné poistenie
+
+   Keď v minulosti človek ochorel, utrpel úraz, bol nezamestnaný alebo pre starobu už nemo- hol pracovať, nemal žiaden príjem a bol odkázaný na pomoc iných. Vo vyspelej spoločnosti štát umožňuje občanom vopred sa zabezpečiť proti týmto udalostiam formou poistenia.
+V zmiešanej (sociálno-trhovej ekonomike) existujú tri druhy poisťovní.
+
+
+
+
+
+
+
+
+
+
+
+zdravotné poistenie
+
+ZDRAVOTNÉ POISŤOVNE
+
+sociálne poistenie
+
+komerčné poistenie
+
+   Každý z vás už bol u lekára a má Preukaz poistenca verejného zdravotného poistenia. Vydala vám ho zdravotná poisťovňa, ktorú vám vybrali vaši rodičia. Do zdravotných poisťovní platíme povinné zdravotné poistenie (verejné zdravotné poistenie), lebo zdravotné poisťovne zabezpečujú zdravotnú starostlivosť pre všetkých občanov.
+Zdravotné poistenie musia platiť všetci zamestnanci, zamestnávatelia, podnikatelia a štát.
+Za vás, aj za všetky nezaopatrené deti, poistenie platí štát.
+   Zdravotná starostlivosť sa poskytuje bezplatne, za niektoré zdravotnícke vyšetrenia si však pacient musí priplatiť.
+   Zdravotné poisťovne vydávajú aj Európsky preukaz zdravotného poistenia. Je určený
+na krátkodobé pobyty v členských krajinách EÚ – dovolenky, študijné pobyty, služobné cesty   a pod. Na základe tohto preukazu máte nárok na nevyhnutnú zdravotnú starostlivosť.
+
+43
+
+SOCIÁLNA POISŤOVŇA
+   Do sociálnej poisťovne odvádzame rôzne druhy poistenia. Niektoré sú povinné, iné dobrovoľné. Sociálne poistenie zabezpečuje občanov v prípade choroby, úrazu, počas prácene- schopnosti, straty zamestnania a staroby. Zamestnaný človek musí platiť poistenie v nezamest- nanosti, nemocenské, starobné a invalidné poistenie.
+Sociálna poisťovňa zo sociálneho poistenia najčastejšie vypláca tieto dávky:
+■ nemocenské dávky, keď je človek dočasne práceneschopný,
+■ ošetrovné, keď niekto ošetruje chorého človeka,
+■ dávky v nezamestnanosti, keď zamestnanec príde o prácu,
+■ starobný dôchodok, po odchode do dôchodku.
+KOMERČNÉ (OBCHODNÉ) POISŤOVNE
+   Sú to ﬁnančné inštitúcie, ktoré vykonávajú poisťovaciu činnosť. Poskytujú dobrovoľné poistenie. Ak sa chceme poistiť, uzatvoríme s poisťovňou poistnú zmluvu.
+   Poistenec (ten, kto sa poisťuje) sa v nej zaväzuje pravidelne (mesačne, polročne atď.) platiť dohodnutú poistnú sumu – poistné.
+   Poisťovňa sa v zmluve zaväzuje zaplatiť poistencovi odškodné, ak nastala poistná udalosť, proti ktorej sme sa poistili (úraz, choroba, povodeň).
+Poisťovne poskytujú dva základné druhy poistenia:
+■ neživotné poistenie – poistenie majetku a zodpovednosti za škody (poistenie bytu, domác- nosti, auta);
+■ životné poistenie – poistenie osôb, napr. pre prípad úrazu (zlomená noha, ruka), trvalé následky úrazu, pri strate zamestnania, pri dožití určitého veku či v prípade smrti.
+   Pri ceste do zahraničia – na dovolenku, zájazd či študijný pobyt – je dobré mať cestovné poistenie. Môžeme z neho zaplatiť lekára v prípade náhlej choroby alebo úrazu v zahraničí, pre- voz do nemocnice a domov, do miesta trvalého bydliska, zahŕňa aj poistenie batožiny a ďalšie.
+
+
+K ﬁnančným inštitúciám patria aj poisťovne. V zmiešanej ekonomike existujú tri druhy poisťovní – zdravotné poisťovne, sociálna poisťovňa a komerčné poisťovne. Zdravotná poisťovňa zabezpečuje zdravotnú starostlivosť pre všetkých občanov, a preto je zdravot- né poistenie povinné. Do sociálnej poisťovne odvádzame sociálne poistenie, ktoré chráni občanov v prípade choroby, úrazu, počas práceneschopnosti, straty zamestnania a staroby. Komerčné poistenie je dobrovoľné, môže byť životné a neživotné.
+
+Otázky
+1. Aké druhy poisťovní poznáte?
+2. Vysvetlite, prečo je zdravotné poistenie povinné.
+3. Zdôvodnite, prečo je potrebné sociálne poistenie.
+Úlohy a námety
+1. Pozorne si prečítajte ukážku a odpovedzte na otázky.
+   Sestra mi jedného dňa nadšene oznámila, že celá trieda ide do školy v prírode. Ihneď som ju schladil otázkou: „A naši súhlasia?“ Keď som zbadal Jankin sklamaný výraz, rýchlo som dodal: „Neboj sa, porozprávame sa spolu a ja sa za teba prihovorím.“
+   Zalistoval som v učebnici i v pamäti a premýšľal som, ako rodičom aspoň teoreticky pomôžem riešiť otázky spojené s pobytom Janky v škole v prírode.
+
+44
+
+   Po večeri sme rozobrali všetky možné riziká, ktoré môžu Janku ohroziť. Pri detskej neo- patrnosti môže ľahko dôjsť k úrazu. Všetci v rodine sme registrovaní v zdravotnej poisťovni, ktorú využívame pri bežných lekárskych vyšetreniach. Okrem toho všetci máme dobrovoľné životné a úrazové poistenie v jednej komerčnej poisťovni. „Nezabudnite na Preukaz pois- tenca,“ pripomenul som rodičom.
+   Takto sme naplánovali aj letnú rodinnú dovolenku do Chorvátska. Rodičov som prekvapil pohotovými postrehmi: „Ak pôjdeme autom, môžeme sa stať účastníkmi dopravnej nehody. Máme havarijné poistenie? A bolo by vhodné dať sa poistiť pre prípad náhleho ochorenia alebo pobytu v nemocnici. Nesmieme zabudnúť na cestovné poistenie a Európsky preukaz zdravotného poistenia.“
+   Spomenul som si, že susedom minulý rok na dovolenke ukradli batožinu – je možné poistiť aj veľa iných vecí a predísť rôznym nepríjemnostiam.
+   Neviem, či je to bežné v každej rodine, ale naši myslia na rôzne nepríjemné situácie, do ktorých sa každý z nás môže dostať. Poistili sa dokonca aj pre prípad, že prídu o prácu. Nedávno sme zrekonštruovali dom. Je poistený proti požiaru či iným živelným pohromám. V rozhovore sme spomenuli aj sociálne poistenie, ktoré mama nedávno využila počas Jankinej choroby, keď s ňou musela zostať doma. Otca zaujali moje vedomosti o dôchod- kovom poistení, v ktorom si vlastne ľudia odkladajú peniaze na čas, keď už nebudú môcť
+pracovať. Všetci sme sa zhodli na tom, že opatrnosti nikdy nie je dosť.
+a) Aké druhy poisťovní sú uvedené v ukážke?
+b) Nájdite v ukážke rôzne druhy poistenia, ktoré má Jankina rodina.
+c) Priraďte jednotlivé druhy poistenia k poisťovni, ktorá poskytuje tieto služby.
+d) Aké druhy poistenia využila Jankina rodina na dovolenku?
+2. Uveďte konkrétne prípady poistnej udalosti, ktoré sa stali vám, vo vašej triede. Diskutujte o potrebe komerčného poistenia.
+
+
+Zo zdravotného poistenia sa uhrádzajú:
+– náklady lekárom za lekárske vyšetrenie,
+– náklady nemocniciam a zdravotníckym zariadeniam za zdravotnú starostlivosť,
+– lieky a zdravotnícke pomôcky chorým ľuďom.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+45
+
+SAMOTESTOVACIE ÚLOHY
+1. Do schémy doplňte znaky podnikania.
+
+
+
+
+
+
+2. Doplňte výsledky hospodárenia podniku.
+Ak sú príjmy vyššie ako náklady, výsledkom hospodárenia je .......................
+Ak sú príjmy nižšie ako náklady, výsledkom hospodárenia je ........................
+3. Vysvetlite skratky obchodných spoločností.
+a) S.R.O.
+b) K.S.
+c) A.S.
+d) V.O.S.
+4. Vymenujte 5 kladných vlastností podnikateľa.
+5. Do akých poisťovní odvádzame uvedené druhy poistenia? Uveďte druh poisťovne.
+a) zdravotné poistenie
+b) cestovné poistenie
+c) sociálne poistenie
+d) poistenie úrazu
+6. Uveďte príklady životného a neživotného poistenia.
+7. Ktoré formy peňazí fungujú v súčasnosti ako
+a) hotovostné peniaze:
+b) bezhotovostné peniaze:
+8. Napíšte úlohy centrálnej banky v štáte:
+a)
+b)
+c)
+9. Do tabuľky doplňte druhy živnosti a podmienky ich prevádzkovania.
+
+ŽivnostiPodmienky ich prevádzkovania
+46
+
+ROZŠIRUJÚCE UČIVO
+1. PRODUKTY A SLUŽBY BÁNK
+
+
+Kľúčové slová: študentský účet, platobná karta, elektronické bankovníctvo, spotrebné úvery, hypotekárne úvery
+
+   V predchádzajúcom učive o bankách sme sa dozvedeli, aké druhy bánk existujú a aké úlohy plnia v zmiešanej ekonomike. Teraz sa zameriame na konkrétne produkty a služby bánk, ktoré spotrebitelia najčastejšie využívajú.
+   Jednou z možností, ako sa naučiť pracovať s peniazmi, je vlastný účet v banke. Vysvetlíme si postup založenia študentského účtu.
+Založenie študentského účtu v banke
+■ Účet v banke si môžu zriadiť študenti od 15 rokov za prítomnosti zákonného zástupcu.
+■ Založíme si ho tak, že zákonný zástupca v banke podpíše zmluvu o otvorení účtu na meno dieťaťa.
+■ Na tento účet vložíme príslušnú sumu (napr. 10 €), ktorú banka pri otvorení účtu vyžaduje.
+■ Na založenie účtu potrebujeme občiansky preukaz, druhý doklad (rodný list, preukaz pois- tenca), prípadne i potvrdenie o štúdiu.
+■ Za otvorenie účtu a vedenie účtu väčšina bánk nevyberá poplatky, teda ani za vklady a vý- bery peňazí z účtu.
+■ Na účet môžete posielať peniaze za brigádu, vreckové a pod.
+■ Banky umožňujú výhodne získať aj platobnú kartu.
+PLATOBNÁ KARTA
+   Je to farebná plastová karta, ktorú banka vydáva spravidla za poplatok. Slúži na výber peňazí z bankomatov, ako aj na platenie za nákupy v obchode, až do výšky peňazí na našom účte. Najpoužívanejšie sú debetné a kreditné platobné karty. Mnohí spotrebitelia používajú výraz „kreditka“ aj na obyčajnú debetnú platobnú kartu.
+   Debetná platobná karta – získame ju takmer v každej banke ako súčasť svojho bežného účtu. Je viazaná na účet v banke. Možno ňou platiť alebo vyberať peniaze len vtedy, ak máme peniaze na účte.
+   Kreditná platobná karta – banka ňou poskytuje úver (kredit) do určitej sumy (napr. 1 000 €). Môžeme ňou platiť v obchode alebo vybrať hotovosť do určitého limitu. Používanie kreditnej karty je určitou formou pôžičky. Ak požičanú sumu splatíme v stanovenom čase (spravidla 40 – 50 dní), neplatíme úroky. Inak platíme vysoké úroky.
+ELEKTRONICKÉ BANKOVNÍCTVO
+   V súčasnom období môžeme bežné bankové operácie realizovať cez internet, mobilný telefón a pod. Hovoríme tomu elektronické bankovníctvo. Najznámejšou formou elektronického ban- kovníctva je internetbanking. Ide o komunikáciu klienta s bankou prostredníctvom inter- netu. Na internete zadáme webovú adresu svojej banky, užívateľské meno, certiﬁkačný kód    a dostaneme sa na špeciálne stránky banky. Po prihlásení môžeme zaplatiť účty, poslať nieko- mu peniaze, aj do zahraničia, a využiť ďalšie služby.
+   Aby bolo elektronické bankovníctvo bezpečné, banky využívajú viacero bezpečnostných opat- rení, napr. heslo, šifrovací kód, číslo PIN, prihlasovacie meno.
+
+47
+
+SPOTREBNÉ ÚVERY (PÔŽIČKY)
+   Banky ponúkajú rôzne  typy  spotrebných  úverov.  Môžeme  si  kúpiť  notebook,  televízor  a podobne. Existujú aj študentské úvery, ktoré možno použiť na školné (napr. na súkromnej škole), knihy, platby za internát, jazykový kurz v zahraničí alebo čokoľvek iné. Pri spotrebných úveroch nás bude zaujímať vstupný poplatok, mesačné splátky a úroky.
+HYPOTEKÁRNE ÚVERY
+   Možno ste už počuli slovné spojenie „má na dome hypotéku“. Hypotekárne úvery sa využívajú na kúpu alebo stavbu rodinného domu, na kúpu alebo rekonštrukciu bytu atď. Podmienkou poskytnutia úveru je založenie nehnuteľnosti (spravidla bytu, domu) na katastri nehnuteľností. Ručenie nehnuteľnosťou je zabezpečením splácania úveru banke. To znamená, že ak nechceme prísť o dom alebo byt, musíme úver splácať.
+
+
+
+Banky poskytujú svojim klientom rôzne služby, vďaka ktorým môžu bezpečne a efektívne spravovať svoje ﬁnancie. Na realizáciu platieb sú to bežné účty, platobné karty, internet- banking a ďalšie. Na kúpu rôznych tovarov slúžia spotrebné úvery. Na bývanie môžeme využiť hypotekárne úvery. Aj študenti môžu mať v banke vlastný účet, ktorý im dáva možnosť naučiť sa hospodáriť s peniazmi.
+
+
+Slovník
+kataster nehnuteľností – zoznam nehnuteľností; sú v ňom zapísané a graﬁcky zaznačené všetky pozemky a nehnuteľnosti (rodinné domy, bytové domy, záhrady a podobne)
+úroky p. a. – z latinského „per annum“, čo znamená ročne
+Otázky
+1. Aké doklady potrebujete na otvorenie študentského účtu?
+2. Vysvetlite, čím sa líšia debetné karty od kreditných kariet.
+3. Uveďte príklady, na čo sa môžu použiť spotrebné úvery.
+4. Čo je podmienkou pri poskytnutí hypotekárneho úveru?
+Úlohy a námety
+1. Navštívte banky vo vašom meste alebo ich vyhľadajte na internete a získajte informácie o študentských účtoch. Porovnajte podmienky v jednotlivých bankách. Ktorú banku by ste si vybrali?
+
+PodmienkyBanka 1Banka 2Banka 3názov účtupoplatok za zriadenie účtupoplatky za vedenie účtuúroky p. a. (ročne)výpisy z účtuvystavenie platobnej kartyiné
+48
+
+2. Banky poskytujú svojim klientom rôzne produkty a služby. Ktoré z uvedených produktov slúžia na realizáciu platieb?
+a) spotrebný úver
+b) bežný účet
+c) hypotekárny úver
+d) kreditná karta
+3. Ktoré z týchto peňažných operácií môžeme realizovať cez internetbanking?
+a) zaplatiť účet za elektrinu
+b) vybaviť hypotekárny úver
+c) zistiť stav účtu
+d) zaplatiť nájomné
+e) vybaviť platobnú kartu
+f) zaplatiť poistenie
+
+2. SPORENIE
+
+
+Kľúčové slová: sporenie, vkladné knižky, termínované vklady, sporiace účty, stavebné sporenie, Fond ochrany vkladov
+
+
+Koľko peňazí mesačne sporíte?
+21%	12%	14%
+
+
+
+
+13%
+   
+Čo je sporenie? Je to pravidelné odkladanie peňazí na budúcu spotrebu, teda na niečo, čo si chceme kúpiť. Dôvo- dom sporenia môže byť aj vytvorenie úspor na štúdium, na kúpu bytu, auta alebo akýkoľvek iný účel.
+   Koľko sporiť? Odložiť si treba toľko, aby sme v prípade straty zamestnania či vážnej choroby prežili aspoň 6 me-
+
+14%
+
+15%
+
+11%
+
+siacov až 1 rok bez nejakých veľkých obmedzení. Graf uka-
+
+■ 0 eur	■ 61 – 100 eur
+■ viac ako 20 eur	■ 101 – 200 eur
+■ 21 – 40 eur	■ viac ako 200 eur
+■ 41 – 60 eur
+
+zuje, koľko ľudia na Slovensku mesačne sporia.
+
+(Zdroj: tlačové správy.wordpress.com; slsp.sk)
+
+
+   Na sporenie sa môžu využívať moderné metódy sporenia, ktoré poskytujú banky na Sloven- sku. Najviac využívané produkty na Slovensku ukazuje graf.
+
+Ktorý z týchto sporiacich produktov osobne využívate?
+
+24%
+
+
+
+28%	26%
+
+
+37%
+
+48%
+
+9%
+
+
+fondy, investičné fondy
+
+vkladné knižky
+
+stavebné sporenie
+
+obchodné sporenie
+
+životné a kapitálové poistenie
+
+sporiace účty
+
+(Zdroj: tlačové správy.wordpress.com)
+
+49
+
+SPORIACE ÚČTY
+Môžu byť zriadené aj pre deti ako doplnok k bežnému účtu rodičov.
+Na tento účet môžu rodičia pravidelne prispievať určitou čiastkou zo svojho bežného účtu, napr. formou trvalého príkazu alebo podľa ﬁnančných možností.
+Sporiace účty ponúkajú vyššie úroky.
+Zriadenie a vedenie účtu je zväčšia bez poplatku.
+STAVEBNÉ SPORENIE
+Stavebné sporenie realizujú stavebné sporiteľne za týchto podmienok:
+■ sporiť sa musí 6 rokov a minimálny ročný vklad je povinný (v roku 2012 to bolo 663,90 € );
+■ stavebné sporiteľne vyberajú poplatok za uzatvorenie stavebného sporenia (1% z cieľovej sumy, ktorú chcete nasporiť);
+■ vyberajú tiež ročný poplatok za vedenie účtu;
+■ stavebné sporenie umožňuje zobrať si výhodný úver s nízkym úrokom na bývanie;
+■ úver sa môže splatiť aj predčasne.
+DÔCHODKOVÉ SPORENIE
+Vás mladých sa to ešte netýka, ale vaši rodičia musia myslieť na dôchodok. Dôchodkové pois- tenie slúži na zabezpečenie dôchodku po skončení pracovného pomeru.
+VKLADNÉ KNIŽKY
+Predstavujú obľúbenú formu sporenia pre deti aj dospelých.
+Na zriadenie vkladnej knižky potrebujeme občiansky preukaz, pri deťoch do 18 rokov rodný list a občiansky preukaz zákonného zástupcu a vloženie minimálneho vkladu (7 €, 10 € – podľa podmienok banky).
+Sporiť môžeme pravidelne aj nepravidelne.
+Za zriadenie a vedenie vkladnej knižky neplatíme poplatky.
+Na vkladnú knižku možno ukladať peniaze už od narodenia dieťaťa. Dieťa s ňou však môže disponovať až po dovŕšení 18 rokov.
+Vkladné knižky môžu byť bez výpovednej lehoty alebo s výpovednou lehotou – 1, 2, 6, 12, 24 mesiacov.
+TERMÍNOVANÉ VKLADY
+Medzi prednosti termínovaného vkladu patrí najmä možnosť zhodnotenia voľných peňazí.
+Ide o jednorazový vklad na bankový účet na určitú dobu, napr. od 7 dní do 12 mesiacov, alebo na dlhšiu dobu 1 – 5 rokov. Za vklady banka pripisuje úroky.
+Zriadenie termínovaného účtu, vklady na účet a vedenie účtu sú u väčšiny bánk bezplatné. Za predčasný výber peňazí z termínovaného účtu si banky účtujú sankčné poplatky.
+   Peniaze na všetkých týchto vkladoch sú chránené Fondom ochrany vkladov. Keby banka nebola schopná vyplatiť vklady, tento fond by poskytol jednému vkladateľovi v príslušnej banke náhradu vo výške maximálne 100 000 €.
+
+
+Na sporenie pre deti banky najčastejšie poskytujú tieto produkty: vkladné knižky, ter- mínované vklady, sporiace účty; niektoré banky aj stavebné sporenie. Zriadenie vkladnej knižky, termínovaných účtov, sporiacich účtov a ich vedenie je u väčšiny bánk bezplatné. Výnimkou je stavebné sporenie. Sporiace produkty pre deti majú vyššie úroky.
+
+
+50
+
+Otázky
+1. Ktoré bankové produkty poskytujú banky na sporenie?
+2. Vysvetlite, prečo je dôležité sporiť.
+3. Pri ktorom produkte sa musí sporiť 6 rokov?
+4. Sú peniaze uložené v banke bezpečné?
+Úlohy a námety
+1. Úspešná manažérka pani Slováková dostala mimoriadnu odmenu 1 000 €. Rozhodla sa, že si peniaze vloží do banky na termínovaný vklad. Podľa uvedeného vzorca vypočítajte, aký úrok dostane od banky, ak si do nej pri úrokovej sadzbe 3% p.a. uloží tieto peniaze na:
+a) pol roka
+b) 1 rok
+c) 2 roky
+
+úrok = výška vkladu x úroková sadzba x čas
+100 x 365
+úrok – úroková miera, ktorou bude vklad úročený výška vkladu – 1000 €
+úroková sadzba – 3% p.a.
+čas – počet dní trvania vkladu
+
+2. Na webových stránkach porovnajte sporiace produkty, ktoré ponúkajú jednotlivé banky. Na výpočet rôznych produktov využite kalkulačku.
+(www.ﬁnance.sk, www.FinancnaHitparada.sk, www.vypocet.sk)
+
+3. DRUHY POISTENIA
+
+
+Kľúčové slová: poistenie domácnosti, poistenie domu, povinné zmluvné poistenie, havarijné poistenie, sociálne udalosti, sociálne dávky
+
+   V učive o poisťovniach ste sa dozvedeli, aké poisťovne existujú, aké druhy poistenia musíme platiť a že poistenie by mal mať každý človek. Pozrime sa teraz na niektoré druhy poistenia podrobnejšie.
+KOMERČNÉ POISŤOVNE
+   Každodenný život ľudí je plný rizikových situácií. Môžu nás vytopiť susedia, vypukne požiar, praskne vodovodné potrubie alebo spôsobíme autohaváriu. Pre takéto prípady komerčné pois- ťovne poskytujú rôzne druhy neživotného poistenia. Medzi potrebné poistenia patrí poistenie domácnosti, bytu, rodinného domu a auta.
+
+   Poistenie domácnosti – domácnosť sa poisťuje proti škodám, ktoré môže spôsobiť požiar, výbuch plynu, prasknuté potrubie, vykradnutie atď. Poistiť môžeme celé zariadenie bytu – nábytok, svietidlá, pod- lahy, cennosti, domáce elektrospotrebiče a ďalšie veci.
+
+
+
+51
+
+   Poistenie domu – dom sa poisťuje podobne ako domácnosť. Poistiť sa môže rodinný dom, byt, bytový dom (činžiak), chata či garáž. Každý rok sme svedkami veľkých záplav, vyčíňania víchrice, krupobitia, zosuvov pôdy, pádu stromov na dom a podobne. Proti týmto živelným udalostiam sa môžeme poistiť.
+   Pri poistení domácnosti, domu, bytu je dôležitá poistná suma, na ktorú sa domácnosť (dom) poisťuje. Poistné potom platíme v pravidelných splátkach, napríklad raz za rok.
+   Poistenie áut – povinné zmluvné poistenie je  známe ako „zákonná poistka“. Každý majiteľ auta je podľa zákona povinný uzatvoriť toto poistenie. Pri cestnej kontrole sa vodič musí preukázať dokladom o uzatvorení tohto poistenia, tzv. bielou kartou. Zo zákonného  poistenia  sa  platí  odškodnenie za úrazy a škodu na majetku iným osobám. To znamená, že poisťovňa uhradí za toho, kto spôsobí dopravnú nehodu, náklady na pokrytie škôd (škody na aute, škoda na zdraví, náklady pri usmrtení a pod.) iným osobám z jeho poistky.
+   Poistenie áut – havarijné je dobrovoľné poistenie. Keď si poškodíme vlastné auto, z povin- nej poistky to poisťovňa nemôže uhradiť. Na to potrebujeme havarijnú poistku, ktorá zabezpečuje náhradu škody na aute pri týchto udalostiach: havária, poškodenie čelného skla, škody v dôsled- ku živelnej pohromy (záplavy, požiar, pád stromu), krádež auta a ďalšie.
+   Pri havarijnom poistení je dohodnutá aj spoluúčasť majiteľa auta, ktorou sa zúčastňuje na vzniknutej škode, napr. 2%, 5% alebo pevnou sumou.
+SOCIÁLNA POISŤOVŇA
+   V tabuľke uvádzame ďalšie sociálne udalosti, do ktorých sa môže dostať každý z nás, a sociálne dávky, ktoré vypláca Sociál- na poisťovňa. Niektoré dávky sme už vysvetlili v základnom učive o Sociálnej poisťovni. Podrobnejšie uvedieme tie, ktoré zabezpečujú občanov v prípade úrazu, straty rodiča (živiteľa) a počas mater- stva.
+
+
+Sociálne udalostiSociálne dávky, dôchodkychorobanemocenské dávkyúraznemocenské dávky/ invalidný dôchodokstarostlivosť o dieťaošetrovnénezamestnanosťdávky v nezamestnanostistrata živiteľasirotský dôchodok, vdovský/vdovecký dôchodokmaterstvomaterské dávkystarobastarobný dôchodok
+   Nemocenské dávky – vyplácajú sa, keď je človek chorý alebo sa mu stane úraz a je dočasne práceneschopný; ak má trvalé následky úrazu, môže poberať invalidný dôchodok.
+   Sirotský dôchodok – keď v rodine zomrie otec alebo mama, dieťa má nárok na sirotský dôchodok, druhý rodič má nárok na vdovský/vdovecký dôchodok.
+Materské dávky – poskytujú sa počas materskej dovolenky namiesto mzdy.
+
+
+52
+
+Komerčné poisťovne poskytujú aj neživotné poistenie. Medzi potrebné formy poistenia patrí poistenie domácnosti, bytu, domu a auta. Domácnosť, rodinný dom, byt sa poisťuje proti škodám, ktoré môže spôsobiť požiar, výbuch plynu, prasknuté potrubie, vykradnutie atď. Pri poistení áut rozlišujeme povinné zmluvné poistenie a havarijné poistenie. Sociálna poisťovňa zabezpečuje občanov aj v prípade úrazu, straty rodiča a počas materstva.
+
+Otázky
+1. Uveďte udalosti (riziká), proti čomu sa poisťuje domácnosť, rodinný dom, byt alebo rekreačná chata.
+2. Kto má nárok na odškodnenie za úrazy a škody na aute z povinného zmluvného pois- tenia?
+3. Pri akých udalostiach si môžeme uplatňovať náhradu škody z havarijnej poistky?
+4. Na aké sociálne dávky majú nárok deti, keď im zomrie rodič?
+Úlohy a námety
+1. Prečítajte si uvedené modelové situácie a odpovedzte na otázky.
+■ Juraj K. prežil ťažkú autohaváriu. Ochrnuli mu dolné končatiny a je odkázaný na inva- lidný vozík. Na aké sociálne dávky má nárok?
+■ Rodina S. bola na víkende na Orave. Auto nechali pred chalupou, pretože tu nemajú ga- ráž. V noci sa prihnala búrka sprevádzaná ľadovcom. Ľadovec vážne poškodil karosériu auta. Z akej poistky môžu žiadať náhradu škody na aute?
+■ Firma, v ktorej pani Vierka a pán Peter pracovali 15 rokov, začala prepúšťať zamestnan- cov. Výpoveď dostali aj oni. Na aké dávky majú nárok?
+■ Rodina M. aj s deťmi bola na dovolenke. Počas nej sa k nim do bytu v paneláku vlámali zlodeji a odniesli si veci za vyše 4 000 €. Domácnosť mali poistenú. Poisťovňa v poistnej zmluve požadovala funkčný bezpečnostný zámok na vstupných dverách, čo však nestih- li zabezpečiť. Má rodina M. nárok na odškodnenie?
+■ Manželom B. sa narodil syn Jakub. Matka sa rozhodla osobne o neho starať, bude čerpať materskú dovolenku. Aké dávky môže poberať?
+2. Uvažujte nad výhodami a nevýhodami poistenia. Pracujte vo dvojiciach. Jeden z dvojice píše argumenty na otázku: Prečo je výhodné byť poistený? Druhý z dvojice píše argumenty na otázku: Prečo nie je potrebné poistenie?
+
+4. EURO V SLOVENSKEJ REPUBLIKE
+
+
+Kľúčové slová: euro, eurové bankovky, eurové mince, ochranné prvky
+
+   Graﬁcký symbol eura vyzerá ako písmeno E. Je inšpirovaný gréckym písmenom epsilon a prvým písmenom slova Európa. Dve paralelné čiary symbolizujú stabilitu.
+Euro je spoločnou menou členských štátov Európskej únie (EÚ).
+V roku 2004 (1. 5. 2004) sa Slovenská republika stala členom Európskej únie.
+V júli 2008 Rada EÚ stanovila konverzný kurz slovenskej koruny voči euru. Konverzný kurz
+je koeﬁcient so šiestimi platnými číslami v tvare 1 EUR = 30,1260 SKK. Tento kurz bol použitý
+
+53
+
+pri prepočte slovenských korún na eurá a používa sa dodnes. 1. januára 2009 sa euro stalo zákonným platid- lom v SR. V obehu je 8 eurových (centových) mincí a 7 eurových bankoviek.
+OCHRANNÉ PRVKY EUROVÝCH BANKOVIEK
+   Eurové bankovky 50, 100, 200 a 500 obsahujú ochran- né prvky, podľa ktorých môžeme rozpoznať falziﬁkáty. Na overenie pravosti bankovky môžeme použiť skúšku pohľadom, hmatom a naklonením.
+
+Skúška pohľadom
+
+
+
+
+Sútlačová značka	Ochranný prúžok	Vodoznak
+
+   Sútlačové značky sú vytlačené v hornom rohu na oboch stranách bankovky. Spolu vy- tvárajú jej nominálnu hodnotu. Nominálna hodnota je vytlačená na bankovke (napr. 50 €). Celé číslo uvidíme, keď sa na bankovku pozrieme proti svetlu.
+   Ochranný prúžok vidíme proti svetlu. Pri pohľade proti svetlu prúžok vyzerá ako tmavá čiara. Prúžok obsahuje slovo EURO a nominálnu hodnotu bankovky uvedenú drobným písmom.
+   Vodoznak je viditeľný proti svetlu. Pri pohľade proti svetlu sa objaví matný obraz a nomi- nálna hodnota bankovky. Na pravých bankovkách sú tieto prvky viditeľné z lícnej i rubovej strany.
+
+Skúška hmatom	Skúška naklonením
+
+
+
+
+Bankovkový papier	Hologram	Premenlivá farba
+   Bankovkový papier zistíme hmatom. Na dotyk by mal byť tuhý a pevný. Keď po bankovke prejdete prstom, zistíte, že vrstva farby je na niektorých miestach hrubšia.
+   Hologram na bankovkách nižšej nominálnej hodnoty pri naklonení zobrazuje nominálnu hodnotu bankovky a znak eura. Na bankovkách vyššej nominálnej hodnoty hologram pri na- klonení zobrazuje nominálnu hodnotu bankovky a okno alebo bránu.
+   Opticky premenlivá farba sa mení pri naklonení bankovky. Ak nakloníte bankovky 50, 100, 200 alebo 500 EURO, zistíte, že farba čísla nominálnej hodnoty na rubovej strane bankovky sa zmení z purpurovej na olivovozelenú alebo hnedú.
+
+54
+
+   Ak zistíte, že bankovka je podozrivá, ihneď kontaktujte políciu. Falšovanie peňazí je trest- ným činom.
+
+
+
+Euro je spoločnou menou členských štátov EÚ. Ako platidlo sa v SR používa od 1. 1. 2009. Eurové bankovky 50, 100, 200 a 500 obsahujú ochranné prvky. Na overenie pravosti ban- kovky môžeme použiť skúšku pohľadom (sútlačové značky, ochranný prúžok, vodoznak), hmatom (bankovkový papier) a naklonením (hologram, premenlivá farba).
+
+Otázky
+1. Čo vyjadruje graﬁcký symbol eura?
+2. Vymenujte ochranné prvky eurových bankoviek.
+3. Uveďte spôsoby, ako môžeme preveriť pravosť eurových bankoviek.
+Úlohy a námety
+1. Pozrite si interaktívnu prezentáciu eurových bankoviek a mincí a ochranných prvkov na webovej stránke www.ecb.int/euro/banknotes/security/html/index.sk.html.
+2. Preverte si svoje vedomosti o eure. Vyplňte doplňovačku a dozviete sa, kto navrhol sym- boly (dizajn) na eurobankovky.
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+1. symbol na zadnej strane 1-,2-,5-centových slovenských eurominciach
+2. ochranný prvok eurových bankoviek overiteľný pohľadom
+3. jednotný symbol na prednej strane všetkých eurových bankoviek
+4. počet slovenských eurových bankoviek (slovom)
+5. historický sloh na 50-eurovej bankovke
+6. jednotný symbol na zadnej strane všetkých eurových bankoviek
+7. symbol na zadnej strane mincí 1€, 2€
+8. historický sloh na 5-eurovej bankovke
+9. ochranný prvok viditeľný naklonením
+10. historický sloh na 20-eurovej bankovke
+11. farba 100-eurovej bankovky
+12. hodnota eurovej bankovky červenej farby (slovom)
+
+55
+
+5. OSOBNÉ FINANCIE
+
+
+Kľúčové slová: osobný rozpočet, vreckové, ﬁnančná gramotnosť, osobný ﬁnančný plán
+
+   Určite ste už počuli vetu: „Nemám dosť peňazí.“ Koľko je to dosť? Koľko potrebujeme? Na tie- to otázky neexistuje jednoznačná odpoveď. Každý z nás má inú predstavu. Sú ľudia, ktorí majú veľa peňazí, a predsa nie sú šťastní. No sú takí, ktorí dokážu prežiť aj z mála.
+   Peniaze potrebujeme všetci, sú súčasťou každodenného života, prostriedkom na zabezpečenie potrieb, aj na plnenie túžob a snov.
+   Dôležité je, aby sme vedeli, koľko peňazí máme, čo a kedy si môžeme kúpiť, koľko musíme zaplatiť za potrebné veci a koľko si môžeme odložiť. Takémuto plánovaniu hovoríme rozpočet.
+
+
+ROZPOČET
+   Je to prehľad o príjmoch a výdavkoch. Príjmy sú peniaze, ktoré dostaneme, výdavky sú všetky platby za tovary, služby a ostatné potreby.
+   Predstavte si váhy s dvomi miskami. Na jednej sú príjmy, teda peniaze, ktoré dostaneme. Na druhej vý- davky – platby za tovar alebo služby. Ideálne je, keď sú misky v rovnováhe. To znamená, že minieme len toľko peňazí, koľko zarobíme alebo dostaneme. Je však istejšie, ak si každý mesiac nejakú sumu peňazí usporíme.
+
+
+Príjmy	Výdavky
+
+V súvislosti s tým je potrebné zodpovedať tieto základné otázky:
+■ ako získať peniaze
+■ ako míňať (utrácať) peniaze
+■ ako sporiť (šetriť) peniaze
+   Ak sa naučíte pracovať s peniazmi už teraz, v budúcnosti nebudete mať problém naplánovať si osobný či rodinný rozpočet.
+Osobný rozpočet
+
+PríjmyVýdavkyZdroj€Položka€vreckovéjedlobrigádadopravadaryšportúsporysporenieinéškolské potrebykino, diskotékytelefóndarčekyinéSpoluSpolu
+
+56
+
+Menej obvyklé možnosti získania peňazí u vás sú napríklad výhry alebo zdedené peniaze. Aby ste vedeli s peniazmi narábať, musíte nejaké vlastniť. Keďže nechodíte do práce, naj-
+častejším spôsobom získania peňazí je vreckové od rodičov. Peniaze si však môžete zarobiť aj na brigádach pre študentov, výpomocou starším ľuďom a podobne.
+   Je nevyhnutné získavať informácie o peniazoch, plánovať svoje ﬁnancie a vedieť pracovať    s peniazmi.
+   Finančná gramotnosť je schopnosť riešiť ﬁnančné problémy v určitých situáciách za určitých podmienok. Podobne ako sa budete pripravovať na svoju profesiu a získavať určité zručnosti a vedomosti, to isté budete potrebovať aj na úspešné a efektívne spravovanie svojich ﬁnancií.
+To znamená
+■ naučiť sa rozumne zaobchádzať s peniazmi, zbytočne nemíňať,
+■ každý mesiac si urobiť prehľad o svojich príjmoch a výdavkoch,
+■ robiť zoznam všetkého, čo treba kúpiť,
+■ sledovať a porovnávať ceny tovarov a služieb.
+   Keď sa dostanete do situácie, že musíte minúť viac peňazí, ako ste si naplánovali, naučte sa hneď upraviť svoj rozpočet. Ak ste si napríklad neplánovane kúpili vstupenku na koncert obľúbenej skupiny, nekúpite si už nové oblečenie. Alebo si nájdete príležitostnú brigádu a pe- niaze si zarobíte.
+OSOBNÝ FINANČNÝ PLÁN
+   Rozpočet osobných ﬁnancií pomáha ľuďom lepšie sa orientovať vo vlastných ﬁnanciách. Zákla- dom ﬁnančného plánovania je osobný ﬁnančný plán, ktorý by mal zahŕňať ﬁnančné ciele:
+– krátkodobé (napr. kúpa nových riﬂí),
+– strednodobé (napr. kúpa nového notebooku, mobilného telefónu),
+– dlhodobé (napr. kúpa bytu, auta).
+   Zároveň je potrebné robiť si záznamy o príjmoch a výdavkoch, aby ste boli schopní vyčísliť, koľko peňazí vám zostane na naplnenie stanovených cieľov. Jedným z riešení je viesť si Denník osobných príjmov a výdavkov.
+
+
+
+Každý deň sa medzi niečím rozhodujeme. Tak je to aj s peniazmi. Aj vy môžete získať vlastné ﬁnancie, s ktorými by ste sa mali naučiť pracovať. To znamená, že budete mať prehľad o príjmoch a výdavkoch, budete schopní zostaviť rozpočet. Dôležité je, aby ste neminuli viac peňazí, ako dostanete. Prehľadný osobný ﬁnančný plán vám pomôže udržať rovnováhu v rozpočte a nedostanete sa do mínusu. Ak budete rozumieť ﬁnanciám ešte predtým, ako budete pracovať a mať rodinu, bude to pre vás veľká výhoda.
+
+
+Otázky
+1. Za čo a na čo vám rodičia dávajú vreckové?
+2. Aké otázky musíme riešiť pri plánovaní osobného rozpočtu?
+3. Vysvetlite pojem ﬁnančná gramotnosť.
+4. Kedy a prečo je potrebné upravovať osobný rozpočet?
+
+
+
+57
+
+Úlohy a námety
+1. Ivan má 15 rokov. Na narodeniny dostal 90 eur od rodiny a od priateľov. Nie je to málo, ale ani veľa, pretože by si chcel kúpiť nový bicykel, ktorý stojí 150 eur. Ten by mohol využívať na cestu do školy, ktorá je na opačnom konci mesta. Zároveň by v rodine ušetrili na cestov- nom, ktoré sa neustále zvyšuje. Čo však môže spraviť so sumou 90 eur? Pomôžte Ivanovi a spolu s ním hľadajte možnosti získania potrebnej sumy peňazí.
+2. Vypracujte Prehľad príjmov a výdavkov za 1 mesiac. Zapíšte si všetky možnosti ako získať peniaze. Na stranu výdavkov pripíšte všetky položky, na čo dávate svoje peniaze. Urobte súčty príjmov a výdavkov a porovnajte ich.
+Prehľad príjmov a výdavkov
+
+PríjmyVýdavkyZdroj€Položka€SpoluSpolu
+6. HOSPODÁRENIE V DOMÁCNOSTI
+
+
+Kľúčové slová: ﬁnancie, príjmy, výdavky, rozpočet, deﬁcit, prebytok, mzda, štátna sociálna podpora
+
+   V predchádzajúcej téme sme hovorili, že každý z nás má veľa prianí, túži po rôznych veciach. Nemôžeme však mať všetko, čo chceme. Existujú rôzne obmedzenia, limity, ktoré bránia, aby sme si splnili každé želanie. Keď ideme nakupovať, sme obmedzení výškou ﬁnančných pros- triedkov.
+Aby sme vedeli, čo a kedy si môžeme kúpiť, musíme mať prehľad o stave svojich ﬁnancií.
+Preto by každá rodina mala mať rodinný rozpočet.
+RODINNÝ ROZPOČET
+   Je to pravidelný mesačný prehľad o všetkých príjmoch, ktoré do domácnosti prichádza- jú, a aj prehľad o všetkých výdavkoch, ktoré treba každý mesiac zaplatiť.
+
+
+
+
+
+58
+
+PRÍJMY	VÝDAVKY
+
+práca podnikanie
+prenájom domu, bytu, pôdy sociálna podpora
+podpora v nezamestnanosti dary, výhry
+brigády, sezónne práce
+
+
+
+
+DOMÁCNOSŤ
+
+platby za energie strava
+oblečenie
+sporenie, poistky telefón
+splátky pôžičiek kultúra, šport
+
+dedičstvo	nájomné
+náklady na auto
+náklady na domáce zvieratá charita
+
+   Ak prevažujú naše príjmy a zostane nám čosi navyše, máme prebytok. Tieto peniaze si môžeme uložiť v banke, v niektorom z produktov, ktoré banka ponúka, a v prípade nepredví- daných výdavkov ich môžeme využiť.
+   Problém je, ak musíme zaplatiť viac, ako sme zarobili. Hovoríme, že sme sa dostali do mí- nusu, máme deﬁcit.
+   Aby človek mohol zarábať a získavať peniaze na svoju existenciu, musí byť zdravý a pracovať. Život však prináša mnoho nepredvídateľných prekážok, napr. vážne ochorieme, prídeme o blíz- keho človeka, stratíme zamestnanie. Na takéto situácie je potrebné sa pripraviť, vedieť, kto nám pomôže, na koho sa môžeme obrátiť. (O možnostiach riešenia takýchto situácií sme hovorili v téme Poisťovne.) Z toho vyplýva, že musíme byť zodpovední, uvažovať o tom, čo urobíme a aké to bude mať následky.
+   Platí to v každodennom živote, platí to aj o peniazoch. Ak sa rodina dostane do ﬁnančných problé- mov, lebo má viac výdavkov, musí hľadať spôsob, ako dostať rodinný rozpočet späť do rovnováhy. Niektoré výdavky musí znížiť alebo úplne vyradiť. Musí však aj premýšľať, ako zvýšiť príjmy.
+Dôležité je rozumne míňať peniaze.
+■ Každý mesiac si urobte prehľad o svojich príjmoch a výdavkoch v domácnosti.
+■ Pred nákupom si zostavte zoznam potrebných vecí, nekupujte zbytočne „do zásoby“.
+■ Porovnajte si ceny a kvalitu tovaru v rôznych predajniach, až potom sa rozhodnite pre kúpu.
+■ Využívajte výpredaje, kde nakúpite s veľkými zľavami.
+   Prehľad o ﬁnančnej situácii v rodine môže zjednodušiť kartotéka. Môžeme si ju viesť v písom- nej alebo elektronickej podobe.
+Kartotéka dokladov a dokumentov v rodine
+Záručné listy
+Účtovné doklady
+Platby (inkaso, plyn, telefón)
+Výpisy z bankových účtov
+Poistné zmluvy
+
+
+
+
+
+59
+
+Takmer pri každej hospodárskej činnosti musíme zostavovať rozpočet, ktorý tvoria na jed- nej strane príjmy a na druhej strane výdavky. Aj v rodine musíme sledovať, koľko ﬁnancií získame do rozpočtu a na čo ich použijeme. Ak sú príjmy približne v rovnakej výške ako výdavky, plánovanie rozpočtu je správne. Niekedy minieme viac peňazí, ako sme si na- plánovali. Znamená to, že siahneme na ﬁnančné rezervy z nasporených peňazí. Dôležité však je hľadať spôsob, ako a aké výdavky znížiť alebo vyradiť. Súčasne by sme mali uvažovať nad zvýšením príjmov, aby sme sa nedostali do vážnych ﬁnančných problémov.
+
+Otázky
+1. Akú funkciu plní rodinný rozpočet?
+2. Čo tvorí príjem rodiny?
+3. Aké sú najčastejšie výdavky v rodinách?
+4. Ako treba postupovať, ak výdavky prevyšujú príjmy?
+Úlohy a námety
+1. Mirkini rodičia zistili, že ich rodinný rozpočet sa dostal do mínusu, pretože museli náhle riešiť situáciu s pokazeným kotlom na kúrenie. Čo by ste im poradili, aby rodina získala potrebné peniaze na vyrovnanie rozpočtu?
+Prečítajte si jednotlivé položky, prehodnoťte ich a navrhnite, kde by rodina mohla usporiť:
+■ nákup módneho značkového oblečenia a doplnkov
+■ telefonovanie
+■ návšteva kina s celou rodinou
+■ pravidelné večere v reštauráciách
+■ zahraničná dovolenka
+■ časopisy a noviny
+■ jazda autom po meste
+■ nákup drahých konzervovaných potravín
+■ vykurovanie bytu
+■ osvetlenie bytu a používanie elektrospotrebičov
+■ sezónne nákupy, obuv a odev pre deti
+2. Utvorte 4-členné skupiny, ktoré budú predstavovať rodinu: otec, matka a dve deti. Vyberte si jednu z možností a rozdeľte sumu 800 eur medzi výdavky zo zoznamu. Rozhodnite podľa toho, akú rodinu predstavujete.
+a) prvá rodina: obe deti navštevujú ZŠ a jedno z nich sa aktívne venuje hokeju
+b) druhá rodina: obe deti sú v predškolskom veku
+c) tretia rodina: jedno dieťa študuje v zahraničí a druhé dieťa navštevuje ZŠ
+Pracujte s týmto zoznamom výdavkov
+● potraviny	240 €	● zimné bundy pre deti	80 €
+● nájomné	165 €	● hračky	49 €
+● športové potreby	57 €	● poistky	60 €
+● predĺžený víkend na chate	220 €	● telefóny	26 €
+● splátky úveru	92 €	● splátka na notebook	30 €
+● letenka	99 €	● kúpa novej práčky	240 €
+● benzín	43 €	● návšteva zábavného parku	63 €
+
+
+
+60
+
+7. ŠTÁTNY ROZPOČET
+
+
+Kľúčové slová: bilancia, rozpočet, prebytok, deﬁcit (schodok), príjmy, výdavky
+
+   V predchádzajúcej téme sme sa dozvedeli, že každá rodina musí plánovať hospodárenie s ﬁ- nanciami, aby čo najlepšie použila vlastné príjmy na zabezpečenie všetkých potrieb členov ro- diny. Podobne je to aj na úrovni celého štátu. Aj štát musí hospodáriť tak, aby uspokojil základné požiadavky celej spoločnosti.
+   Štátny rozpočet je centrálny peňažný fond, v ktorom sa zhromažďujú a rozdeľujú ﬁnančné prostriedky štátu. Zostavuje sa na jeden rok. Návrh štátneho rozpočtu vypracúva Ministerstvo ﬁnancií SR, prerokúva ho vláda a nakoniec ho schvaľuje Národná rada SR vo forme zákona, ktorý je záväzný pre všetkých.
+ŠTÁTNY ROZPOČET
+Štátny rozpočet má príjmovú a výdavkovú stranu.
+Príjmy
+   Najpodstatnejšiu časť príjmov tvoria dane: dane z príjmov fyzických a právnických osôb, daň z pridanej hodnoty (DPH), spotrebné dane (podrobnejšie ich rozoberieme v téme Dane a daňová sústava).
+   Ďalšiu časť tvoria nedaňové príjmy. Sú to rôzne poplatky, kolky a prostriedky z Európskej únie.
+Výdavky
+Najväčšiu časť výdavkov predstavujú
+■ mzdy a platy
+– zamestnancov v ústredných orgánoch štátnej správy,
+– zamestnancov školstva, zdravotníctva, kultúry, súdnictva a iných organizácií. V oblasti školstva štát ﬁnancuje: učebnice,
+prevádzku škôl,
+prispieva na rekonštrukciu, modernizáciu škôl a pod.
+Ďalšie výdavky tvoria:
+■ ﬁnančná pomoc obciam, rôznym organizáciám,
+■ príspevky do poisťovní a ďalších organizácií a inštitúcií, z ktorých sa vyplácajú sociálne dávky a poskytuje sa zdravotná starostlivosť,
+■ splácanie štátneho dlhu,
+■ ﬁnančná pomoc ľuďom, ktorí už nepracujú a štát im vypláca starobný dôchodok.
+61
+
+
+Príjmy
+
+Výdavky
+
+
+	
+
+
+
+
+
+
+
+
+
+
+Keďže štátny rozpočet má príjmovú a výdavkovú stranu, zostavuje sa vo forme bilancie
+(porovnávania) príjmov a výdavkov.
+Konečný výsledok môže byť:
+rozpočtový prebytok	– ak sú príjmy vyššie ako výdavky P > V rozpočtový deﬁcit (schodok) – ak sú výdavky vyššie ako príjmy P < V vyrovnaný rozpočet	– ak sa príjmy rovnajú výdavkom P = V
+
+
+
+Rozpočet zostavený pre celú republiku sa nazýva štátny rozpočet. Podstatnú časť príj- mov tvoria dane. Výdavky štátu idú predovšetkým na správu štátu, sociálnu starostlivosť, školstvo, zdravotníctvo a kultúru. Pomerne veľkú časť výdavkov štátneho rozpočtu pred- stavuje splácanie štátneho dlhu a rôzne sociálne dávky a podpory. Ak sú príjmy štátu vyššie ako výdavky, vzniká prebytok, ak sú nižšie, vzniká schodok. Štátny rozpočet je vy- rovnaný vtedy, ak sa jeho príjmy rovnajú výdavkom.
+
+
+Otázky
+1. Vysvetlite pojem štátny rozpočet a postup jeho schvaľovania.
+2. Čo tvorí podstatu príjmov a výdavkov štátneho rozpočtu?
+3. Aký môže byť konečný výsledok bilancie štátneho rozpočtu?
+Úlohy a námety
+1. Na základe uvedeného grafu vysvetlite vývoj príjmov a výdavkov v štátnom rozpočte.
+a) Určte, v ktorom roku bol deﬁcit štátneho rozpočtu najvyšší a aká bola jeho výška.
+b) Určte, v ktorom roku bol deﬁcit štátneho rozpočtu najnižší a aká bola jeho výška.
+
+62
+
+Vývoj štátneho rozpočtu v období r. 2006 – 2012
+16	15,34	15,18
+15
+14	13,33
+13
+12,06
+12	11,48
+
+
+
+
+
+13,63
+
+
+
+Príjmy v mld. € Výdavky v mld. €
+
+11 10,74
+10
+9
+
+
+
+9,69
+
+
+10,70
+
+
+11,35
+
+
+
+10,54
+
+
+10,90
+
+11,94
+
+
+
+(Zdroj: Štatistický úrad SR)
+
+2006	2007	2008	2009	2010	2011	2012
+
+2. Predstavte si, že zostavujete štátny rozpočet. Rozdeľte sa do skupín – „výborov“, ktoré majú rozhodnúť, akú sumu vyčlenia na jednotlivé výdavky. Pracujte so sumou 100 eur. Svoje rozhodnutia zdôvodnite v diskusii.
+
+Takto sa rozdelí 100 € v štátnom rozpočteDôchodková reforma
+5€Dotácia dôchodkov z I. piliera
+5€Členstvo v EÚ 4€Štátny dlh 7€Pomoc v hmotnej núdzi
+1,5€Podpora rodiny 6€Cesty
+6€Železnice
+4€Bývanie
+1€Základné a stredné školy
+7€Vysoké školy 3€Zdravotné poistenie detí a dôchodcov 7€Poľnohospodári
+7€Polícia
+4€Životné prostredie 5€Armáda
+4€Informatizácia spoločnosti 1,5€Súdy
+a väzenie
+1€Ostatné výdavky 21€(Zdroj: www.cas.sk/clanok/186962/takto-sa-deli-rozpocet-kazde-siedme-euro-ide-na-plat-uradnika.html)
+3. Štátny rozpočet dlhodobo vykazuje deﬁcit. Navrhnite súbor opatrení na jeho zníženie.
+
+8. DANE A DAŇOVÁ SÚSTAVA
+
+
+Kľúčové slová: daň, priama daň, nepriama daň, miestne dane, daň z pridanej hodnoty
+
+   Z historického hľadiska vznik daní súvisí so vznikom štátu, ktorý bolo potrebné ﬁnančne zabezpečiť.
+   Dane patria medzi najdôležitejšie príjmy štátneho rozpočtu (tvoria až 80% príjmov štátneho rozpočtu). Predpisujú a vyberajú sa na základe štátom stanovených noriem. Za zaplatenú daň nevzniká nárok na jej vrátenie.
+   Daň je povinná, zákonom určená platba, ktorú pravidelne odvádzajú fyzické a právnické osoby štátu v určenom termíne a v určitej výške.
+Dane možno platiť v hotovosti alebo bezhotovostným prevodom.
+
+
+63
+
+DAŇOVÁ SÚSTAVA
+   Daňová sústava je súhrn daní, ktoré sú uplatňované v danej krajine v príslušnom zdaňovacom období, ktorým je kalendárny rok.
+V Slovenskej republike daňovú sústavu tvoria priame a nepriame dane.
+Daňová sústava SR
+
+
+PRIAME DANE
+Uhradí ich priamo osoba, ktorej príjmy alebo majetok podliehajú dani.
+1. Dane z príjmov
+Dane z príjmov právnických osôb – napríklad podnikateľ zaplatí daň zo zisku dosiahnu- tého podnikaním.
+Dane z príjmov fyzických osôb – zaplatí zamestnanec zo mzdy za prácu. Dane z príjmov sa platia do štátneho rozpočtu.
+2. Miestne dane – z nehnuteľnosti, za psa, za ubytovanie, za predajné automaty, poplatok   za komunálny odpad, za užívanie verejného priestranstva a podobne sa platia obciam a vyšším územným celkom.
+Podrobnejšie spomenieme daň za psa, keďže mnohí ste majiteľmi psov.
+Daň za psa platí vlastník alebo držiteľ psa staršieho ako 6 mesiacov s výnimkou psa, ktorý je chovaný na vedecké účely, je v útulku, slúži na sprevádzanie nevidiacej osoby alebo ho vlastní ťažko zdravotne postihnutá osoba. Platí sa podľa počtu psov.
+NEPRIAME DANE
+Sú súčasťou ceny nakupovaných tovarov a poskytovaných služieb.
+1. Daň z pridanej hodnoty (DPH) je nepriama daň, ktorá má najväčší podiel na daňových príjmoch štátneho rozpočtu. Od januára 2011 je v SR výška DPH 20%. Je súčasťou cien tak- mer všetkých tovarov a zaplatí ju spotrebiteľ predajcovi v cene kúpeného tovaru.
+2. Spotrebné dane majú podobný charakter ako DPH, týkajú sa však len vybraných druhov tovarov. Cieľom štátu je obmedziť spotrebu týchto tovarov, najmä so škodlivým vplyvom na zdravie človeka: spotrebné dane z vína, piva, liehu, tabakových výrobkov, minerálneho oleja.
+
+64
+
+   Neexistuje presne vymedzený daňový systém. Pri tvorbe daní je potrebné prihliadať na to, aký vplyv majú na ekonomickú, sociálnu a politickú oblasť štátu.
+
+
+Dane patria medzi najdôležitejšie príjmy štátneho rozpočtu. Daň možno deﬁnovať ako po- vinnú, zákonom určenú platbu do verejného rozpočtu, ktorú odvádzajú fyzické a právnické osoby v určenom termíne. Podmienky platenia daní určuje štát prostredníctvom právnych noriem.
+
+Otázky
+1. Vysvetlite pojem daň vo vzťahu k štátu.
+2. Čo tvorí daňovú sústavu v Slovenskej republike?
+3. Vysvetlite rozdiel medzi priamou a nepriamou daňou.
+4. Čím sú charakteristické spotrebné dane?
+Úlohy a námety
+1. Vypočítajte ceny týchto výrobkov s DPH.
+● kryštálový cukor	0,69 € (bez DPH)
+● osuška	2,29 €
+● mikrovlnná rúra	95,39 €
+● auto	7 250,00 €
+● antialergická prikrývka	26,52 €
+2. Rozhodnite, kto a aké dane zaplatí v nasledujúcich situáciách.
+a) Škola má automaty na čaj a nealkoholické nápoje.
+b) Vaša rodina býva v rodinnom dome.
+c) V reštaurácii ste si kúpili pizzu a nápoje.
+d) Na Vianoce ste dostali psa.
+e) Predĺžený víkend ste strávili na chate pri jazere.
+3. Zistite, aké dane a v akej výške musia platiť obyvatelia vašej obce/mesta. Uveďte zdroje, kde ste našli tieto informácie.
+
+9. OCHRANA SPOTREBITEĽA
+
+
+Kľúčové slová: práva spotrebiteľa, právo na nápravu, reklamácia
+
+   Už v minulom školskom roku ste sa dozvedeli, čo si treba všímať pri kúpe potravín, tex- tilu, obuvi, technických výrobkov, ako reklamovať tovar a že v prípade problémov sa o radu či pomoc môžete obrátiť na Slovenskú obchodnú inšpekciu alebo Združenie slovenských spotrebiteľov.
+   Ochrana práv spotrebiteľa v SR je zakotvená v Občianskom zákonníku a v Zákone        o ochrane spotrebiteľa (zákon č. 634/1992 Zb. z.). Chýbajú však dostatočne účinné prostried- ky na ich uplatňovanie v praxi. A preto sa aj my spotrebitelia musíme naučiť domáhať sa svojich práv.
+
+
+65
+
+   Jedným z dôležitých práv spotrebiteľa je právo na nápravu. To znamená, že spotrebiteľ má dostať jasné a konkrétne odpovede na reklamácie, sťažnosti a náhrady za nekvalitné to- vary a služby. Reklamovať tovar môže osobne alebo poštou. Pri osobnom reklamovaní tovaru predávajúci vydá kupujúcemu písomný doklad, kde je uvedený dátum reklamácie, vady na to- vare a spôsob riešenia reklamácie. Písomná reklamácia musí obsahovať podstatné náležitosti.
+PODSTATNÉ NÁLEŽITOSTI REKLAMÁCIE
+■ Záhlavie: meno a priezvisko, adresa toho, kto reklamuje.
+■ Adresa predajne, kde sme tovar kúpili, alebo výrobcu, ak sme tovar kúpili v podnikovej predajni.
+■ Miesto a dátum, kedy sme reklamáciu písali.
+■ Vec – Reklamácia – uviesť druh tovaru.
+■ Text reklamácie
+– uvedieme, s akým výrobkom sme nespokojní (napr. tenisky, mobil, športový vak, tričko); pri technických výrobkoch môžeme uviesť číslo modelu, sériové číslo a pod.
+– kde a kedy bol výrobok kúpený
+– v čom sú problémy s výrobkom (napr. odlepená podrážka, ošúchaná farba), či je vada od- strániteľná alebo neodstrániteľná
+– ako vyriešiť daný problém: oprava výrobku, výmena, zľava, vrátenie peňazí
+– aké doklady máme o kúpe tovaru: pokladničný blok, faktúru, výpis z banky, záručný list a podobne (budú uvedené v prílohe)
+■ Záver reklamácie – obsahuje zdvorilostné formulky S pozdravom, Za kladné vybavenie vo- pred ďakujem.
+■ Podpis – vlastnou rukou
+■ Prílohy – napr. pokladničný blok
+
+
+
+Občiansky zákonník a Zákon o ochrane spotrebiteľa zakotvujú ochranu práv spotrebiteľa v SR. Ak sa na tovare, ktorý spotrebiteľ kúpil, vyskytne vada, spotrebiteľ má právo na nápravu. Tovar možno reklamovať v záručnej dobe, ktorá je minimálne 2 roky. Reklamačná doba je 30 dní. Reklamáciu uplatňujeme u predávajúceho, kde sme tovar kúpili, alebo      u výrobcu, ak sme tovar kúpili v podnikovej predajni. Písomná reklamácia musí obsahovať podstatné náležitosti.
+
+Otázky
+1. Ktoré právne predpisy obsahujú ochranu práv spotrebiteľa?
+2. Čo zahrnuje spotrebiteľské právo na nápravu?
+3. Uveďte, ktoré podstatné náležitosti musia byť uvedené v texte reklamácie.
+4. Na ktoré orgány sa môže spotrebiteľ obrátiť o informácie a radu?
+Úlohy a námety
+1. Vypracujte návrh reklamácie podľa zadania. Využite vedomosti zo slovenského jazyka    a vzor reklamácie.
+1. skupina: reklamácia na tenisky, na ktorých sa odlepila podrážka
+2. skupina: reklamácia na mobil, lebo často vypadáva signál
+3. skupina: reklamácia na tričko, ktoré po prvom praní stratilo pôvodnú farbu
+2. Hranie rolí.
+Vytvorte tri dvojice. Jeden z dvojice bude hrať rolu predavača, druhý spotrebiteľa. Úlohou bude vyriešiť reklamáciu bicykla.
+
+66
+
+1. dvojica – predvedie pasívne vybavovanie reklamácie
+2. dvojica – predvedie agresívne vybavovanie reklamácie
+3. dvojica – predvedie asertívne vybavovanie reklamácie
+Nasleduje diskusia o spôsoboch uplatňovania práv spotrebiteľa, ktoré	sa najčastejšie využívajú v praxi.
+
+10. VPLYV REKLAMY NA SPOTREBITEĽOV
+
+
+Kľúčové slová: reklama, klamlivá reklama, prostriedky reklamy, porovnávacie testy
+
+   Možno si to ani neuvedomujeme, ale denne sme vystavení veľkému množstvu reklám. Ovplyvňujú nás, či chceme, alebo nie. Všetci poznáme reklamy v televízii, farebné inzeráty      v časopisoch a novinách, letáky v poštových schránkach, bilbordy pri cestách, ﬁremné značky na športových štadiónoch.
+   Cieľom reklamy je podporiť predaj tovarov a služieb, čo má dôležitú úlohu pre rozvoj ekono- miky. Môže však negatívne vplývať na spôsob spotreby, keď podporuje k väčšej spotrebe, ako potrebujeme, keď nás chce presvedčiť, aby sme vymenili za nové tie veci, ktoré vymeniť vôbec nepotrebujeme.
+   Reklama sa môže zameriavať na rôzne cieľové skupiny: domácnosti, športovcov, mladých ale- bo starých ľudí. Mladí ľudia sú reklamou ľahšie ovplyvniteľní. Vysvetlime si, ako nás reklama ovplyvňuje, aby sme vedeli zaujať kritický postoj k informáciám obsiahnutým v reklame.
+AKO NÁS OVPLYVŇUJE REKLAMA
+   Vyobrazenie dokonalosti – reklamy presviedčajú o tom, že výrobok je najlepší, najbezpečnejší (napr. prací prášok X je bez konkurencie). Samot- ný spotrebiteľ nepozná kvalitu všetkých tovarov, preto sa často nechá ovplyvniť.
+
+
+   Zľavy, výhody – reklamy ponúkajú rôzne zľavy, viac výrobkov za jednu cenu, možnosť výhry atď. (napr. teleshoping – ak zavoláte ihneď, máte tovar o toľko a toľko lacnejší). V mnohých prípadoch sú výrobky predražené.
+
+
+   Známa osobnosť (osobnosti nakupujú) – využívanie populárnych osobností na priame propagovanie výrobkov. V reklamách tvrdia, že ide   o vynikajúci výrobok, alebo nosia, používajú výrobky na verejnosti, pri roz- hovoroch a podobne.
+
+
+
+   Opakovanie reklamy – pretože ľudia si lepšie pamätajú informácie, ktoré sa pravidelne opakujú.
+67
+
+   Dôraz na značku – spotrebiteľ má pocit, že značka ponúka tie správne vlastnosti výrobku (farbu, zloženie, chuť a pod.) Značkový výrobok tiež predstavuje imidž, ktorý je dôležitý pre mnohých mladých ľudí. Výrob- covia chcú reklamou presvedčiť, že to, čo majú rovesníci, musíte mať aj vy. Spotrebitelia kupujú tie značky, ktoré sú najviac propagované.
+
+
+Ako predísť nepremyslenej kúpe výrobkov
+■ Zistite čo najviac informácií o podobných výrobkoch, využite rôzne porovnávacie testy vý- robkov v novinách, časopisoch, na internete (Test – magazín). Často nemáme čas ani chuť porovnávať všetok dostupný tovar, s čím tvorcovia reklamy počítajú.
+■ Premyslite si, či ponúkaný výrobok naozaj potrebujete.
+■ Preverte si, či nejde o klamlivú reklamu. Klamlivá je každá reklama, ktorá zavádza alebo kla- me spotrebiteľov, obsahuje nepravdivé informácie alebo neuvádza dôležité informácie. Napríklad reklama na opaľovacie mlieka uvádza vysoký UV faktor, podľa testov ho však neobsahujú.
+■ Spýtajte sa na skúsenosti s výrobkom iných spotrebiteľov.
+
+
+
+Reklama má dôležitú úlohu v podpore ekonomiky. Ak reklama nerešpektuje právne pred- pisy a etické normy, môže byť nevhodná pre spotrebiteľov. Spotrebiteľ by mal vedieť zaujať kritický postoj k informáciám, ktoré sú uvedené v reklame. Zakázaná je klamlivá reklama, ktorá zavádza alebo klame spotrebiteľov.
+
+Otázky
+1. Vysvetlite, čo je cieľom reklamy.
+2. Charakterizujte prostriedky reklamy, ktorými nás ovplyvňuje.
+3. Na čo slúžia porovnávacie testy výrobkov?
+4. Aká je klamlivá reklama?
+Úlohy a námety
+1. Pokúste sa kriticky posúdiť niektoré druhy reklamy. Na vyučovaciu hodinu doneste rekla- my na rôzne výrobky z novín, časopisov, internetu. Využiť môžete aj televízne reklamy. Rozdeľte sa do skupín. Každá skupina bude analyzovať reklamu iného výrobku. Odpo- vedzte na otázky. Svoje odpovede zaznamenajte do zošita.
+● Názov reklamovaného výrobku ..........................................................................................
+● Aké vlastnosti výrobku sa v reklame zdôrazňujú? ..............................................................
+● Kto propaguje výrobok? (muž, žena, známa osobnosť) ........................................................
+● Ponúka reklama výhody, zľavy? ...........................................................................................
+● Aké symboly sú použité (farba, písmo, obrázky, v televízii hudba, zvuky, slogan)?
+.................................................................................................................................................
+● Kto je cieľovou skupinou reklamy? .......................................................................................
+● Aký vplyv mala reklama na vás? ..........................................................................................
+Po vypracovaní úlohy jednotlivé skupiny prezentujú svoje zistenia.
+2. Ste majiteľmi podniku. Navrhnite reklamu, ako by ste propagovali výrobok svojho pod- niku.
+
+68
+
+11. PRÁVA SPOTREBITEĽA V EURÓPSKEJ ÚNII
+
+
+Kľúčové slová: desať hlavných zásad ochrany spotrebiteľa v EÚ, jednotková cena tovarov, Európske spotrebiteľské centrá
+
+   Pred vstupom do Európskej únie boli na Slovensku prijaté mnohé dôležité predpisy ochraňujúce práva spotrebiteľov na spoločnom európskom trhu. Členstvo v EÚ zabezpečuje spotrebiteľom ďalšiu ochranu. Dňa 20. 7. 2004 Európska komisia vydala dokument Ochrana spotrebiteľa v EÚ: Desať hlavných zásad. Dokument stanovuje minimálnu úroveň ochrany spotrebiteľa, ktorú majú mať všetky krajiny EÚ. Jednotlivé krajiny môžu v niektorých prípa- doch poskytovať aj vyšší stupeň ochrany.
+DESAŤ HLAVNÝCH ZÁSAD
+1. Kúpiť možno čokoľvek a kdekoľvek
+Podľa európskych zákonov môžeme nakupovať v každej členskej krajine EÚ bez cla, daní. Platí to pri osobných nákupoch napr. v Česku, Rakúsku, Nemecku, ale aj pri nákupoch cez internet, poštou (zásielkovou službou) alebo prostredníctvom telefónu.
+2. Ak výrobok nefunguje, pošle sa naspäť
+Európske predpisy hovoria, že ak tovar, ktorý sme kúpili, nefunguje (má vady), musia nám ho opraviť alebo vymeniť. Môžeme tiež žiadať o zľavu alebo úplné vrátenie peňazí.
+3. Vysoká úroveň bezpečnosti potravín a iného spotrebného tovaru
+EÚ má zákony, ktoré pomôžu zabezpečiť, aby produkty, ktoré kupujeme, boli bezpečné (napr. zakázala niektoré látky používané pri výrobe farieb na vlasy z dôvodu poškodzovania zdravia
+– svrbenie pokožky, opuchy očí, krku, problémy s dýchaním).
+4. Viem, čo jem
+Zákony EÚ na označovanie potravín vyžadujú, aby všetky prísady na výrobu potravín boli uvedené na etikete spolu s informáciou o použitých farbivách, konzervačných látkach a iných chemických prísadách. Vyžadujú aj označenie potravín ako „organické“ (BIO) alebo geneticky modiﬁkované (GM).
+5. Zmluvy by mali byť korektné voči spotrebiteľom
+Európske právo zakazuje všetky typy „neférových“ zmlúv (napríklad ak ﬁrma tvrdí, že nemôžeme zrušiť zmluvu, kým nezaplatíme nejaký poplatok, čo často býva v zmluve uvedené malými písmenkami a kupujúci to ani nemôže prečítať).
+6. Spotrebitelia niekedy môžu zmeniť názor
+EÚ ochraňuje pri podomovom predaji, pri nákupoch prostredníctvom internetu, zásielkovej spoločnosti, teleshopingových ﬁriem a podobne. Všeobecným pravidlom je, že zmluvu (objed- návku) môžeme zrušiť do 7 dní bez uvedenia dôvodu. Je tu však pár výnimiek, napr. poistné zmluvy, nákupy nepresahujúce sumu 60 €.
+7. Jednoduchšie porovnávanie cien
+Zákony EÚ od obchodníkov vyžadujú, aby uvádzali jednotkovú cenu tovarov – to znamená, koľko stojí jedno kilo alebo 1 liter príslušného tovaru.
+8. Spotrebiteľov nemožno zavádzať
+Právo EÚ zakazuje reklamu, ktorá zavádza alebo klame spotrebiteľov. Predávajúci má povinnosť podať úplné informácie o tovare.
+
+
+69
+
+9. Ochrana počas dovolenky
+Podľa práva EÚ ak cestovná kancelária skrachovala, musí zabezpečiť, aby sme sa z dovo- lenky dostali domov.
+Ak dovolenka nezodpovedá tomu, čo sľubovala v katalógu (napr. ubytovanie v 5-hviezdičko- vom hoteli), ale úroveň bola nižšia, musí ponúknuť zľavu, náhradu a podobne.
+10. Účinné odškodnenie pri cezhraničných sporoch
+Európska komisia vytvorila sieť Európskych spotrebiteľských centier, ktoré informujú       o našich právach pri cezhraničných nákupoch.
+
+
+Právo Európskej únie zabezpečuje, že každý z nás má rovnaké práva a rovnakú ochranu bez ohľadu na to, v ktorej krajine EÚ žije. Všetky členské krajiny EÚ majú svoje spotrebiteľské organizácie, ktorých úlohou je informovať spotrebiteľov o ich právach. V prípade problé- mov s tovarom a službami v inej krajine EÚ sa môžeme obrátiť na sieť Európskych spotrebiteľských centier, ktoré informujú o našich právach pri cezhraničných nákupoch.
+
+Otázky
+1. Ktorý orgán EÚ vydal základný dokument na ochranu spotrebiteľa v EÚ?
+2. Čo vyžadujú predpisy EÚ pri označovaní potravín?
+3. Akú úlohu majú Európske spotrebiteľské centrá? Kedy sa na ne môžeme obrátť?
+Úlohy a námety
+1. Spotrebiteľské bingo (Príloha)
+Postup
+a) Rozdajte každému žiakovi kópiu pracovného listu s otázkami Spotrebiteľské bingo. Žiaci potrebujú ceruzku alebo pero.
+b) Žiaci sa prechádzajú po triede a hľadajú spolužiaka, ktorému položia jednu z otázok uve- dených v pracovnom liste. Keď ho nájdu, vpíšu do políčka jeho meno a stručnú odpoveď. Mená na jednom pracovnom liste sa nesmú opakovať.
+c) Cieľom hry je získať odpovede do každého políčka.
+d) Žiak, ktorý ako prvý získa všetky odpovede, zakričí „Bingo“ a stáva sa víťazom.
+e) Nasleduje vyhodnotenie. Prečítajte prvú otázku a požiadajte žiakov, aby vám uviedli svoje odpovede. Odpovede prediskutujte. Takto vyhodnotíme odpovede na všetky otáz- ky.
+2. Obchodníci sú povinní uvádzať jednotkovú cenu tovarov.
+a) Vypočítajte jednotkovú cenu za 1 liter šampónu.
+b) Urobte si prehľad aj o ďalších výrobkoch (napr. jogurt, káva, prací prášok, sprchový gél).
+
+Šampón (hmotnosť)Cena za 1 ksCena za 1 l250 ml2,90 €400 ml5,60 €500 ml6,10 €
+
+
+70
+
+TEST FINANČNEJ GRAMOTNOSTI
+Otestujte si vedomosti o ﬁnančných inštitúciách a ich produktoch.
+Úloha
+   Roztrieďte nasledujúce ﬁnančné produkty a služby podľa toho, ktoré ﬁnančné inštitúcie ich poskytujú:
+– banky,
+– poisťovne,
+– stavebné sporiteľne. Pojmy vysvetlite.
+
+
+vkladná knižka
+stavebný úver
+stavebné sporenie
+havarijné poistenie
+dávky v nezamestnanosti
+poistenie domácnosti
+internetbanking
+poistenie áut
+poistná zmluva
+šek
+bežný účet
+spotrebný úver
+platobná karta
+termínovaný vklad
+lekárske ošetrenie
+bankomat
+ošetrovné
+nemocenské dávky
+povinné zmluvné poistenie
+štátna prémia
+hypotekárny úver
+
+
+
+
+
+
+71
+
+Príloha
+SPOTREBITEĽSKÉ BINGO
+
+Názov právneho predpisu, ktorý zakotvuje ochranu spotrebiteľa
+
+................................
+právny predpis
+
+................................
+menoMiesto, kde reklamujeme tovar
+
+................................
+miesto
+
+................................
+menoPríklad na porušenie práva spotrebiteľa
+
+................................
+príklad
+
+................................
+menoOrganizácia ochraňujúca práva spotrebiteľov
+na Slovensku
+
+................................
+organizácia
+
+................................
+menoPočet dní na vybavenie reklamácií
+
+................................
+počet dní
+
+................................
+menoZáručná doba na spotrebný tovar
+
+................................
+mesiac, rok
+
+................................
+menoPočet dní na zrušenie zmluvy pri podomovom predaji
+
+
+................................
+počet dní
+
+................................
+menoČo je jednotková cena tovarov?
+
+
+................................
+jednotková cena
+
+................................
+menoDoklad o kúpe tovarov
+
+
+................................
+príklad dokladu
+
+................................
+menoPríklad, ako ťa ovplyvňuje reklama
+
+................................
+príklad
+
+................................
+menoDokument o ochrane spotrebiteľa v EÚ
+
+................................
+názov dokumentu
+
+................................
+menoČo je klamlivá reklama?
+
+................................
+príklad
+
+................................
+meno
+72

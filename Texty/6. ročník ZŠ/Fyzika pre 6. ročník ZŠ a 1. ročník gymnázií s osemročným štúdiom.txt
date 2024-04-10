@@ -1,0 +1,6005 @@
+﻿ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PEDAGOGIKA
+
+
+
+
+
+
+
+
+
+
+
+
+Ypre 6. Zročník záIkladKných škôAl
+a 1. ročník gymnázií s osemročným štúdiom
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Viera Lapitková Milada Maťašovská
+
+Václav Koubek Ľuba Morková
+
+
+
+
+
+
+
+
+
+
+EXPOL PEDAGOGIKA, s. r. o.
+Heydukova 12 – 14
+811 08 Bratislava www.expolpedagogika.sk info@expolpedagogika.sk Telefón 02/32 66 18 62
+
+Konateľka spoločnosti
+Mgr. Miroslava Bianchi Schrimpelová
+
+Vydal ©
+EXPOL PEDAGOGIKA, s. r. o., 2010
+
+Autori ©
+doc. RNDr. Viera Lapitková, CSc., doc. RNDr. Václav Koubek, CSc., Mgr. Milada Maťašovská,
+Mgr. Ľubica Morková, 2010
+
+Recenzenti
+Mgr. Jozef Škarba,
+PaedDr. Klára Velmovská, PhD.
+
+Ilustrácie ©
+Mgr. Zuzana Lapitková Graﬁcká úprava © Erik Pietrik
+
+Šéfredaktorka
+PhDr. Sylvia Radvanská Zodpovedná redaktorka Mgr. Adriana Jankovičová
+
+Všetky práva vyhradené. Žiadna časť tohto diela nesmie byť reprodukovaná alebo prenášaná
+v akejkoľvek forme alebo akýmkoľvek spôsobom, elektronickým alebo mechanickým, vrátane fotokópií, nahrávaním alebo akýmkoľvek dostupným prenosom informácií bez písomného súhlasu vydavateľstva EXPOL PEDAGOGIKA, s. r. o., okrem recenzií, kde sú citované krátke pasáže na účely zaradenia recenzie.
+
+Schválilo Ministerstvo školstva, vedy, výskumu a športu Slovenskej republiky pod č. 2018/4481:2-10K0 ako učebnicu Fyzika pre 6. ročník základnej školy a 1. ročník gymnázií s osemročným štúdiom.
+Schvaľovacia doložka nadobúda účinnosť 10. januára 2018 a má platnosť do 31. augusta 2022.
+
+Piate vydanie, 2019 (tlačená verzia) Druhé vydanie, 2019 (elektronická verzia)
+
+ISBN 978-80-8091-541-4
+2
+
+
+
+
+
+
+
+
+
+MILÍ ZIACI,
+začínate sa učiť nový predmet – fyziku. Fyzika patrí medzi prírodné vedy, ktoré skúmajú živé organizmy aj neživé predmety a javy v prírode. Predstavu o skúmaniach vo fyzike a o tom, čo tieto skúmania prinášajú pre ľudí, získate hneď v prvej téme v učebnici. Tá sa bude postup- ne rozvíjať v priebehu celého vyučovania predmetu fyzika.
+Učebnica vám neponúka hotové pravdy, ktoré vedci objavili a dokázali, ale bude vás viesť po- mocou pokusov, úloh a otázok k objavovaniu a vysvetľovaniu javov, k zisteniu skutočností či k do- kázaniu určitých tvrdení. Takéto poznávanie si vyžaduje usilovné pozorovanie javov okolo seba, pokusy (experimenty), meranie, spracovanie meraní a veľa premýšľania nad každou z uvede- ných činností. Porozumieť javom okolo seba sa nedá len čítaním textu z učebnice. Oveľa hlbšie porozumenie prináša ich „napodobňovanie“ v pokusoch a premýšľanie o nich. Na realizáciu pokusov uvedených v učebnici sú často potrebné len jednoduché pomôcky, a preto sa ľahko dajú urobiť aj doma, ak napr. nemôžete byť prítomní na vyučovaní.
+
+Práca na úlohách či pokusoch si niekedy vyžaduje spoluprácu vo dvojici alebo vo väčšej skupi- ne. Na dobrú spoluprácu v skupine sa musíte naučiť niekoľko vecí, napríklad:
+* podeliť si prácu na úlohe, realizácii pokusu a jeho spracovaní,
+* diskutovať so spolužiakmi o možných riešeniach, výsledkoch merania,
+* prezentovať výsledky práce za skupinu,
+* pracovať s pomôckami tak, aby ste neublížili sebe a iným, teda dodržiavať pravidlá bezpečnosti pri práci.
+
+Máme dlhoročné skúsenosti s vyučovaním žiakov vášho veku a táto skúsenosť hovorí, že ak sa naučíte spolupracovať so spolužiakmi v skupine, dokážete si vypočuť ich názor a tiež diskuto- vať v triede o fyzikálnych problémoch, zvládnete aj tie najzložitejšie úlohy, problémy či otázky, ktoré sú uvedené v učebnici.
+
+Pomôcky na rýchlu orientáciu v učebnici
+
+Text v sivej ploche možno vynechať.
+
+Úloha v oranžovej ploche je zameraná na získavanie a spracovanie informácii.
+
+Pravidlá merania
+
+Úlohy, ktoré majú charakter textu pod nadpisom Vyskúšaj sa, treba riešiť na osobitnom papieri, v zošite a pod. Do učebnice sa nepíše.
+
+Na niektorých stranách v učebnici sú pod čiarou uvedené poznámky a odkazy na http://www.expolpedagogika.sk/materialy-na-stiahnutie/fyzika-6
+3
+
+OBSAH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OBSAH
+
+V čom je fyzika užitočná	6
+Čo sa budeme učiť	10
+I. SKÚMANIE VLASTNOSTÍ KVAPALÍN,
+PLYNOV, TUHÝCH LÁTOK A TELIES	13
+Vlastnosti kvapalín a plynov	13
+1.1 Vlastnosti kvapalín	13
+1.2 Využitie vlastností kvapalín	17
+1.3 Meranie objemu kvapalín	21
+1.4 Vlastnosti plynov	26
+1.5 Spoločné a rozdielne vlastnosti kvapalín a plynov	30
+Projekt 1	34
+Čo sme sa naučili	36
+Vyskúšaj sa – Test 1	37
+Vlastnosti tuhých látok a telies	40
+1.6 Deliteľnosť tuhých látok	40
+1.7 Skúmanie vlastností tuhých látok	43
+1.8 Meranie hmotnosti tuhých telies	46
+1.9 Meranie hmotnosti kvapalín a plynov	48
+1.10 Meranie dĺžky	52
+1.11 Meranie objemu tuhých telies	58
+1.12 Spoločné a rozdielne vlastnosti kvapalín, plynov,
+tuhých látok a telies	63
+4
+
+OBSAH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Projekt 2	67
+Čo sme sa naučili	68
+Vyskúšaj sa – Test 2	69
+II. SPRÁVANIE TELIES V KVAPALINÁCH
+A PLYNOCH	72
+Správanie telies v kvapalinách	73
+2.1 Vplyv hmotnosti na správanie telies vo vode	73
+2.2 Vplyv objemu a tvaru telies na ich správanie vo vode	78
+2.3 Hustota tuhých látok	81
+2.4 Hustota kvapalín	85
+Projekt 3	89
+Čo sme sa naučili	90
+Vyskúšaj sa – Test 3	92
+2.5 Objem kvapaliny vytlačenej telesami	94
+2.6 Správanie telies v kvapalinách s rôznou hustotou	98
+2.7 Vplyv teploty na hustotu	100
+Správanie telies v plynoch	103
+2.8 Hustota plynov	103
+Projekt 4	107
+Čo sme sa naučili	108
+Vyskúšaj sa – Test 4	109
+5
+
+V ČOM JE FYZIKA UŽITOČNÁ
+V ˇCOM JE	YZIKA UZˇITOˇCNÁ
+Ľudia si už pred mnohými storočiami, ba až tisíckami rokov, kládli otázky ako napríklad: Prečo sa striedajú deň a noc?
+Prečo sa striedajú ročné obdobia – jar, leto, jeseň, zima?
+
+
+
+
+
+
+
+
+
+
+Čo je to blesk?	Ako vzniká dúha?
+
+A rad ďalších otázok.
+
+V posledných storočiach ľudstvo objavilo spôsoby, ako získať veľmi veľké množstvo informácií o Zemi a o javoch v prírode. Stále viac a viac vieme o tom, ako „funguje“ príroda, aké zákony v nej platia a ako ich možno využívať. Dnes už dokážeme zodpovedať otázky položené v úvode.
+Prírodná veda, ktorá skúma, opisuje a vysvetľuje prírodné javy, sa nazýva fyzika. Názov fyzika pochádza z gréckeho slova fyzis – príroda.
+Veľká časť fyzikálnych poznatkov sa využíva v technike. Mnohé technické zariadenia nám uľahčujú prácu, prípadne nám robia život pohodlnejším.
+
+
+ÚLOHA
+
+
+Porovnaj trojice obrázkov na obázkoch 1, 2, 3. Na prvom obrázku z trojice sú znázornené
+„zariadenia“, ktoré ľudia používali po celé stáročia, na druhom novšie zariadenia, ktoré ľudia používali v nedávnej minulosti, a na treťom tie, ktoré sa používajú v súčasnosti.
+
+Stručne napíš do zošita (tabuľky), v čom sú dnešné zariadenia pre človeka:
+a) lepšie (výhody).
+b) problematické (nevýhody).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 1 Svietenie v minulosti a dnes
+6
+
+V ČOM JE FYZIKA UŽITOČNÁ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 2 Cestovanie v minulosti a dnes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 3 Pranie v minulosti a dnes
+
+
+Zhodnotenie výhod a nevýhod technických vynálezov
+
+Technický vynálezVýhodyNevýhody
+žiarovka
+rýchlovlak
+automatická práčka
+Odpovedz:
+1. V čom sú technické vynálezy pre ľudí užitočné?
+2. Prinášajú technické vynálezy aj nové problémy?
+3. Aký spoločný zdroj energie potrebujú žiarovka, rýchlovlak, automatická práčka?
+
+POZNÁMKA: Tabuľky sú dostupné v elektronickej podobe v metodických poznámkach k učebnici na http://www.expolpedagogika.sk/materialy-na-stiahnutie/fyzika-6
+
+
+Na dnešných moderných zariadeniach, ktoré nám rôznym spôsobom uľahčujú život, majú veľkú zásluhu vedci – fyzici.
+7
+
+V ČOM JE FYZIKA UŽITOČNÁ
+
+Úlohou fyziky je aj hľadať odpovede na otázky, ktoré ľudí v súvislosti s prírodou a so svetom zaujíma- jú. Veľa zaujímavých otázok, ktoré si kladú hlavne mladí ľudia a vedci, je spojených s vesmírom ako napríklad:
+Existujú mimozemšťania?
+Budeme niekedy v budúcnosti cestovať na Mars?
+Na obrázkoch môžeme vidieť, že na niektoré otázky v súvislosti s Mesiacom a planétou Mars už pozná- me odpoveď.
+
+
+
+
+
+
+
+
+
+
+
+
+E. Aldrin na Mesiaci, pristávací modul
+sa odzrkadľuje na jeho helme.
+
+Astronaut z Apolla 15 pripravuje vozidlo
+na odobratie mesačnej horniny.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Panoráma Marsu na snímke sondy Mars Pathﬁnder
+
+
+
+ÚLOHA
+
+Obr. 4 Skúmanie Mesiaca a Marsu
+
+
+Na obrázku 5 je zjednodušená schéma letu kozmickej lode Apollo zo Zeme na Mesiac. Červená čiara znázorňuje let na Mesiac, žltá cestu späť.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 5 Schéma letu kozmickej lode na Mesiac
+8
+
+V ČOM JE FYZIKA UŽITOČNÁ
+
+
+a) Označ miesta v schéme letu kozmickej lode, kde – podľa tvojho názoru – museli vedci vyriešiť najťažšie problémy.
+b) Stručne opíš, prečo považuješ vyznačené miesta náročné na riešenie.
+
+Za posledných niekoľko sto rokov sa život na Zemi veľmi zmenil. Zdokonalili sa technické zariadenia nielen v priemysle, ale napríklad aj v medicíne. Operácie pacientov v nemocniciach sa dnes vykoná- vajú inak ako pred niekoľkými desiatkami rokov. Zmenilo sa cestovanie. Najnovšie správy z celého sve- ta sa dozvieme v priebehu niekoľkých minút. Za toto všetko vďačíme ľuďom, ktorí pozorovali a skúmali prírodu, objavovali jej zákonitosti. Skúmaniu prírodných zákonov sa hovorí vedecké bádanie.
+Dnes je dôležité, aby sme prácu vedcov podporovali. Vedci dokážu nielen vymyslieť nové užitočné veci, ale aj riešiť také problémy, ako je znečisťovanie životného prostredia, objaviť nové zdroje energie či skú- mať planéty vo vesmíre.
+
+
+
+RIESˇ ÚLOHY
+1. Noviny SME pri 30. výročí dňa, keď po prvý raz vkročil človek na mesačnú pôdu, uverejnili článok (Magazín SME, sobota 19. júla 1999, s. 14):
+
+„Od okamihu, keď sa mesačnej pôdy po prvý raz dotkla ľudská noha, ubehlo tridsať rokov. Potom v roz- pätí tri a pol roka úspešne pristálo na Mesiaci šesť trojčlenných amerických posádok Apolla. Z každej po- sádky vystúpili na mesačný povrch dvaja kozmonauti. A keďže odvtedy sa žiadna pilotovaná výprava na Me- siac ani na iné vesmírne teleso neuskutočnila, iba dvanásť ľudí okúsilo pod nohami inú „zem“. Eugen A. Cer- nan (syn českej matky a slovenského rodáka z Kysúc), kozmonaut z poslednej výpravy na Mesiac v Apol- le 17, povedal, že pristátie šiestich posádok Apolla na Mesiaci bolo vyvrcholením technického dobrodružstva, ktoré možno porovnať s Kolumbovou plavbou. Veď aj veliteľská kabína prvého Apolla s Neilom Armstrongom, Edwinom Aldrinom a Michaelom Collinsom na palube sa volala po objaviteľovi Ameriky.“
+Dobre si prečítaj skôr uvedený text a odpovedz na otázky:
+a) V ktorom roku sa uskutočnilo prvé pristátie ľudí na Mesiaci?
+b) Ako sa volali kozmonauti, ktorí tvorili posádku?
+c) Koľko ľudí vkročilo na povrch Mesiaca?
+d) Ako sa volal kozmonaut, ktorý bol členom posádky kozmickej lode Apollo 17 a mal aj slovenský pôvod?
+
+
+2. Zisti (opýtaj sa priateľov, pohľadaj v knihách alebo na internete) a zaznamenaj si do zošita nasledujúce informácie:
+
+a) Kedy sa v medicíne začal využívať röntgen?
+
+b) Ako sa volal prvý kozmonaut a v ktorom roku vykonal let do vesmíru?
+
+
+c) Približne v ktorých rokoch začali ľudia u nás bežne používať mobilné telefóny?
+
+
+POZNÁMKA: Každý záznam o získanej informácii by mal obsahovať i zdroj, odkiaľ si informáciu získal, napr. autor a názov knihy; www-stránka; meno človeka, ktorý ti informáciu poskytol.
+
+Príklad: Fotograﬁa povrchu Marsu na obr. 4 je z knihy Slovenská moderná encyklopédia, zväzok 1, Vesmír. Vydalo OTTOVO nakladateľstvo, Praha 1998.
+9
+
+ČO SA BUDEME UČIŤ
+
+3. Narysuj si časovú os, na ktorú zaznamenáš dôležité udalosti. Postup:
+a) Narysuj do zošita čiaru s dĺžkou približne 14 cm.
+b) Vyznač na čiare dieliky s dĺžkou 1 cm.
+c) Obdobie, ktoré máš zaznamenať, je od r. 1900 po r. 2020. Mierka časovej osi je 1 cm = 10 rokov. K dielikom napíš roky.
+d) Vyber si niekoľko udalostí a znázorni ich podľa príkladu na časovú os.
+Príklad
+
+10	20
+
+1900	1950	2000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DOMÁCA PRÍPRAVA NA VYUCˇOVANIE
+Vyber si jeden z dvoch pokusov z kapitoly Čo sa budeme učiť a podľa toho si priprav na vyučovanie pomôcky.
+
+Pokus 1: veľká fľaša z plastu, vrchnák z pera, kúsok plastelíny. Pokus 2: približne 30 ml medu, 30 ml oleja, pohár na zaváranie.
+
+CˇO SA BUDEME UCˇITˇ
+V predchádzajúcej kapitole si mohol vidieť, že odborníci svojím bádaním vo fyzike pomáhajú zdokonaľovať technické zariadenia, ktoré nám uľahčujú každodenný život, ale tiež hľadajú odpovede na naše otáz- ky o prírode a vesmíre.
+Ako títo ľudia pracujú, ako postupujú pri svojej práci? Dajú sa ich pracovné postupy napodobniť? Spôsoby práce slávnych ľudí, ktorí vo fyzike niečo dokázali (napr. I. Newton, M. Faraday či známy A. Ein- stein), sa skúmali, a dá sa povedať, že každý z nich veľa študoval, mal schopnosť vidieť problémy, nie- ktorí viac experimentovali, iní veľa počítali. Spoločné okrem vedomostí mali tiež to, že veľa o problé- moch premýšľali, často však aj neuspeli pri prezentácii svojej práce, prípadne sa v niečom i zmýlili. Časom sa ale ukázalo, že ich tvrdá práca priniesla nové poznania.
+Na vyučovaní fyziky budeme napodobňovať niektoré postupy, ktoré sa používajú pri vedeckých bádaniach. Budeme predmety a javy pozorovať, premýšlať o nich a vyslovovať prvé naše vysvetlenia – hypotézy. Bu- deme dokazovať hypotézy napríklad aj meraním, zaznamenávať si výsledky meraní a vyhodnocovať ich. Záverečné vysvetlenia by nám už mali dať odpoveď na otázky, prečo sa predmety a javy správajú práve tak, ako ich pozorujeme.
+10
+
+ČO SA BUDEME UČIŤ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  I. Newton (1643 – 1727)
+  
+M. Faraday (1791 – 1867)
+  
+A. Einstein (1879 – 1955)
+
+
+
+POKUS 1
+
+Pozoruj „potápača“ a pokús sa vysvetliť, na akom princípe pracuje. Pomôcky: fľaša z plastu, plastový vrchnák z pera, plastelína, kadička, voda Postup:
+a) Ponor vrchnák z pera do kadičky s vodou. Ak pláva na hladine vody, pripevni naň plastelínu
+tak ako je to znázornené na obr. B. Otvor vrchnáka musí zostať voľný.
+
+
+
+
+
+
+
+
+
+
+
+
+
+A	B	C
+
+Obr. 6 Postup práce pri zostrojovaní potápača
+
+b) Vlož potápača (vchnák z pera) do plastovej fľaše, ktorá je naplnená po okraj jej hrdla vodou, a uzavri ju (obr. C).
+c) Stláčaj boky fľaše a pozoruj správanie potápača.
+d) Nakresli si schému fľaše s potápačom do zošita.
+e) Zaznamenaj si to, čo pozoruješ.
+Odpovedz:
+Ako si vysvetľuješ správanie potápača pri stláčaní fľaše? (Poraď sa i so spolužiakmi a vysvetlenie si zapíš do zošita.)
+
+
+POZNÁMKA: Zaznamenanie pozorovania znamená vyjadriť slovne to, čo vidíme.
+Vysvetliť znamená odpovedať na otázku, prečo sa predmety, javy okolo nás správajú tak, ako to pozorujeme.
+11
+
+ČO SA BUDEME UČIŤ
+
+
+VZOR ZÁZNAMU V ZOSˇITE
+Názov pokusu: POTÁPAČ
+
+Schéma (zjednodušené zobrazenie základných vecí) pokusu:
+
+
+
+
+Pozorovanie
+Keď som stlačil fľašu, potápač  	
+
+
+Keď som uvoľnil fľašu, potápač
+
+
+Vysvetlenie
+Myslím si, že  	
+
+
+
+
+
+POKUS 2
+
+Pozoruj, ako sa správajú tri rozdielne kvapaliny, ak ich v určitom poradí nalejeme do tej istej nádoby. Pokús sa svoje pozorovanie vysvetliť.
+
+Pomôcky: riedky med (30 ml), stolový olej (30 ml), voda (30 ml), malý pohár na zaváranie (kadička s objemom 100 ml)
+
+
+Postup:
+a) Do pohára nalej najprv med, potom pomaly prilej olej a nakoniec pomaly prilej aj vodu.
+
+b) Pozoruj, čo sa v nádobe deje s kvapalinami.
+
+c) Nakresli si výsledok pokusu do zošita.
+
+d) Zaznamenaj si svoje pozorovanie do zošita.
+
+Obr. 7 Pomôcky potrebné na pokus s kvapalinami
+
+
+Odpovedz:
+Ako si vysvetľuješ správanie kvapalín v pohári?
+(Poraď sa i so spolužiakmi a vysvetlenie si zapíš do zošita.)
+
+
+Máš pocit, že pozorovania v predchádzajúcich pokusoch nevieš vysvetliť? To je prirodzené. Ešte nemáš dosť vedomostí o vlastnostiach látok, tuhých telies, kvapalín a plynov. O tom sa práve budeme učiť v tomto školskom roku.
+Ak budeš na vyučovaní fyziky sústredene pracovať, vysvetlenia by ti na konci školského roka nemali robiť problém.
+12
+
+I. SKÚMANIE VLASTNOSTÍ KVAPALÍN, PLYNOV, TUHÝCH LÁTOK A TELIES
+
+|. SKÚMANIE VLASTNOSTÍ KVAPALÍN, PLYNOV, TUHY’CH LÁTOK A TELIES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Okolo nás sú veci, predmety, ktoré majú svoje vlastnosti. Bazén z plastu môže byť veľký, malý, zele- ný, viacfarebný, nafukovací, mäkký a pod. Vo fyzike hovoríme veciam, predmetom telesá. Keď použi- jeme slovo teleso, znamená to, že sa budeme zaoberať jeho fyzikálnymi vlastnosťami. S fyzikálnymi vlastnosťami sa budeme oboznamovať počas celého vyučovania fyziky.
+Každé teleso sa skladá z nejakej látky. Bazén na obrázku je z plastu a zo vzduchu, učebnica fyziky je z papiera, ceruzka z dreva a tuhy. Postupne sa naučíme rozlišovať, kedy máme na mysli látku a kedy teleso. Telesá môžu byť z tuhých, kvapalných a plynných látok.
+Na nasledujúcich hodinách budeme skúmať vlastnosti tuhých, kvapalných a plynných látok aj telies. Namiesto kvapalných telies sa často jednoducho povie – kvapaliny a namiesto plynných telies – ply- ny. Teda rovnako nazývame látky, ako aj telesá a len z obsahu textu vieme určiť, o čo ide.
+
+VLASTNOSTI KVAPALÍN A PLYNOV
+1.1 VLASTNOSTI KVAPALÍN
+Voda, džús, ocot sú kvapalné látky. Voda v pohári, džús v škatuli alebo ocot vo fľaši sú kvapalné te- lesá, skrátene kvapaliny. Budeme skúmať vlastnosti kvapalín a vyberieme si pre náš život najdôleži- tejšiu kvapalinu – vodu.
+Pokusy s injekčnými striekačkami a vodou by nás mali upozorniť na vlastnosti, ktoré majú všetky kva- paliny.
+13
+
+VLASTNOSTI KVAPALÍN A PLYNOV
+
+
+
+POKUS
+
+
+Zisti, ako sa správa voda v injekčných striekačkách.
+(Pracuj vo dvojici so spolužiakom.)
+
+Pomôcky: 2 injekčné striekačky s objemom 20 ml, hadička na spojenie striekačiek (dlhá asi 1 cm), pohár s vodou, trochu oleja na šijacie stroje
+
+
+piest	hadička
+
+
+
+
+
+
+
+
+
+
+injekčná striekačka
+
+
+Obr. 8 Injekčné striekačky pripravené na pokus
+
+Postup:
+a) Vyber piesty striekačiek a natri ich olejom, aby boli dobre pohyblivé.
+b) Na jednu zo striekačiek nasaď hadičku.
+c) Obe striekačky naplň vodou tak, ako je to znázornené na obr. 8. Daj pozor, aby sa do nich nedostal vzduch.
+d) Spoj obe striekačky hadičkou a postupuj podľa pokynov v tabuľke. Šípka znázorňuje smer, ktorým máš zatlačiť piest striekačky.
+
+
+Tabuľka 1 Skúmanie vlastností kvapalín
+
+Stláčanie piestov striekačiek v smere šípkyOdčítanie dielikov na striekačkách
+
+1.
+
+	Piest A sa posunul o	dielikov
+Piest B sa posunul o	dielikov
+
+
+
+2.
+
+
+
+
+
+
+
+
+Piest A sa posunul o	dielikov
+Piest B sa posunul o	dielikov
+	
+3.
+
+	Piest A sa posunul o	dielikov
+Piest B sa posunul o	dielikov14
+
+1.1 VLASTNOSTI KVAPALÍN
+
+
+Odpovedz:
+1. V čom sa výsledky pokusov 1 a 2 z tabuľky podobajú? Aká vlastnosť kvapalín sa v pokusoch prejavila?
+2. Aká vlastnosť kvapalín sa prejavila pri pokuse 3?
+
+Zistili sme, že ak posunieme piest strie- kačky A o niekoľko dielikov, posunie sa o rovnaký počet dielikov aj piest strie- kačky B (pokusy 1, 2). Voda pretiekla z jednej striekačky do druhej, pretože je tekutá. Ak tlačíme súčasne na piesty A a B, nedokážeme ich zatlačiť, lebo voda, ako aj ostatné kvapaliny, je takmer nestlačiteľná (pokus 3).
+Na obr. 9 je nádoba s bočnými otvor- mi. Keď zatlačíme piest v nádobe, voda začne striekať rovnako prudko všetký- mi smermi, pretože sa zvýši v nádobe tlak a tlak sa prenáša v kvapaline
+
+rovnako do všetkých smerov.
+Tento poznatok sa nazýva Pascalov zákon. Blaise Pascal (čítaj bléz paskal) bol francúzsky ﬁlozof, matematik a fy- zik. Žil v r. 1623 – 1662.
+
+Niektoré vlastnosti kvapalín sú pre nás samozrejmé, pretože sa s nimi stretávame denne. Napríklad pri roz- lievaní džúsu do pohárov sa presvied- čame, že kvapaliny možno deliť, ako aj zistíme skutočnosť, že kvapaliny nemajú stály tvar, ale nadobúdajú tvar nádoby. Obr. 10 znázorňuje de- lenie kvapalín, ich nestály tvar, ale dá sa pri tom pozorovať ešte jedna vlast- nosť, na ktorú prídete riešením nasle- dujúcej úlohy.
+
+Obr. 9 Znázornenie tlaku v kvapaline
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 10 Delenie džúsu do pohárov
+
+
+
+ÚLOHA
+
+Zisti, čo platí o hladine kvapalín v pohároch.
+Pomôcky: pravítko
+Postup:
+a) Prilož pravítko k hladinám džúsu v pohároch a v džbáne (obr. 10).
+b) Zober pohár s vodou a nakloň ho tak, aby sa voda nevyliala.
+Odpovedz:
+1. Aké sú hladiny džúsu a vody?
+2. Vedel by si vysvetliť správanie hladiny kvapalín? Vyslov svoju hypotézu.
+
+
+Pokiaľ sú poháre s džúsom v pokoji a položené na vodorovnom stole, hladiny kvapaliny v nich sú rov- nobežné so stolom. Hovoríme o vodorovnej hladine kvapalín. Aj keď pohár postupne nakláňame, rovina hladiny sa nezmení. Túto skutočnosť si vysvetľujeme tým, že naša Zem pôsobí silou na čias- točky kvapaliny.
+15
+
+VLASTNOSTI KVAPALÍN A PLYNOV
+
+
+Každá látka sa totiž skladá z veľmi malých čiastočiek.
+Kvapaliny majú ešte ďalšie vlastnosti, ako je farba, chuť, zápach. Dá sa pozorovať, že nie všetky kva- paliny tečú rovnako. Mohli sme to vidieť pri pokuse s medom, olejom a vodou v kapitole Čo sa bude- me učiť. O iných vlastnostiach kvapalín sa budete učiť v ďalších častiach fyziky, ale aj chémie.
+
+
+RIESˇ ÚLOHY
+1. Dobre si prečítaj podkapitolu 1.1 Vlastnosti kvapalín. Vypíš z nej vlastnosti kvapalín do zošita. Kvapaliny majú tieto vlastnosti:
+
+2. Navrhni pokus, ktorým by si dokázal, že kvapaliny sú deliteľné. Tvoj návrh pokusu by mal obsahovať:
+
+Pomôcky:
+
+
+
+
+Postup:
+
+
+
+
+
+
+
+Ak je pokus jednoduchý, predveď ho tvojim spolužiakom.
+
+3. Na obr. 11 A je fotograﬁa zariadenia, ktoré si vytvorili žiaci a naplnili ho vodou. Zariadenie sa od- borne volá spojené nádoby. Na obr. 11 B je schéma iných spojených nádob.
+
+nalejeme vodu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A	B
+
+Obr. 11  Spojené nádoby
+
+
+a) Dobre si pozri obr. A a uváž, ako by sa ustálila hladina vody v nádobách na obr. B.
+b) Zisti, kde sa v domácnosti využívajú spojené nádoby.
+16
+
+1.2 VYUŽITIE VLASTNOSTÍ KVAPALÍN
+
+
+4. Urob pokus podľa uvedeného postupu.
+Pomôcky: mikroténové vrecko, voda, ihla, väčšia tácka
+Postup:
+a) Naplň mikroténové vrecko vodou, zaviaž ho a polož na väčšiu tácku. Môžeš ho položiť aj do umývadla.
+b) Na viacerých miestach prepichni vrecko ihlou. Stlač vrecko
+v naznačenom smere.
+Odpovedz:
+1. Čo možno pozorovať pri stlačení vrecka? Svoje pozorovanie zakresli do zošita.
+2. Ktorú vlastnosť kvapalín si pokusom dokázal?
+
+
+1.2 VYUŽITIE VLASTNOSTÍ KVAPALÍN
+Pozorovanie a preskúmanie vlastností kvapalín umožnilo využiť ich v technických zariadeniach. Jed- noduchým pokusom možno pozorovať a dokázať, že je hladina kvapalín v pohároch vodorovná. Aj keď nakloníme pohár s vodou či džúsom, hladina kvapaliny ostáva vodorovná.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 12 Vodorovná hladina kvapaliny
+
+Táto vlastnosť kvapalín sa využíva na zostrojenie zariadenia, ktoré sa nazýva vodováha (obr. 13). Vo- dováha sa používa napr. pri stavbách budov, kde často potrebujeme zistiť, či je podlaha vodorovná.
+
+
+
+
+
+
+
+
+
+
+Obr. 13 Vodováha
+
+Základ vodováhy tvorí kvapalina a v nej vzduchová bublina, ktorá pri vodorovnej polohe je medzi dvoma vyznačenými čiarami. Ak je bublina mimo čiar, znamená to, že plocha, na ktorej je vodováha položená, nie je vodorovná. Prácu s vodováhou a spôsob jej zostrojenia si môžeš vyskúšať v časti Rieš úlohy – úloha 1.
+17
+
+VLASTNOSTI KVAPALÍN A PLYNOV
+
+
+Pokusmi sme sa presvedčili, že
+* kvapaliny sa nedajú stlačiť,
+* tlak v kvapalinách sa prenáša na všetky miesta rovnako.
+
+Tieto vlastnosti kvapalín sa využívajú v tzv. hydraulických zariadeniach. Model takéhoto zariadenia sa dá zostrojiť z jednoduchých pomôcok.
+
+
+
+ÚLOHA
+
+Zostroj si model hydraulického zariadenia.
+
+Pomôcky: 1 malá injekčná striekačka s objemom 5 až 20 ml, 1 väčšia injekčná striekačka s objemom 50 ml, plastová hadička s dĺžkou 15 cm, voda
+
+Postup:
+a) Nasaď hadičku na jednu zo striekačiek a naber vodu do oboch striekačiek, približne do polovice ich objemu. V striekačkách a ani v hadičke by nemal byť vzduch.
+b) Striekačky spoj hadičkou a hadičku ohni do tvaru písmena U.
+
+
+
+
+
+
+
+
+
+A	B
+
+Obr. 14 Hotový model hydraulického zariadenia
+
+c) Nakresli si schému modelu do zošita.
+d) Potlač piest malej striekačky a odčítaj počet mililitrov vody, ktoré si z nej vytlačil a počet mililitrov, ktoré pribudli vo veľkej striekačke.
+Zapíš si do zošita:
+Z malej striekačky boli vytlačené 		ml vody. Vo veľkej striekačke pribudli 	ml vody.
+e) Na veľký piest môžeš položiť menší predmet, ako napr. gumu či hračku, a dvíhať ju.
+Odpovedz:
+1. Bol počet mililitrov, o ktoré sa zmenil objem vody v malej a väčšej striekačke rovnaký?
+2. Prečo je používanie hydraulických zariadení výhodné?
+
+
+
+
+Opíšeme hydraulický zdvihák, kto- rý sa používa napr. v autoservisoch na zdvíhanie automobilov pri opra- vách či kontrolách. Pomocou väč- šieho piesta sa dajú zdvihnúť veľ- mi ťažké predmety.
+
+Obr. 15 Schéma a opis činnosti hydraulického zdviháka
+18
+
+
+technické zariadenie pôsobí silou na piest
+
+
+
+
+
+
+
+
+auto sa dvíha smerom hore
+
+1.2 VYUŽITIE VLASTNOSTÍ KVAPALÍN
+
+
+Ďalšie využitie vlastností kvapalín – nestlačiteľnosť a spôsob prenosu tlaku, je v brzdách automobilov. Keď vodič zatlačí brzdový pedál, tlak sa prenesie na brzdovú kvapalinu až ku kolesám auta. Tlakom sa pohnú brzdové čeľuste a tie zastavia kolesá.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 16 Schéma bŕzd v automobiloch
+
+
+Vodiči v automobiloch si musia dávať skontrolovať stav brzdovej kvapaliny, pretože by sa mohlo stať, že sa do nej dostali bublinky vzduchu. Bublinky vzduchu sú v brzdovom systéme áut veľmi nebezpečné. Vysvetlenie, prečo je to tak, sa dozvieme v podkapitole 1.4 Vlastnosti plynov. Možno aj zo skúsenosti by sa dala táto otázka zodpovedať. Napr. pri zostrojovaní modelu hydraulického zariadenia (obr. 14) sa môže stať, že sa do striekačiek dostane vzduch a prenášanie tlaku v zariadení sa naruší.
+
+
+RIESˇ ÚLOHY
+1. Urob si pomôcku – zostroj vodováhu.
+Pomôcky: fľaša s hladkými stenami (najlepšie hranatá či oválna), ﬁxka, voda
+Postup:
+a) Odstráň z fľaše papierovú nálepku a naber do nej vodu tak, aby v nej ostalo malé množstvo vzduchu, ktoré bude tvoriť vzduchovú bublinu.
+
+
+
+
+
+
+
+
+
+
+
+Obr. 17  Zostrojenie vodováhy
+
+b) Polož fľašu na vodorovný stôl a sleduj, či sa ustáli vzduchová bublina v strede fľaše.
+c) Nakresli na fľašu čiary tam, kde sú okraje bubliny.
+d) Skontroluj, či napr. podlaha alebo parapet na okne sú vodorovné.
+
+19
+
+VLASTNOSTI KVAPALÍN A PLYNOV
+
+
+
+
+
+
+
+parapet
+
+
+
+
+
+podlaha
+
+
+
+
+Obr. 18 Miesta na použitie vodováhy
+
+
+
+2. Zisti a zaznamenaj do zošita nasledujúce informácie (zopakuj si, ako sa má zaznamenať získaná informácia zo s. 9):
+
+a) Akú časť plochy povrchu našej Zeme pokrývajú moria
+a oceány?
+
+
+
+
+
+
+
+
+
+
+
+b) Približne aký čas vydrží č ovek bez vody?
+
+
+
+
+     piest valec
+
+ovládacia páka
+
+
+
+
+        nádrž s hydraulickým
+    olejom čerpadlo
+
+
+
+
+
+
+
+ventil
+
+
+DOMÁCA PRÍPRAVA NA VYUCˇOVANIE
+Priprav si na vyučovanie jednu väčšiu škatuľu od nápoja s objemom 1 liter (l) a druhú menšiu s objemom 250 mililitrov (ml).
+Odstrihni ich hornú stenu.
+Ďalej budeš potrebovať fľašu z plastu s hladkými, netvarovanými stenami s objemom 1 l alebo 1,5 l, pravítko a nezmývateľnú ﬁxku.
+20
+
+1.3 MERANIE OBJEMU KVAPALÍN
+
+
+1.3 MERANIE OBJEMU KVAPALÍN
+V obchode sú na škatuliach s džúsom či na fľašiach s minerálkou uvedené hodnoty ob- jemu nápojov. Na väčších škatuliach si mož- no prečítať, že je v nich 1 l (liter) džúsu ale- bo ľadového čaju. Sú však aj väčšie škatule s objemom 1,5 l nápoja, ale aj menšie ška- tule s objemom 250 ml (mililitrov).
+
+Obr. 19 Škatule od nápoja s rôznym objemom
+
+
+
+ÚLOHA
+
+Zisti, obsah koľkých malých škatúľ s objemom 250 ml je potrebné naliať do veľkej škatule s objemom 1 l, aby sme ju naplnili. Koľko mililitrov má 1 liter?
+
+Pomôcky: 1 veľká škatuľa od nápoja (1 l) a malá škatuľa od nápoja (250 ml) s odstrihnutými hornými stenami, voda
+
+Postup:
+a) Do malej škatule nalej až po horný okraj vodu a prelej ju do veľkej.
+b) Prelievanie vody opakuj, pokiaľ nebude veľká škatuľa plná.
+Odpovedz:
+1. Z koľkých malých škatúľ sa voda zmestila do veľkej škatule?
+2. Bolo meranie presné?
+3. Dá sa z merania zistiť, koľko má 1 liter mililitrov?
+
+
+Ak by sme chceli skontrolovať, či je v ška- tuliach presné množstvo nápoja, potre- bujeme odmerný valec. Odmerný valec je sklená nádoba, na ktorej je vyznačená stupnica v určitých jednotkách objemu, najčastejšie v mililitroch. Používa sa na me- ranie objemu kvapalín. Odmerným valcom znázorneným na obr. 20 možno odmerať najviac 100 ml.
+
+
+
+
+
+
+stupnica
+
+
+
+
+Obr. 20 Odmerný valec
+21
+
+VLASTNOSTI KVAPALÍN A PLYNOV
+
+Na meranie objemu používame odmerné valce rôznej veľkosti podľa toho, aký objem potrebujeme odmerať. Pri meraní si vždy musíme vybrať odmerný valec správnej veľkosti a pozrieť jeho stupnicu. Dôležité je zistiť, koľko mililitrov kvapaliny pripadá na 1 dielik stupnice.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 21 Odmerné valce rôznych veľkostí
+
+
+Aby naše merania objemu kvapaliny boli čo najpresnejšie, musíme pri nich dodržiavať tieto pravidlá:
+1. Veľkosť odmerného valca si vyberáme podľa množstva kvapaliny, ktorej objem chceme odmerať.
+2. Odmerný valec musí byť pri meraní položený na vodorovnej podložke.
+3. Hladina meranej kvapaliny v odmernom valci musí byť ustálená.
+4. Na určenie hodnoty meraného objemu je dôležité vedieť, koľko mililitrov pripadá na jeden dielik stupnice.
+5. Pri odčítavaní hodnoty objemu kvapaliny zo stupnice odmerného valca musíme mať oči vo výške hladiny kvapaliny.
+6. Pri zápise nameranej hodnoty objemu uvedieme aj jednotku objemu.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 22 Meranie objemu odmerným valcom
+
+V nasledujúcej úlohe budeme napodobňovať prácu odborníkov, ktorí zhotovujú meradlá. Budeme zostrojovať stupnicu na meranie objemu kvapaliny na fľaši z plastu.
+22
+
+1.3 MERANIE OBJEMU KVAPALÍN
+
+
+
+
+ÚLOHA
+
+Zostroj si z plastovej fľaše odmerný valec.
+
+
+
+
+
+tu odstrihnúť
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pomôcky: rovná (netvarovaná) fľaša z plastu s objemom 1 liter, odmerný valec s objemom 250 mililitrov, pravítko, nezmazateľná ﬁxka, nožnice, voda
+
+Postup:
+a) Požiadaj dospelého človeka, aby odstrihol vrch fľaše na označenom mieste. Vrch z fľaše si odlož.
+b) Do odmerného valca naber 250 ml vody a prelej ju do fľaše. Keď sa hladina vody ustáli, označ si ju ﬁxkou a napíš k nej číslo 250.
+c) Zopakuj naliatie vody ešte raz a napíš k hladine číslo 500.
+d) Odmeraj pravítkom vzdialenosť medzi čiarkami s označením 250 a 500. Rozdeľ túto vzdialenosť na 5 rovnakých častí a zaznač čiarky na fľašu.
+e) Kresliť dieliky môžeš aj nad hodnotu 500, ako aj pod 250, len nie tam, kde sa začína vlnité dno.
+f) Pri hornom okraji fľaše označ jednotku objemu ml.
+Odpovedz:
+1. Aký najväčší objem možno odmerať zhotoveným odmerným valcom?
+2. Aká je hodnota jedného dielika v objemovej jednotke?
+3. Možno presne zmerať tvojím meradlom aj malé objemy, napr. pod 200 ml?
+
+Pri našich meraniach sme objemy kvapalín uvádzali v jednotkách ml (v mililitroch), prípadne, keď kupujeme nápoje, na fľašiach sa uvádza objem v l (litroch). Za spotrebovanú vodu v domácnosti však platíme v iných jednotkách objemu, o ktorých sa budete učiť v podkapitole 1.11 Meranie objemu tuhých telies.
+
+Objem má značku V.
+Jednotkami objemu kvapalín sú:
+l (liter)	1 l = 1 000 ml
+ml (mililiter)	1 ml je tisíckrát menšia jednotka ako liter.
+
+
+Pomôcka na zapamätanie:
+1 000
+l	ml
+
+23
+
+VLASTNOSTI KVAPALÍN A PLYNOV
+
+
+
+
+RIESˇ ÚLOHY
+1. Použi zhotovenú plastovú fľašu so stupnicou, z predchádzajúcej úlohy, na meranie zrážok (množ- stva dažďovej vody). Daj do zeme plastovú fľašu tak, ako je to znázornené na obr. 23. Na vrch plas- tovej fľaše nasaď odstrihnutý vrch z nej ako lievik. Tak to robia i meteorológovia, aby sa zachytená voda rýchlo nevyparovala.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 23 Zrážkomer
+
+Po daždi odmeraj množstvo zrážok a urob si záznam do zošita. Záznam by mal obsahovať dátum me- rania, opis miesta ich zachytenia a množstvo zrážok. (V prípade, že napršalo málo zrážok a nedoká- žeš ich svojím zrážkomerom odmerať, prelej ich do plastovej nádoby na odmeranie v škole.)
+
+Príklad zápisu do zošita: Dátum:	 Miesto:  	
+Množstvo zrážok: _			ml
+
+2. Máš odmerať 200 ml vody čo najpresnejšie. Vyber si jeden z odmerných valcov na obr. 21, ktorým by si meranie uskutočnil. Svoj výber zdôvodni.
+Napíš si do zošita:
+Vybral som si odmerný valec so stupnicou do 		ml.
+
+Zdôvodnenie:  	
+3. Koľko vody je v odmerných valcoch A – D? Odčítaj hodnotu z obrázkov.
+
+
+
+
+
+
+
+
+
+ 		_________ ml	    
+ 		vody	 	
+
+_________ ml	     vody		 	
+
+_________ ml	 			 vody		 	
+
+_________ ml vody
+
+
+
+
+
+
+
+
+A	B	C	D
+24
+
+1.3 MERANIE OBJEMU KVAPALÍN
+
+
+4. Premeň jednotky objemu (píš len do zošita):
+ 8 l = 	ml	50 000 ml = 	l 20 l = 	ml		2 000 ml = 	l
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DOMÁCA PRÍPRAVA NA VYUCˇOVANIE
+Zhotov si model zariadenia na meranie vitálnej kapacity pľúc. Vitálna kapacita pľúc je maximálny objem vzduchu, ktorý dokážeš vydýchnuť po maximálnom nadýchnutí.
+Na zhotovenie zariadenia potrebuješ: sklený pohár na zaváranie
+s vrchnákom (minimálny objem 600 ml), 2 slamky na pitie, plastelínu.
+
+Do vrchnáka je potrebné urobiť otvory pre slamky tak, aby slamka otvorom práve len prekĺzla. O vyvŕtanie otvorov popros dospelého človeka. Prestrč slamky otvormi tak, aby jedna siahala po dno nádoby a druhá tesne po vrchnák. Slamky pri otvoroch vo vrchnáku utesni z oboch strán plastelínou.
+
+
+
+
+
+
+slamka
+
+
+plastelína vrchnák
+
+
+
+sklený pohár
+na zaváranie
+
+
+
+Obr. 24 Zariadenie na meranie vitálnej kapacity pľúc
+25
+
+VLASTNOSTI KVAPALÍN A PLYNOV
+
+
+1.4 VLASTNOSTI PLYNOV
+Vzduch, vodík, zemný plyn, oxid uhličitý, kyslík sú plynné látky. Ak však nafúkame balón a uzavrieme vzduch v balóne, ide o plynné teleso.
+Budeme sa zaoberať vlastnosťami plynov a ako plyn budeme skúmať vzduch.
+Pokusy s injekčnými striekačkami a vzduchom by nás mali upozorniť na vlastnosti vzduchu, ktoré pla- tia pre všetky plyny.
+
+
+POKUS
+
+
+Zisti, ako sa správa vzduch v injekčných striekačkách. (Pracuj vo dvojici so spolužiakom.)
+
+Pomôcky: 2 injekčné striekačky, hadička na spojenie striekačiek (dlhá približne 1 cm), olej na šijacie stroje
+
+Postup:
+a) , b), d) podľa pokusu v podkapitole 1.1, s. 14.
+c) Obe striekačky naplň vzduchom tak, ako je znázornené v tabuľke 2.
+Tabuľka 2 Skúmanie vlastností plynov
+
+Stláčanie piestov striekačiek v smere šípkyOdčítanie dielikov na striekačkách
+
+1.
+
+	Piest A sa posunul o	dielikov
+Piest B sa posunul o	dielikov
+
+
+
+2.
+
+
+
+
+
+
+
+
+Piest A sa posunul o	dielikov
+Piest B sa posunul o	dielikov
+	
+3.
+
+	
+Piest A sa posunul o	dielikov
+Piest B sa posunul o	dielikov
+Odpovedz:
+1. V čom sa výsledky pokusov 1 a 2 z tejto tabuľky podobajú? Aká vlastnosť plynov sa v pokusoch prejavila?
+2. Porovnaj správanie kvapalín a plynov pri pokusoch 1 a 2. (Pozri si tabuľku 1 zo s. 14.)
+3. Aká vlastnosť plynov sa prejavila pri pokuse 3?
+4. Porovnaj správanie kvapalín a plynov pri pokuse 3. (Pozri si vypracovanú tabuľku 1 zo s. 14.)
+
+Zistili sme, že ak posunieme piest striekačky A, posunie sa piest striekačky B. Vzduch prešiel z jednej striekačky do druhej. Ak tlačíme na piesty A a B súčasne, dokážeme ich o niekoľko dielikov posunúť. Vzduch, ale aj ostatné plyny, sú stlačiteľné (pokus 3).
+26
+
+1.4 VLASTNOSTI PLYNOV
+
+
+Rovnako ako v kvapalinách aj v plynoch platí Pascalov zákon. Ak tlačíme zvonka na plyn v uzavre- tej nádobe, tlak sa prenáša do všetkých smerov rovnako.
+
+Zaviazaný nafúknutý balón môžeme stláčať a po uvoľnení rúk sa vráti do pôvodného tvaru. Vzduch v balóne je pružný a presviedčajú sa o tom aj deti na úvodnom obrázku k tematickému celku, ktorý znázorňuje nafukovací bazén a ďalšie hračky plnené vzduchom (s. 13). Pneumatiky automobilov sú tiež plnené vzduchom, aby sa pružnosťou vzduchu tlmili nárazy pri nerovnosti terénu.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tlak sa prenáša na všetky smery rovnako. Plyny sú pružné.
+
+Obr. 25  Vlastnosti plynov
+
+Pri kvapalinách vieme veľmi jednoducho niekoľkými spôsobmi ukázať, že ich možno deliť na menšie časti – napríklad rozlievaním do pohárov, pomocou striekačky či lekárskym kvapkadlom na kvapky a pod. Možno deliť na časti aj plyny? O deliteľnosti plynov sa dá presvedčiť pokusom znázorneným na obr. 26.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 26  Delenie vzduchu
+
+
+V striekačke je vzduch a postupným zatláčaním piesta ho možno rozdeliť na malé bublinky. Dá sa vymyslieť rad podobných pokusov na deliteľnosť plynov.
+
+Pri kvapalinách sme nemuseli dokazovať, že tečú. Každý z nás to pozná z vlastných skúseností. Pri pokusoch 1, 2 z tabuľky 2 sme pozorovali, že vzduch „pretiekol“ zo striekačky A do B.
+
+Opíšeme pokus, ktorý tiež dokazuje, že aj plyny tečú. Do kadičky nasypeme kypriaci prášok do pečiva a prilejeme trochu octu. Chemickou reakciou vznikne oxid uhličitý. Prípadne naplníme sifónovú fľašu oxidom uhličitým. Do ďalšej kadičky dáme horiacu sviečku. Ak oxid uhličitý z kadičky opatrne prele- jeme do kadičky so sviečkou, horiaca sviečka zhasne. Oxid uhličitý sa prelial na dno kadičky a zabránil prístupu kyslíka. Bez kyslíka sviečka nemôže horieť. Plyny možno preliať z jednej nádoby do druhej, sú tekuté.
+
+27
+
+VLASTNOSTI KVAPALÍN A PLYNOV
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 27 Pokus na dôkaz tekutosti plynov
+
+
+Predchádzajúci pokus sa musí robiť rýchlo, a pritom opatrne, pretože aj keď oxid uhličitý klesá na dno nádoby, veľmi rýchlo sa rozptýli do okolia.
+
+Jednoduchými pokusmi možno dokázať, že plyny zaberajú priestor, majú objem.
+Ak ponoríme prevrátený prázdny sklený pohár do akvária s vodou, môžeme pozorovať, že aj po za- tlačení pohára hlbšie do vody sa pohár vodou nenaplní (obr. 28), lebo určitý objem v ňom zaberá vzduch.
+
+
+
+
+
+
+
+
+
+
+hladina vody v pohári
+
+
+Obr. 28 Vzduch zaberá priestor, má objem
+
+Objem plynov však nie je stály. Ak rozviažeme balón naplnený plynom, tento sa veľmi rýchlo rozptýli do okolia.
+
+
+
+
+
+
+
+
+
+
+vzduch balóna sa rozptýli do miestnosti
+
+Obr. 29 Objem plynov nie je stály
+
+Riešením nasledujúcej úlohy sa dá presvedčiť o možnosti nepriamo zmerať objem plynu. U ľudí, kto- rí majú choré pľúca, ale aj u športovcov sa zisťuje tzv. vitálna kapacita pľúc. Na to slúži jednoduché zariadenie, do ktorého musí pacient po hlbokom nádychu vydýchnuť. Zo zariadenia sa vytlačí približne taký objem vody, aký bol výdych vzduchu pacienta.
+Zhotoviť model tohto zariadenia bola tvoja domáca príprava.
+28
+
+1.4 VLASTNOSTI PLYNOV
+
+
+
+ÚLOHA
+
+Zisti a odmeraj objem plynu, ktorý vydýchneš.
+(Pracuj vo dvojici so spolužiakom. Každý musí mať svoju vlastnú slamku.)
+
+Pomôcky: sklený pohár so slamkami (zhotovený podľa domácej prípravy), odmerný valec s objemom 500 ml alebo kadička so stupnicou, voda
+
+Postup:
+a) Naber do skleného pohára vodu tak, aby jej hladina siahala približne do výšky 2 cm od vrchného okraja pohára a aby jedna zo slamiek nebola ponorená do vody.
+b) Zhlboka sa nadýchni a potom vydýchni vzduch do slamky, ktorá nie je ponorená vo vode. K druhej slamke podlož odmerný valec alebo kadičku.
+
+
+  sem priložiť odmerný valec
+
+
+slamka, do ktorej sa fúka
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 30 Zariadenie na meranie objemu vydýchnutého vzduchu
+
+c) Nakresli si tabuľku do zošita a zapíš si do nej odmerané hodnoty. Urobte si v triede na tabuľu záznam celej triedy.
+d) Vykonajte so spolužiakom každý 3 merania.
+e) Vypočítaj priemernú hodnotu vytlačeného objemu vody tak, že sčítaš hodnoty troch meraní a vydelíš tromi. Priemernú hodnotu vytlačeného objemu vody uveď do výsledkov všetkých spolužiakov, tá je tvojou hodnotou vitálnej kapacity pľúc.
+
+Tabuľka 3 Meranie vitálnej kapacity pľúc
+
+Meno Číslo meraniaVytlačený objem vody
+[ml]    Priemerná hodnota vytlačeného objemu vody [ml]1.2.3.1.2.3.
+f) Vypočítajte v triede priemernú hodnotu objemu vytlačenej vody osobitne pre chlapcov a pre dievčatá.
+29
+
+VLASTNOSTI KVAPALÍN A PLYNOV
+
+
+
+Odpovedz:
+1. Prečo časť vody pretiekla zo skleného pohára do odmerného valca?
+2. Prečo môže vytlačený objem vody nahradiť objem vydýchnutého vzduchu?
+3. Akých chýb si sa mohol dopustiť pri meraní?
+
+
+Niektoré vlastnosti majú kvapaliny a plyny rovnaké. K tým, ktoré sú už v učive uvedené, treba ešte pridať, že aj plyny majú farbu, chuť a zápach. A rovnako ako pri kvapalinách sa o ďalších vlastnos- tiach budete učiť počas tohto roku, ako aj vo vyšších ročníkoch na vyučovaní fyziky, ale aj chémie.
+
+
+RIESˇ ÚLOHY
+1. Dobre si prečítaj podkapitolu 1.4 Vlastnosti plynov. Vypíš z nej vlastnosti plynov do zošita.
+Plyny majú tieto vlastnosti:  	
+
+2. Navrhni pokus, ktorým by si dokázal, že sú plyny deliteľné. Tvoj návrh by mal obsahovať pomôcky a postup.
+Ak je pokus jednoduchý, predveď ho spolužiakom.
+
+
+3. Zisti a zaznamenaj do zošita nasledovné informácie (nezabudni na upozornenie uvedené na s. 9):
+a) Z akých plynov sa skladá vzduch?
+b) Približne aký čas vydržíš bez nadýchnutia?
+c) Prečo je dôležité, aby v našom okolí bolo čo najviac zelene?
+
+
+
+1.5 SPOLOČNÉ A ROZDIELNE VLASTNOSTI KVAPALÍN A PLYNOV
+V predchádzajúcich podkapitolách ste sa mohli presvedčiť, že kvapaliny a plyny majú niektoré vlast- nosti podobné a v niečom sa odlišujú. Spresníme si, v ktorých, nám už známych, vlastnostiach sa podobajú a v čom sú rozdielne. Najskôr však urobíme ešte jedno skúmanie, kde porovnáme ich správanie, ak zväčšíme priestor, ktorý zaberajú.
+
+
+POKUS
+
+Zisti a porovnaj správanie vzduchu a vody v injekčných striekačkách, ak v nich zväčšíme priestor. (Pracuj vo dvojici so spolužiakom.)
+
+Pomôcky: 2 injekčné striekačky s objemom 20 ml, hadička na ich spojenie (dlhá približne 1 cm), trochu oleja na šijacie stroje
+
+Postup:
+a) Vyber piesty striekačiek a natri ich olejom, aby boli dobre pohyblivé.
+b) Na jednu zo striekačiek nasaď hadičku.
+c) Do oboch striekačiek naber do štvrtiny vzduch.
+30
+
+1.5 SPOLOČNÉ A ROZDIELNE VLASTNOSTI KVAPALÍN A PLYNOV
+
+
+
+d) Spoj obe striekačky a pracuj s nimi podľa pokynov v tabuľke 4. Zaznamenaj si do tabuľky pozorovanie.
+
+Tabuľka 4 Skúmanie vlastností plynov
+
+Pohyb piestov striekačiek v smere šípky
+Záznam o pozorovaní
+
+  
+
+
+ 
+e) Do oboch striekačiek naber do štvrtiny vodu.
+f) Spoj obe striekačky a postupuj podľa pokynov v tabuľke 5.
+
+
+Tabuľka 5 Skúmanie vlastností kvapalín
+
+Pohyb piestov striekačiek v smere šípky
+Záznam o pozorovaní
+  
+
+ 
+Odpovedz:
+1. Ako sa správal vzduch pri pokusoch z tabuľky 4?
+2. Ako sa správala voda pri pokusoch z tabuľky 5?
+3. Porovnaj pozorovania z tabuliek 4 a 5. Je rozdiel medzi správaním vzduchu a vody, ak zväčšíme priestor, v ktorom sa nachádzajú?
+
+
+Predchádzajúce pokusy nás upozornili na ďalšiu rozdielnu vlastnosť medzi kvapalinami a plynmi, kto- rou je rozpínavosť. Kvapaliny sú nerozpínavé, a preto sa piesty striekačiek rýchlo vracali späť, ply- ny sú rozpínavé a mohli ste spozorovať, že sa piesty vracali pomalšie a možno ani nezaujali pôvod- né polohy.
+
+Aby sme mohli urobiť celkové porovnanie vlastností kvapalín a plynov, vrátime sa k predchádzajúcim riešeniam úloh z podkapitoly 1.1 a 1.4. Tieto nám poslúžia na vyplnenie tabuľky 6. V tabuľke sú vlast- nosti kvapalín a plynov, o ktorých sme sa učili. Pozri si legendu k tabuľke a vyplň ju.
+
+
+31
+
+VLASTNOSTI KVAPALÍN A PLYNOV
+
+
+
+ÚLOHA
+
+Porovnaj vlastnosti kvapalín a plynov v tabuľke 6. Môžeš doplniť tabuľku aj o ďalšie vlastnosti.
+Tabuľka 6 Porovnanie niektorých vlastností kvapalín a plynov
+
+VlastnosťKvapalinyPlynystlačiteľnosťtekutosťdeliteľnosťrozpínavosťmerateľnosť objemuLegenda:
++ označ v riadku pri kvapaline a plyne, ak danú vlastnosť má,
+– označ v riadku pri kvapaline a plyne, ak danú vlastnosť nemá.
+
+Odpovedz:
+1. Ktoré vlastnosti majú kvapaliny a plyny rovnaké?
+2. Ktoré vlastnosti majú kvapaliny a plyny rozdielne?
+
+Na základe riešenia predchádzajúcej úlohy vieme porozumieť tomu, prečo nazvali odborníci kvapaliny a plyny spoločným názvom tekutiny.
+Nad vlastnosťami tekutín sa možno zamýšľať ešte z inej stránky. Možno ich rozdeliť na tie, ktoré sa dajú zmerať, a na také, ktoré sa zmerať nedajú. Merať vieme napr. tlak v pneumatikách a učili sme sa zmerať objem. Nemeria sa napr. farba, vôňa či zápach.
+Merateľné vlastnosti nazývame fyzikálnymi veličinami.
+Objem je fyzikálna veličina. Každá fyzikálna veličina má značku. Ako sme už uviedli, objem má značku V.
+
+Odborníci sa dohodli a určili pre každú fyzikálnu veličinu jednotky, v ktorých sa udáva jej veľkosť. Rovnako určili značky jednotiek. Vybrané jednotky na meranie objemu kvapalín sú uvedené na
+s. 23. Meranie uskutočňujeme pomocou meradiel, my sme používali na meranie objemu odmerné valce. Dokonca ste si vyskúšali, ako sa také meradlo zhotovuje.
+
+
+RIESˇ ÚLOHY
+1. V laboratóriu možno zhotoviť malú aparatúru, ktorej sché- ma je na obr. 31.
+
+
+a) Navrhni spôsob, ako dať do pohybu vzduch v banke (von z banky cez rúrku aj do banky).
+b) Vymysli spôsob, ako by sa dal pohyb vzduchu v rúrke po- zorovať. Svoj návrh nakresli a zrealizuj.
+
+
+32
+
+vzduch  	
+
+
+voda
+
+
+Obr. 31 Aparatúra na riešenie úlohy
+
+1.5 SPOLOČNÉ A ROZDIELNE VLASTNOSTI KVAPALÍN A PLYNOV
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+vzduch
+
+
+voda
+2. 
+Vodiči automobilov mu- sia kontrolovať stav brzdo- vej kvapaliny v brzdovom systéme, pretože sa môže stať, že sa doň dostane vzduch.
+a) Prečo je vzduch v brzdo- vom systéme nebez- pečný?
+b) Aká vlastnosť sa v zme- si brzdová kvapalina a vzduch oproti čistej kvapaline zmení?
+
+
+
+
+
+
+
+
+
+
+ÚLOHA
+
+1. Vysvetli, čo znamenajú dôležité slová uvedené v rámčeku. Pri vysvetľovaní si môžeš pomôcť aj konkrétnym príkladom.
+2. K slovám z ľavej strany (Ľ) tabuľky priraď tie slová z pravej strany (P), aby významovo patrili k sebe.
+
+Dôležité slová
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+33
+
+
+VLASTNOSTI KVAPALÍN A PLYNOV
+
+
+
+
+
+– VLASTNOSTI TEKUTÍN
+V mnohých povolaniach je súčasťou práce ľudí vypracúvanie projektov. Vypisujú sa dokonca súťaže na výber najlepšieho projektu, napr. na veľkú stavbu, tvorbu učebníc, riadenie televízie a pod. V projekte sa vyžaduje spracovať vlastnú predstavu o riešení danej úlohy, prípadne predložiť aj model napr. budovy, technického zariadenia.
+Zadávateľ projektu by mal verejnosť oboznámiť:
+– s témou na tvorbu projektu,
+– s podmienkami súťaže,
+– so spôsobom vyhodnotenia.
+
+Na vyhotovenie dobrého projektu musí mať človek vedomosti z odboru, o aký projekt ide, ako aj skúsenosti s jeho tvorbou, ktoré treba získať prácou. Cieľom vypracovania nášho školského projektu bude získanie skúseností s takouto prácou a overenie, ako viete vedomosti
+o vlastnostiach tekutín využiť. V neposlednom rade môžete zažiť aj radosť z toho, že ste projekt dokázali urobiť.
+Budeme postupovať tak, ako sa postupuje v pracovnom živote.
+Témy projektu
+1. Navrhnúť, zostrojiť a predviesť zariadenie na demonštrovanie niektorej z vlastností kvapalín alebo plynov.
+2. Navrhnúť, zostrojiť a predviesť zariadenie, v ktorom možno dať do pohybu tekutiny horizontálnym aj vertikálnym smerom.
+3. Navrhnúť, zostrojiť a predviesť model technického zariadenia, v ktorom sa využívajú tekutiny.
+Postup a podmienky
+1. Vytvoriť si tím dvoch-troch spolupracovníkov zo spolužiakov.
+2. Vybrať si tému projektu, v prípade nejasností požiadať o jej bližšie vysvetlenie vyučujúceho.
+3. Urobiť návrh projektu a prekonzultovať ho s vyučujúcim. Termín: 1 týždeň od zadania projektu.
+4. Rozdeliť si prácu v tíme, zostrojiť zariadenie, pripraviť si prezentáciu pred triedou (napr. nakreslenú schému zariadenia). Prezentovať projekt.
+Termín: 2 týždne od zadania projektu.
+Spôsob vyhodnotenia
+Vyhodnotenie projektov sa môže uskutočniť formou súťaže. Súťaž musí mať svoje pravidlá.
+Napríklad:
+– pred súťažou sa vyžrebuje pre každý projekt poradové číslo,
+– každý žiak bude mať tabuľku s kritériami na hodnotenie a s maximálnym počtom bodov,
+– nikto nehodnotí vlastný projekt,
+– poradie v súťaži sa vyhodnotí sčítaním pridelených bodov žiakmi triedy.
+
+
+
+
+
+
+
+
+
+
+34
+
+PROJEKT 1
+
+
+Návrh tabuľky na bodovanie
+
+Meno hodnotiteľa:Číslo projektu1234........prezentácia [max. 5 b] vzhľad [max. 3 b]
+súčet bodov
+Vysvetlenie tabuľky: 3 – prečiarknuté číslo znamená, že to bol tvoj projekt.
+V tabuľke sú uvedené dve kritériá – prezentácia a vzhľad. Pod „prezentáciou“ môžeme hodnotiť napr., či projekt neodbočil od danej témy, ako tím vystupoval pri prezentácii projektu, či zostroje- né zariadenie fungovalo, ako dokázali prezentujúci odpovedať na otázky a pod. V triede sa však mô- žete dohodnúť na úplne inom hodnotení.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Na obrázkoch žiaci prezentujú svoje projekty
+35
+
+VLASTNOSTI KVAPALÍN A PLYNOV
+
+ˇCO SME SA NAUˇCILI
+
+
+
+
+
+
+
+
+
+
+36
+
+
+ 	VYSKÚSˇAJ SA TEST 1
+VLASTNOSTI KVAPALÍN A PLYNOV
+
+TEST 1
+
+
+Nepíš do knihy!
+
+
+1. V rámčeku sú uvedené plyny aj kvapaliny. Vypíš slová, ktoré označujú plyny.
+
+benzín, dusík, kyslík, minerálka, vzduch, olej, oxid uhličitý, voda, vodík, vodná para, ocot, zemný plyn
+
+Plyny sú:  	
+
+
+2. V rámčeku sú vymenované vlastnosti kvapalín a plynov. Napíš do stĺpcov patričné vlastnosti. Niektoré slová môžeš použiť aj dvakrát.
+
+tekutosť, pružnosť, deliteľnosť, rozpínavosť, nestlačiteľnosť, merateľnosť objemu, stlačiteľnosť, nerozpínavosť
+
+
+
+KvapalinyPlyny
+3. Chlapec fúka do plastovej fľaše s vodou, ktorá má okolo dna otvory. Voda strieka rovnako prudko na všetky strany.
+Ako sa dá vysvetliť tento jav?
+
+
+
+
+
+
+
+
+
+
+
+
+
+Doplň: Uvedený jav sa dá vysvetliť tým, že  	
+
+37
+
+VLASTNOSTI KVAPALÍN A PLYNOV
+
+
+4. Zuzka sa snaží zatlačiť piest striekačky, v ktorej je voda. Čo sa stane s piestom striekačky?
+(Zakrúžkuj správnu odpoveď.)
+
+
+
+
+
+
+a) Voda v striekačke sa stlačí a piest sa celkom priblíži k ruke Zuzky.
+b) Voda v striekačke sa stlačí a piest sa priblíži k ruke Zuzky o 2 ml.
+c) Piest striekačky sa nepohne, pretože sú kvapaliny takmer nestlačiteľné.
+5. Prečo sa prevrátený pohár, ktorý ponoríme do vody, nenaplní vodou?
+
+Odpoveď:   	
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. Na obrázku sa Zuzka snaží zatlačiť piest striekačky, v ktorej je vzduch. Ako dopadne táto jej snaha? (Zakrúžkuj správnu odpoveď.)
+
+
+
+
+
+
+a) Vzduch v striekačke sa stlačí a piest sa celkom priblíži k ruke Zuzky.
+b) Vzduch v striekačke sa stlačí a piest sa priblíži k ruke Zuzky o niekoľko ml.
+c) Piest striekačky sa nepohne, pretože sú plyny takmer nestlačiteľné.
+7. Na obrázku sú sklené nádoby v rôznych polohách.
+Ako sa ustáli hladina džúsu, ak ho do nich nalejeme? Nakresli ju do obrázkov.
+
+
+
+
+
+
+
+
+
+
+
+
+
+38
+
+TEST 1
+
+
+8. Na obrázku je znázornený odmerný valec.	ml
+
+a) Aký najväčší objem kvapaliny ním možno odmerať?
+Odpoveď:  	
+
+b) Koľko ml pripadá na 1 dielik stupnice? Odpoveď:
+1 dielik =  	
+
+
+
+9. Aký objem vody je znázornený v odmerných valcoch na obr. A a B? Číselnú hodnotu a jednotku napíš do rámčeka vedľa obrázkov.
+
+
+ml
+
+
+
+
+
+ml
+
+
+
+
+
+
+
+A	B
+
+
+10. Máš tieto pomôcky:
+
+
+
+
+
+
+
+
+
+
+
+
+balón	akvárium s vodou
+
+
+Vedel by si dokázať, že aj vzduch možno deliť? Napíš postup, ako by si to urobil.
+Postup:   	
+
+
+
+11. Premeň jednotky objemu:
+5 000 ml = 	l	4 l = 	ml
+
+
+39
+
+VLASTNOSTI TUHÝCH LÁTOK A TELIES
+
+VLASTNOSTI TUH´YCH LÁTOK A TELIES
+1.6 DELITEĽNOSŤ TUHÝCH LÁTOK
+Keď povieme krieda, guma, oceľ, myslíme tým tuhé látky. Kriedou píšeme na tabuľu. Guma na gumovanie je vyrobená zo špeciálneho druhu látky, aby zmazala čiary nakreslené ceruzkou. Niekedy sa názvy látky a telesa zhodujú.
+Z ocele možno vyrobiť skrutky, matice a mnoho ďalších predmetov. Krieda na písanie, guma na gumo- vanie, klince, matice, skrutky sú tuhé telesá.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 32  Tuhé telesá
+
+V tejto kapitole, podobne ako pri skúmaní vlastností kvapalín a plynov, sa budeme zamýšľať nad vlast- nosťami tuhých látok a telies, ako aj hľadať spoločné a rozdielne vlastnosti kvapalín, plynov, tuhých látok a telies.
+Naučili sme sa, že kvapaliny a plyny možno deliť na menšie časti. V nasledujúcej úlohe sa budeme zaoberať deliteľnosťou tuhých látok.
+
+
+ÚLOHA
+
+Do prvého stĺpca tabuľky 7 doplň názvy tuhých látok, do druhého názvy telies zhotovených z týchto látok a do tretieho spôsob, akým možno telesá rozdeliť na menšie časti (príklad vyplnenia tabuľky je uvedený v prvom riadku).
+
+Tabuľka 7 Názvy tuhých látok, telies a spôsob ich delenia
+
+Názov tuhej látkyNázov tuhého telesaSpôsob deleniaželezoželezná tyčpílenie40
+
+1.6 DELITEĽNOSŤ TUHÝCH LÁTOK
+
+
+Odpovedz:
+1. Našiel si spôsob delenia pre všetky telesá z tuhých látok?
+2. Možno povedať, že deliteľnosť je spoločná vlastnosť kvapalín, plynov a tuhých látok?
+
+Krieda je teleso z látky, ktorá sa dá ľahko deliť, napr. aj nožom z plastu. Malé kúsky kriedy možno rozdr- viť až na prášok. Na pohár zo skla však musíme udrieť napr. kladivom, aby sa rozbil na menšie časti. Aká najmenšia môže byť čiastočka kriedy alebo skla?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 33 Delenie kriedy a skla
+
+
+Takéto otázky si ľudia kládli už veľmi dávno. Starovekí ﬁlozoﬁ vyslovili názor, že sa látky skladajú z veľ- mi malých čiastočiek, a to by mohla byť hranica ich delenia. Experimentálne sa tvrdenie o zložení lá- tok z veľmi malých a voľným okom neviditeľných čiastočiek podarilo dokázať v minulom storočí, a to aj vďaka špeciálnemu mikroskopu.
+
+Snímky povrchu uhlíka na obr. 34 sú urobené špeciálnym mikroskopom s miliónnásobným zväčšením. Keď miesto na šupinke uhlíka označené v strede obr. 34A miliónkrát zväčšíme, dostaneme zobraze- nie čiastočiek na jeho povrchu obr. 34B.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A	B
+
+
+
+Obr. 34 Postupné zväčšovanie povrchu uhlíka
+
+
+Snímky boli urobené na Fakulte matematiky, fyziky a informatiky Univerzity Komenského v Bratislave. Odborníci pomocou špeciálneho mikroskopu a snímok z neho skúmajú štruktúru látok.
+Vlastnosťami látok a ich zložením sa zaoberajú celé oblasti fyziky.
+41
+
+VLASTNOSTI TUHÝCH LÁTOK A TELIES
+
+
+RIESˇ ÚLOHY
+1. K telesám znázorneným na obr. 35 napíš látky, z akých sú zložené, do zošita. Jedno teleso môže byť zložené aj z niekoľkých látok.
+
+
+
+
+Skúmavka:  	
+
+
+Ceruzka:  	
+
+
+Teplomer:  	
+
+
+
+
+
+Obr. 35 Telesá zložené z rozličných látok
+
+
+
+2. Zisti si a zaznamenaj do zošita nasledujúce informácie (nezabudni na upozornenie uvedené na s. 9 o zázname informácii):
+a) Ako pomenoval starogrécky učenec Demokritos malé čiastočky, z ktorých sa skladajú látky?
+b) Kedy žil Demokritos?
+
+
+
+3. Rozdeľ nasledujúce slová v rámčeku na dve skupiny: na slová, ktoré označujú telesá, a na slová označujúce látky.
+
+pílka, železo, hlina, tanier, drevo, stolička, zošit, nohavice, bavlna, plast, taška
+
+
+Telesá:  	
+
+
+
+
+
+
+
+
+Látky:  	
+
+
+
+
+
+
+
+42
+
+1.7 SKÚMANIE VLASTNOSTÍ TUHÝCH LÁTOK
+
+
+DOMÁCA PRÍPRAVA NA VYUCˇOVANIE
+Na vyučovanie budeš potrebovať tieto pomôcky:
+oceľový predmet, kúsok dreva, kúsok tehly (škridle), podlahovinu, polystyrén (napr. z tácky na balenie potravín).
+Budeš pracovať v skupine, a preto sa môžete dohodnúť, kto, čo donesie.
+
+
+
+oceľ	drevo
+
+škridľa
+
+podlahovina
+
+polystyrén
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 36  Potrebné pomôcky
+
+
+1.7 SKÚMANIE VLASTNOSTÍ TUHÝCH LÁTOK
+V predchádzajúcej podkapitole sme prišli k záveru, že tuhé telesá možno deliť na menšie časti. De- lenie kriedy je veľmi jednoduché, možno ju rozlomiť aj v rukách. Delenie predmetu z ocele by si vyžiadalo použiť špeciálne spôsoby, v domácnosti si pomôžeme pílkou na železo.
+Rozličné tuhé látky delíme rozdielnym spôsobom, pretože majú rozdielne vlastnosti. Pri riešení úlohy sa budeme zamýšľať nad niektorými vlastnosťami tuhých látok.
+
+
+ÚLOHA
+Napíš do tabuľky 8 názvy látok, ktorých vlastnosti zodpovedajú vlastnostiam uvedeným na ľavej strane tabuľky.
+
+Tabuľka 8 Triedenie látok podľa ich vlastností
+
+Vlastnosti tuhých látokNázov látky1. krehkosť – teleso z krehkej látky možno rozlomiť alebo ľahko rozbiť2. tvrdosť – do telesa nemožno urobiť ostrým predmetom hlbšiu ryhu3. pružnosť – teleso z pružnej látky možno natiahnuť alebo ohnúť, ale potom opäť nadobudne svoj tvar4. tvárnosť – telesá z tvárnej látky po stlačení zmenia svoj tvar43
+
+VLASTNOSTI TUHÝCH LÁTOK A TELIES
+
+
+Veľmi často sa stáva, že svoje tvrdenia musíme dokázať. Ak ste vybrali a napísali do predchádzajú- cej tabuľky látky podľa ich vlastností, treba dokázať, že také vlastnosti naozaj majú. Zober teleso z da- nej látky a rozlom ho či urob doň ostrým predmetom ryhu, natiahni ho alebo stlač.
+Sú však aj zložitejšie dôkazy, napr. vedci sa snažia dokázať, že na Marse je v nejakej podobe voda. Takéto hľadania a dokazovania môžu trvať celé roky. Najťažšie je premyslieť si vhodnú metódu prá- ce (postup), ktorá by priniesla jasné a presvedčivé dôkazy.
+
+V nasledujúcej úlohe budeme skúmať a dokazovať, ktorá z vybraných látok je najtvrdšia. Postup bude daný, ale musíš presne a pozorne pracovať, aby bol výsledok práce presvedčivý.
+
+
+ÚLOHA
+
+Zo súboru látok vyhľadaj najtvrdšiu látku. Aký dôkaz podporuje tvoje tvrdenie, že je daná látka najtvrdšia? (Pracujte v skupine.)
+
+Pomôcky: podľa domácej prípravy na vyučovanie, oceľový klinec s dĺžkou približne 5 cm, tvrdá podložka (tácka), izolepa, nožnice
+
+Postup:
+a) Poukladaj vedľa seba pripravené pomôcky.
+b) Prilep predmety o podložku izolepou, aby sa nepohybovali.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 37 Pripravené pomôcky na skúmanie
+
+
+c) Urob do predmetov klincom alebo ostrým koncom kružidla ryhu tak, že na všetky predmety budeš tlačiť približne rovnakou silou.
+d) Usporiadaj predmety podľa hĺbky ryhy a pocitu, ako ľahko (ťažko) sa ti do látky ryha robila.
+Odpovedz:
+1. Z akej látky bol predmet, v ktorom bola najplytšia, prípadne žiadna ryha?
+2. Z akej látky bol predmet, v ktorom bola najhlbšia ryha?
+3. Z akej látky bol predmet, s ktorým si urobil ryhy?
+
+44
+
+1.7 SKÚMANIE VLASTNOSTÍ TUHÝCH LÁTOK
+
+
+Medzi vlastnosti tuhých látok patria krehkosť, tvrdosť, pružnosť a tvárnosť. Tieto vlastnosti látok využívame na výrobu predmetov. Diamant je najtvrdší ne- rast, ktorý sa pre svoju tvrdosť často využíva v technike, napríklad na brúsenie, vŕtanie, rezanie skla, na výrobu píl, rezanie kovov a kameňov.
+Pre ľudí má celkom iný význam ako drahokam.
+
+Tuhé látky majú ešte mnoho ďalších vlastností: napr. niektoré sú magnetmi alebo môžu byť priťaho- vané magnetmi, iné vedú elektrický prúd a pod. Aj o týchto vlastnostiach sa budete učiť vo vyšších ročníkoch.
+
+
+
+RIESˇ ÚLOHY
+1. Napíš si do zošita vlastnosť tuhej látky, ktorá sa využíva pri znázornených činnostiach na obr. 38A, B, C, D.
+
+
+
+
+
+
+
+
+
+
+
+
+A	B
+
+
+
+
+
+
+
+
+
+
+
+
+C	D
+Obr. 38 Rozmanité činnosti ľudí
+
+
+2. Zostav úlohu na overenie jednej z vlastností látok – krehkosť, pružnosť alebo tvárnosť. Navrhni aspoň 3 telesá z určitých látok, na ktorých by sa mala vybraná vlastnosť overovať.
+
+Tvoja úloha by mala obsahovať:
+* zadanie,
+* pomôcky,
+* postup,
+* otázky.
+
+
+45
+
+VLASTNOSTI TUHÝCH LÁTOK A TELIES
+
+
+1.8 MERANIE HMOTNOSTI TUHÝCH TELIES
+S vážením na váhach sa stretávame často a možno povedať, že je to jedna z našich prvých skúseností po narodení. Bez váženia sa nezaobídeme napríklad v obchode pri predaji potravín, v lekárni pri prí- prave liekov či v pekárni.
+Vážením sa určuje hmotnosť telies.
+Meradlom na určenie hmotnosti sú váhy. Na obr. 39 sú staršie domáce váhy (A), rovnoramenné váhy
+(B) a digitálne váhy obchodné (C), ako aj malé praktické váhy (D), ktoré sa dajú veľmi dobre využiť aj na školské merania.
+
+
+
+
+
+
+
+
+
+
+A	B	C	D
+
+Obr. 39 Rozličné druhy váh
+
+Jednoduché rovnoramenné váhy sa dajú zhotoviť podľa návodu uvedeného v úlohe 1 v časti Rieš úlohy.
+
+
+ÚLOHA
+
+Porovnaj rovnoramenné váhy na obr. 40A s váhami, ktoré si dokážeš zhotoviť sám (obr. 40B).
+
+
+        klin ukazovateľ
+
+vahadlo
+
+
+
+
+olovnica
+
+
+misky
+
+
+
+
+
+
+aretačná skrutka
+
+stupnica
+
+nastavovacia skrutka
+
+
+
+
+Postup:
+
+A Rovnoramenné váhy
+
+B Váhy zhotovené z jednoduchých pomôcok
+
+Obr. 40 Porovnanie váh
+
+a) Vypíš znaky, v ktorých sa váhy podobajú.
+b) Vypíš znaky, v ktorých sa váhy odlišujú, prípadne sa na váhach B nenachádzajú.
+Odpovedz:
+1. Ktoré znaky pri porovnaní váh prevládajú – podobné alebo odlišné?
+2. V čom vidíš najväčší problém pri vážení na váhach zhotovených z jednoduchých pomôcok?
+46
+
+1.8 MERANIE HMOTNOSTI TUHÝCH TELIES
+
+
+Váženie na rovnoramenných váhach znamená porovnávanie hmotnosti telesa s hmotnosťou závažia. Ak je vahadlo vo vodorovnej polohe a jazýček váh smeruje k nule na stupnici, hmotnosť telesa sa rovná hmotnosti závažia.
+
+Aby naše merania hmotnosti boli čo najpresnejšie, musíme pri nich dodržiavať tieto pravidlá:
+1. Váhy si vyberáme podľa veľkosti hmotnosti, ktorú potrebujeme určiť a presnosti váženia.
+2. Dôležité je zistiť presnosť, s akou dané váhy vážia. Pri menších hodnotách hmotnosti potrebujeme váhy s presnosťou na 1 g, 0,1 g alebo 0,01 g; veľmi presné digitálne váhy môžu vážiť až
+s presnosťou 0,00001 g.
+3. Pri vážení musia stáť váhy na vodorovnej podložke. Laboratórne váhy sa musia špeciálne upraviť nastavovacími skrutkami. Niektoré váhy odborníci nastavujú na stabilné miesto, kde nie sú ani najmenšie otrasy.
+4. Pri vážení na digitálnych, ale aj rovnoramenných váhach dávame predmety do stredu misky.
+5. Pri odčítaní hodnoty na displeji musíme počkať na ustálenie číselnej hodnoty. Rovnako sa musí ustáliť aj ukazovateľ na laboratórnych váhach.
+6. Pri zápise číselnej hodnoty hmotnosti uvedieme jednotku hmotnosti.
+
+Na obaloch potravín sa najčastejšie stretávame s uvedením hmotnosti v jednotkách kilogram (kg) ale- bo gram (g). Základnou jednotkou hmotnosti je kilogram (značka kg). Hmotnosť predmetov, ako sú lietadlá či vlaky, sa udáva v tonách (t).
+
+Hmotnosť má značku m.
+Jednotky hmotnosti sú:
+kg (kilogram)	1 kg = 1 000 g
+g (gram)
+t (tona)	1 t = 1 000 kg
+
+
+Sú životné situácie, keď je potrebné hmotnosť telesa odhadnúť. Napríklad pri nákupoch, ktoré máme odniesť domov. Vedieť urobiť správny odhad hmotnosti, ako aj iných fyzikálnych veličín, sa dá naučiť častým opakovaním.
+
+Pomôcka na zapamätanie:
+1 000	1 000
+t	kg	g
+
+
+
+ÚLOHA
+
+Urob odhady hmotností predmetov a zvierat uvedených v ľavom stĺpci tabuľky 9 a priraď k nim z pravého stĺpca správne hodnoty hmotnosti.
+
+Tabuľka 9  Odhad hmotnosti
+
+Predmety a zvieratáHmotnosťslon15 kglietadlo Boeing 7474,6 gkomár400 tbalená čokoláda4 tväčšia matica0,001 gbicykel100 gsýkorka10 g47
+
+VLASTNOSTI TUHÝCH LÁTOK A TELIES
+
+
+
+ÚLOHA
+
+Odhadni hmotnosti menších predmetov a porovnaj ich s hodnotou hmotnosti zistenou vážením.
+Pomôcky: 3 predmety, napr. peračník, pero, jablko
+Postup:
+a) Zapíš si vybrané predmety do tabuľky 10.
+Tabuľka 10 Porovnanie odhadov hmotností predmetov s odmeranou hodnotou
+
+Názov predmetuOdhad hmotnosti [g]Odmeraná hmotnosť [g]Rozdiel [g]Priemerná chyba odhadu:
+b) Zaznamenaj si odhady ich hmotností do tabuľky. V hlavičke tabuľky je uvedená jednotka, preto k číselným hodnotám už jednotku hmotnosti netreba uvádzať.
+c) Predmety odváž a výsledky zapíš do tretieho stĺpca tabuľky.
+d) Porovnaj svoj odhad s odmeranou hodnotou tak, že vypočítaš rozdiel medzi hodnotami v druhom a treťom stĺpci tabuľky. Odčítaj vždy menšiu hodnotu od väčšej!
+Výslednú hodnotu zapíš do štvrtého stĺpca tabuľky.
+e) Sčítaj všetky tri hodnoty rozdielov v štvrtom stĺpci a súčet vydeľ tromi. Hodnotu zapíš ako priemernú chybu odhadu.
+
+Odpovedz:
+1. Pri ktorom predmete sa ti podaril urobiť najpresnejší odhad?
+2. Kto z triedy mal najmenšiu priemernú chybu odhadu?
+
+
+1.9 MERANIE HMOTNOSTI KVAPALÍN A PLYNOV
+
+
+Rovnako ako tuhé telesá možno vá- žiť aj kvapaliny a plyny. Ich váženie je trochu zložitejšie, pretože sa nedajú položiť priamo na misky váh. Postup váženia kvapalín je znázornený na obr. 41A, B. Najskôr musíme odvážiť samotnú nádobu a potom do nej na- lejeme kvapalinu. Odvážime nádobu aj s kvapalinou. Hmotnosť kvapaliny je rozdiel hmotností zaznamenaných na obr. B a A.
+
+
+48
+
+
+
+
+
+
+
+
+
+
+A	B
+
+Obr. 41 Váženie kvapalín
+
+1.9 MERANIE HMOTNOSTI KVAPALÍN A PLYNOV
+
+
+ÚLOHA
+
+
+Porovnaj hodnotu objemu vody s jej hodnotou hmotnosti.
+
+Pomôcky: odmerný valec (najlepšie 1 dielik zodpovedá 1 ml), váhy, voda, pipeta
+
+Postup:
+a) Odváž odmerný valec a zaznamenaj si jeho hodnotu hmotnosti.
+mvalec = 	g
+b) Daj do odmerného valca 10 (20...) ml vody.
+Objem vody v odmernom valci by mal byť presný. Pomôž si pri meraní s pipetou. Odváž odmerný valec s vodou.
+mvalec + voda = 	g
+c) Zisti hmotnosť vody.
+mvalec + voda – mvalec = 	g
+d) Porovnaj číselné hodnoty objemu vody s jej hmotnosťou.
+Odpovedz:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pipeta
+
+Aký záver možno vysloviť o číselnej hodnote objemu vody (V) a číselnej hodnote jej hmotnosti (m)?
+
+
+POZNÁMKA: Záver z predchádzajúcej úlohy je veľmi dôležitý. Po prediskutovaní v triede si ho napíš do zošita a daj do rámčeka.
+
+Podobne ako pri vážení kvapalín postupujeme aj pri vážení plynov (obr. 42), ale potrebujeme váhy s väč- šou presnosťou. Rozdiel hmotností balóna naplneného vzduchom a prázdneho balóna (je v ňom len málo vzduchu) je malý a váhy s presnosťou napr. 1 g by ho vôbec nemuseli zaznamenať.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 42  Váženie plynov
+
+Vážením zisťujeme hmotnosť tuhých, kvapalných aj plynných telies. Tuhé, kvapalné aj plynné telesá majú hmotnosť.
+
+
+
+
+
+49
+
+VLASTNOSTI TUHÝCH LÁTOK A TELIES
+
+
+
+RIESˇ ÚLOHY
+1. Urob si pomôcku: rovnoramenné váhy.
+
+Pomôcky: sklená nádoba od kečupu (dresingu), drevený kolík na bielizeň, drevená špajdľa s dĺžkou 20 cm (ihlica na pletenie), dobre zastrúhaná ceruzka, misky váh (škatuľky zo zápaliek, syrov, plastové škatuľky), niť, 2 klince s dĺžkou 2 cm (môžu byť skrutky), tvrdý papier s rozmermi 4 × 3 cm, 2 esovité háčiky
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 43  Zhotovené váhy
+
+Postup:
+a) Pribi klince alebo navŕtaj skrutky do dreveného kolíka na bielizeň tak, aby boli 1 cm pod kovovou pruži- nou kolíka.
+Klince musia tvoriť os širšiu ako hrdlo fľaše.
+
+
+
+
+
+
+
+
+
+
+
+b) Tvrdý papier s rozmermi 4 x 3 cm prehni na polovicu. Do stredu papiera urob čiaru a napíš pod ňu 0. Vo vzdialenosti 1 cm od 0 urob čiary.
+
+
+
+
+
+
+
+
+c) Do kovovej pružiny v kolíku na bielizeň vsuň špajdľu alebo kovovú ihlicu.
+Dĺžka takto vytvorených ramien váh musí byť na oboch stranách rovnaká. V pružine špajdľu (ihlicu) utesni.
+
+50
+
+1.9 MERANIE HMOTNOSTI KVAPALÍN A PLYNOV
+
+
+
+d) Podľa obrázka zhotov misky váh.
+
+
+
+
+
+
+e) Zacvikni do kolíka ceruzku a v rovnakej vzdialenosti od stredu kolíka pripevni misky váh.
+
+Ako závažia môžeš použiť väčšie a menšie matice. Ak si matice odvážiš, budeš môcť určovať hmotnosť menších predmetov.
+
+
+
+
+
+
+
+
+
+
+2. Zisti a zaznamenaj do zošita tieto informácie
+(nezabudni na upozornenie uvedené na s. 9 o zázname informácií):
+a) Aká bola tvoja hmotnosť (mn) pri narodení?
+b) Akú hmotnosť (mt) máš teraz?
+Zistené hodnoty zaznamenaj zápisom do zošita:
+
+mn = 	kg = 	g
+mt  = 	kg = 	g
+
+
+3. Na obr. 44A a B sú zachytené dve váženia s tým istým pohárom. Odvážený je prázdny pohár (A) a pohár s kvapalinou (B).
+a) Uváž, v akých jednotkách je udaná hmotnosť na displeji váh (obr. 44B).
+b) Aká je hmotnosť kvapaliny v pohári? (Napíš si do zošita celú odpoveď aj s jednotkou merania.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A	B
+
+Obr. 44 Váženie pohára a kvapaliny
+51
+
+VLASTNOSTI TUHÝCH LÁTOK A TELIES
+
+
+4. Tvojou úlohou je zistiť hmotnosť jednej poštovej známky, a to pomocou digitálnych váh, ktoré me- rajú s presnosťou na 1 g. Ako by si postupoval?
+Zvoľ si:
+* pomôcky,
+* postup.
+
+5. Premeň jednotky hmotnosti (píš do zošita):
+   10 kg = 	g	37 000 g = 	kg 5 000 kg = 	t		209 t = 	kg
+7 t = 	kg	1 420 kg = 	g
+
+
+
+
+
+
+
+
+DOMÁCA PRÍPRAVA NA VYUCˇOVANIE
+Priprav si na vyučovanie dlhšie pravítko a ešte iné meradlo dĺžky, napr. krajčírsky meter alebo zvinuteľné pásmo.
+
+
+
+1.10 MERANIE DĹŽKY
+
+Je mnoho povolaní, napr. stolárske, murárske, krajčírske, v ktorých je dôležité, aby ľudia vedeli pres- ne merať dĺžku. Rovnako pri športoch, ako sú skoky a hody, platia veľmi prísne pravidlá na meranie dĺžky.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 45 Meranie dĺžky skoku
+
+
+Dĺžku meriame meradlami, ako sú pravítko, stolársky či krajčírsky meter. Sú však aj zložitejšie meradlá dĺžky, ako je napr. posuvné meradlo, s ktorým možno presne merať napr. rozmery malých súčiastok. Merať dĺžku možno aj pomocou elektronického zariadenia.
+52
+
+1.10 MERANIE DĹŽKY
+
+
+
+pravítko
+
+
+
+krajčírsky meter
+
+
+
+skladací meter
+
+
+
+zvinuteľné pásmo
+
+
+
+
+
+
+
+
+
+
+Obr. 46 Rozličné meradlá dĺžky
+
+
+
+Aby naše merania dĺžky boli čo najpresnejšie, musíme pri nich dodržiavať nasledujúce pravidlá:
+1. Na každé meranie dĺžky si musíme vybrať primerané meradlo. Ak meriame rozmery učebnice, je vhodné pravítko, ktoré má stupnicu vyznačenú v milimetroch. Milimeter je najmenší dielik stup- nice pravítka. Stupnica má určitý rozsah, t. j. najmenšiu a najväčšiu hodnotu, ktorú možno daným meradlom určiť.
+2. Pravítko priložíme na okraj učebnice alebo iného meraného predmetu tak, aby sa dielik, na pravítku označený 0, kryl s okrajom meraného predmetu (obr. 47).
+3. Pri odčítaní nameranej hodnoty sa pozeráme na pravítko alebo iné meradlo kolmo.
+4. K číselnej hodnote uvedieme jednotku dĺžky.
+
+
+
+milimeter je najmenší dielik
+
+
+
+
+na pravítko pozeráme kolmo
+
+
+
+
+
+
+
+
+pravítko priložíme na okraj učebnice
+
+Obr. 47  Meranie šírky učebnice
+
+
+Presnosť merania dĺžky či šírky závisí od toho, ako dodržujeme postup pri meraní dĺžky.
+Základnou jednotkou dĺžky je meter (značka m).
+53
+
+VLASTNOSTI TUHÝCH LÁTOK A TELIES
+
+
+
+Dĺžka má značku d, ale môže sa označovať aj s, h, l, v. Jednotky dĺžky sú:
+m (meter)1 m =100 cm =	1 000 mmdm (decimeter)1 dm =10 cm =	100 mmcm (centimeter)1 cm =10 mmmm (milimeter)100 mm =1 dmkm (kilometer)1 km =1 000 m
+      Pomôcka na zapamätanie: 1000	10	10	10
+km		 	m		 	dm	 	cm	 		mm 0,001		0,1		0,1			0,1
+
+ÚLOHA
+Odmeraj šírku, dĺžku a hrúbku učebnice, ktorú majú všetci žiaci v triede, napr. Fyziky pre 6. ročník.
+Namerané hodnoty si napíš do zošita.
+
+
+
+
+
+
+hrúbka knihy
+
+
+
+
+
+
+Obr. 48 Meranie rozmerov učebnice
+
+Pomôcky: pravítko, učebnica
+Postup:
+a) Odmeraj rozmery učebnice a napíš si namerané hodnoty do zošita. Šírka učebnice je 	cm, čo je 	mm. Dĺžka učebnice je 	cm, čo je 	mm. Hrúbka učebnice je 	cm, čo je 	mm.
+b) Porovnaj svoje výsledky merania s meraniami spolužiakov.
+Odpovedz:
+1. Namerali všetci žiaci v triede rovnaké hodnoty dĺžky učebnice?
+2. Ak sú výsledky rozdielne, ako si to vysvetľuješ? Kde sa mohla urobiť chyba?
+3. Vypočítajte priemerné hodnoty z nameraných dĺžok v triede.
+
+
+Oveľa ťažšie sa meria dĺžka telies, ktoré nemajú také pravidelné rozmery ako učebnica, napr. dĺžka zastrúhanej ceruzky alebo kľúča od bytu.
+54
+
+1.10 MERANIE DĹŽKY
+
+
+
+ÚLOHA
+Odmeraj dĺžku kľúča (ceruzky, sponky na spisy).
+
+Pomôcky: teleso nepravidelných rozmerov, napr. kľúč, ostro zastrúhaná ceruzka, pravítko so stupnicou v milimetroch
+
+Postup:
+a) Odhadni dĺžku kľúča (predmetu) a zapíš si: d = 	cm
+b) Polož kľúč (predmet) na čistý papier a ostrou ceruzkou naznač čiarou jeho okraje (obr. 49).
+
+
+
+
+
+
+
+
+
+
+
+
+d
+
+Obr. 49 Meranie dĺžky kľúča
+
+c) Kľúč môžeš odsunúť, urobiť rovnobežné čiary a zmerať dĺžku medzi čiarami.
+d) Urob si zápis nameranej dĺžky:
+d = 	cm = 	mm
+Odpovedz: Aký je rozdiel medzi tvojím predpokladom a nameranou hodnotou?
+
+Pri práci v prírode alebo doma musíme často robiť odhady dĺžky. Preto je dobré vedieť a pamätať si dĺžku vlastného kroku, rozpaženia, chodidla (stopa) či vzdialenosť palca ruky a malíčka (piaď).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+krok	rozpaženie	stopa
+
+Obr. 50 Meranie rôznych dĺžok na ľudskom tele
+55
+
+VLASTNOSTI TUHÝCH LÁTOK A TELIES
+
+
+ÚLOHA
+
+
+Zisti, akú dĺžku má tvoja stopa.
+Pomôcky: dlhé pravítko
+Postup:
+a) Označ si okraj päty a špičky topánky na papier.
+b) Zmeraj vzdialenosť medzi dvoma rovnobežnými čiarami na papieri. Zapíš si zaokrúhlenú hodnotu dĺžky na celé centimetre do zošita.
+
+dstopy = 	cm
+
+
+
+
+
+
+
+
+
+Obr. 51 Meranie dĺžky stopy
+
+
+
+Ďalej budeš pracovať s tvojou hodnotou dĺžky stopy. Pomocou nej určovať napr. šírku miestnosti. Aby si nemusel počet stôp násobiť dĺžkou stopy a tak určiť šírku, dá sa zostrojiť z hodnôt tabuľka a graf.
+
+Graf je vlastne obraz našich meraní a umožňuje nám zistiť aj hodnoty, ktoré sme nemerali. Z merania vieme, že hodnota stopy je povedzme 25 cm (doplň si dĺžku vlastnej stopy).
+Ak urobíme 2, 3… atď. stopy, bude to toľkokrát viac. Zostrojíme si tabuľku.
+
+Tabuľka 11 Počet stôp a ich dĺžka
+
+Počet stôp01234567Dĺžka [cm]0255075
+dvojica hodnôt
+
+Postup pri zostrojení grafu
+* Na vodorovnú polpriamku – os x – nanesieme počet stôp a na zvislú polpriamku
+– os y – zodpovedajúcu dĺžku v centimetroch.
+* Os x rozdelíme na rovnaké dieliky.
+* Musíme si zvoliť, akú dĺžku v cm bude predstavovať jeden dielik. Pre naše meranie môže platiť 1 dielik zodpovedá 1 stope.
+* Os y tiež rozdelíme na rovnaké dieliky (s dĺžkou 1 cm), pričom pre naše meranie môže platiť, že 1 die- lik = dĺžka jednej stopy (napr. 25 cm).
+
+
+dĺžka Y
+d [cm]
+
+dĺžka Y
+d [cm]
+
+Vzťah medzi počtom stôp a dĺžkou
+
+
+
+150
+125
+100
+75
+50
+25
+0
+A	0
+
+
+
+
+
+
+
+
+
+
+
+
+1	2	3	4	5	6	7
+
+
+
+
+
+
+
+X
+počet stôp
+
+150
+125
+100
+75
+50
+25
+0
+B	0
+
+
+
+
+
+
+
+
+
+
+
+
+1	2	3	4	5	6	7
+
+
+
+
+
+
+
+X
+počet stôp
+
+
+Obr. 52 Postup pri zostrojovaní grafu
+56
+
+1.10 MERANIE DĹŽKY
+
+
+* Označíme osi grafu číslami tak, ako je to na obr. 52A, B.
+* Každú dvojicu nameraných hodnôt (počtu stôp a ich dĺžky) v tabuľke zobrazíme na grafe jediným bodom. Bod zostrojíme pomocou súradníc.
+* Bodmi zostrojíme priamku – graf.
+* Každý graf má mať názov, ktorý vystihuje, aký vzťah je na ňom zobrazený.
+
+Čo vieme povedať o grafe, ktorý sme zostrojili? Už pri zobrazovaní dvojíc hodnôt – počet stôp a ich dĺžka, bolo vidieť, že úmerne k pribúdajúcim stopám rástla ich dĺžka. Takémuto vzťahu medzi dvoma veliči- nami hovoríme priama úmernosť.
+Zobrazené body naznačovali, že nimi môžeme zostrojiť stúpajúcu rovnú čiaru. Čiaru grafu sme spojili s bodom 0. Nemusí to tak byť pri každom grafe. V našom grafe je bod 0 platný bod, pretože ak neuro- bíme žiadne meranie pomocou stopy, nameraná dĺžka sa rovná 0. Pri zostrojení čiary grafu musíme vždy urobiť podobnú úvahu.
+S grafmi sa stretávame aj v dennej tlači, ale veľmi často s nimi pracujú pri meraniach odborníci, napr. meteorológovia či vedci.
+
+POZNÁMKA: Pri zostrojovaní bodov grafu môžeme využiť počítač s programom Stopa.cma (v programovom súbore C6lite). Program je dostupný v elektronickej podobe učebnice na
+http://www.expolpedagogika.sk/p/215/fyzika-pre-6-rocnik-zakladnej-skoly-a-1-rocnik-gymnazia-s-osemrocnym-studiom.
+
+
+
+RIESˇ ÚLOHY
+
+1. Odčítaj z grafu na obr. 52B (alebo z tvojho grafu) tieto údaje:
+a) Keď urobíš 6 stôp, akú vzdialenosť si prešiel?
+b) Koľko stôp musíš urobiť, aby si prešiel dĺžku 1 m?
+2. Urob tieto merania:
+a) Zisti pomocou stopy šírku miestnosti.
+b) Over zistenú hodnotu meraním pomocou dĺžkového meradla.
+
+
+3. Zisti a zaznamenaj do zošita nasledujúce informácie (nezabudni na upozornenie uvedené na s. 9 o zázname informácii):
+a) Aký je priemer Zeme?
+b) Aká je vzdialenosť Zeme od Slnka?
+c) Zisti, aké staršie jednotky dĺžky sa v minulosti používali.
+
+
+4. Tvojou úlohou je zistiť hrúbku jedného lista papiera. Na meranie máš len pravítko so stupnicou v mm. Navrhni spôsob, ako by si pri tom postupoval.
+5. Premeň jednotky dĺžky (píš do zošita): 5 km = 	m
+   50 m = 		dm 2 000 m = 		km 70 cm = 	mm
+30 mm = 	cm 2 m = 	cm
+
+
+
+
+57
+
+VLASTNOSTI TUHÝCH LÁTOK A TELIES
+
+
+DOMÁCA PRÍPRAVA NA VYUCˇOVANIE
+Na vyučovanie budeš potrebovať tieto pomôcky: kocku
+s hranou dĺžky 1 alebo 2 cm (napr. z hry človeče, nehnevaj sa), 3 telesá, ktoré sa zmestia do odmerného valca (napr. matica, kľúč, guma na gumovanie a pod.) a vo vode sa potopia.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 53 Ukážka pripravených pomôcok na vyučovanie
+
+
+1.11 MERANIE OBJEMU TUHÝCH TELIES
+V podkapitole 1.3 Meranie objemu kvapalín sme sa naučili pracovať s odmerným valcom a zmerať objem kvapaliny. Pokúšali sme sa aj o odmeranie objemu vydýchnutého vzduchu, teda o odmeranie objemu plynu.
+Spôsob určovania objemu tuhých telies závisí od toho, či ide o telesá, ktoré majú tvar pravidelného hra- nola alebo takýto tvar nemajú. Pravidelný hranol je napríklad kocka z hry človeče, nehnevaj sa.
+
+
+
+
+
+
+
+
+
+1 cm
+
+
+
+
+1 cm
+
+
+1 cm
+
+Objem takejto kocky vypočítame V = 1 cm · 1 cm · 1 cm = 1 cm3 (1 kubický centimeter).
+
+
+ÚLOHA
+Telesá na obrázkoch 54A, B, C sú poskladané z kociek.
+Kažká z kociek má v skutočnosti objem 1 kubický centimeter (značka cm3).
+
+
+1 cm3
+58
+
+1.11 MERANIE OBJEMU TUHÝCH TELIES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Odpovedz:
+
+A	B	C
+
+Obr. 54 Telesá s rôznym objemom
+
+Aký objem (koľko kubických centimetrov) má každé z telies znázornených na obrázkoch?
+
+Telesám na obr. 54 hovoríme, že sú pravidelné hranoly. Vieme odmerať ich rozmery a vypočítať objem.
+
+kváder
+
+
+
+
+c	kocka
+
+
+a
+
+b	a
+a	a
+
+objem kvádra
+
+V = a · b · c
+
+objem kocky
+
+V = a · a · a
+
+
+Obr. 55 Určovanie objemu telies tvaru pravidelného hranola
+
+Poznáme mnoho telies, ktoré majú tvar pravidelného hranola s oveľa zložitejšími výpočtami objemov. Pomerne jednoduché je však vypočítať objem napr. triedy, ktorá sa vo väčšine prípadov podobá kvád- ru. Meraním vieme zistiť jej šírku a dĺžku. Odhadom možno určiť aj výšku. Vypočítaný približný objem triedy je vlastne aj objem vzduchu v triede.
+! POZNÁMKA: Pri výpočtoch objemu telesa musia byť všetky jeho rozmery uvedené v rovnakých jednotkách.
+
+Druhý spôsob, ktorý sa používa pri stanovovaní objemu telies menších a nepravidelných rozmerov, spočíva v meraní množstva vody vytlačenej ponoreným telesom. Jednoduchým pokusom sa dá dokázať, že teleso úplne ponorené do vody vytlačí ta- ký objem vody, aký je jeho objem. Ak do pohára naplneného až po okraj vodou (obr. 56A) vložíme napr. kocku so známym objemom, presne taký objem vody vytečie do záchytnej nádoby (obr. 56B). Pravda, pri meraní sa môžu vyskyt- núť drobné chyby, napr. stratou nie- koľkých kvapiek vody.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 56 Objem ponorenej kocky sa rovná objemu vytlačenej vody
+59
+
+VLASTNOSTI TUHÝCH LÁTOK A TELIES
+
+
+
+ÚLOHA
+
+Zisti, koľko mililitrov vody vytlačí teleso s objemom 1 cm3.
+Pomôcky: odmerný valec (1 dielik = 1 ml), kocka s hranou 1 cm, pipeta
+Postup:
+a) Nalej do odmerného valca vodu tak, aky jej hladina bola presne po určitý označený dielik. Pomôž si pipetou.
+b) Odčítaj objem vody v odmernom valci a hodnotu si zapíš do zošita.
+c) Vlož kocku s objemom 1 cm3 do odmerného valca a odčítaj, pokiaľ vystúpila hladina vody.
+Odpovedz:
+1. Aký objem vody vytlačila kocka?
+2. Aký je vzťah medzi 1 ml a 1 cm3?
+
+
+Objem kvapalín sme doteraz udávali v jednotkách ml (mililiter) a l (liter). Pri platení za spotrebovanú vodu v domácnostiach sa udáva spotreba v kubických metroch (m3). Kocka s hranou 1 m má objem 1 kubický meter. Hlavnou jednotkou objemu je kubický meter (značka m3). Ďalej sa používajú jednotky: dm3 (kubický decimeter), cm3 (kubický centimeter).
+
+Objem má značku V.
+Jednotky objemu sú:
+m3 (kubický meter)	1 m3 = 1 000 dm3 = 1 000 l
+dm3 (kubický decimeter)	1 dm3 = 1 l
+cm3 (kubický centimeter)	1 cm3 = 1 ml
+l (liter)	1 l = 1 000 ml
+ml (mililiter)	1 000 ml = 1 dm3 = 1 000 cm3
+
+Pomôcka na zapamätanie:
+1 000	1 000
+m3	 		dm3 		cm3
+l	ml
+
+0,001	0,001
+
+Tak ako pri určovaní hmotnosti či dĺžky je užitočné, aby sme vedeli urobiť odhad, koľko dané teleso môže vážiť alebo ako ďaleko je zastávka autobusu. Naučíme sa robiť aj odhad objemu telies. Kocka s hranou dĺžky 1 cm nám dáva predstavu o objeme 1 cm3. Riešením predchádzajúcej úlohy ste sa mohli pre- svedčiť, že 1 cm3 = 1 ml. Práve táto skúsenosť môže byť užitočná pri riešení nasledujúcej úlohy, kde sa vyžaduje odhad objemu malých telies.
+
+
+ÚLOHA
+
+Odhadni objem menších predmetov a porovnaj ho s hodnotou objemu zistenou meraním v odmernom valci.
+
+Pomôcky: 3 predmety (napr. matica, guma na gumovanie a pod.) pripevnené na niti, odmerný valec
+60
+
+1.11 MERANIE OBJEMU TUHÝCH TELIES
+
+
+Postup:
+a) Zapíš si vybrané predmety do tabuľky 12.
+Tabuľka 12 Porovnanie odhadov objemov predmetov s odmeranou hodnotou
+
+
+Názov predmetu
+Odhad objemu [cm3]Odmeraný objem [cm3] (1 ml = 1 cm3)
+Rozdiel [cm3]Priemerná chyba odhadu:
+b) Zaznamenaj si odhady ich objemu do tabuľky. V hlavičke tabuľky je uvedená jednotka, preto k číselným hodnotám už jednotku objemu neuvádzaj.
+c) Odmeraj objem predmetov v odmernom valci a zapíš do tretieho stĺpca tabuľky.
+d) Porovnaj svoj odhad s odmeranou hodnotou tak, že urobíš rozdiel medzi druhým a tretím stĺpcom tabuľky. Odčítaj vždy menšiu hodnotu od väčšej! Hodnotu zapíš do štvrtého stĺpca tabuľky.
+e) Vypočítaj a zapíš do tabuľky priemernú chybu odhadu.
+Odpovedz:
+1. Pri ktorom predmete sa ti podarilo urobiť najpresnejší odhad?
+2. Kto z triedy mal najmenšiu priemernú chybu odhadu?
+
+V úvodnej časti sme si zhrnuli skúsenosti z merania objemu tekutín. Naučili sme sa merať objem tu- hých telies. Môžeme teda povedať, že vieme určiť tak hmotnosť, ako aj objem tuhých či kvapalných a plynných telies.
+
+
+RIESˇ ÚLOHY
+1. Podľa hygienických požiadaviek má na jedného žiaka pripadať 4,5 m3 vzduchu a 1,6 m2 plochy po- dlahy v triede. Zisti, či sú vo vašej triede uvedené hygienické požiadavky splnené.
+
+2. Na obr. 57 je znázornené meranie objemu guľky odmernými valcami.
+a) Urč objem guľky na obrázku.
+b) Opíš postup pri určovaní jej objemu.
+c) Vedel by si navrhnúť iný spôsob určenia jej objemu?
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 57  Meranie objemu guľky
+61
+
+VLASTNOSTI TUHÝCH LÁTOK A TELIES
+
+
+3. Tvojou úlohou je zistiť objem jedného pripináčika. Ako by si postupoval?
+Zvoľ si:
+* pomôcky,
+
+* postup.
+
+4. Juraj nalieval vodu do odmerného valca naberač- kou. V tabuľke je uvedený počet naberačiek a objem vody (V) v odmernom valci. Zobraz výsledok Jurajov- ho merania do grafu.
+
+objem vody V [ml]
+
+
+
+
+
+0
+0	počet naberačiek
+
+
+POZNÁMKA: Pri zostrojovaní grafu môžeme využiť počítač s programom Naber.cma
+(v programovom súbore C6lite). Program je dostupný v elektronickej podobe učebnice na
+http://www.expolpedagogika.sk/p/215/fyzika-pre-6-rocnik-zakladnej-skoly-a-1-rocnik-gymnazia-s-osemrocnym-studiom.
+
+
+5. Zisti a zaznamenaj do zošita nasledujúce informácie
+(nezabudni na upozornenie uvedené na s. 9 o zázname informácií):
+a) Ktorý tovar sa predáva v mililitroch?
+b) Zisti, aký je objem valcov v motoroch niektorých osobných áut.
+c) Aký objem má vaša chladnička?
+6. Premeň dané jednotky objemu (píš len do zošita):
+
+1 000 dm3 = 	m3	20 ml = 	cm3 10 dm3 = 	l		2 l = 	ml
+5 000 cm3 = 	dm3	30 000 dm3 = 	m3
+7. Vypočítaj objem kvádra s danými rozmermi (píš len do zošita):
+a) 5 dm, 6 dm, 8 dm. Zápis:
+Výpočet:
+Odpoveď:  	
+b) 6 m, 30 dm, 200 cm.
+Zápis:
+Výpočet:
+Odpoveď:  	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+62
+
+1.12 SPOLOČNÉ A ROZDIELNE VLASTNOSTI…
+
+
+1.12 SPOLOČNÉ A ROZDIELNE VLASTNOSTI KVAPALÍN, PLYNOV, TUHÝCH LÁTOK A TELIES
+V predchádzajúcich kapitolách sme skúmali vlastnosti tuhých látok a telies. Oceľ, sklo, drevo, plast sú tuhé látky. Tuhé látky a telesá z tuhých látok majú celý rad vlastností.
+Niektoré sme preskúmali podrobnejšie, iné sme len opísali, niektoré dobre poznáte zo skúseností. Skúste napríklad stlačiť oceľovú maticu alebo kameň. Telesá z niektorých tuhých látok sú nestlačiteľné. Zopakujeme si skúmané vlastnosti tuhých látok a telies v prvej úlohe.
+
+
+
+ÚLOHA
+
+Prezri si podkapitoly 1.6 až 1.11 a vypíš z nich vlastnosti tuhých látok a telies do tabuľky 13 pod seba. Tabuľku 13 si nakresli do zošita.
+
+
+Tabuľka 13 Vlastnosti tuhých látok a telies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Odpovedz:
+1. Ktoré z vlastností uvedených v tabuľke vieme merať?
+2. Ktoré z vlastností uvedených v tabuľke nevieme merať?
+
+Porovnávali sme už vybrané vlastnosti kvapalín a plynov. V nasledujúcej tabuľke porovnáme vybrané vlastnosti kvapalín, plynov, tuhých látok a telies.
+
+
+
+ÚLOHA
+
+Porovnaj vlastnosti kvapalín, plynov, tuhých látok a telies v tabuľke 14. Môžeš doplniť tabuľku aj o ďalšie vlastnosti podľa uváženia.
+63
+
+VLASTNOSTI TUHÝCH LÁTOK A TELIES
+
+
+Tabuľka 14 Porovnanie niektorých vlastností kvapalín, plynov, tuhých látok a telies
+
+
+Názov vlastnostiVlastnostikvapalínplynovtuhých látok a teliesstlačiteľnosťtekutosťdeliteľnosťstálosť tvarumerateľnosť objemumerateľnosť hmotnosti
+Legenda:
++ napíš v riadku pri kvapaline, plyne, tuhej látke (pri telese), ak danú vlastnosť má,
+– napíš v riadku pri kvapaline, plyne, tuhej látke (pri telese), ak danú vlastnosť nemá.
+Odpovedz:
+1. Ktoré vlastnosti majú kvapalné, plynné, tuhé látky a telesá rovnaké?
+2. Ktoré vlastnosti majú kvapalné, plynné, tuhé látky a telesá rozdielne?
+
+Naučili sme sa merať dĺžku, objem a hmotnosť. Dĺžku, objem a hmotnosť nazývame spoločným názvom fyzikálne veličiny. Poznáme značky uvedených fyzikálnych veličín, ich jednotky a značky jednotiek. Dve zo známych jednotiek sú základné: m (meter – jednotka dĺžky), kg (kilogram – jednotka hmotnosti). Jednotka objemu m3 je odvodená od jednotky dĺžky.
+Najlepšie sa ich naučíme, ak ich budeme používať pri meraní, prípadne si zostavíme pre ne tabuľky. Výsledkom každého merania je správny zápis.
+
+Napr. nameranú dĺžku správne zapíšeme takto:
+
+
+
+  značka fyzikálnej veličiny
+
+d = 2 m
+
+ číselná hodnota veličiny
+
+
+značka jednotky
+
+V niektorých jednotkách fyzikálnych veličín sa opakujú predpony, ktoré znamenajú podiely alebo násobky jednotiek. Napr. milimeter, mililiter, kilogram, kilometer.
+Niektoré nám už známe predpony si uvedieme v tabuľke 15.
+
+Tabuľka 15 Tvorba vybraných názvov jednotiek fyzikálnych veličín pomocou predpôn
+
+PredponaZnačkaVýznamPríkladmili-mtisícinamilimeter (mm)1 mm = 0,001 mcenti-cstotinacentimeter (cm)1 cm = 0,01 mdeci-ddesatinadecimeter (dm)1 dm = 0,1 mkilo-ktisícnásobokkilometer (km)1 km = 1 000 m64
+
+1.12 SPOLOČNÉ A ROZDIELNE VLASTNOSTI…
+
+
+
+
+RIESˇ ÚLOHY
+1. Prečítaj zápisy:
+
+
+
+
+d = 5 m
+m = 5 g
+
+
+
+
+V = 4 ml
+V = 7 l
+
+
+
+
+l = 7 cm
+m = 3 kg
+
+
+
+2. V rámčeku sú uvedené slová a značky. Zatrieď ich do tabuľky 16. Možno sa niektoré zo slov zatriediť ani nedajú.
+
+meter, km, objem, dm, váhy, mililiter, m3, odmerný valec, stlačiteľnosť, mm, l, tona, tvárnosť, pravítko, V, kilogram, t, decimeter, ml, dĺžkový meter, m, liter, gram, tvrdosť, kg, cm3, kubický decimeter, cm, hmotnosť, kilometer, m, milimeter, g, pružnosť, dĺžka, dm, kubický meter, d, dm3, nestlačiteľnosť, kubický centimeter
+
+
+
+
+
+
+
+
+
+
+
+Tabuľka 16 Triedenie slov a značiek podľa významu
+
+Fyzikálne veličiny     Značky fyzikálnych veličín
+Jednotky Značky jednotiek
+Meradlá
+
+3. Triedenie informácií:
+
+a) Vypracuj tabuľku z informácií o našej Zemi a jej atmosfére, ktoré si doteraz zistil, prípadne doplň informácie.
+
+b) Vypracuj tabuľku z informácií, ktoré si doteraz zistil o človeku (zaraď k nim aj údaje o sebe), prípadne doplň informácie.
+
+65
+
+VLASTNOSTI TUHÝCH LÁTOK A TELIES
+
+
+
+ÚLOHA
+
+1. Vysvetli, čo znamenajú dôležité slová v rámčeku. Pri vysvetľovaní si môžeš pomôcť aj uvedením konkrétneho príkladu.
+
+2. K slovám z ľavej strany (Ľ) rámčeka priraď také slová z pravej strany (P), aby významovo patrili k sebe.
+
+Dôležité slová
+
+ĽP
+
+
+tuhá látka tuhé teleso vlastnosti
+    fyzikálne veličiny jednotky fyzikálnych veličín
+meradlo grafoceľ skrutka váhy pružnosť dĺžka
+delenie na časti dĺžkový meter tvárnosť kilometer
+drevo kilogram os x, os y
+drevená kocka odmerný valec čiara grafu objem nestlačiteľnosť hmotnosť meter
+kubický meter kovový kváder stupnica meradla
+
+
+
+
+
+
+2 cm
+
+
+
+
+2 cm
+
+
+
+2 cm
+
+V = 2 cm · 2 cm · 2 cm
+V = 8 cm3
+
+
+
+
+66
+
+PROJEKT 2
+
+
+
+PROJEKT 2
+– JEDNOTKY A MERADLÁ
+Témami pre druhý projekt sú merania dĺžky, objemu a hmotnosti. Pre merania sú dôležité jednotky dĺžky, objemu, hmotnosti. Voľba jednotiek fyzikálnych veličín závisí od dohody. Napr. v stredoveku mali v každom meste iné miery. Obchodníci aj kupujúci mali tým sťažené obchodovanie. Preto sa ľudia pred 200 rokmi dohodli, že zavedú – napríklad – všeobecne platnú jednotku dĺžky 1 m. Jeden meter bude 1/40 000 000 z obvodu Zeme. Zhotovili prototyp – kovovú tyč a medzi dve rysky naniesli dohodnutú časť obvodu Zeme. Tak vznikla medzinárodná jednotka dĺžky. Dnes sa už deﬁnuje meter zložitejšie.
+
+
+
+
+
+
+1 m
+1 kg
+
+
+
+
+
+
+
+
+
+
+Obr. 58 Prototyp metra a kilogramu
+
+
+Pri tvorbe projektu sa zamysli nad voľbou vlastnej jednotky a nad zostrojením vlastného meradla pre jedno z uvedených meraní. Inšpirovať sa môžeš aj históriou merania.
+
+Témy projektu
+1. Navrhnúť, zostrojiť a predviesť meradlo dĺžky s vlastnou jednotkou.
+2. Navrhnúť, zostrojiť a predviesť meradlo objemu s vlastnou jednotkou.
+3. Navrhnúť, zostrojiť a predviesť meradlo hmotnosti s vlastnou jednotkou.
+Postup a podmienky
+1. Vytvoriť si tím spolupracovníkov zo spolužiakov.
+Vybrať si tému projektu, v prípade nejasností požiadať o jej bližšie vysvetlenie vyučujúceho.
+2. Urobiť návrh projektu a prekonzultovať ho s vyučujúcim. Termín: podľa dohody v triede.
+3. Rozdeliť si prácu v tíme, zostrojiť zariadenie, pripraviť si prezentáciu pred triedou (napr. nakreslenú schému zariadenia, opis zvolenej jednotky merania a jej značky). Prezentovať projekt.
+Termín: podľa dohody v triede.
+Spôsob vyhodnotenia
+Vyhodnotenie projektov sa môže uskutočniť formou súťaže. Ak sa vám postup hodnotenia zvolený pri projekte 1 na s. 34 osvedčil, môžete postupovať rovnako aj pri tomto projekte.
+67
+
+VLASTNOSTI TUHÝCH LÁTOK A TELIES
+
+ˇCO SME SA NAUˇCILI
+Vlastnosti tuhých látok	Vlastnosti tuhých telies
+Krehkosť	Stálosť tvaru
+
+
+
+
+
+
+
+
+Tvrdosť
+
+
+
+
+
+
+Pružnosť
+
+
+
+
+
+
+Tvárnosť
+
+Merateľnosť dĺžky
+
+
+
+
+
+Merateľnosť objemu (V)
+
+
+
+Merateľnosť hmotnosti (m)
+
+
+
+
+
+
+
+
+Deliteľnosť
+
+
+
+
+
+
+Nestlačiteľnosť
+
+
+Pri meraní dĺžky, objemu a hmotnosti musíme dodržiavať určité pravidlá, aby boli merania čo najpresnejšie. Najpresnejšie merania získame opakovaním meraní a vypočítaním ich aritmetického priemeru.
+
+Merania možno vyhodnotiť grafom.
+
+
+Tabuľka	y
+
+
+x
+
+
+Pri riešení úlohy sme postupovali takto:
+úloha	meranie	zápis meraní do tabuľky	zostrojenie grafu
+
+68
+
+TEST 2
+
+
+
+  VYSKÚSˇAJ SA TEST 2
+VLASTNOSTI TUHY´CH LÁTOK A TELIES
+
+Nepíš do knihy!
+
+
+Na vypracovanie testu potrebuješ pravítko a ceruzku.
+
+1. Odmeraj najväčšiu dĺžku predmetov znázornených na obrázku. Zapíš namerané hodnoty do rámčekov.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. Na obr. A je prázdny odmerný valec odvážený na váhach. Hodnota hmotnosti je udaná
+v gramoch. Na obr. B je v tom istom odmernom valci naliaty džús. Zisti, aká je hmotnosť džúsu.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A	B
+
+Odpovedz celou vetou.
+
+0dpoveď:  	
+
+3. Tvojou úlohou je vybrať si jedno z dĺžkových meradiel na obrázku, aby si mohol odmerať šírku učebnice. Svoju voľbu zdôvodni.
+69
+
+VLASTNOSTI TUHÝCH LÁTOK A TELIES
+
+
+
+Vybral som si
+
+
+pravítko
+
+
+
+
+
+Zdôvodnenie:
+
+krajčírsky meter
+
+
+
+
+
+skladací meter
+
+
+4. Zakrúžkuj písmeno pri vete so správnym obsahom:
+a) Každá látka je tekutá.
+b) Každá látka je deliteľná na menšie časti.
+c) Každá látka je pružná.
+5. Aká vlastnosť látky sa využíva pri zobrazených činnostiach? Dopíš vlastnosť pod obrázok.
+
+
+
+
+
+
+
+
+
+
+
+
+6. Michal meral rozpaženie rúk Zuzky.
+Meranie opakoval 3-krát a zaznamenal údaje do tabuľky.
+a) Doplň do tabuľky priemernú hodnotu meraní.
+b) Vysvetli, prečo sa odporúča opakovať merania.
+Meranie rozpaženia
+
+Číslo meraniaDĺžka rozpaženia [cm]114921503148priemerná hodnota:
+0dpoveď:  	
+
+
+7. Priemerná hodnota dĺžky Martinovej stopy je 20 cm. Martin si zostrojil tabuľku a zaznamenal do grafu vzťah medzi počtom stôp a ich dĺžkou.
+a) Doplň do tabuľky chýbajúce dĺžky.
+70
+
+Počet stôp a ich dĺžka
+
+Počet stôp123Dĺžka [cm]20
+TEST 2
+
+
+
+b) Martin odmeral dĺžku stola pomocou svojich stôp. Zistil, že je dlhý 5 stôp. Nakresli do grafu príslušné súradnice a odčítaj hodnotu dĺžky d stola.
+
+
+Odpoveď:  	
+ 
+dĺžka Y d [cm]
+
+120
+100
+80
+60
+40
+20
+0
+
+Vzťah medzi počtom stôp a dĺžkou
+
+
+
+
+
+
+X
+
+0 1 2 3 4 5 6 7
+
+počet stôp
+
+
+8. Zisti objem guľky z obrázkov.
+
+
+
+
+
+
+
+Objem guľky je  	
+
+
+
+9. Napíš pod obrázky džúsu v pohári a pera, aké ich merateľné vlastnosti by si vedel určiť a aké meradlo by si potreboval.
+
+
+
+
+
+
+
+
+Džús v pohári	Pero
+
+Viem zmerať: 		Viem zmerať:  	
+
+
+
+Potrebujem meradlo: 		Potrebujem meradlo:  	
+
+
+
+
+10. Premeň dané jednotky hmotnosti a dĺžky:
+
+5 t = 	kg	5 km = 	m 8 m = 	cm	50 kg = 	g
+
+
+11. Prémiová úloha
+Dostal si za úlohu odmerať objem väčšieho predmetu, ktorý sa nezmestí do odmerného valca. Ako si poradíš? (Svoj návrh nakresli, uveď pomôcky a postup činnosti.)
+
+Môj návrh:
+
+Pomôcky:
+
+Postup:
+71
+
+II. SPRÁVANIE TELIES V KVAPALINÁCH A PLYNOCH
+
+||. SPRÁVANIE TELIES
+V KVAPALINÁCH A PLYNOCH
+
+
+
+
+Zo skúseností vieme, že niektoré telesá na hladine vody plávajú, napr. vetvičky či listy zo stromov, kus polystyrénu, ale aj človek, ktorý sa nadýchne, zadrží dych a ľahne si na vodu. Na fotograﬁi je čítajúci muž, ktorý leží na hladine Mŕtveho mora.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ak však dáme do vody kameň, potopí sa. Jestvujú ale aj telesá, ktoré na hladine neplávajú, ale ani neklesnú na dno. Hovoríme, že sa vznášajú. Vznášať sa dokážu ponorky, ryby, ale aj potápači. V druhom tematickom celku budeme skúmať javy a deje, ktoré súvisia so správaním telies v kvapa- linách a plynoch.
+Otázky, na ktoré budeme hľadať odpoveď, napríklad sú: Prečo pláva loď vo vode, keď je veľmi ťažká?
+Ako môže balón aj s posádkou vystúpiť do výšky?
+Čo musí urobiť ponorka, aby vyplávala na hladinu oceánu či mora?
+72
+
+2.1 VPLYV HMOTNOSTI NA SPRÁVANIE TELIES VO VODE
+
+SPRÁVANIE TELIES V KVAPALINÁCH
+DOMÁCA PRÍPRAVA NA VYUCˇOVANIE
+Priprav si na vyučovanie malú nádobku z plastu alebo sklenú nádobu, ktorá sa dá uzavrieť a pláva na hladine vody, niekoľko rovnakých malých matíc (napr. s rozmermi: priemer 10 mm, hrúbka 3 mm) alebo iných rovnakých malých predmetov, ktoré sa dajú použiť ako závažia.
+
+
+
+
+
+
+
+
+
+Obr. 59 Príprava na vyučovanie
+
+
+2.1 VPLYV HMOTNOSTI
+NA SPRÁVANIE TELIES VO VODE
+V úvodnej časti učebnice Čo sa budeme učiť na s. 11, 12 ste robili dva pokusy (potápač a pokus s kva- palinami), na ktoré ste hľadali vysvetlenia. Vrátime sa najskôr k pokusu s potápačom. Ako potápač nám slúžil upravený vrchnák z pera. Už názov pokusu nám hovorí, že sa vrchnák z pera pri stláčaní fľaše sprá- val ako potápač (obr. 60). Teda najskôr plával na hladine, potom klesal ku dnu. Vieme, že bez stláčania fľaše rukami by sa takýto jav neuskutočnil. Čo sa zmenilo vo vrchnáku z pera tlakom na fľašu?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pláva	vznáša sa	potopil sa
+
+Obr. 60 Rôzne polohy potápača
+
+Aby sme túto otázku zodpovedali, nahradíme vrchnák z pera upravenou injekčnou striekačkou, ktorá je priesvitná, pretože pomocou nej možno urobiť dôkladnejšie pozorovania.
+73
+
+SPRÁVANIE TELIES V KVAPALINÁCH
+
+
+
+POKUS
+
+
+Zisti, čo sa deje v „potápači“ (v injekčnej striekačke), ak sa najskôr vznáša a neskôr potopí na dno fľaše. (Pracuj vo dvojici so spolužiakom.)
+
+Pomôcky: fľaša z plastu s objemom 1,5 l (najlepšie netvarovaná), injekčná striekačka s objemom 5 ml, kadička (väčšia nádoba), voda, malá olovená guľôčka
+
+Postup:
+a) Priprav si „potápača“ podľa obr. 61 tak, že dospelý človek odstrihne kúsok z konca piesta striekačky. Piest vyber zo striekačky a vlož do nej malú olovenú guľôčku. Piest vsuň do striekačky tak, aby v nej ostal približne 1 ml vzduchu.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 61  Príprava potápača
+
+
+b) Vyskúšaj potápača v kadičke. Nemal by ležať na hladine vody, ale ani klesnúť na dno. Ak leží na hladine, zasuň piest trochu hlbšie do striekačky a opäť vyskúšaj. Pri klesnutí potápača na dno vysuň piest zo striekačky.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 62 Vyskúšanie potápača pred vložením do fľaše
+
+
+c) Vlož potápača do fľaše naplnenej vodou a stláčaj boky fľaše. Pozoruj, čo sa deje s potápačom pri jeho klesaní na dno fľaše.
+d) Schému pokusu aj záznam z pozorovania si zapíš do zošita.
+Odpovedz:
+1. Aký je záver z tvojho pozorovania potápača pri jeho klesaní na dno fľaše?
+2. Aké je tvoje vysvetlenie klesania potápača ku dnu?
+74
+
+2.1 VPLYV HMOTNOSTI NA SPRÁVANIE TELIES VO VODE
+
+
+Fyzikálne skúmania sa začínajú pozorovaním. Aby sme pozorovanie napr. z predchádzajúceho poku- su mohli potvrdiť, dokázať meraním, urobíme si model potápača z plastovej nádobky, ktorú budeme postupne zaťažovať pridávaním závaží – nejakých predmetov.
+
+
+ÚLOHA
+
+Zisti, aká je hmotnosť nádobky so závažiami v polohách, keď pláva, keď sa vznáša a keď je potopená na dne akvária.
+
+Pomôcky: podľa domácej prípravy na vyučovanie (nádobka, závažia – napríklad matice), akvárium, váhy (digitálne, s presnosťou 0,1 g)
+
+Postup:
+a) Na zaznamenanie údajov budeš potrebovať tabuľku 17.
+Tabuľka 17 Záznam údajov o nádobke v rôznych polohách vo vode
+
+Poloha nádobky vo vodePočet závažíHmotnosť nádobky so závažiami [g]Zakreslenie polohy nádobky vo vode
+pláva
+1
+vznáša sa
+potopila sa
+b) Do nádobky vlož jedno závažie a vyskúšaj, či pláva na hladine vody. Odváž nádobku so závažím a vyplň tabuľku pri polohe „pláva“.
+c) Vlož do nádobky toľko závaží, aby sa vo vode vznášala, to znamená, aby bola tesne pod hladinou vody. Odváž nádobku so závažím a vyplň tabuľku pri polohe „vznáša sa“.
+d) Vlož do nádobky toľko závaží, aby vo vode klesla na dno. Odváž nádobku so závažím a vyplň tabuľku pri polohe „potopila sa“.
+e) Zostroj graf tak, že na os x uvedieš počty závaží a na os y hmotnosť m nádobky so závažiami.
+f) Zopakuj si postup pri zostrojovaní grafu z podkapitoly
+
+1.10 Meranie dĺžky na s. 56. Uvažuj, či má byť čiara grafu spojená s nulou, so začiatkom súradníc.
+g) Odčítaním z grafu urč hmotnosť nádobky a porovnaj ju so skutočnou hmotnosťou zistenou vážením.
+Odpovedz:
+1. O koľko sa zväčšila hmotnosť nádobky medzi plávajúcou polohou a polohou, keď klesla na dno?
+2. Aký je vzťah medzi hmotnosťou nádobky so závažiami a hĺbkou jeho ponorenia do vody?
+3. Prečo sme povedali, že nádobka so záťažou je modelom potápača z obr. 61?
+  
+y  m [g]
+
+
+
+
+
+
+
+
+
+
+0	počet závaží	x
+75
+
+SPRÁVANIE TELIES V KVAPALINÁCH
+
+
+
+Stláčaním fľaše z plastu do vrchnáka z pera, kde bola bublina vzduchu, vnika- la voda. Vrchnák klesal ku dnu. Len čo sme fľašu prestali stláčať, bublina vzdu- chu sa zväčšila, roztiahla, vytlačila vodu z vrchnáka pera a tento stúpal k hladine vody vo fľaši. Bublinka vzduchu je súčas- ťou objemu vrchnáka z pera. Objem vrchnáka s bublinkou je najmenší, keď je bublinka vzduchu stlačená a vrchnák je na dne fľaše. Vzťah medzi objemom telies zložených z rôznych látok a ich správaním vo vode budeme skúmať v kapitole 2.2.
+
+
+
+
+Obr. 63 Prierez vchnáka z pera pri pohybe vo fľaši
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+stláčanie		 fľaše  	
+
+
+
+
+
+
+plastová fľaša
+
+
+
+
+
+
+
+
+
+
+
+vzduchová bublina
+
+
+
+ 	  stláčanie
+ 	  fľaše
+
+
+
+
+vrchnák z pera
+
+
+
+
+
+
+Na akom princípe pracuje ponorka? Podľa hĺbky ponoru musí regulovať svoju hmotnosť naberaním a vy- tláčaním vody z komôr.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pláva	potápa sa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+vznáša sa	vynára sa
+
+Obr. 64 Princíp fungovania ponorky
+76
+
+2.1 VPLYV HMOTNOSTI NA SPRÁVANIE TELIES VO VODE
+
+
+Na obrázku je znázornený prierez ponorky v rôznych polohách vo vode. Dôležitou súčasťou ponorky sú nádrže, do ktorých sa načerpáva alebo z nich odčerpáva voda pomocou čerpadla. Pri načerpaní vody do nádrží sa ponorka ponára hlbšie do mora. Pri odčerpaní vody z nádrží stúpa ponorka k hladine mora (vynára sa).
+Načerpaním vody do nádrží sa hmotnosť ponorky zväčšuje. Ponorka má najväčšiu hmotnosť, keď sú nádrže plné vody.
+
+
+RIESˇ ÚLOHY
+1. Máš dve kocky s rovnakým objemom a sú zafarbené rovnakou modrou farbou. Jedna je drevená a dru- há z ocele. Navrhni spôsob, ako by si určil, ktorá kocka je zhotovená z dreva a ktorá z ocele.
+
+2. Tvojou úlohou je:
+a) vymenovať 3 predmety, o ktorých s určitosťou vieš povedať, že budú plávať na hladine vody v akvá- riu, a 3 predmety, o ktorých s určitosťou vieš, že sa potopia.
+
+Plávajúce predmety:  	                                                                                                        Potápajúce sa predmety:  	
+b) Vymenovať látky, z ktorých sú zložené plávajúce a potápajúce sa predmety napísané v bode a). Látky z ktorých sú plávajúce predmety:  	 Látky z ktorých sú potápajúce sa predmety:  		
+3. Dobre si prezri obr. 63 a vysvetli, aký zákon platí pri stláčaní fľaše.
+
+
+DOMÁCA PRÍPRAVA NA VYUCˇOVANIE
+Na vyučovaní budeš potrebovať 2 škatule od nápoja – veľkú
+(s objemom 1 l) a malú (s objemom 250 ml). Vrch oboch škatúľ je potrebné odstrihnúť tak, aby ich výška bola rovnaká (obr. 65).
+
+Ďalej budeš potrebovať pravítko a vodou nezmazateľnú ﬁxku.
+
+
+
+
+
+
+
+
+x
+
+
+
+
+
+
+
+
+Obr. 65 Škatule pripravené na pokusy
+77
+
+SPRÁVANIE TELIES V KVAPALINÁCH
+
+
+2.2 VPLYV OBJEMU A TVARU TELIES NA ICH SPRÁVANIE VO VODE
+Z podkapitoly 2.1 vieme, že hmotnosť telesa má vplyv na jeho správanie vo vode. Každá loď má pred- písanú záťaž, hmotnosť, ktorú nesmie prekročiť.
+Nedodržanie povolenej záťaže lode či člna môže spôsobiť, že sa potopí. Aj na Dunaji sa potopil čln s väč- ším počtom ľudí, ako dovoľovala predpísaná záťaž člna.
+Jestvujú okrem hmotnosti aj ďalšie údaje o telese, ktoré by nám mohli pomôcť pri určovaní hĺbky poná- rania predmetu? V nasledujúcom pokuse budeme porovnávať hĺbku ponorenia vo vode dvoch škatúľ, ktoré majú rôzne objemy a rôzne veľké plochy, ktorými sa dotýkajú hladiny vody.
+
+
+POKUS
+
+Porovnaj hĺbku ponorenia dvoch škatúľ s rôznymi objemami, ak ich rovnako zaťažíš.
+(Pracuj vo dvojici so spolužiakom.)
+
+Pomôcky: 2 škatule podľa domácej prípravy, odmerný valec, pravítko, ﬁxka, akvárium
+Postup:
+a) Na zaznamenanie údajov budeš potrebovať tabuľku 18.
+Tabuľka 18 Údaje o ponáraní škatúľ
+
+
+Škatuľa
+Záťaž [ml]Hĺbka ponoru [cm]PredpokladSkutočnosťmalá100veľká100malá150veľká150
+b) Nalej do malej škatule 100 ml vody.
+c) Pred ponorením malej škatuľe do vody napíš predpoklad, do akej hĺbky sa škatuľa ponorí.
+d) Vlož malú škatuľu do akvária s vodou a vyznač čiarkou na jej vonkajšiu stranu hĺbku, do ktorej sa ponorila.
+e) Zmeraj hĺbku a údaj zapíš do tabuľky.
+f) Prelej vodu z malej škatule do veľkej a postup zopakuj.
+g) Zopakuj meranie pre malú a veľkú škatuľu so záťažou 150 ml vody.
+Odpovedz:
+1. Porovnaj hodnoty hĺbky ponoru pre veľkú a malú škatuľu. K akému záveru si prišiel?
+2. Zhodujú sa tvoje predpoklady so skutočnosťou?
+3. Aký je vzťah medzi veľkosťou škatule a hĺbkou ponoru?
+4. Čo ovplyvňuje hĺbku ponoru predmetu vo vode?
+
+78
+
+2.2 VPLYV OBJEMU A TVARU TELIES NA ICH SPRÁVANIE VO VODE
+
+
+Ľudia, ktorí stavajú lode či zhotovujú člny, musia veľmi presne poznať vzťah medzi záťažou lode či člna a ich objemom. Musia zvažovať ich tvar a hĺbku ponoru tak, aby boli bezpečné. Platí, že čím majú loď či čln menší objem, tým je aj ich povolená záťaž menšia.
+
+Technické údajedĺžka trupu4,80 mmaximálna šírka2,12 mponor0,36 mhmotnosť člna bez motora440 kgmax. počet osôb posádky5 osôbObr. 66 Technické údaje motorového člna
+
+Na záver nášho skúmania vzťahov medzi objemom, hmotnosťou a hĺbkou ponoru telies vyriešime na- sledujúcu úlohu, ktorá si vyžaduje hlavne premýšľať o pozorovaných javoch.
+
+
+ÚLOHA
+
+Zisti, aké množstvo vody je potrebné naliať do škatule od džúsu na jej úplné potopenie vo vode.
+Pomôcky: veľká škatuľa od džúsu, vedro s vodou
+Postup:
+a) Na zaznamenanie údajov budeš potrebovať tabuľku 19.
+Tabuľka 19 Údaje o potopení škatule
+
+Množstvo vody potrebné na potopenie škatuleZápis pozorovaniapredpokladskutočnosť
+b) Odhadni množstvo vody v škatuli potrebnej na jej potopenie. Svoj odhad zapíš do tabuľky.
+c) Over svoj odhad a zaznamenaj svoje pozorovanie do tabuľky.
+Odpovedz:
+1. Potvrdil sa tvoj predpoklad?
+2. Ako si vysvetľuješ správanie veľkej škatule, ktorú naplníme po okraj vodou a vložíme do vedra s vodou?
+
+
+Plastová nádobka, do ktorej môžeme vkladať závažia a ktorú môžeme uzavrieť (úloha na s. 75), s pri- dávajúcimi závažiami zväčšovala svoju hmotnosť a ponárala sa do vody hlbšie. Pri určitej hmotnosti závaží klesla na dno akvária. Ako by sa správala nádobka, ak by mala napr. dvojnásobný objem a za- ťažili by sme ju oceľovými závažiami s rovnakou hmotnosťou ako v úlohe na s. 75? Klesala by aj v ta- komto prípade do rovnakej hĺbky v akváriu?
+Pri pokuse so škatuľami rôznych objemov sme mohli pozorovať, že pri tej istej záťaži sa škatuľa s väč- ším objemom a väčšou plochou dotýkajúcou sa hladiny vody potopí do menšej hĺbky. Rovnaké
+79
+
+SPRÁVANIE TELIES V KVAPALINÁCH
+
+
+správanie by sme mohli očakávať aj u plastovej nádobky s väčším objemom. Pri našich pokusoch sme skúmali telesá, ktoré sa skladali z rôznych látok. Napr. nádobka, do ktorej sme vkladali závažia, sa skladala zo vzduchu, oceľových závaží a pravdaže z plastu. Ďalej budeme skúmať správanie sa telies v kvapalinách, ktoré sú zložené len z jednej látky, ako napr. z gumy, korku a podobne.
+
+
+
+RIESˇ ÚLOHY
+1. Z rozličných materiálov – dreva, železa a polystyrénu, sú zhotovené tri rovnako veľké kocky a tri rôz- ne veľké kvádre.
+a) Ktorá z rovnako veľkých kociek – drevená, železná alebo polystyrénová, bude mať najmenšiu a ktorá najväčšiu hmotnosť? (Napíš si do zošita správnu odpoveď.)
+
+
+
+
+
+
+
+
+
+Odpoveď:
+
+drevo
+
+železo	polystyrén
+
+Najmenšiu hmotnosť má kocka  	               Najväčšiu hmotnosť má kocka  	
+
+b) Z akej látky je najväčší a z akej látky najmenší z kvádrov 1, 2, 3, ak majú všetky rovnakú hmotnosť? Na zhotovenie kvádrov bolo použité železo, drevo a polystyrén. (Napíš si do zošita správnu odpoveď.)
+
+
+
+
+1	2	3
+
+
+Odpoveď:
+Najväčší kváder č. 1 je zhotovený  	                 Najmenší kváder č. 3 je zhotovený  	
+
+2. Na obrázku sú znázornené dve telesá zavesené na „hoj- dačke“. Jedno teleso je z kovu a druhé z dreva. Hojdač- ka je v rovnováhe. Akú látku by si napísal k telesu číslo 1 a akú k číslu 2?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1	2
+80
+
+2.3 HUSTOTA TUHÝCH LÁTOK
+
+
+3. Na obrázku sú znázornené 3 duté valce z rovnakého materiálu, z plastu. Dáme do nich rovnakú zá- ťaž a ponoríme ich do vody. Ani jeden neklesne na dno. Usporiadaj ich podľa hĺbky ponoru – od naj- viac po najmenej ponorený valec. (Odpoveď napíš do zošita.)
+
+
+
+
+
+
+
+
+
+
+
+
+1	2	3
+
+
+Odpoveď: Poradie valcov podľa hĺbky ponoru je  	
+
+
+DOMÁCA PRÍPRAVA NA VYUCˇOVANIE
+Priprav si na vyučovanie 2 menšie predmety, ktoré plávajú na hladine vody, a 2 predmety, ktoré sa vo vode potopia. Napríklad korkovú zátku, loptičku, hraciu kocku, gumu na gumovanie. Predmety si odskúšaj vo vode.
+Budeš potrebovať aj plastelínu.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 67 Predmety vhodné na merania v škole
+
+2.3 HUSTOTA TUHÝCH LÁTOK
+Väčšina ľudí si vysvetľuje potopenie predmetov vo vode tým, že sú „ťažšie“ ako voda. Plávanie telies zasa, že sú „ľahšie“ ako voda. Je to úplné a správne vysvetlenie?
+
+Robili sme skúmania s nádobkou, ktorú sme zaťažovali a ponárali do rôznych hĺbok do vody. Vieme, že ak zväčšíme jej objem, bude sa správať inak. V ďalšom skúmaní budeme merať hmotnosť a objem plávajúcich a potápajúcich sa telies a hľadať charakteristiku, ktorá by obe tieto fyzikálne veličiny zo- hľadnila, pretože sú pre správanie telies vo vode dôležité.
+81
+
+SPRÁVANIE TELIES V KVAPALINÁCH
+
+
+
+ÚLOHA
+
+Urč hmotnosť m a objem V vybraných telies, ktoré vo vode plávajú, ako aj telies, ktoré sa vo vode potopia. Zisti hodnotu podielu hmotnosti a objemu pre každé teleso.
+
+Pomôcky: podľa domácej prípravy na vyučovanie (2 plávajúce a 2 potápajúce sa predmety vo vode), akvárium, váhy (digitálne s presnosťou 0,1 g), odmerný valec, tenká špajdľa (drôtik), pipeta
+
+Postup:
+a) Na zaznamenanie údajov budeš potrebovať tabuľku 20.
+Tabuľka 20 Namerané hodnoty hmotnosti a objemu telies
+
+
+Predmety
+Opis predmetuHmotnosť m
+[g]Objem V
+[cm3]Podiel  m [ g ] V cm3
+plávajúce(napr. loptička)
+potápajúce sa(napr. kocka)
+b) Postupuj podľa tabuľky. Telesá najskôr odváž a hmotnosť m zapíš do tabuľky.
+c) Odmeraj ich objem V. Pokiaľ pracuješ s telesom, ktoré nemá tvar pravidelného hranola, musíš určiť objem pomocou odmerného valca. Plávajúce telesá potop celé pod vodu pomocou špajdle. Objem je v tabuľke uvedený v cm3. Učili sme sa, že 1 cm3 = 1 ml.
+d) Vypočítaj podiel hmotnosti a objemu telesa. Výsledok zapíš do tabuľky.
+
+
+e) Zostroj graf z údajov hmotnosti a objemu skúmaných telies určených celou triedou. Body pre plávajúce telesá označ trojuholníkom s a body pre potápajúce telesá štvorcom n.
+f) Body pre plávajúce predmety (s) a body pre potápajúce sa predmety (n) oddeľ čiarou tak, ako je to znázornené na grafe. Čiara má prechádzať bodom, ktorý zostrojíme z dvojice údajov V = 1 cm3; m = 1 g, a začiatkom označeným 0, 0.
+
+hmotnosť
+m [g]
+
+
+
+
+
+
+
+0
+0
+
+
+
+
+
+
+
+
+
+
+objem
+V [cm3]
+
+
+
+Odpovedz:	 m
+1. Dobre si pozri číselné hodnoty podielu V
+niečo spoločné?	 m
+2. Dobre si pozri číselné hodnoty podielu V
+hodnoty niečo spoločné?
+
+
+pre plávajúce telesá. Majú vypočítané hodnoty pre potápajúce sa telesá. Majú vypočítané
+
+
+
+
+Podielom m
+
+
+zisťujeme, aká hmotnosť pripadá na 1 m3 (cm3) objemu telesa.
+
+ρ= m
+
+Hmotnosťou jedného m3 (cm3) je určená hustota látky telesa.	V
+Hustotu označujeme písmenom ρ(ró) a vypočítame tak, že hmotnosť telesa m delíme jeho objemom V.
+82
+
+2.3 HUSTOTA TUHÝCH LÁTOK
+
+
+Hlavnou jednotkou hustoty je kilogram na kubický meter (značka kg ).
+Pri meraniach budeme používať jednotku g .
+Ako sa budú telesá správať v kvapalinách, závisí aj od hustoty látky, z ktorej sú zhotovené. Rovnako je dôležitá aj hustota kvapaliny. Hustotu vody určíme v nasledujúcej podkapitole 2.4.
+
+Hustota je fyzikálna veličina a má značku ρ (čítame ró).
+
+Hustotu vypočítame ρ = m : V alebo Jednotky hustoty sú:
+
+ρ= m .
+
+  kg 
+
+
+(kilogram na kubický meter)
+
+1 kg = 0,001 g 
+
+m3	m3
+
+cm3
+
+   g     (gram na kubický centimeter)	1    g    =1000 kg 
+cm3	cm3	m3
+
+
+Hustota sa dá určiť výpočtom, ale možno ju zisťovať aj pomocou grafu. Riešením nasledujúcej úlohy sa dozviete viac o graﬁckom spôsobe určovania hustoty.
+
+
+
+ÚLOHA
+
+Urč hustotu plastelíny pomocou grafu. Hodnotu hustoty zistenú graﬁcky over aj výpočtom.
+Pomôcky: plastelína, váhy (digitálne s presnosťou 0,1 g), odmerný valec, pipeta, ceruzka, pravítko
+Postup:
+a) Urob si z plastelíny 3 guľky rôznej veľkosti.
+b) Na zaznamenanie údajov budeš potrebovať tabuľku 21.
+Tabuľka 21 Namerané hodnoty hmotnosti a objemu guliek z plastelíny
+
+
+Číslo merania
+Hmotnosť [g]
+Objem [cm3]Podiel   m   [ g  ]
+V	cm3123Priemerná hodnota podielu m 
+V
+
+c) Odmeraj hmotnosť aj objem každej guľky z plastelíny a zapíš do tabuľky.
+d) Z hodnôt objemu a hmotnosti zostroj graf.
+!
+
+
+hmotnosť
+m [g]
+
+POZNÁMKA: Pri zostrojovaní bodov grafu môžeme využiť program Gulka.cma (v programovom súbore C6lite).
+Program je dostupný na http://www.expolpedagogika.sk/p/215/fyzika-pre-6-rocnik-
+zakladnej-skoly-a-1-rocnik-gymnazia-s-osemrocnym-studiom.	0 0
+
+
+
+
+
+
+objem
+V [cm3]	83
+
+SPRÁVANIE TELIES V KVAPALINÁCH
+
+
+e) Bodmi zostroj graf tak, aby vychádzal zo začiatku označeného 0, 0 a prechádzal cez ostatné body, prípadne bol k nim čo najbližšie.
+f) Odčítaj z grafu hodnotu hmotnosti, ktorá pripadá na 1 cm3.
+g) Vypočítaj po každom meraní v poslednom stĺpci tabuľky hustotu plastelíny a nakoniec priemernú hodnotu hustoty.
+
+Odpovedz:
+1. Porovnaj hodnotu hustoty získanú výpočtom s hodnotou zistenou graﬁckou metódou. Ktorá hodnota sa ti javí ako presnejšia?
+2. Akých chýb si sa mohol dopustiť pri meraní hmotnosti a objemu guliek?
+
+Pri riešení úloh, problémov, môže byť niekoľko spôsobov, ako k nim pristupovať. Postupom pri rieše- ní problémov odborne hovoríme metóda. Určovali ste hustotu plastelíny zo zistených hodnôt hmotnosti a objemu guliek a vypočítali hustotu. Takýto spôsob určenia hustoty označíme metódou výpočtu. Dru- hou metódou je pomocou grafu – graﬁcká metóda. Graﬁcká metóda znamená, že z nameraných hod- nôt hmotnosti a objemu telies zložených z tej istej látky (napr. plastelíny) zostrojíme graf a odčítame hodnotu hmotnosti, ktorá pripadá na jednotku objemu, teda hustotu.
+
+
+RIESˇ ÚLOHY
+1. Na obrázku sú znázornené kocky s objemom 1 cm3 z rôznych kovov a uvedené ich hmotnosti. Na- píš do tabuľky kovy podľa hustoty, a to od kovu s najväčšou hustotou po kov s najmenšou hustotou. K číselným hodnotám napíš do tabuľky aj jednotku hustoty.
+
+oceľ 7,8 g
+
+hliník 2,7 g
+ 
+zlato 19,3 g
+
+olovo 11,3 g
+
+železo 7,8 g
+
+
+
+
+
+
+KovHustota
+2. Prstienok, ktorý dostala Zuzka, váži 28 g a má objem 2 cm3. Zisti, či je z čistého zlata. (Súčasťou riešenia úlohy je aj správny zápis veličín, riešenie a odpoveď celou vetou.)
+
+3. Hustota (ρ) dreva je 0,6
+
+  g . Koľko bude vážiť 1 m3 dreva?
+
+4. Do tabuľky k uvedeným kovom napíš ich hustoty v jednotke kg . Použi hodnoty z úlohy č. 1.
+
+KovHustotaoceľhliníkzlatoolovo84
+
+2.4 HUSTOTA KVAPALÍN
+
+
+2.4 HUSTOTA KVAPALÍN
+Na začiatku učebnice v kapitole Čo sa budeme učiť je uvedený pokus s kvapalinami. Do pohára je po- trebné postupne naliať približne rovnaké množstvá medu, potom oleja a napokon vody. Po ustálení kva- palín si voda a olej „vymenia“ miesta tak, ako je to označené na obr. 68.
+
+
+
+
+olej
+
+voda
+
+med
+
+
+
+Obr. 68  Pokus s kvapalinami
+
+Na vysvetlenie záhadnej výmeny polohy kvapalín by nás malo priviesť riešenie nasledujúcej úlohy.
+
+
+ÚLOHA
+
+Urč hustoty kvapalín v poradí voda, med, olej.
+
+Pomôcky: voda, med, jedlý olej, váhy (digitálne, s presnosťou 0,1 g), malá kadička so stupnicou v mililitroch, papierové utierky
+
+Postup:
+a) Na zaznamenanie údajov budeš potrebovať tabuľku 22.
+Tabuľka 22 Údaje na určenie hustoty kvapalín
+
+
+Kvapaliny
+Hmotnosť [g]
+Objem [cm3]cm3]vodamedolej
+
+b) Odváž kadičku (značka k) a zapíš si jej hodnotu hmotnosti do zošita.
+mk = 	g
+c) Nalej do kadičky určité množstvo vody tak, aby si ho mohol presne odčítať. Vieme, že 1 ml = 1 cm3; hodnotu napíš do tretieho stĺpca tabuľky.
+d) Odváž vodu (značka v) spolu s kadičkou a zapíš si hodnotu do zošita.
+mk+v = 	g
+e) Vypočítaj hmotnosť vody, teda mk+v – mk = 	g . Hodnotu zapíš do tabuľky ako hmotnosť vody.
+85
+
+SPRÁVANIE TELIES V KVAPALINÁCH
+
+
+f) Rovnako postupuj aj pri meraní hodnôt pre med a olej.
+g) Vypočítaj hustoty kvapalín a očísluj ich podľa veľkosti ich hodnôt tak, že kvapalinu s najmen- šou hustotou označíš číslom 1. Čísla napíš do prvého stĺpca tabuľky k názvom kvapalín.
+
+Odpovedz:
+1. Porovnaj výsledok pokusu na obr. 68 s číselným poradím kvapalín podľa veľkosti hustoty. Vedel by si vysvetliť, prečo si voda a olej vymenili poradie?
+2. Čo určuje poradie kvapalín v pokuse zobrazenom na obr. 68?
+
+Aby naše vysvetlenie správania telies v kvapalinách bolo úplné, vrátime sa k úlohe s. 81 z podkapi- toly 2.3 Hustota tuhých látok. V predchádzajúcej úlohe ste zistili hodnotu hustoty vody. Hustota
+vody má hodnotu ρv = 1 g , čo je 1000 kg . Ak vám pri meraní nevyšla uvedená hodnota, je to zapríči-
+cm3	m3
+nené chybným meraním, ale môže to mať aj iné príčiny, ktoré majú vplyv na hustotu látok; povieme si o nich neskôr. V ďalšej úlohe bude pre nás dôležité, aby sme poznali hustotu vody.
+
+
+ÚLOHA
+
+Vpíš do tabuľky 23 hustoty predmetov, ktoré si zistil v úlohe na s. 81 v podkapitole 2.3 Hustota tuhých látok. (V triede môžete zostrojiť tabuľku aj z údajov zo všetkých skupín.)
+
+Tabuľka 23 Hustoty plávajúcich a potápajúcich sa predmetov a vody
+
+
+PredmetyHustota [ g ]
+cm3
+plávajúcevoda1
+potápajúce sa
+Odpovedz:
+1. Čo možno povedať o hodnotách hustoty telies, ktoré vo vode plávajú?
+2. Čo možno povedať o hodnotách hustoty telies, ktoré sa vo vode potopia?
+3. Akú hustotu by malo mať teleso, ktoré sa bude vo vode vznášať?
+
+V predchádzajúcej úlohe sme urobili záver o správaní telies vo vode. Vieme, že hustota plávajúcich predmetov musí byť menšia ako hustota vody a potápajúce sa predmety musia mať hustotu väčšiu, ako je hustota vody.
+
+
+
+
+86
+
+2.4 HUSTOTA KVAPALÍN
+
+
+
+RIESˇ ÚLOHY
+1. V tabuľke sú uvedené hodnoty hustoty niektorých kvapalín v jednotke g . Uveď hodnoty hustoty
+
+kvapalín v jednotke kg .
+m3
+
+cm3
+
+
+
+KvapalinyHustota  [ g ]
+cm3Hustota  [ kg ]
+m3nafta0,85benzín0,75morská voda1,02ortuť13,6
+
+
+2. Zisti a zaznamenaj do zošita odpovede na tieto otázky:
+a) Akú hmotnosť má 1 dm3 vody?
+b) Aký objem v litroch je 1 dm3 vody?
+
+
+3. V ďalšej tabuľke sú uvedené hodnoty objemu V a hmotnosti m liehu.
+a) Z uvedených hodnôt zostroj graf.
+b) Vymysli názov grafu.
+c) Zisti z grafu hustotu liehu.
+Namerané hodnoty objemu a hmotnosti liehu
+
+Objem [cm3]2356Hmotnosť [g]1,62,44,04,8
+
+Názov grafu:
+
+
+
+hmotnosť
+m [g]
+
+
+
+
+
+
+
+
+
+Hustota liehu je 	.	0
+0
+
+
+objem
+V [cm3]
+
+
+
+4. Urob si pomôcku: hustomer.
+
+Pomôcky: slamka na pitie (trubička z plastu), vosk zo sviečky, jemný piesok, nádoba s vodou, kvapalina so známou hustotou (napr. alpa), jemná gumička (ﬁxka)
+
+87
+
+SPRÁVANIE TELIES V KVAPALINÁCH
+
+
+
+Postup:
+a) Jeden koniec slamky zalep voskom, prípadne iným vodotesným ma- teriálom.
+b) Nasyp do slamky toľko piesku, aby slamka stála kolmo vo vode. Na piesok kvapni trochu lepidla (vosku), aby sa nevysypal, keď slamku položíš na stôl.
+c) Vlož slamku do nádoby s vodou a poznač si hladinu vody na povrchu
+slamky navlečením gumičky alebo ﬁxkou.
+Vieme, že hustota vody je 1 g . K značke hladiny vody napíš 1.
+d) Vlož slamku do alpy a poznač si výšku hladiny. Alpa má hustotu pri- bližne 0,9 g .
+e) Vzdialenosť medzi značkou 1 a 0,9 je hodnota jedného dielika. Rovnako veľké dieliky urob nad značkou 1 aj pod 0,9.
+
+Hustomer je hotový a jeho ponorením do kvapaliny neznámej hustoty
+môžeš zistiť jej približnú hodnotu.	Obr. 69 Zhotovovanie hustomera
+
+
+
+
+
+ÚLOHA
+
+1. Vysvetli, čo znamenajú uvedené dôležité slová. Pri vysvetľovaní si môžeš pomôcť aj konkrétnym príkladom.
+2. K slovám z ľavej strany (Ľ) tabuľky priraď také slová z pravej strany (P), aby významovo patrili k sebe.
+
+Dôležité slová
+
+ĽP
+správanie tuhého telesa v kvapaline
+
+
+fyzikálna veličina
+
+
+
+jednotky fyzikálnej veličiny
+
+
+
+metódahustota vznášať sa
+graﬁcká metóda určovania hustoty kilogram na kubický meter
+    plávať výpočet hustoty
+gram na kubický centimeter celkový objem telesa potopiť sa
+hmotnosť telesa88
+
+PROJEKT 3
+
+
+PROJEKT 3
+– PONORKA, POTÁPAˇC
+Ponorka a potápač sa dokážu vo vode vynoriť na hladinu, vznášať sa, ale aj zostúpiť na dno morí či jazier. Tvojou úlohou bude urobiť projekt a zostrojiť prieskumnú ponorku alebo hračku
+– potápača. Na ich zostrojenie použi jednoduché pomôcky.
+Témy projektu
+Vytvoriť zariadenie plávajúce a potápajúce sa vo vode.
+1. Navrhnúť, zostrojiť a predviesť model ponorky.
+2. Navrhnúť, zostrojiť a predviesť hračku – potápača.
+Postup a podmienky
+1. Vybrať si tému projektu, v prípade nejasností požiadať o jej bližšie vysvetlenie vyučujúceho. Zostaviť si tím spolupracovníkov zo spolužiakov.
+2. Ponorka či potápač majú byť zostrojené z jednoduchých pomôcok. Potápača je potrebné vymyslieť z iných pomôcok, ako boli použité na vyučovaní. Zmena ich polohy v kvapaline môže byť ovládaná zvonku.
+3. Ponorka či potápač by mali aspoň raz zaujať všetky tri polohy v akváriu a hračka potápač napr. vo fľaši z plastu.
+4. Urobiť návrh projektu a prekonzultovať ho s vyučujúcim. Termín: podľa dohody v triede.
+5. Rozdeliť si prácu v tíme, zostrojiť zariadenie, pripraviť si prezentáciu pred triedou (napr. nakreslenú schému, ako ponorka či potápač funguje).
+Termín: podľa dohody v triede.
+Spôsob vyhodnotenia
+Vyhodnotenie projektov sa môže uskutočniť formou súťaže. Ak sa vám postup hodnotenia zvolený pri projekte 1 alebo 2 osvedčil, môžete postupovať rovnako aj pri tomto projekte.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+89
+
+SPRÁVANIE TELIES V KVAPALINÁCH
+
+ˇCO SME SA NAUˇCILI
+
+
+
+
+
+
+Teleso v kvapaline
+
+ 	   pláva na hladine
+
+ 	   vznáša sa
+
+ 	   potopí sa
+
+
+
+
+   Z dvoch telies rovnakej hmotnosti pláva hlbšie teleso s menším objemom.
+
+V1 < V2
+V1
+
+
+
+   Z dvoch telies rovnakého objemu pláva hlbšie teleso s väčšou hmotnosťou.
+
+m1 < m2
+m2
+
+
+
+
+hmotnosť m
+ 
+zlato 19,3 g
+
+olovo 22,6 g
+
+železo 23,4 g
+
+
+
+Hustotu vieme určiť, ak poznáme
+hmotnosť m a objem V.
+
+
+
+
+objem V	1 cm3	2 cm3	3 cm3
+
+  g 
+hustota	19,3 cm3
+
+  g 
+11,3 cm3
+
+  g 
+7,8 cm3
+
+
+
+Hustota telies plávajúcich na vode je menšia ako 1 g .
+
+Hustota telies klesajúcich vo vode na dno je väčšia ako 1 g .
+
+Hustota telies vznášajúcich sa vo vode je rovnaká ako hustota vody 1 g .
+
+
+
+
+
+
+
+
+
+Ak poznáme hmotnosť m telesa a jeho	Jednotkami hustoty sú:
+
+objem V, vypočítame hustotu zo vzťahu:
+ρ = m : V (ρ = m )
+90
+
+  g cm3
+
+  kg m3
+
+2.4 HUSTOTA KVAPALÍN
+
+
+
+Hustotu kvapalín vieme určiť,
+ak poznáme ich hmotnosť m a objem V.
+
+
+
+
+
+
+
+V injekčných striekačkách sú rôzne kvapaliny s rôznymi objemami.
+
+
+
+
+
+
+benzín	nafta	voda
+
+
+
+
+Hustota kvapalín sa vypočíta podľa vzťahu
+ρ = m : V (ρ = m )
+
+
+
+Hustotu ρ možno určiť aj z grafu.
+Postupne naberáme do injekčnej striekačky určité množstvá liehu a meriame ich objemy V a hmotnosti m. Odmerané hodnoty zapisujeme do tabuľky:
+
+Namerané hodnoty objemu a hmotnosti liehu
+
+Objem [cm3]2356Hmotnosť [g]1,62,44,04,8
+Dvojice hodnôt V, m z tabuľky použijeme pri zostrojení grafu.
+
+Graf závislosti hmotnosti liehu od jeho objemu
+
+
+hmotnosť
+m [g]
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+
+0
+0	1	2	3	4	5
+
+
+objem
+V [cm3]
+
+91
+
+SPRÁVANIE TELIES V KVAPALINÁCH
+
+
+
+  VYSKÚSˇAJ SA TEST 3
+SPRÁVANIE TELIES V KVAPALINÁCH
+
+Nepíš do knihy!
+
+
+Hustota tuhých telies Hustota kvapalín
+
+V teste budeš riešiť praktic- ké (A) a teoretické úlohy (B).
+
+Praktické úlohy rieš na pra- covnej ploche, kde sú pripra- vené tieto pomôcky:
+malá sklená skúmavka (ná- dobka), odmerný valec, váhy, špajdľa, voda.
+
+
+
+
+Pracovná plocha
+
+
+A Praktická úloha
+1. Urč hustotu skla malej skúmavky (nádobky). Zapíš namerané hodnoty. Objem skla skúmavky:  	
+Hmotnosť skúmavky:  	 Hustota skla skúmavky (nádobky):  	
+B Teoretické úlohy
+1. Malý pohár od zaváraniny s vrchnákom má hmotnosť 9 g. Objem uzatvoreného pohára je 15 cm3.
+
+a) Aká je hustota fľaše aj s vrchnákom a vzduchom?
+V = 15 cm3
+m = 9 g Výpočet:
+Odpoveď:  	
+
+
+
+
+
+
+
+
+
+
+vrchnák
+
+
+
+
+
+
+
+
+
+pohár
+
+b) Ako sa bude správať uzavretý pohár vo vode, keď vieme, že hustota vody je 1 g_ ?
+
+Vyber si správnu odpoveď jej podčiarknutím:
+– pohár bude vo vode plávať,
+– pohár sa bude vo vode vznášať,
+– pohár sa vo vode potopí.
+c) Svoj výber odpovede z časti b) úlohy zdôvodni.
+
+cm3
+
+
+Zdôvodnenie:  	
+92
+
+TEST 3
+
+
+2. Žiaci na vyučovaní fyziky vážili a merali objem kamienkov z tej istej horniny, ktoré majú rovnakú hustotu, ale rôznu veľkosť. Hodnoty ich merania sú uvedené v tabuľke.
+a) Z hodnôt v tabuľke zostroj graf. (Nezabudni zostrojiť súradnicové osi grafu a označiť ich.)
+Hodnoty objemu a hmotnosti kamienkov
+
+Objem [cm3]102040Hmotnosť [g]4080160
+
+
+b) Zisti hustotu horniny, z ktorej sú kamienky.
+Doplň do odpovede metódu, akou si hustotu zistil.
+Odpoveď: Hustotu kamienkov som zistil 	metódou a jej hodnota je 	.
+3. Premeň jednotky hustoty:
+
+5  g   =  	
+
+  kg 
+
+1 200 kg  = 	 g 
+
+cm3
+
+m3	m3
+
+cm3
+
+
+
+
+DOMÁCA PRÍPRAVA NA VYUCˇOVANIE
+
+Priprav si na vyučovanie malú nádobku z plastu a niekoľko malých matíc alebo iných predmetov ako závažia do nádobky.
+Ďalej si urob nádobu s odtokom.
+
+
+
+Pripravíš ju z plechovky od nápoja, z ktorej odstrihneš vrch a urobíš odtok vody tak, ako je to na obr. 70.
+
+
+
+
+Okrem toho ešte potrebuješ jedno plávajúce a jedno potápajúce sa teleso
+vo vode. Použi predmety z predchádzajúcich úloh. Predmety sa musia dať voľne vložiť do nádoby s odtokom.
+
+
+
+
+
+
+
+
+
+
+odtok
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 70 Nádoba s odtokom
+
+
+
+
+
+
+
+
+
+
+POZNÁMKA:
+Požiadaj o pomoc dospelého
+človeka. Mohol by si sa pri práci poraniť.
+
+
+
+
+93
+
+SPRÁVANIE TELIES V KVAPALINÁCH
+
+
+
+2.5 OBJEM KVAPALINY VYTLAČENEJ TELESAMI
+Keď chceme vysvetliť javy a deje, ktoré pozorujeme a zaujímajú nás, musíme preskúmať všetky okol- nosti, ktoré s daným javom súvisia. Doteraz sme sa učili o hustote telies, ktoré vo vode plávali a po- tápali sa.
+Mohli sme pozorovať, že telesá ponorené do kvapaliny vytlačia isté množstvo kvapaliny. V nasledujú- cich úlohách podrobnejšie preskúmame objem a hmotnosť kvapaliny vytlačenej telesami, ktoré vo vode plávajú, ako aj telesami, ktoré sa vo vode potopia.
+
+
+ÚLOHA
+
+Zisti, či sú nejaké vzťahy medzi hmotnosťou telies plávajúcich vo vode a hmotnosťou vody, ktorú telesá vytlačili. (Pracuj v skupine a čo najpresnejšie.)
+
+Pomôcky: váhy (digitálne, s presnosťou 0,1 g), odmerný valec, pipeta, Petriho miska, 2 plávajúce telieska pripravené podľa domácej prípravy
+
+Postup:
+a) Na zaznamenanie údajov budeš potrebovať tabuľku 24.
+b) Zapíš plávajúce telesá do prvého stĺpca tabuľky (napr. nádobka, loptička), zmeraj a zapíš ich hmotnosť.
+c) Zmeraj hmotnosť odmerného valca a zapíš pod tabuľku.
+d) Naplň nádobu s odtokom úplne až po úroveň odtoku vodou a podlož pod ňu Petriho misku.
+e) Pod odtok podlož odmerný valec a plávajúce teleso pozorne polož na hladinu vody v nádobe s odtokom (obr. 71). Snaž sa vytlačenú vodu zachytiť do odmerného valca. Ak sa niekoľko kvapiek dostalo do Petriho misky, nalej ich do odmerného valca. Hodnotu objemu zapíš ako meranie 1.
+
+Tabuľka 24 Záznam údajov pri hľadaní vzťahov medzi hmotnosťou plávajúcich telies a hmotnosťou vytlačeného objemu vody
+
+
+Teleso
+Hmotnosť telesa [g]Objem vytlačenej vody [ml]Hmotnosť vytlačenej vody [g]Priemerná hodnota hmotnosti vytlačenej vody [g]1.2.3.1.2.3.
+Hmotnosť odmerného valca: 	g
+94
+
+2.5 OBJEM KVAPALINY VYTLAČENEJ TELESAMI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 71 Postup práce pri meraní objemu kvapaliny vytlačenej telesom
+
+f) Odváž odmerný valec s vytlačenou vodou a odčítaj hmotnosť odmerného valca. Zapíš zistenú hodnotu hmotnosti vytlačenej vody.
+g) Merania pre to isté teleso zopakuj 3-krát a vypočítaj priemernú hodnotu hmotnosti vytlačenej vody.
+Odpovedz:
+1. Porovnaj hodnoty hmotnosti plávajúceho telesa s hmotnosťou telesom vytlačenej vody. Sú hodnoty približne rovnaké alebo rozdielne?
+2. Porovnaj hodnoty objemu vytlačenej vody v mililitroch s hodnotou hmotnosti vytlačenej vody v gramoch. Sú hodnoty približne rovnaké alebo rozdielne?
+3. Prečo bolo dôležité, aby sme merania opakovali?
+4. Čo možno povedať o objeme ponorenej časti telesa a objeme vody vytlačenej týmto telesom?
+
+V predchádzajúcej úlohe bolo dôležité, aby ste merali veľmi presne. Zistili ste, že
+– hmotnosť plávajúcich telies a hmotnosť vytlačenej vody je rovnaká,
+– 1 ml vody váži 1 g.
+
+Napokon sme to zistili aj z hodnoty hustoty pre vodu. V nasledujúcej úlohe budeme skúmať vzťah medzi hmotnosťou potápajúcich sa telies vo vode a hmotnosťou nimi vytlačenej vody. Vytlačenú vodu vážiť nemusíme, zistenú hodnotu objemu vody v mililitroch môžeme uviesť ako hmotnosť vody v gramoch.
+
+
+ÚLOHA
+Zisti, či sú nejaké vzťahy medzi hmotnosťou potápajúcich sa telies a hmotnosťou vody, ktorú tieto telesá vytlačia. (Pracuj v skupine a čo najpresnejšie.)
+
+Pomôcky: váhy (digitálne, s presnosťou 0,1 g), odmerný valec, pipeta, Petriho miska,
+2 potápajúce sa telesá pripravené podľa domácej prípravy
+Postup:
+a) Na zaznamenanie údajov budeš potrebovať tabuľku 25.
+
+
+
+
+95
+
+SPRÁVANIE TELIES V KVAPALINÁCH
+
+
+
+Tabuľka 25 Záznam údajov pri hľadaní vzťahov medzi hmotnosťou potápajúcich sa telies a hmotnosťou vytlačenej vody
+
+
+Teleso
+Hmotnosť telesa [g]Objem vytlačenej vody [ml]Hmotnosť vytlačenej vody [g]Priemerná hodnota hmotnosti vytlačenej vody [g]1.2.3.1.2.3.
+b) Zapíš potápajúce sa telesá do prvého stĺpca tabuľky, zmeraj a zapíš ich hmotnosť.
+c) Postupuj rovnako ako v úlohe na s. 94 pri meraní vytlačenej vody plávajúcimi telesami v bodoch d, e, g.
+d) Pri určení hmotnosti vytlačeného objemu využi skutočnosť, že pre vodu platí: 1 ml vody má hmotnosť približne 1 g.
+
+Odpovedz:
+1. Porovnaj hodnoty hmotnosti potápajúcich sa telies s hmotnosťou vody vytlačenej telesom.
+Sú hodnoty približne rovnaké alebo sú rozdielne?
+2. Čo možno povedať o objeme vody vytlačenej telesom a objeme potápajúceho sa telesa?
+
+
+
+Ak mnohými meraniami prichádzame k rovna- kým záverom, možno výsledky zovšeobecniť a vy- sloviť pravidlo alebo aj zákon. Overovali sme, či platia nejaké vzťahy medzi hmotnosťou pláva- júcich telies a hmotnosťou vytlačeného objemu vody telesami.
+
+Pokiaľ merania boli dostatočne presné a v trie- de ste robili merania s viacerými plávajúcimi te- lesami, možno ste prišli k záveru, že hmotnosť plávajúcich telies a hmotnosť vytlačenej vody boli rovnaké. To však neplatí pre potápajúce sa telesá.
+
+Potápajúce sa telesá majú väčšiu hmotnosť, ako je hmotnosť vytlačenej kvapaliny.
+
+Naše merania sme robili iba vo vode. Ak má zá- ver platiť aj pre kvapaliny s inou hustotou, akú má voda, musíme urobiť merania aj s inými kvapa- linami.
+
+
+
+
+
+96
+
+2.5 OBJEM KVAPALINY VYTLAČENEJ TELESAMI
+
+
+RIESˇ ÚLOHY
+1. Pre tri plávajúce predmety sú uvedené ich hmotnosti v tabuľke.
+a) Doplň do druhého stĺpca hmotnosť vytlačenej vody.
+
+Hmotnosť predmetu [g]Hmotnosť vytlačenej vody [g]2075120
+b) Ak by uvedené hmotnosti v ľavom stĺpci tabuľky platili pre potápajúce sa telesá, čo by muselo platiť pre hmotnosť vytlačenej vody?
+
+2. Hmotnosť telesa je 158 gramov. Dokážeš odhadnúť hmotnosť vody vytlačenej telesom, ak vieš, že
+a) teleso vo vode pláva,
+b) teleso sa vo vode potopí? Svoju odpoveď zdôvodni.
+
+
+3. Zostroj graf z hodnôt zistených celou triedou (tabuľka 24), v ktorom sa zobrazí vzťah medzi objemom vytlačenej vody a hmotnosťou predmetov, ktoré vo vode plávajú.
+
+Postup:
+a) Do uvedenej tabuľky zaznamenaj priemerné hodnoty vytlačeného objemu vody telesami.
+
+
+Hodnoty objemu vytlačenej vody a hmotnosti plávajúcich predmetov vo vode
+
+Objem vytlačenej vody [ml] Hmotnosť predmetu [g]
+
+
+b) Zostroj graf.
+
+
+
+
+
+
+
+Odpovedz:
+Čo by mal potvrdiť zostrojený graf?
+
+
+m [g]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+V [ml]
+
+97
+
+SPRÁVANIE TELIES V KVAPALINÁCH
+
+
+DOMÁCA PRÍPRAVA NA VYUCˇOVANIE
+Priprav si predmety z predchádzajúcich meraní
+v podkapitole 2.5 Objem kvapaliny vytlačený telesami. Ďalej budeš potrebovať alpu a kuchynskú soľ.
+
+
+2.6 SPRÁVANIE TELIES V KVAPALINÁCH S RÔZNOU HUSTOTOU
+Telesá, ktoré plávajú na hladine alebo sa potopia vo vode, sa nemusia rovnako správať aj v kvapalinách s inou hustotou. Ak sa plávajúce teleso vo vode ponorí do určitej hĺbky, v kvapaline s menšou alebo väčšou hustotou, akú má voda (napr. lieh či slaná voda), to bude iná hĺbka. Kvapaliny s rôznou hus- totou nadľahčujú telesá rôzne.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+voda	lieh
+
+Obr. 72 Loptička v kvapalinách s rôznou hustotou
+
+Bude aj v takom prípade platiť, že hmotnosť plávajúceho telesa je rovnaká ako hmotnosť kvapaliny vytlačenej telesom? Aby sme položenú otázku zodpovedali, budeme pracovať s kvapalinami, ktorých hustota je iná, akú ma voda.
+
+
+ÚLOHA
+
+Zisti hustotu alpy a hustotu slanej vody. (Rozdeľte sa v triede do skupín. Časť triedy by mala zisťovať hustotu alpy a časť hustotu slanej vody.)
+
+Pomôcky: váhy (digitálne, s presnosťou 0,1 g), odmerný valec, pipeta, alpa, nasýtený roztok slanej vody
+
+Postup:
+a) Podľa známeho postupu z podkapitoly 2.4 Hustota kvapalín zisti hustotu kvapalín.
+b) Na zápis hodnôt do zošita si navrhni vlastnú tabuľku.
+98
+
+2.6 SPRÁVANIE TELIES V KVAPALINÁCH S RÔZNOU HUSTOTOU
+
+
+Poznáme hustoty kvapalín, pri ktorých by sme mali zodpovedať otázku z úvodu článku – porovnať hmotnosť plávajúceho telesa v kvapalinách s hmotnosťou ním vytlačenej kvapaliny.
+
+Namiesto merania hmotnosti telesom vytlačenej kvapaliny budeme v nasledujúcej úlohe počítať. Ak odmeriame vytlačený objem kvapaliny (V) a poznáme jej hustotu (ρ),
+potom sa hmotnosť dá vypočítať zo vzťahu ρ= m takto: m = V · ρ .
+
+
+ÚLOHA
+
+Over tvrdenie, že hmotnosť plávajúceho telesa je rovnaká ako hmotnosť ním vytlačenej kvapaliny, ale pre kvapalinu inej hustoty ako má voda. (Pracuj v skupine.)
+
+Pomôcky: váhy (digitálne, s presnosťou 0,1 g), odmerný valec, pipeta, Petriho miska, 2 plávajúce telieska, alpa (alebo slaná voda)
+
+Postup:
+a) Na zaznamenanie údajov budeš potrebovať tabuľku 26.
+
+Tabuľka 26 Záznam údajov pri hľadaní vzťahov medzi hmotnosťou plávajúcich telies a hmotnosťou nimi vytlačenej kvapaliny
+
+
+Teleso
+Hmotnosť telesa [g]Objem ním vytlačenej kvapaliny [ml]  Hmotnosť ním vytlačenej kvapaliny [g]Priemerná hodnota hmotnosti ním vytlačenej kvapaliny [g]1.2.1.2.
+b) Napíš plávajúce telesá do prvého stĺpca tabuľky, zmeraj a zapíš ich hmotnosť.
+c) Postupuj rovnako ako pri meraní objemu vytlačeného telesom v predchádzajúcom článku.
+d) Hmotnosť objemu vytlačeného telesom vypočítaj zo zistenej hustoty kvapaliny a objemu použitím vzťahu m = V · ρ.
+e) Vypočítaj priemerné hodnoty hmotnosti kvapaliny vytlačenej telesom.
+Odpovedz:
+1. Porovnaj hodnoty hmotnosti plávajúcich telies s hmotnosťou kvapaliny vytlačenej týmito telesami. Sú hodnoty približne rovnaké alebo rozdielne?
+2. Sú tvoje hodnoty rovnaké ako hodnoty z iných skupín?
+
+
+V predchádzajúcich úlohách sa overila vaša zručnosť v presnosti merania. Len tak sa dalo dokázať, že hmotnosť plávajúcich telies v kvapalinách je rovnaká ako hmotnosť objemu kvapaliny vytlačené- ho týmito telesami.
+
+Podrobnejšie vysvetlenie správania telies v kvapalinách a plynoch spočíva v Archimedovom zákone, ktorý je zložitejší a hovorí o pôsobení síl na telesá ponorené v kvapalinách, prípadne na telesá nachá- dzajúce sa v plynoch. O tom sa však budete učiť neskôr.
+99
+
+SPRÁVANIE TELIES V KVAPALINÁCH
+
+
+
+
+RIESˇ ÚLOHY
+1. Tri predmety plávajúce v kvapaline s hustotou 0,8 g 
+
+
+
+
+vytlačili objemy kvapaliny uvedené v tabuľke.
+
+Vypočítaj a doplň do tabuľky hmotnosť predmetov.
+
+Objem vytlačenej kvapaliny [cm3]Hmotnosť plávajúceho telesa [g]2595120
+
+2. Zisti na internete alebo v MFCH tabuľkách hodnoty hustoty kvapalín, s ktorými si sa na vyučovaní fyziky ešte nestretol (nezabudni na upozornenie uvedené na s. 9 o zázname informácií).
+
+
+3. Objem benzínovej kanistry je 15 l. Akú hmotnosť má plná kanistra benzínu, ak prázdna váži 1 kg?
+(Nezabudni na správny zápis úlohy a odpoveď.)
+
+
+
+DOMÁCA PRÍPRAVA NA VYUCˇOVANIE
+Na vyučovaní budeš potrebovať malý vodný balón, prípadne môžeš použiť aj obyčajný balón.
+
+
+
+
+
+2.7 VPLYV TEPLOTY NA HUSTOTU
+V moriach neustále prúdia teplé a studené prúdy. Napr. teplý Golfský prúd vzniká v Karibskom mori a pri- chádza až do Európy, kde zmierňu- je podnebie jej morských pobreží. Te- plé prúdy prúdia bližšie k hladine oceánov. Studený Labradorský prúd, naopak, ochladzuje pobrežie Sever- nej Ameriky. Studené prúdy, ktoré prichádzajú z polárnych morí, prete- kajú na dne oceánov.
+
+
+
+
+
+
+teplé prúdy studené prúdy
+
+
+
+
+
+
+100
+
+
+Prečo sa prúdy tak rozdielne sprá- vajú – teplé prúdia bližšie k hladine a studené pri dne? Aby sme tento jav lepšie pochopili, budeme riešiť na- sledovnú úlohu.
+
+
+
+
+
+Obr. 73 Teplé a studené morské prúdy
+
+2.7 VPLYV TEPLOTY NA HUSTOTU
+
+
+
+ 	ÚLOHA
+
+Over a vysvetli správanie balóna v akváriu. Balón je naplnený vodou, ktorej postupne meníme teplotu. (Pracuj v skupine a svoje výsledky si zaznamenávaj do zošita.)
+
+Pomôcky: balón naplnený vodou, na ktorom je pripevnená dlhšia niť, akvárium s vodou, rýchlovarná kanvica, väčšia kadička s ľadom
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 74  Pomôcky na riešenie úlohy
+
+
+
+
+
+
+
+
+
+voda izbovej teploty
+
+
+
+
+
+
+voda izbovej teploty
+
+
+
+
+
+
+voda izbovej teploty
+
+
+Odpovedz:
+
+
+
+
+
+
+
+
+balón izbovej teploty
+
+
+
+
+
+
+studený balón
+
+
+
+
+
+
+horúci balón
+
+
+Postup:
+a) Balón naplň vodou z vodovodu tak, aby v ňom neostali bublinky vzduchu.
+Uviaž naň dlhšiu niť. Ponor balón do akvária s vodou, nakresli si jeho polohu do obrázka v zošite.
+b) Balón vyber z akvária a vlož do kadičky s ľadom
+tak, aby sa celý čo najviac ochladil. Nechaj ho v kadičke približne 5 minút. Vlož balón do akvária a poznač si hneď polohu, ktorú balón zaujal, kým sa ešte nezohrial.
+
+c) Daj zovrieť vodu v rýchlovarnej kanvici a po zovretí a vypnutí kanvice vlož do nej balón. Nechaj ho zohrievať približne 5 minút. Vlož balón do akvária a poznač si hneď polohu, ktorú balón zaujal, kým sa ešte neochladil.
+
+1. Porovnaj výsledky tvojej skupiny s výsledkami tvojich spolužiakov. Zaznamenali ste rovnaké polohy balóna v akváriu pri zmenách jeho teploty?
+2. Zmenila sa hmotnosť balóna so zmenou jeho teploty?
+3. Aká fyzikálna vlastnosť balóna sa zmenila so zmenou teploty?
+4. Ako si vysvetľuješ zmenu polohy balóna po zmene jeho teploty?
+5. Dokážeš vysvetliť, prečo prúdia teplé morské prúdy bližšie k hladine a studené pri dne?
+
+Zmenou teploty sa menia aj niektoré fyzikálne vlastnosti látok a telies. Zmenu objemu kvapaliny so zmenou teploty môžeme veľmi dobre pozorovať napr. na klasickom teplomeri. Základom klasického teplomera je uzavretá rúrka s liehom alebo ortuťou. Ak sa teplomer zohrieva, lieh v rúrke stúpa, mení
+sa jeho objem. Hmotnosť liehu zostáva rovnaká a zo vzťahu na výpočet hustoty ρ = m vieme usúdiť,
+
+že so stúpajúcou teplotou sa zmenšuje hustota liehu.
+
+V
+101
+
+SPRÁVANIE TELIES V KVAPALINÁCH
+
+
+Teda ak balón s horúcou vodou vystúpil v akváriu s vodou vyššie, ako keď v ňom bola voda izbovej tep- loty, je to podobné ako správanie horúcej vody morského prúdu, ktorá stúpa k hladine vody v oceáne. Príčinou je zmena hustoty, jej menšia hodnota oproti hustote vody v akváriu či v oceáne. Naopak, stu- dený balón klesol v akváriu, voda studeného morského prúdu klesla ku dnu oceánu. Jej hustota sa zväčšila oproti vode v oceáne.
+
+Zmenou teploty sa mení hustota. So stúpajúcou teplotou sa hustota zmenšuje, s klesajúcou teplotou sa hustota zväčšuje.
+
+
+ 	RIESˇ ÚLOHY
+1. Urob si pokus: model teplého morského prúdu.
+
+Pomôcky: malá Erlenmayerova banka (nádobka od liekov), zátka, 2 rúrky s dĺžkou približne 3 cm (zo slam- ky na pitie), akvárium, farba na zafarbenie vody (napríklad atrament)
+
+Postup:
+
+a) Do zátky treba dať rúrky tak, ako je to znázornené na obrázku.
+b) 
+Do sklenej nádob- ky nalej zafarbenú horúcu vodu a na- saď na ňu zátku s rúrkami. Vlož ná- dobku do akvária so studenou vo- dou a pozoruj, čo sa bude diať.
+
+
+
+
+
+
+
+Odpovedz:
+1. Prečo sme pokus nazvali modelom?
+2. Ktorý poznatok si pokusom dokázal?
+
+2. Vodič mal v nádrži auta 10 l benzínu. Vplyvom vonkajšej teploty benzín zmenil svoj objem na 10,3 l. Ako sa zmenila hustota benzínu?
+
+3. Vyhľadaj v MFCH tabuľkách hodnoty hustoty látok. Prečítaj si text v úvode tabuľky s hodnotami husto- ty a všimni si poznámku o platnosti uvedených hodnôt pri danej teplote. Prečo autori tabuliek považovali za dôležité uviesť túto informáciu?
+
+
+
+
+
+
+
+
+
+
+
+
+
+102
+
+2.8 HUSTOTA PLYNOV
+
+SPRÁVANIE TELIES V PLYNOCH
+DOMÁCA PRÍPRAVA NA VYUCˇOVANIE
+Do malej nádobky si priprav čistiaci prostriedok na umývanie riadu a nalej doň trocha vody. Môžeš použiť aj bublifuk. Priprav si tiež slamku, ktorá sa používa na pitie. Z pripraveného roztoku sa pomocou slamky nauč vyfukovať malé bublinky tak, aby padali do väčšieho pohára na zaváranie. Vyfukuj ich vyššie nad pohárom, aby doň padali pomaly.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 75 Pomôcky na pozorovanie bublín
+
+
+2.8 HUSTOTA PLYNOV
+Kvapaliny a plyny majú niektoré vlastnosti podobné, napríklad sú tekuté, a preto majú spoločný názov tekutiny. Tlak v kvapalinách a plynoch je v uzavretej nádo- be vo všetkých smeroch rovnaký. Aj správanie telies v plynnom prostredí možno porovnať s kvapalinami. Príkladom správania telies v plynoch sú lietajúce balóny vo vzduchu. Balóny sa obyčajne plnia teplým vzduchom, aby stúpali do výšky. Sú- visí to s hustotou vzduchu a zmenou jeho hustoty s teplotou. Teplý vzduch má men- šiu hustotu ako studený.
+
+Už v nižších ročníkoch ste sa učili, že teplý vzduch stúpa v atmosfére našej Zeme nahor a na jeho mies- to prúdi studený vzduch. Správanie vzduchu sa podobá správaniu morských prúdov opísaných v pred- chádzajúcej podkapitole 2.7 Vplyv teploty na hustotu.
+Podobne ako teplý vzduch sa správajú aj iné plyny, napríklad hélium a vodík. Preto možno nimi plniť balóny. Uskutočnením dvoch jednoduchých pokusov budeme pozorovať správanie bubliniek vo vzdu- chu a v prostredí plynu s inou hustotou, ako má vzduch.
+
+
+ÚLOHA
+
+Pozoruj padanie bubliniek vyfukovaných do väčšieho skleného pohára. Správajú sa všetky vyfukované bublinky rovnako? (Pracuj vo dvojici so spolužiakom.)
+
+Pomôcky: roztok na vytváranie bublín (môže byť aj bublifuk), slamka, väčší pohár na zaváranie (kadička)
+103
+
+SPRÁVANIE TELIES V PLYNOCH
+
+
+Postup:
+a) Vyfukuj bublinky vyššie nad nádobou, aby mohli do nej voľne padať.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 76 Vyfukovanie bubliniek do nádoby
+
+b) Pozoruj správanie bubliniek a zapíš do zošita svoje pozorovanie.
+Odpovedz:
+1. Aké látky tvoria bublinu?
+2. Správali sa všetky bubliny vo vzduchu rovnako?
+3. Ako si vysvetľuješ správanie bublín vo vzduchu?
+4. Ako by sa správali vo vzduchu bubliny vytvorené z hélia či vodíka?
+
+V ďalšom pokuse vymeň vzduch v nádobe za iný plyn a vypúšťaj doň bubliny. Pokus je trochu náročný na opatrnosť a správne vyfukovanie bublín. Vyžaduje si opakovanie a vetranie v triede.
+
+
+
+POKUS
+
+Pozoruj padanie vyfukovaných bubliniek do väčšieho skleného pohára, v ktorom je iný plyn ako vzduch. Opíš svoje pozorovanie a vysvetli správanie bublín. (Pracuj vo dvojici so spolužiakom.)
+
+Pomôcky: roztok na vytváranie bublín, slamka, väčší pohár na zaváranie (kadička), fľaša s propán-butánom alebo butánom – plynom do zapaľovačov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 77 Plnenie sklenej nádoby plynom
+104
+
+2.8 HUSTOTA PLYNOV
+
+
+Postup:
+a) Vyučujúci ti naplní sklenú nádobu plynom. Pozorne si ju odnes na miesto, kde pracuješ.
+b) Vyfukuj bubliny vyššie nad nádobou, aby mohli do nej voľne a pomaly padať. Ak sa pokus na prvýkrát nepodarí, zopakuj ho.
+c) Nakresli si schému pokusu, opíš svoje pozorovanie a vypracuj vysvetlenie pokusu do zošita.
+Odpovedz:
+1. Akými vlastnosťami sa líšil plyn, použitý v pokuse, od vzduchu?
+2. Ako sa správala bublina, keď sa ti pokus vydaril?
+3. Ako si vysvetľuješ správanie bubliny vo vydarenom pokuse?
+4. Ako by sa správali bubliny vytvorené z hélia či vodíka? (Pozorne si prečítaj úvod k podkapitole.)
+
+Rovnako ako kvapaliny či tuhé látky aj plyny majú rôzne hustoty. Hodnoty hustoty plynov sú však nie- koľkonásobne menšie ako hodnoty kvapalín či tuhých látok. V tabuľke 27 sú uvedené hodnoty hus- toty vybraných plynov, ktoré platia za určitých podmienok a jednou z podmienok je teplota 20 °C. So zmenou podmienok, za akých sú hustoty stanovené, sa ich hodnota mení.
+Tabuľka 27 Hustoty vybraných plynov
+
+
+Názov plynuHustota  [ m3 ]
+kgvzduch1,29oxid uhličitý1,98propán2,02metán0,67
+
+Poznať vlastnosti plynov je pre zdravie človeka dôležité. Sú bezfarebné plyny, ktorých hustota je väč- šia ako hustota vzduchu a udržujú sa pri zemi. Príkladom takého plynu je oxid uhličitý. V jaskyniach a dutinách sa môže oxid uhličitý nahromadiť na dne, z prostredia vytlačiť kyslík, čo napokon môže spô- sobiť smrť zadusením.
+
+
+RIESˇ ÚLOHY
+
+1. Premeň hustoty vybraných plynov z tabuľky 27 z jednotky kg na jednotku g 
+
+a zapíš do ta-
+
+buľky 28.
+
+m3
+
+Tabuľka 28 Hustoty vybraných plynov
+
+cm3
+
+
+
+Názov plynuHustota  [ g ]
+cm3vzduchoxid uhličitýpropánmetán
+105
+
+SPRÁVANIE TELIES V PLYNOCH
+
+
+2. Zisti a zaznamenaj do zošita nasledujúce informácie:
+a) Aké hustoty majú plyny, z ktorých sa skladá vzduch?
+(Z akých plynov sa skladá vzduch, si zisťoval v úlohe na s. 30.)
+b) Zisti aspoň 2 plyny, ktoré sú pre človeka nebezpečné.
+c) Zisti, koľkokrát má 1 m3 vody väčšiu hmotnosť ako 1 m3 vzduchu.
+
+3. Vypočítaj približnú hodnotu hmotnosti vzduchu vo vašej triede. (Vráť sa k podkapitole 1.11 Meranie objemu tuhých telies, k úlohe 1 z časti Rieš úlohy na s. 61.)
+
+
+
+4. Zisti si a zaznamenaj do zošita nasledujúce infor- mácie:
+a) Čím bol plnený prvý balón vypustený do vzduchu v r. 1783?
+b) Na akom princípe funguje balón?
+c) Čím sa plnia balóny?
+
+
+
+
+
+ÚLOHA
+
+1. Vysvetli, čo znamenajú uvedené dôležité slová, výrazy. Pri vysvetľovaní si môžeš pomôcť aj konkrétnym príkladom.
+2. Usporiadaj slová, výrazy do dvojíc alebo trojíc tak, aby významovo patrili k sebe. Jeden výraz môžeš použiť aj viackrát.
+
+Dôležité slová
+
+
+vytlačený objem kvapaliny	teplota		bután správanie bublín		hustota plynov
+ súčin objemu a hustoty	hmotnosť hmotnosť vytlačenej kvapaliny plávajúcim telesom
+zmena hustoty		hmotnosť potápajúceho sa telesa hustota		objem
+celkový objem telesa
+
+hmotnosť plávajúceho telesa	vzduch
+
+hélium	oxid uhličitý
+
+ponorený objem telesa
+
+106
+
+PROJEKT 4
+
+
+ 	PROJEKT 4
+– MODEL METEOROLOGICKÉHO BALÓNA
+Na celom území Slovenska sa nachádzajú meteorologické stanice, ktoré zhromažďujú údaje o počasí. Súčasťou meteorologickej stanice je aj meteorologická búdka.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 78  Meteorologická búdka
+
+
+
+
+
+
+
+
+
+
+
+Téma projektu
+
+
+Domáce, ale aj zahraničné údaje sa spracúvajú do meteorologických správ – do predpovede počasia. Denne odborníci spracúvajú viac než 100 000 nameraných údajov, ktoré pochádzajú z meraní meteorologických staníc, družíc, lietadiel a meteorologických balónov. U nás sa meteorologické balóny vypúšťajú v Gánovciach pri Poprade.
+
+Tvojou úlohou v projekte 4 bude získať informácie, aké údaje možno sledovať meteorologickým balónom, ako možno taký balón zostrojiť – a ďalšie podľa vlastného uváženia.
+
+Získať informácie o meteorologickom balóne, navrhnúť a zostrojiť jeho model.
+Postup a podmienky
+1. Vytvoriť si zo spolužiakov tím spolupracovníkov.
+V prípade nejasností o téme projektu požiadať vyučujúceho o jej bližšie vysvetlenie.
+2. Model balóna má byť zostrojený z jednoduchých pomôcok. Balón nemá byť funkčný. Vieme, že model sa so skutočným balónom zhoduje len v niektorých prvkoch, vlastnostiach.
+3. Urobiť návrh projektu a prekonzultovať ho s vyučujúcim. Termín: podľa dohody v triede.
+4. Rozdeliť si prácu v tíme, zostrojiť model balóna, pripraviť si prezentáciu pred triedou (napr. nakreslenú schému, ako by balón mohol fungovať).
+Termín: podľa dohody v triede.
+Spôsob vyhodnotenia
+Vyhodnotenie projektov sa môže uskutočniť formou súťaže. Ak sa vám postup hodnotenia zvolený pri projekte 1 alebo 2 osvedčil, môžete postupovať rovnako aj pri tomto projekte. Pri projekte 4 treba okrem iného hodnotiť schopnosť:
+– získať čo najviac informácií,
+– vysvetliť podstatu lietania balónov.
+
+
+
+
+
+
+
+
+
+
+107
+
+SPRÁVANIE TELIES V PLYNOCH
+
+ˇCO SME SA NAUˇCILI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+108
+
+TEST 4
+
+
+
+  VYSKÚSˇAJ SA TEST 4
+SPRÁVANIE TELIES V KVAPALINÁCH SPRÁVANIE TELIES V PLYNOCH
+V teste budeš riešiť praktickú úlohu (A) a teoretické úlohy (B).
+
+Nepíš do knihy!
+
+
+Praktickú úlohu rieš na pracovnom stole, kde sú pripravené tieto pomôcky: teleso, nádoba s odtokom, kvapalina známej hustoty, odmerný valec a váhy umiestnené v triede.
+
+A Praktická úloha
+1. Urč hmotnosť telesa, potom ho vlož do nádoby s odtokom a zmeraj objem vody vytlačený ponoreným telesom. Urč hmotnosť vytlačenej kvapaliny. Zapíš namerané hodnoty.
+
+Hmotnosť plávajúceho telesa:  		                                   Objem kvapaliny vytlačenej telesom:  	                     Hmotnosť kvapaliny vytlačenej telesom:  	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pracovné miesto
+
+B Teoretické úlohy
+1. Na obrázku sú znázornené dva balóny, ktoré sa vo vzduchu rozdielne správajú. Jeden balón leží na podložke a druhý stúpa smerom hore. V ktorom balóne je teplý a v ktorom studený vzduch? Napíš slovo teplý, studený do rámčeka pod balónmi. Vysvetli, prečo sa balóny správajú rozdielne.
+Vysvetlenie:  	
+
+
+
+
+
+
+
+109
+
+SPRÁVANIE TELIES V PLYNOCH
+
+
+2. Predmet tvaru kvádra postupne vkladáme do troch rozličných kvapalín označených písme- nami A, B, C. Predmet v kvapaline A pláva, v B sa potopí a v C sa vznáša, tak ako je to zná- zornené na obrázku. Keď všetky tri kvapaliny spolu zlejeme, nezmiešajú sa, ale vytvoria tri vrstvy.
+
+
+
+
+
+
+
+
+A	B	C
+
+
+
+
+
+
+
+
+a) Označ písmenami usporiadanie kvapalín v nádobe po ich zliatí.
+b) Vysvetli, prečo sa umiestnili kvapaliny práve tak.
+
+Kvapaliny v nádobe po zliatí
+
+
+Vysvetlenie:  	
+
+
+
+
+
+
+
+
+
+3. Opíš alebo nakresli, ako sa bude správať balón naplnený metánom (hustota metánu je 0,67 kg ) vo vzduchu (hustota vzduchu je 1,29 kg ).
+m3	m3
+Svoj opis zdôvodni.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zdôvodnenie:  	
+
+
+
+
+110
+
+TEST 4
+
+
+4. Učil si sa o vlastnostiach látok a telies. Vo vetách pod písmenom a) až j) sú uvedené pravdivé aj nepravdivé tvrdenia. Ak s tvrdením súhlasíš, daj do rámčeka značku •.
+Ak nesúhlasíš, oprav vetu a napíš ju správne do vyznačeného riadka, prípadne aj pod vetu.
+
+
+* a) Tuhé telesá majú hmotnosť a objem.  	
+
+
+
+* b) Kvapaliny majú hmotnosť a objem.  	
+
+
+
+* c) Plyny majú hmotnosť a objem.  	
+
+
+
+* d) Látky môžu byť tuhé, kvapalné a plynné.  	
+
+
+
+* e) Všetky telesá z rozličných látok majú hmotnosť a objem.  	
+
+
+
+* f) Všetky látky majú hustotu.  	
+
+
+
+* g) Hustota sa s teplotou nemení.  	
+
+
+
+* h) Hustotu látky môžeme určiť priamo na váhach.  	
+
+
+
+* ch) Hustota pomáha vysvetliť, prečo niektoré predmety plávajú na hladine kvapaliny
+
+a iné sa potopia.  	
+
+
+
+* i) Sklo je tvárne, lebo sa ľahko rozbije.  	
+
+
+
+* j) Plastelína je krehká, lebo sa ľahko tvaruje.  	
+
+
+
+111
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Publikácia bola hradená z finančných prostriedkov Ministerstva školstva, vedy, výskumu a športu Slovenskej republiky.

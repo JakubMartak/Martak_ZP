@@ -1,0 +1,6671 @@
+﻿JUDr. Monika Fegyveres Oravská
+Copyright © 2018 EXPOL PEDAGOGIKA s. r. o. Všetky práva vyhradené.
+Žiadna časť tohto diela nesmie byť reprodukovaná alebo prenášaná v akejkoľvek forme alebo akýmkoľvek spôsobom, elektronickým alebo mechanickým, vrá- tane fotokópií, nahrávaním alebo akýmkoľvek do- stupným prenosom informácií bez písomného súhlasu vydavateľstva EXPOL PEDAGOGIKA s. r. o., okrem re- cenzií, kde sú citované krátke pasáže na účely zara- denia recenzie do časopisu, novín a vysielania.
+Schválilo Ministerstvo školstva, vedy, výskumu a športu Slovenskej republiky pod č. 2018/6973:4-10K0 ako didaktický prostriedok Prírodoveda pre 4. ročník základnej školy – pracovná učebnica. Schvaľovacia doložka nadobúda účinnosť 23. 05. 2018 a má platnosť
+do 31. 08. 2023.
+
+Autor: doc. PaedDr. Kristína Žoldošová, PhD.
+
+Recenzenti: PaedDr. Jarmila Gáborová
+PaedDr. Tatiana Komanová Mgr. Jaroslava Paulovičová
+
+Hlavný ilustrátor: akademická maliarka Anna Gajová
+Ilustrátor: Mgr. Andrea Matejčeková Mgr. art. Marek Mertinko
+
+Zdroje obrázkov: Shutterstock
+Slovak Organisation for Space Activities (SOSA) Slovenský Červený kríž https://upload.wikimedia.org/wikipedia/commons/a/ a2/Jan_Jansk%C3%BD%2C_1902.jpg
+
+Hlavný grafik: Štefan Moro
+Grafik: Petra Kavalcová
+
+Šéfredaktor: Mgr. Lucia Sochová
+Redaktor: Mgr. Simona Jonnerová
+
+Jazyková korektúra: Mgr. Adela Kullová
+
+Vydanie: prvé (v tlačenej verzii)
+Rok vydania: 2018
+
+Vydanie: prvé (v elektronickej verzii)
+Rok vydania: 2018
+ISBN: 978-80-8091-482-0
+
+OPIS GRAFICKÝCH PRVKOV
+
+
+Každá kapitola začína skúmateľskou výzvou v po- dobe listu (e-mailu) adresovaného výskumnému tímu žiakov. V samotnom liste je možné identifikovať niekoľko výskumných problémov (vo forme otázok), ktoré vedú žiakov k vlastnej výskumnej aktivite. List predstavuje ucelenú problematiku, ktorej sa budú žiaci v danom tematickom celku venovať, pričom si- muluje komunikáciu s výskumným tímom, čím vytvára pragmatickú stránku na riešenie úloh v danom te- matickom celku.
+
+
+AKO ZISTIť, KTORÝ PREDmET JE ťAžŠí?
+
+Lupa označuje zadanie výskumného problému, ktorý vychádza z listu adresovaného výskumnému tímu žiakov (e-mail). V rámci jednotlivých tematických cel- kov žiak rieši niekoľko výskumných problémov a tie sú postupne číslované, preto je v lupe uvedené aj číslo riešeného problému. Lupa s číslom výskumného prob- lému sa objavuje v kapitole vždy dvakrát: pri zadaní výskumného problému a pri jeho zhodnocovaní – pri formulácii riešenia výskumného problému.
+
+
+Kompas sa používa veľmi jednoducho. Dokonca je pomerne jednoduché kompas si vyrobiť. Veľa návodov nájdeš na internete, jeden takýto kompas je aj na obrázku. Takto vyrobený kompas však nebude fungovať, ak ihlu, ktorá má fungovať ako magnetická strelka, najskôr pomocou magnetu neupravíme. Zisti na internete, čo musíš urobiť s ihlou, aby ti takýto kompas fungoval.
+Číslami v krúžkoch sú označené jednotlivé úlohy, prostredníctvom ktorých sú žiaci vedení k riešeniu zadaného výskumného problému. Pri stanovení nového výskumného problému sú úlohy znovu číslované od jednotky. Úlohy v rámci riešenia jedného výskumného problému sú usporiadané logicky, preto nie je vhodné postupnosť riešenia úloh meniť.
+
+
+
+
+Každá strana pracovnej učebnice má dve časti: okra- jovú a základnú. Kým základná tvorí podstatnú časť priestoru a je určená pre žiaka, okrajová je farebne odlíšená a je určená pre osobu, ktorá žiaka pri jeho skú- maní sprevádza. Ide najmä o učiteľa, ale napríklad aj rodiča či inú osobu, ktorá žiaka sprevádza v učení mimo školského prostredia. Texty však môžu pomôcť aj samo- tnému žiakovi v lepšom uchopení samotnej úlohy a v pochopení významu úlohy vzhľadom na výskumný problém, ktorý práve v učebnici rieši.
+
+
+
+
+Text určuje, aký výkonový štandard zo Štátneho vzde- lávacieho programu je realizáciou úloh dosahovaný.
+
+
+
+
+Náš výskumný tím
+
+Stali ste sa výskumným tímom. Každý skutočný výskumný tím má svoj názov a svoje logo. Vašou prvou úlohou bude navrhnúť výstižný názov pre váš výskumný tím. Hľadajte informácie o významných ved- coch a významných objavoch vedy. Pomôže vám to vytvoriť výstižnejší návrh názvu vášho výskum- ného tímu. Návrhy spíšte a dohodnite sa, ktorý považujete za najvhodnejší.
+
+Zistite, čo všetko vedci skúmajú a čo na skúmanie používajú. Môže vám to pomôcť nájsť vhodnejší návrh loga pre váš výskumný tím.
+
+
+
+
+
+NEžIVá PRíRODA A SKÚmANIE PRíRODNÝCH JAVOV mAGNETIZmuS
+
+
+Milí mladí výskumníci
+
+
+
+
+
+Milí mladí výskumníci!
+Chystáme sa na našu prvú expedíciu do amazonského dažďového pralesa. Naším cieľom je skúmanie života domorodých kmeňov, najmä kmeňa Awá. Na našu výpravu sa veľmi tešíme, ale máme aj určité obavy. Najviac sa obávame toho, aby sme sa v rozľahlých dažďových pralesoch nestratili. Dnes už nás spoľahlivo vedie na- vigačný prístroj, vieme však, že ak sa pokazí, vybije sa mu batéria alebo stratíme signál, môžeme veľmi ľahko zablúdiť. Preto si chceme pre istotu so sebou vziať aj kompas.
+Počuli sme už o tom, že kompas pracuje na princípe magnetu a ak má pracovať spoľahlivo, musí sa určitým spôsobom používať. Informácie, ktoré sme našli na internete, nás však viac zmiatli, než by nám pomohli. Moh- li by ste nám poradiť, ako a kde by sme mali mať kompas uložený, aby fungoval tak, ako má? Aké predmety k nemu nemáme ukladať? Možno tiež pomôže, keď nám veľmi jednoducho vysvetlíte, ako sa vlastne kompas používa.
+Vopred ďakujeme za odpovede.
+S pozdravom	tím etnografov
+
+Čo ukrýva amazonský prales?
+Aké užitočné i nebezpečné živočíchy a rastliny tam žijú? Zisti o uvedených druhoch niečo, čo si nevedel/ne-
+ 	vedela a prekvapilo ťa to.		 		 Paulínia nápojová – Paullinia cupana			Pralesnička azúrová – Dendrobates azureus
+
+
+
+
+
+
+
+
+
+
+
+
+Amazonský prales je veľmi rozsiahly.
+Zisti na mape, kde presne sa v Južnej Amerike nachádza, a zelenou farbou vyfarbi tú časť svetadielu, ktorú pokrýva.
+
+Preto, že amazonský prales je rozsiahly a hustý, ešte stále nie je dostatočne preskúmaný. Na také tajuplné miesto, akým je amazonský prales, sa viažu rôzne legendy. Jednou z nich je legenda o ružových delfínoch. Nájdi túto legendu a opíš ju. Pokús sa vysvetliť, na základe akej pozorovateľnej skutočnosti táto legenda vznikla.
+
+
+
+
+
+
+
+2
+
+Žiak vie, ako sa používa kompas.
+
+
+
+
+1.	ČO JE KOmPAS A AKO SA POužíVA?
+
+Takto môže vyzerať veľmi jednoduchý kompas. Používa sa na určovanie severného smeru pri pohybe v teréne alebo na mori. V strede kompasu sa nachádza ručička, ktorú nazývame strelka. Pri pohybe s kompasom sa strelka voľne otáča okolo svojej osi tak, že jej červená časť je vždy otočená na sever. Strelka je tvorená tenkým magnetom, ktorý je uložený v tekutine, často napríklad v oleji alebo vode, aby bol jej pohyb plynulý.
+Kompas sa používa veľmi jednoducho.
+Dokonca je pomerne jednoduché kompas si vyrobiť. Veľa návodov nájdeš na inter- nete, jeden takýto kompas je aj na obrázku. Takto vyrobený kompas však nebude fungovať, ak ihlu, ktorá má fungovať ako magnetická strelka, najskôr pomocou mag- netu neupravíme. Zisti na internete, čo musíš urobiť s ihlou, aby ti takýto kompas
+
+Keďže našou úlohou je poradiť		výskumnému tímu	etnológov,	ako pomocou		kompasu nezablúdiť v pralese, potrebujeme		najskôr zistiť		základné		in- formácie o samotnom kompase. Keď zistíme, ako kompas funguje, môžeme sa pustiť do skúmania toho, čo môže ovplyvniť jeho správne fungovanie.
+
+1. Vyrobte si vlastný kompas. Do misky nalej- te vodu takmer po okraj. Upravenú ihlu
+
+Ako zistíš, že funguje?
+
+Ako upraviť ihlu, aby kompas fungoval?
+
+položte na kúsok korku alebo iného plávajúce- ho predmetu. Dôležité je, aby bol predmet čo najľahší, ale zároveň aby uniesol váhu ihly. Vhod- ný je kúsok polystyrénu. Ihlu je možné k predme- tu aj upevniť, napríklad kúskom lepiacej pásky.
+
+Pomocou vyrobeného kompasu sa pokús určiť, kde je vo vašej triede sever. Ako by si dokázal/ dokázala túto informáciu overiť?
+
+2	Kompasy môžu vyzerať rôzne, ale fungujú vždy rovnako.
+
+
+
+
+
+
+Všimni si, ako sa správajú kompasy na rôznych častiach zemegule.
+Dokresli strelky všetkým kompasom. Nasmeruj ich tak, ako by v skutočnosti boli nasmerované. Svoje riešenie si prever vyhľadávaním na internete.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3
+
+Žiak vie, ako sa používa kompas.
+
+
+
+
+3. Pri orientácii v ne- prehľadnom   teréne je najčastejšie pou- žívaným kompasom buzola. Vedeli by ste zistiť, čím sa líši bu- zola od kompasu? Po- rozmýšľajte, ako môže buzola pomôcť vý- skumníkom počas ich expedície v dažďovom pralese. Stačí im len buzola alebo potrebujú ešte niečo iné, čo im pomôže nezablúdiť v pralese?
+
+
+Vyskúšaj si, ako sa používa buzola.
+Načrtni plán školského dvora. Nakresli všetky budovy a plot, prípadne aj iné význam- né objekty. Urči, ktorým smerom je sever a ako je voči severu orientovaný vchod do budovy školy.
+
+n školy s určením severného smeru:
+
+
+
+
+
+
+3. otočná
+stupnica buzoly
+
+
+
+
+Pokúste sa vlastnými slovami vysvetliť, ako sa používa kompas. Vysvetlite to tak, ako ste tomu porozume- li, a zároveň tak, aby ste pomohli výskum- nému tímu nezablúdiť v pralese. Vysvetlenie môžete napísať, ale aj nakresliť a primerane opísať, aby mu každý rozumel.
+
+ 	Riešenie výskumného problému	
+1.	AKO SA POužíVA KOmPAS?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4
+
+Žiak vie, že magnet je predmet, ktorý priťahuje niektoré kovové predmety a nepriťahuje žiadne nekovové predmety.
+
+
+
+
+2.	AKÝmI PREDmETmI JE mOžNé OVPLyVNIť KOmPAS?
+Výskumná otázka 1:
+AKé PREDmETy SÚ PRIťAHOVANé mAGNETOm?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Keďže strelka kom- pasu je z magnetu,  pri našom skúmaní je dôležité zistiť, aké ma- teriály sú magnetom priťahované. Predme- ty vyrobené z týchto materiálov pravdepo- dobne môžu vplývať aj na samotný kompas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5
+
+Žiak vie, že magnet je predmet, ktorý priťahuje niektoré kovové predmety a nepriťahuje žiadne nekovové predmety.
+
+
+
+
+Z predchádzajúceho skú- mania je zrejmé, že to, z akého sú predmety ma- teriálu, ovplyvňuje to, ako sa budú voči mag- netu správať. Kým napríklad všetky drevené predmety sa správajú voči magnetu rovnako, kovové predmety sa správajú rôzne. Tieto predmety si vyžadujú bližšie preskú- manie, ktorého cieľom bude zistiť, či  existujú aj kovy, ktoré nie sú priťahované magnetom, alebo magnet priťahujú všetky kovy.
+
+Výskumná otázka 2:
+EXISTuJÚ AJ KOVy, KTORé NIE SÚ PRIťAHOVANé mAGNETOm?
+1. krok: Zisti, ktoré predmety sú kovové a ktoré nie.
+2. krok: Zisti, ktoré predmety sú priťahované magnetom a ktoré nie.
+3. krok: Zisti, či sú medzi predmetmi, ktoré neboli priťahované magnetom, aj také, ktoré sú kovové.
+
+ 	1. krok	
+- +	A	B
+A	B
+
+
+
+1. krok
+Najskôr sa zamyslite, ako zistíme, či sú pred- mety kovové alebo nie. Môžete sa pokúsiť pred- mety roztriediť podľa toho, čo si o nich mys- líte, ale nakoniec budete potrebovať dôkaz o tom, či sú kovové alebo nie. Najjednoduchší spôsob, ako to zistiť, je vyskúšať, či vedú elektrický prúd. S týmto cieľom si zostrojte jednoduchý elektrický ob- vod. Prepojením otvo- rených  koncov  zistíte, či materiál vedie alebo nevedie elektrický prúd (žiarovka sa zasvieti alebo nie).
+2. krok
+Všimnite si, aké predmety budete skúmať. Zoznam doplňte o ďalšie predme- ty, pri ktorých si nie ste istí, či sú kovové. Vytvorte predpoklady o tom, či sú kovové, a následne si svoje predpoklady overte vkla- daním predmetov do jed- noduchého elektrického obvodu. Na základe toho, čo ste zistili, pokúste sa vytvoriť predpoklad, ktoré z týchto predmetov budú priťahované magnetom a ktoré nie. Pri tvorbe pred- pokladov sa snažte využiť zistenia z riešenia prvej výskumnej otázky. Pred- poklady si overte pomo- cou magnetu.
+3. krok
+Na základe výsledkov uvedených v tabuľke sa pokúste odpovedať na výskumnú otázku. Svoju odpoveď zdôvodnite pro- stredníctvom výsledkov, ktoré ste získali.
+
+
+
+
+
+
+
+
+2. krok
+
+PredmetJe kovový?Je priťahovaný
+magnetom?PredpokladOvereniePredpokladOvereniemince	
+lyžicaalobal	zlaté nite	vianočné ozdoby
+- anjelské vlasy
+
+Záver z pozorovania a odpoveď na výskumnú otázku:
+
+
+6
+
+Žiak vie skúmaním zistiť, že magnet pôsobí do určitej vzdialenosti – má okolo seba tzv. magnetické pole.
+
+
+
+
+Výskumná otázka 3:
+PRIťAHuJE ROVNAKÝ mAGNET SPINKu VžDy Z ROVNAKEJ VZDIALENOSTI?
+Zisti, z akej vzdialenosti (v milimetroch) je spinka priťahovaná magnetom, ak magnet k spin- ke približujeme rôznymi stranami. Každé meranie opakuj viackrát, aby si si bol/bola výsled- kom istý/istá.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Na základe výsledkov z pozorovania sa pokús odpovedať na nasledujúce otázky.
+
+
+Už sme zistili, že na magnet môžu pôsobiť niektoré predmety. Aby bola informácia pre výskumníkov, ktorí sa chystajú na expedíciu, užitočná, mali by sme zistiť aj to, v akej vzdia- lenosti sa vzájomné pôsobenie predmetov a magnetu prejavuje. Vašou ďalšou úlohou bude zistiť, z akej vzdia- lenosti priťahuje mag- net predmety, a tiež to, či je táto vzdialenosť vždy rovnaká.
+
+Prezrite si informácie o magnetoch a ich pôso- bení na okolie v texte pod tabuľkou. Sú vaše výsledky zo skúmania v súlade s týmito in- formáciami? V textoch podčiarknite informá- cie, ktoré potvrdzujú vaše zistenia.
+
+
+Je potrebné, aby si sa magnetom dotkol/dotkla spinky, keď ju chceš pritiahnuť?ribližuješ k predmetu rôznymi stranami?Záver z pozorovania a odpoveď na výskumnú otázku:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7
+
+Žiak vie navrhnúť postup, pomocou ktorého porovná veľkosť (odmeria) magnetického poľa dvoch magnetov.
+
+
+
+
+V predchádzajúcom skúmaní ste zistili, že magnet priťahuje pred- mety na diaľku, nemusí sa ich dotýkať. Skúmali ste však len jeden mag- net. Zaujímavé bude zistiť, či priťahujú všetky magnety predmety z rovnakej vzdialenosti. Ak pôsobenie magnetu na predmety siaha do rôznej vzdialenosti, bu- dete musieť výskumní- kov na túto skutočnosť upozorniť.
+Na realizáciu skúmania si zvoľte také dva mag- nety, o ktorých pred- pokladáte, že pravde- podobne pritiahnu ten istý predmet z rôznej vzdialenosti.
+
+Výskumná otázka 4:
+PRIťAHuJÚ VŠETKy mAGNETy ROVNAKÝ PREDmET Z ROVNAKEJ VZDIALENOSTI?
+Navrhni postup, pomocou ktorého zistíš rozdiely medzi dvoma magnetmi. Pokús sa navrh- núť taký postup, ktorý ti poskytne dôveryhodné výsledky. Navrhnuté postupy si vzájomne prezentujte a dohodnite sa na tom, ktorý považujete za najvhodnejší.
+Návrh postupu skúmania:	Pomôcky:
+
+
+
+
+
+
+
+
+
+
+Použi dohodnutý postup a výsledky si zaznamenaj.
+
+Výsledky skúmania:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pomocou získaných výsledkov sa pokús odpovedať na výskumnú otázku.
+
+Záver z pozorovania a odpoveď na výskumnú otázku:
+
+
+
+
+
+
+
+8
+
+Žiak vie, že magnet je predmet, ktorý priťahuje niektoré kovové predmety a nepriťahuje žiadne nekovové predmety.
+Žiak vie vysvetliť, ako sa k sebe správajú dva magnety.
+
+
+
+Výskumná otázka 5:
+ZmENí STRELKA KOmPASu SmER, KTORÝm uKAZuJE, AK Ku KOmPASu PRIBLížImE RôZNE KOVOVé PREDmETy?
+
+Záver z pozorovania a odpoveď na výskumnú otázku:
+
+Skúmaním ste zistili, že niektoré materiály sú magnetom priťahované a iné nie. Ak je magnet malý a priťahovaný predmet veľký, potom sa pritiahne skôr mag- net k predmetu, nie predmet k magnetu. Overte si to skúmaním.
+Z pozorovaného vyplý- va, že určité predmety by mohli na fungovanie kompasu vplývať, keďže jeho strelka je z mag- netu a mohla by mať snahu pritiahnuť sa k predmetom.
+
+
+
+
+Postup skúmania:	skúmaný
+predmet
+
+
+
+Pri hodnote, pri ktorej sa strelka kompasu vychýli z pôvodného smeru, posúvanie zastav a hodnotu
+zapíš do tabuľky.
+
+
+Výskumná otázka 6:
+ČO SA STANE, AK K SEBE PRIBLížImE DVA mAGNETy?
+Skúmaj, čo sa deje, ak magnety k sebe približuješ uvedeným spôsobom. Opíš, čo sa dialo.
+
+Okrem rôznych pred- metov by mohli fun- govanie kompasu ovplyvniť napríklad aj iné magnety. Zistite, ako sa vzájomne k sebe správajú dva magnety.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Záver z pozorovania a odpoveď na výskumnú otázku:
+
+
+
+
+
+
+9
+
+Žiak vie skúmaním zistiť, že magnet pôsobí do určitej vzdialenosti – má okolo seba tzv. magnetické pole.
+
+
+
+
+Skúmaním ste zistili, že magnety na seba taktiež vzájomne pôso- bia. Keďže kompas ob- sahuje magnet v po- dobe strelky, dôležité je preskúmať aj to, či sa zmení smer, ktorým ukazuje kompas, ak k nemu priblížime mag- net.
+
+Výskumná otázka 7:
+V AKEJ VZDIALENOSTI muSí Byť uLOžENÝ KOmPAS
+OD INÝCH PREDmETOV OBSAHuJÚCICH mAGNET, ABy NEBOLO OVPLyVNENé, KTORÝm SmEROm uKAZuJE?
+Všimni si, aké rôzne predmety dennej potreby v sebe obsahujú magnety. Zisti, v akej musia byť vzdialenosti od kompasu, aby neovplyvnili jeho fungovanie.
+
+
+
+
+
+
+
+
+
+
+Skúmaj, ako inak je možné ovplyvniť kompas, aby ukazoval iný smer.
+
+
+Záver z pozorovania a odpoveď na výskumnú otázku:
+
+
+
+
+
+
+
+
+
+Vytvorte odpoveď a odvolávajte sa na zis- tenia z predchádza- júceho skúmania (uveď- te, na základe čoho to tvrdíte). Použiť môžete aj akúkoľvek ďalšiu skúsenosť, ktorou vie- te svoje vysvetlenie podporiť.
+Vysvetlenie môžete na- písať, ale aj nakresliť a primerane opísať, aby mu každý rozumel.
+
+ 	Riešenie výskumného problému	
+2.	AKÝmI PREDmETmI JE mOžNé OVPLyVNIť KOmPAS?
+
+
+
+
+
+
+
+
+10
+
+                                                                          Žiak vie, ako sa používa kompas. Žiak vie, že magnet je predmet, ktorý priťahuje niektoré kovové predmety a nepriťahuje žiadne nekovové predmety. Žiak vie, že magnet pôsobí do určitej vzdialenosti – má okolo seba tzv. magnetické pole.
+Žiak vie vysvetliť, ako sa k sebe správajú dva magnety.
+
+
+
+Odpoveď na list od tímu etnografov
+
+1. Ako funguje kompas a ako sa používa?
+2. Akými predmetmi a ako je možné ovplyvniť fungovanie kompasu?
+
+
+Odpoveď a zdôvodnenie na základe zistených informácií.
+
+Navrhnite odpoveď na list, ktorý ste na začiatku vášho skúmania dostali od etnografov. Pamä- tajte, že vo vašom liste sa musia objaviť odpo- vede na všetky ich otáz- ky.
+Pokúste sa vytvoriť odpovede čo najjedno- duchšie, môžete použiť aj nákresy, ak vám to pomôže lepšie vysvetliť, čo by ste radi etnogra- fom poradili.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11
+
+SILy
+
+
+Milí mladí výskumníci
+
+
+
+
+
+Milí mladí výskumníci!
+Ľudia už odpradávna hľadajú spôsoby, ako si uľahčiť ťažkú prácu. Vymysleli už rôzne zariadenia, stále je však potrebné vynakladať pomerne veľa námahy, napríklad pri zdvíhaní ťažkých nákladov v stavebníctve. Najväčším „nepriateľom“ pri ťažkej práci je zemská gravitácia, ktorá spôsobuje, že všetky predmety sú priťahované k zemi.
+Nedávno počas obedňajšej prestávky v práci sme sa s kolegami rozprávali o tom, aké jednoduché by bolo, keby skutočne existovali antigravitačné rukavice, známe len z fantastických filmov a komiksov. Veľa úžasných objavov vzniklo na prvý pohľad z bláznivých nápadov. Rozhodli sme sa premyslieť, či by skutočne nebolo možné nejakým spôsobom zamedziť pôsobeniu gravitácie na predmety. Najskôr by sme ale potrebovali preskúmať, ako pôsobí gravitácia na predmety, a v tom by ste nám mohli pomôcť.
+Potrebovali by sme vedieť najmä to, ktoré predmety padajú rýchlejšie a ktoré pomalšie, a tiež to, ako je možné spomaliť pád predmetov. Veľmi by pomohlo, ak by ste tiež zistili, kedy a čím je možné vynakladať menšiu ná- mahu na posúvanie či zdvíhanie a premiestňovanie predmetov. Niektoré z vašich zistení by nás mohli priviesť k nápadu, ako zostrojiť naozajstné antigravitačné rukavice.
+Ďakujeme za vašu pomoc.
+S pozdravom	tím strojných inžinierov
+
+
+Mnohé z toho, čo bolo v minulosti nepredstaviteľné, dnes považujeme za samozrejmé. Napríklad túžba ľudí lietať ich viedla k rôznym pokusom, ktoré neustále vylepšovali, a nakoniec sa túžba naplnila. Dnes už sú lietadlá samozrej- mosťou, aj keď sa zdá, že stále je čo vylepšovať.
+
+
+
+
+
+O prekonávaní gravitácie sa čím ďalej tým častejšie uvažuje aj pri návrhoch nových áut.
+Prezri si obrázok. Čo myslíš, je te	uta vymyslený alebo auto skutočne existuje?
+
+Čo si zistil/zistila?
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tip: Na vyhľadávanie informácií o vznášajúcich sa autách na internete použite nielen slovenské kľúčové slovo:
+vznášajúce sa auto, ale aj jeho anglický preklad: hover car.
+
+                               Žiak vie, že niektoré predmety padajú na zem rýchlejšie, iné pomalšie. Žiak vie skúmaním zistiť, že to, ako rýchlo predmety padajú na zem, závisí od veľkosti a tvaru predmetov.
+
+
+
+1.	AKO SPOmALIť PáD PREDmETOV?
+
+Výskumná otázka 1:
+KTORé PREDmETy PADAJÚ NA ZEm RÝCHLEJŠIE A KTORé POmALŠIE?
+Vytvor predpoklad o tom, ktoré z uvedených predmetov budú padať na zem rýchlejšie. Po- tom navrhni postup, ako skúmanie zrealizovať. Pozor, snaž sa vytvoriť taký postup, pomocou ktorého dostaneš presvedčivé výsledky o tom, ktorý predmet ako rýchlo padá v porovnaní s inými. Dohodnutým postupom svoje predpoklady over a vytvor z pozorovania záver.
+
+
+
+
+Postup skúmania:
+
+
+
+Záver z pozorovania a odpoveď na výskumnú otázku:
+Súvisí rýchlosť pádu predmetov s ich hmotnosťou? Svoju odpoveď zdôvodni.
+
+
+
+Výskumná otázka 2:
+ZáVISí RÝCHLOSť PáDu PREDmETOV OD ICH VEľKOSTI?
+Ak chceme zistiť, či rýchlosť padania predmetov na zem závisí od toho, aké sú predmety veľké, musíme zabezpečiť, aby mali predmety rovnaký tvar, rovnakú hmotnosť, ale rôznu veľkosť (objem). Preto si najskôr zvoľ kocku z dreva, ktorú budeš skúmať, a vytvor kocku rov- nakej hmotnosti z polystyrénu a z plastelíny. Nakresli, ako popri drevenej kocke tieto ďalšie vyzerajú. Vytvor predpoklad, ako rovnako alebo rôzne rýchlo budú tieto predmety padať. Predpoklady over.
+
+
+
+Určite súhlasíte, že by bolo zaujímavé mať rukavice, ktoré spôso- bia, že na predmety prestane Zem pôsobiť svojou gravitačnou si- lou. Predmety by zrazu nič nevážili a bolo by možné s nimi ľahko narábať. Stavbári by už nepotrebovali žeriavy a bagre.
+Aby sme  vedeli  tí- mu strojných inžinierov odpovedať na otázky, ktoré by im pri tvorbe antigravitačných ruka- víc mohli pomôcť, mali by sme najskôr preskúmať, ako sa pre- javuje gravitačná si- la Zeme na rôznych predmetoch. Najviditeľ- nejším prejavom gravi- tácie je skutočnosť, že všetky predmety padajú na zem. Vašou prvou úlohou bude preskúmať, ako je možné spomaliť pád predmetov.
+
+
+Jednou z vlastností predmetov je ich ob- jem (veľkosť). Aj pred- mety v predchádza- júcej úlohe majú rôzne veľkosti. Problém však je, že majú aj rôzny tvar a rôznu hmotnosť. Preto nie je možné určiť, ktorá z týchto vlastností spôsobila, že pred- mety padali na zem rôzne rýchlo. Pokúsme sa skúmanie upraviť a zistiť, či rýchlosť pádu predmetov ovplyvňuje ich veľkosť.
+
+
+Ako si zabezpečil/zabezpečila, aby mali kocky rovnakú hmotnosť?
+
+
+
+Záver a odpoveď na výskumnú otázku:
+
+
+
+13
+
+Žiak vie skúmaním zistiť, že to, ako rýchlo predmety padajú na zem, závisí od veľkosti a tvaru predmetov. Žiak vie skúmaním zistiť, že to, ako rýchlo predmety padajú na zem, závisí od výšky,
+z ktorej padajú, a od spôsobu hodu predmetov.
+
+
+V predchádzajúcom skúmaní sme zisťovali, či môže veľkosť predme- tov ovplyvniť rýchlosť padania predmetov na zem. Tvar predmetov by tiež mohol ovplyvňovať, ako rýchlo predmety padajú na zem.
+Podobne ako v pred- chádzajúcej úlohe, aj tu musíme skúmať precízne, aby sme mohli výsledku dôverovať. Po- trebujeme preto po- rovnávať predmety, kto- ré majú rovnaký objem, rovnakú hmotnosť a líšia sa len tvarom.
+
+Výskumná otázka 3:
+OVPLyVňuJE TVAR PREDmETOV RÝCHLOSť ICH PáDu?
+Vedel/vedela by si na základe pozorovania z dvoch predchádzajúcich úloh povedať, kedy spadne list papiera na zem rýchlejšie a kedy pomalšie? Vedel/vedela by si pozorované aj vy- svetliť?
+
+
+
+
+Záver z pozorovania a odpoveď na výskumnú otázku:
+
+
+
+
+
+
+
+
+V predchádzajúcich úlo- hách sme skúmali, aké vlastnosti pred- metov spôsobujú, že predmety padajú na zem pomalšie. Okrem samotných predmetov môže rýchlosť pádu ovplyvniť aj to, ako predmet púšťame.
+V nasledujúcich troch úlohách preskúmame, ako je možné spôsobiť, aby ten istý predmet spadol na zem neskôr.
+
+Výskumná otázka 4:
+KEDy DOPADNE PREDmET NA ZEm NESKôR?
+Ako vystreliť predmet, aby dopadol čo najneskôr?
+Pozoruj uvedené štyri spôsoby vystrelenia polystyrénovej guľôčky z praku a uveď poradie, v akom dopadnú gule vystrelené z prakov. Označ číslami 1 až 4 ich poradie. Pred pozorovaním sa pokús vytvoriť predpoklady. Jednoduchý prak si vieš vyrobiť z drievka a gumičky	štoľ	boje.
+
+C
+
+
+
+	
+
+
+
+
+
+
+14
+
+Žiak vie skúmaním zistiť, že to, ako rýchlo predmety padajú na zem, závisí od výšky,
+z ktorej padajú, a od spôsobu hodu predmetov.
+
+
+
+Všimni si, kam dopadne predmet, ak ho vystrelíme rôzne šikmo. Čo zaujímavé si vieš všimnúť na tomto obrázku? Podľa návodu vytvor jednoduchý nástroj na meranie toho, ako šikmo strieľaš polystyrénovú guľu, a použi ho na ove- renie toho, či skutočne padajú gule tak, ako zobrazuje obrázok. Namiesto praku môžeš použiť pištoľ na penové náboje.
+
+Pomôcka na určenie smeru hodu loptičky
+y
+70
+60
+
+45
+
+30
+20	x
+
+Závisí to, kam až doletí polystyrénová guľa, od toho, ako veľmi natiahneš prak?
+
+Záver:
+2. 
+Už sme zistili, že to, akým smerom proti pôsobeniu gravitačnej sily predmet hádžeme, ovplyvňuje, ako dlho bude padať. Ak há- džeme predmet v sme- re, v akom Zem na predmet pôsobí, v pod- state gravitačnej sile
+„pomáhame“ a predmet spadne veľmi rýchlo.
+Ak ale hádžeme opačným  smerom, ako je pôsobenie gravitačnej sily Zeme na predmet, pred- met spadne oveľa neskôr. Pri šikmom hádzaní je situácia ešte zaujímavejšia, pretože nie je jedno, ako pred- met hádžeme, ak chceme, aby spadol na zem čo najneskôr.
+3. Preskúmajte tiež, či závisí to, ako dlho predmet padá, od toho, ako silno predmet urči- tým smerom vyhodíte. Pozor, aby ste získali dôveryhodné výsledky, musíte stále hádzať ten istý predmet a vždy rovnako šikmo.
+
+
+
+
+
+Na základe toho, čo si zistil/zistila pri riešení predchádzajúcich troch úloh, pokús sa odpovedať na výskumnú otázku 4: Kedy dopadne predmet na zem neskôr? Na doplnenie odpovede môžeš použiť aj akékoľvek ďalšie zistenia a skúsenosti.
+
+Záver a odpoveď na výskumnú otázku:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15
+
+
+
+
+
+
+Na základe toho, čo ste zistili pri riešení predchádzujúcich šty- roch výskumných otá- zok, ale aj na základe ďalších skúseností a vedomostí, pokúste sa navrhnúť aspoň jeden postup, ako spomaliť pád predmetov na zem. Navrhovanie vám pôjde lepšie, ak si určí- te, akého predmetu pád budete spomaľo- vať.
+Aby   bolo   skúma- nie realizovateľné, va- šou úlohou bude spomaliť pád guľôčky z plastelíny, na ktorej veľkosti sa spolu dohod- nete. Návrhy môžete napísať, ale aj nakresliť a primerane opísať, aby návrhu každý rozumel. Svoje návrhy vzájomne prezentujte a zdôvod- nite, prečo si myslíte, že by mal návrh fungovať.
+Spíšte pomôcky, ktoré na realizáciu budete potrebovať, a overi- teľné postupy zrea- lizujte. Svoje skúmanie vyhodnoťte.
+
+Vytvorte odpoveď a od- volávajte sa na zistenia z predchádzajúceho skú- mania (uveďte, na zákla- de čoho to tvrdíte). Pou- žiť môžete aj akúkoľvek ďalšiu skúsenosť, ktorou viete svoje vysvetlenie podporiť. Vysvetlenie môžete napísať, ale aj nakresliť a primerane opísať, aby mu každý
+                             
+Žiak vie, že niektoré predmety padajú na zem rýchlejšie, iné pomalšie. Žiak vie skúmaním zistiť, že to, ako rýchlo predmety padajú na zem, závisí od veľkosti a tvaru predmetov. Žiak vie skúmaním zistiť, že to, ako rýchlo predmety padajú na zem, závisí od výšky,
+z ktorej padajú, a od spôsobu hodu predmetov.
+
+ 	Riešenie výskumného problému	
+1.	AKO SPOmALIť PáD PREDmETOV?
+
+
+
+
+Návrh postupu:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pomôcky:
+
+
+
+
+
+
+
+
+
+
+
+
+
+16
+
+Žiak vie, že pomocou naklonenenj roviny dokážeme vyniesť veľký náklad do výšky s menšou námahou. Žiak vie skúmať zmenu vynaloženej námahy pri zmene sklonu naklonenej roviny.
+Žiak vie vytvoriť z vlastného skúmania závery.
+
+
+2. KEDy A Čím JE mOžNé SPôSOBIť, žE BuDEmE VyNAKLADAť mENŠIu NámAHu NA POSÚVANIE ČI ZDVíHANIE A PREmIESTňOVANIE ťAžKÝCH PREDmETOV?
+Výskumná otázka 1:
+AKO FuNGuJE NAKLONENá ROVINA?
+Vytvor predpoklad o tom, či ťahaním po naklonenej rovine dostaneš vedro na stoličku s využitím menšej námahy ako pri jeho priamom zdvihnutí na stoličku.
+Porovnaj obe zobrazené situácie a zaznač svoj predpoklad.
+
+
+
+
+
+
+
+
+Predpoklad:
+
+
+Záver:
+
+
+Väčšina strojov, ktorých úlohou je uľahčovať ľuďom prácu, funguje na princípe takzvaných jednoduchých strojov. Ak chceme strojným inžinierom pomôcť v navrhovaní zariadenia, ktoré by malo uľahčovať prácu, mali by sme preskúmať, ako fungujú jednoduché stroje – páka, kladka, naklonená rovina a ozubené súkolesie.
+
+1. Najskôr bude vašou úlohou preskúmať, ako funguje naklonená ro- vina. Naklonená rovina je najjednoduchším z jednoduchých strojov. V podstate je to doska, ktorá nie je vodorovná, ale je umiestnená rôz- ne šikmo k zemi. Na jej princípe funguje naprí- klad šmykľavka, pri kto- rej sa zabávame na tom, ako nám spomaľuje pád na zem pri zošmyknutí sa.
+
+
+
+
+Zisti, o koľko sa zmenšuje sila pri ťahaní nákladu po naklonenej rovine.
+Prezri si naklonené roviny, urči, pri ktorej bude ťahanie nákladu najľahšie. Potom roviny podľa nákresov zostroj a silomerom odmeraj, koľko námahy vyžaduje ťahanie nákladu po takto zostrojených rovinách. Zo skúmania vytvor záver.
+2. 
+V nasledujúcej úlohe sa pokúsime spresniť výsledky z predchádza- júcej úlohy. Vašou úlo- hou bude zistiť, či je potrebné vynakladať rovnakú alebo rôznu námahu, ak ťaháme ten istý predmet po rôzne naklonenej rovine.
+
+
+
+
+
+
+
+
+	
+
+Záver:
+
+
+
+
+
+17
+
+Žiak vie, že pomocou naklonenej roviny dokážeme vyniesť veľký náklad do výšky s menšou námahou.
+
+
+
+
+3. Naklonená rovina ne- musí mať len tvar dosky, po ktorej ťaháme náklad. Na mnohých za- riadeniach nájdete zo- šikmené plochy, ktoré sú v podstate na- klonenou rovinou a pomáhajú vynakladať menšiu námahu pri určitých činnostiach.
+
+Všimni si, kde všade sa princíp naklonenej roviny využíva.
+Na obrázkoch označ samotnú naklonenú rovinu. Tam, kde opis využitia naklonenej roviny chýba, pokús sa vytvoriť vlastné vysvetlenie, ako uvedené zariadenie uľahčuje prácu. Nájdi ďalšie zariadenie, ktoré naklonenú rovinu používa.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Na základe toho, čo si zistil/zistila pri riešení predchádzajúcich troch úloh, pokús sa odpovedať na výskumnú otázku 1: Ako funguje naklonená rovina? Na doplnenie odpovede môžeš použiť aj akékoľvek ďalšie zistenia a skúsenosti.
+
+Záver z pozorovania a odpoveď na výskumnú otázku:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18
+
+Žiak vie, že pomocou páky môžeme nadvihnúť ťažké predmety s menšou námahou.
+                                                            Žiak vie použiť páku. Žiak vie skúmaním zistiť, že čím dlhšia je páka, tým menej sa pri nadvihovaní namáhame.
+
+
+Výskumná otázka 2:
+AKO FuNGuJE PáKA?
+Všimni si, ako sa používa páka.
+Danka a Janka sa snažia pomocou páky zdvihnúť ťažký náklad a používajú na to páku dvoma rôznymi spôsobmi. Pozoruj ich pokusy a pokús sa vysvetliť, kedy nám páka pri dvíhaní nákladu pomáha najviac. Používanie páky si vyskúšaj, aby si svoje závery overil/overila.
+
+
+Druhým jednoduchým strojom, ktorého fun- kciu pri uľahčovaní práce preskúmame, je páka. Páka je v pod- state dlhá tyč, pomo- cou ktorej sa snažíme zdvihnúť, otvoriť alebo otočiť veci, ktoré sú pomerne ťažké.
+
+1. Páku môžeme použí- vať rôznym spôsobom. V prvej úlohe sú dva najzákladnejšie spôso- by použitia páky. Pozo- rujte, kedy páka prácu uľahčuje tým, že na zdvihnutie toho istého predmetu vynaložíme menej námahy.
+
+
+
+
+
+
+Ako je potrebné páku používať, aby sme sa namáhali čo najmenej?
+
+
+
+
+
+Ktorý fúrik uľahčuje prácu viac – s dlhými alebo krátkymi rúčkami? Vytvor predpoklady, zdôvodni ich. Pomocou silomeru predpoklady over a vytvor záver.
+
+3.
+2.
+1.
+2. 
+Fúrik je ďalšie zaria- denie, ktoré uľahčuje človeku prácu vďaka využitiu jednoduchého stroja – páky. Pokúste sa vytvoriť predpoklady na základe toho, čo ste zistili v predchádzajúcej úlohe. Uvažujte, ako by ste mohli predpoklady overiť, aby výsledok ne- bol len odhadom, ale skutočne dôveryhod- ným výsledkom.
+
+
+
+
+
+Namerané hodnoty:1.2.3.
+Záver:
+
+
+
+
+
+
+19
+
+Žiak vie, že pomocou páky môžeme nadvihnúť ťažké predmety s menšou námahou.
+Žiak vie použiť páku.
+
+
+
+3. Niektoré zariadenia využívajú na uľahčenie práce nie jednu, ale hneď dve páky. Tie sú na zariadení umiest- nené oproti sebe. Kým na jeden koniec páky tlačíme, sila sa preja- vuje na druhej strane páky, ale rôzne. Skúmaj- te, ktorou časťou ostria nožníc sa strihá hrubý papier ľahšie.
+
+Nožnice sú najpoužívanejším náradím, ktoré využíva princíp dvojitej páky.
+Na každom nástroji, ktorý využíva princíp páky, je možné nájsť tri základné časti: pev- ný bod, miesto pôsobenia sily a miesto pôsobenia odporu proti sile. Pokús sa ich nájsť na nožniciach.
+
+
+
+
+
+Skúmaj fungovanie dvojitej páky na nožniciach a pokús sa odpovedať na otázky.
+
+Keď striháš papier, na ktorú časť ostria vytváraš najväčší tlak? Pokús sa prestrihnúť niekoľko preložených papierov. Je jednoduchšie prestrihnúť ich pomocou špice nožníc alebo v blízkosti miesta, kde sa ostria schádzajú?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Označ číslicami 1, 2 a 3 tri základné časti páky v nasledujúcich spôsoboch jej použitia:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20
+
+Žiak vie, že pomocou páky môžeme nadvihnúť ťažké predmety s menšou námahou.
+
+
+
+Všimni si, kde všade sa využíva princíp páky.
+Na obrázkoch označ páku. Tam, kde opis využitia páky chýba, pokús sa vytvoriť vlast- né vysvetlenie, ako uvedené zariadenie uľahčuje prácu.
+
+
+
+
+4. Páku využívame na uľahčenie vynaklada- nej námahy na určité činnosti každodenne. Využitie páky nás veľakrát prekvapí. Do- konca sa s pákou veľmi často zabávame. Všimnite si prvý obrázok a uvažujte, prečo deti vpravo klesli dolu, keď sú na oboch stranách hojdačky vždy dve deti. Čo musia urobiť, aby sa pohojdali?
+
+
+
+
+
+
+
+
+klieštepáčidloveslo
+Čím dlhšie sú rúčky klieští, tým väčšiu silu pri tej istej námahe vieme vynaložiť na strihanie drôtu. Stačí kliešte uchopiť viac pri koncoch.Muž na loďke tlačí pravou rukou na jeden koniec páky. Ľavá ruka vytvára pevný bod páky. Sila sa prejaví na dru- hom konci páky – plochej časti vesla. Čím dlhšie veslo, tým menšia námaha.Na základe toho, čo si zistil/zistila pri riešení predchádzajúcich piatich úloh, pokús sa odpovedať na výskum- nú otázku 2: Ako funguje páka? Na doplnenie odpovede môžeš použiť aj akékoľvek ďalšie zistenia, vedomosti a skúsenosti.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+21
+
+Žiak vie, že pomocou kladky môžeme dvíhať ťažké predmety s menšou námahou. Žiak vie zostrojiť pevnú kladku, voľnú kladku aj kladkostroj. Žiak vie vytvoriť z vlastného skúmania závery.
+
+
+Ďalším jednoduchým strojom je kladka. Základ kladky tvorí koleso, ktoré má po ob- vode ryhu, cez ktorú je prevesené lano. Koleso je zavesené tak, aby sa mohlo voľne otáčať. Kým na jeden koniec lana pripevňujeme ná- klad, na druhý koniec lana pôsobíme silou a náklad zdvíhame do výšky.
+Kladky môžu byť zo- strojené dvoma rôzny- mi spôsobmi. Zistite, ako sa používaním klad- ky mení námaha, ktorú je potrebné vynaložiť na zdvíhanie nákladu do výšky.
+
+
+
+
+2. Kladka, podobne ako aj ostatné jedno- duché stroje, sa často používa aj na zábavu. Jednou zo zaujímavých zábavných činností je konštruovanie takzva- ných Rube Goldber- gových strojov. Pozoruj- te pozorne a pokúste sa vysvetliť, čo stroj spúšťa, čo sa postupne deje a aký má nakoniec spustenie stroja efekt.
+Vedeli by ste navrhnúť svoj vlastný Rube Goldbergov stroj s využitím páky, kladky a naklonenej roviny? Inšpirujte sa na inter- nete.
+
+Výskumná otázka 3:
+AKO FuNGuJE KLADKA?
+Je rozdiel vo veľkosti sily, akou ťaháme predmety pomocou pevnej a voľnej kladky?
+Vytvor predpoklad a over ho konštruovaním kladiek. Vytvor záver na základe tvojich zistení. Súčasťou záveru je aj odpoveď na výskumnú otázku.
+
+
+
+
+
+
+
+
+
+Záver a odpoveď na výskumnú otázku:
+
+
+
+
+Na obrázku je návrh Rube Goldbergovho stroja.
+Označ, kde sa v ňom nachádza kladka.
+
+
+
+
+
+
+
+
+
+
+
+
+Vytvor vlastný návrh:
+
+
+
+
+
+
+
+
+
+
+
+
+
+22
+
+Žiak vie, že pomocou kladky môžeme dvíhať ťažké predmety s menšou námahou. Žiak vie zostrojiť pevnú kladku, voľnú kladku aj kladkostroj. Žiak vie vytvoriť z vlastného skúmania závery.
+
+
+Kombináciou pevnej a voľnej kladky získame kladkostroj. Skonštruuj kladky a kladkostroj podľa návodu a zaznamenaj, akou silou musíš pôsobiť, aby si vytiahol/vytiahla rovnaký náklad. Cieľom záveru je zhodnotiť, kedy je vyťahovanie nákladu najjednoduchšie.
+
+
+
+3. 
+Okrem pevnej a voľnej kladky sa v mnohých zariadeniach používa aj ich kombiná- cia. Takejto kladke ho- voríme kladkostroj. Čo myslíte, aký význam má spájanie pevnej a voľnej kladky do kladkostro- ja? Skúmajte, či zistíte rozdiely v tom, akú silu musíte vynakladať na zdvíhanie toho istého nákladu pri používaní rôznych kladiek.
+Meranie opakujte pre každú kladku trikrát, aby ste sa vyhli možným chybám v meraní.
+
+
+
+
+
+
+1. meranie
+25
+
+
+
+20
+
+
+
+15
+
+
+
+10
+
+
+
+5
+2. 
+meranie
+3. 
+meranie
+
+
+
+
+
+
+0
+
+Výsledok skú
+
+
+bez kladky
+
+
+pevná kladka
+
+
+voľná kladka
+
+
+kladkostroj
+
+
+
+
+
+
+
+
+23
+
+Žiak vie, že pomocou kladky môžeme dvíhať ťažké predmety s menšou námahou.
+
+
+
+
+4. Ako ste zistili, niekedy kladka spôsobuje len to, že ťažký predmet zdvíhame pôsobením sily iným smerom (pev- ná kladka), námahu však musíme vynaložiť rovnakú ako pri dvíhaní nákladu bez kladky. Pri inom zostrojení kladky sa však námaha, ktorú je potrebné vynaložiť na zdvíhanie nákladu, znižuje.
+Viete určiť, pri ktorých z  uvedených  stro- jov pomocou kladky znižujeme vynaklada- nú námahu (voľná kladka, kladkostroj) a pri ktorých sa námaha neznižuje (pevná klad- ka)?
+
+Všimni si, kde všade sa kladka využíva.
+Na obrázkoch označ samotnú kladku. Uvažuj, či ide o pevnú kladku, voľnú kladku alebo kladkostroj.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Na základe toho, čo si zistil/zistila pri riešení predchádzajúcich štyroch úloh, pokús sa odpovedať na výskumnú otázku 3: Ako funguje kladka? Na doplnenie odpovede môžeš použiť aj akékoľvek ďalšie zistenia a skúsenosti.
+
+Záver z pozorovania a odpoveď na výskumnú otázku:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24
+
+                    Žiak vie vysvetliť, že použitím kombinácie väčších a menších kolies a ozubnice (ozubenej reťaze) môžeme meniť smer točenia ozubených kolies, rýchlosť ich točenia aj námahu, ktorú je potrebné na točenie vynaložiť.
+
+
+
+Výskumná otázka 4:
+AKO FuNGuJE OZuBENé SÚKOLESIE?
+Ktorým smerom sa bude točiť koleso zapojené do ozubeného súkolesia?
+Predpoklad zaznač zakreslením smeru točenia kolies v ozubených súkolesiach a následne svoje predpoklady over. Do výsledku pozorovania sa pokús zovšeobecniť pozorovaný princíp ozubených súkolesí.
+
+
+
+	
+
+	
+
+Posledným jednodu- chým  strojom,  kto- rý preskúmame, je ozubené koleso. Princíp ozubených kolies je pomerne jednoduchý. Ozubené súkolesia sú tvorené kolesami, ktoré majú na svojom okraji v pravidelných vzdiale- nostiach zuby. Ak ich k sebe priložíme tak, že zuby jedného kolesa zapadajú do zubov druhého kolesa, potom točením jedného kolesa vieme roztočiť všetky kolesá, ktoré sú takto na seba napojené.
+Kolesám takto spolu spojeným hovoríme ozubené súkolesie. Sú veľmi dôležitou súčas- ťou mnohých strojov. Vašou prvou úlohou bude skúmať smer točenia ozubených ko- lies.
+
+
+
+
+
+
+Čo ak zmeníme spôsob usporiadania kolies?
+Predpoklad o smere točenia kolies znovu zaznač šípkami a následne svo-     je predpoklady over.  Zovšeobecni, čo rovnaké a čo nové si zistil/zistila       v porovnaní s predchádzajúcou úlohou.
+2. 
+To, čo ste o točení sa ozubených kolies v súkolesí zistili v prvej úlohe, sa pokúste použiť na vytvorenie predpokladov v druhej úlohe. Ako sa budú točiť
+
+Predpoklad	Overenie
+
+?	?
+
+Záver z pozorovania:
+
+kolesá, ak ich zapojíme do kruhu?
+
+
+
+?	?
+
+
+?	?
+?	?
+
+?	?
+
+?	?
+?	?
+
+
+?	?
+
+?	?
+25
+
+                    Žiak vie vysvetliť, že použitím kombinácie väčších a menších kolies a ozubnice (ozubenej reťaze) môžeme meniť smer točenia ozubených kolies, rýchlosť ich točenia aj námahu, ktorú je potrebné na točenie vynaložiť.
+
+
+
+3. Okrem smeru točenia ozubených kolies v súkolesí je možné skúmať aj rýchlosť ich točenia. V mnohých strojoch sa používajú nielen viaceré kolesá, ale tieto kolesá sú aj rôznych veľkostí. Vašou úlohou bude zistiť, či rýchlosť točenia kolies ovplyvňuje ich veľkosť.
+V	tejto	úlohe	si vyskúšate iné prepo jenie ozubených kolies Veľmi často sú koles prepojené		pomoco reťaze – ozubnice. Die ry v reťazi zapadajú d zubov ozubených koli
+a tak sa pohyb jedného kolesa môže prenášať na druhé koleso.
+
+máme tri veľkosti kolies, ktoré sú označené od najväčšieho číslicami 1, 2 a 3.
+Postupne ich zapájame do súkolesia pomocou ozubenej reťaze. Prvým kolesom točíme vždy rovnakým smerom určitou rýchlosťou.
+• V ktorej situácii sa točí druhé koleso v porovnaní s prvým kolesom najrýchlejšie? Túto možnosť označ zelenou značkou	.
+• V ktorých iných situáciách nastáva zrýchlenie druhého kolesa v porovnaní s prvým? Tieto možnosti označ čiernou značkou	.
+• V ktorých situáciách je rýchlosť oboch kolies rovnaká? Tieto možnosti označ čiernou značkou	.
+• V ktorých situáciách sa pohybuje druhé koleso v porovnaní s prvým pomalšie? Tieto
+
+
+Svoje predpoklady zaznamenaj, over ich a výsledok si zaznač. Vytvor zo svojho skúmania záver, pričom v závere sa pokús odpovedať na všetky uvedené otázky.
+
+
+
+1	2	3	3	1	3
+
+
+
+
+
+
+1	1	2	3	3	2
+
+
+
+
+
+2	1	2	2
+
+
+
+Priestor na zaznamenanie výsledku overenia predpokladov a odpovedí na výskumné otázky:
+
+
+
+
+
+
+
+
+
+
+
+Aká situácia tu chýba? Dokresli chýbajúcu kombináciu kolies do prázdneho políčka a zisti, či nebudeš musieť pozmeniť tvoje pôvodné závery. Svoju odpoveď zdôvodni na základe predchádzajúcich zistení.
+
+
+
+
+
+
+
+26
+
+Žiak vie, že ozubené koleso je koleso, ktoré má na okraji zuby; tie zapadajú do zubov iných ozubených kolies. Žiak vie vysvetliť, že použitím kombinácie väčších a menších kolies a ozubnice (ozubenej reťaze)
+môžeme meniť smer točenia ozubených kolies, rýchlosť ich točenia aj námahu, ktorú je potrebné na točenie vynaložiť.
+
+
+Všimni si, kde všade sa princíp ozubeného súkolesia využíva.
+Na obrázkoch označ samotné ozubené kolesá. Uvažuj, aký význam má zarade- nie ozubených kolies do týchto strojov. Pokús sa vytvoriť vysvetlenie toho, ako sa využívajú ozubené kolesá na bicykli.
+
+
+
+
+4. Ozubené súkolesie sa využíva v rôznych strojoch na uľahčenie práce. Napríklad prúd vody roztáča mlynské koleso, ktoré je cez ozubené koleso a reťaz (ozubnicu) napojené na ozubené súkolesie, ktorého úlohou je na- príklad roztáčať mlyn- ský kameň, ktorý melie zrno na múku. Uvažujte podobným  spôsobom o využití ozubených ko- lies v zobrazených zaria- deniach.
+
+
+Ako sa využívajú ozubené kolesá na bicykli?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Na základe toho, čo si zistil/zistila pri riešení predchádzajúcich štyroch úloh, pokús sa odpovedať na výskumnú otázku 4:
+Ako funguje ozubené súkolesie? Na doplnenie odpovede môžeš použiť aj akékoľvek ďalšie zistenia a skúsenosti.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27
+
+Žiak vie, že pomocou páky môžeme nadvihnúť ťažké predmety s menšou námahou. Žiak vie, že pomocou kladky môžeme dvíhať ťažké predmety s menšou námahou.
+Žiak vie, že pomocou naklonenej roviny dokážeme vyniesť veľký náklad do výšky s menšou námahou.
+
+
+Vedci často zisťujú zau- jímavé veci. Výsledky ich skúmania veľmi často využívajú inžinieri pri konštrukcii rôznych zariadení. Všeličo zau- jímavé ste už zistili o rôznych jednoduchých strojoch, vyskúšajte, ako by ste vedeli tieto svoje poznatky využiť na vy- tvorenie zariadenia, po- mocou ktorého by ste vedeli s menšou náma- hou hýbať ťažkými ve- cami. Takto sa prepája veda s technikou.
+
+Technická úloha:
+NAVRHNI, AKO VyNIESť STARÚ PRáČKu A AKO PRINIESť NOVÚ PRáČKu  TAK,  ABy  SI  VyNALOžIL/VyNALOžILA  NA  PRENOS TÝCHTO PREDmETOV ČO NAJmENEJ NámAHy.
+
+
+Návrh postupu a jeho zdôvodnenie:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pokúste sa vlastnými slovami vysvetliť, kedy a čím je možné uľahčiť prácu pri zdvíhaní a premiestňovaní ťažkých predmetov. Vysvetlite to tak, ako ste tomu po- rozumeli. Vysvetlenie môžete napísať, ale aj nakresliť a primerane opísať, aby mu každý rozumel.
+
+ 	Riešenie výskumného problému	
+2. KEDy A Čím JE mOžNé SPôSOBIť, žE BuDEmE VyNAKLA- DAť mENŠIu NámAHu NA POSÚVANIE ČI ZDVíHANIE A PRE- mIESTňOVANIE ťAžKÝCH PREDmETOV?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28
+
+            Žiak vie, že niektoré predmety padajú na zem rýchlejšie, iné pomalšie. Žiak vie, že pomocou páky môžeme nadvihnúť ťažké predmety s menšou námahou. Žiak vie, že pomocou kladky môžeme dvíhať ťažké predmety s menšou námahou.
+Žiak vie, že pomocou naklonenej roviny dokážeme vyniesť veľký náklad do výšky s menšou námahou.
+
+
+Odpoveď na list od tímu strojných inžinierov
+
+1. Ako spomaliť pád predmetov?
+2. Kedy a čím je možné spôsobiť, že budeme vynakladať menšiu námahu na posúvanie či zdvíhanie a premiestňovanie ťažkých predmetov?
+
+Odpoveď a zdôvodnenie na základe zistených informácií:
+
+Navrhnite odpoveď na list, ktorý ste na začiatku vášho skúmania dostali od strojných inžinierov. Pamätajte, že vo vašom liste sa musia objaviť odpovede na všetky ich otázky.
+Pokúste sa vytvoriť odpovede čo najjedno- duchšie, môžete použiť aj nákresy, ak vám to pomôže lepšie vysvetliť, čo by ste radi strojným inžinierom poradili.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29
+
+VESmíR
+
+
+Milí mladí výskumníci
+
+
+
+
+
+Milí mladí výskumníci!
+Ako sme sa dozvedeli, máte už za sebou veľa zaujímavých výskumov, prostredníctvom ktorých ste pomohli iným výskumným tímom napredovať v ich práci. Výskumníci nielen pomáhajú iným výskumným tímom, ale o svojej vedeckej práci píšu rôzne články do časopisov pre tých, ktorí sa chcú o výsledkoch ich práce dozvedieť viac. Radi by sme vás preto požiadali, aby ste pre nás pripravili článok do časopisu. Časopis je určený pre vašich vrstovníkov a venuje sa rôznym zaujímavým prírodovedným témam. Práve teraz pripravujeme nové číslo časopisu, ktoré sa bude venovať téme vesmíru.
+Keďže do redakcie nám často chodia aj rôzne otázky, bolo by vhodné, keby sa vo vašom článku objavili aj odpovede na tie najčastejšie sa vyskytujúce otázky: Čo je slnečná sústava? Čo spôsobuje, že Mesiac má na oblohe v rôznych dňoch rôzny tvar? Vidíme na oblohe stále tie isté hviezdy? Môže človek prežiť vo vesmíre? Alebo presťahovať sa na inú planétu?
+Pokúste sa článok pripraviť tak, aby bol pre vašich kamarátov zaujímavý. Vopred ďakujeme za váš určite zaujímavý článok.
+S pozdravom
+redakcia prírodovedného časopisu pre mládež
+
+
+
+
+
+Zaujímavý je napríklad časopis Quark.
+
+
+
+Aké prírodovedné časopisy pre mládež si našiel/našla?
+
+
+
+Aké iné časopisy našli tvoji spolužiaci?
+
+Jedným z najdlhšie vy- dávaných časopisov pre mládež, ktorý sa venuje aj prírodným javom, je český (pôvodne česko- slovenský) časopis ABC. Vychádza od roku 1957. Zistite, o čom sa v tomto roku v časopise písalo.
+
+
+
+Zájdi do knižnice a opýtaj sa, aké prírodovedné časopisy pre mládež majú v archíve. Vyber si ten, ktorý ťa podľa názvu najviac upúta, a vypýtaj si z archívu všetky čísla z predchádzajúceho roka. Hľadaj informácie, ktoré by ti pomohli pri tvorbe odpovede na otázky od redakčného tímu časopisu. Zapíš si ich.
+
+
+
+
+
+
+
+Aké iné zaujímavé informácie o téme vesmíru si zistil/zistila pri štúdiu časopisov?
+
+
+
+
+
+
+30
+
+  Žiak vie, že Zem je planéta, ktorá obieha okolo hviezdy, nazývanej Slnko. Žiak vie, že Zem má približne guľovitý tvar a okolo Zeme obieha jej družica – Mesiac. Žiak vie, že Zem sa okrem pohybu okolo Slnka otáča aj okolo vlastnej osi. Žiak vie, že Zem sa okolo vlastnej osi otočí za jeden deň (24 hodín) a obehne okolo Slnka za jeden rok (365 dní). Žiak vie vymenovať v poradí planéty slnečnej sústavy: Merkúr, Venuša, Zem, Mars, Jupiter, Saturn, Urán a Neptún. Žiak vie, že planéty spolu tvoria slnečnú sústavu. Žiak vie graficky znázorniť usporiadanie slnečnej sústavy.
+
+
+Prvá otázka:
+ČO JE SLNEČNá SÚSTAVA?
+Tvojou úlohou je doplniť chýbajúce informácie o slnečnej sústave, ktorá je zobrazená na nasledujúcej dvojstrane.
+Pri dopĺňaní ti pomôžu úlohy k výskumnej otázke.
+Na obrázku sa nachádza slnečná sústava. Tvojou úlohou je pomenovať jednotlivé vesmírne telesá. Urči, či ide o planétu, hviezdu, družicu (mesiac) alebo iné vesmírne teleso. Informácie vyhľadaj na internete alebo v encyklopédii.
+Naznač smer pohybu jednotlivých vesmírnych telies slnečnej sústavy.
+Ak sa vesmírne telesá pohybujú stále tým istým spôsobom, pokús sa naznačiť aj dráhu pohybu týchto telies.
+1C	Vpíš do obrázka, aký pohyb vykoná Zem raz za 24 hodín a aký pohyb vykoná Zem raz za 365 dní.
+Sú planéty typické svojím sfarbením? Pokús sa ich vyfarbiť podľa toho, ako vyzerajú. Odporúčame, aby si sfarbenie planét zisťoval/zisťovala v rôznych zdrojoch.
+
+Zisti, ktoré ďalšie planéty slnečnej sústavy majú svoj mesiac (družicu). Má ich nie- ktorá planéta aj viac? Zisti to a dokresli mesiace k planétam.
+Do obrázka doplň aj nasledovné vesmírne telesá: Kuiperov pás, Halleyho komé- tu, vesmírnu stanicu ISS (International Space Station), meteorologickú družicu, navigačnú družicu. Aké ďalšie vesmírne telesá je možné vo vesmíre pozorovať? Doplň do obrázka a pomenuj.
+
+
+1. Každý výskumník, ktorý sa rozhodne napísať článok do časopisu, má snahu najskôr preskúmať to, čo je už známe. Po- pri štúdiu často ob- javí otázky, ktorým sa potom venuje. Aj my si to vyskúšame. A aby sme sa v množstve informácií o vesmíre nestratili, budeme sa sústreďovať najmä na štyri otázky, ktoré nám redakčný tím časopisu poslal v liste.
+Preto sa najskôr budeme venovať skúmaniu toho, čo je slnečná sústava. Na obrázku sa nachádza pomerne starý nákres slnečnej sústavy, ktorý bude potrebné doplniť o chýbajúce informácie. Pomôžu vám pri tom úlohy.
+
+
+Pokús sa vysvetliť rozdiel medzi hviezdou a planétou. Aká hviezda je súčasťou slnečnej sústavy? Aké planéty sú súčasťou slnečnej sústavy?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Merkúr
+
+
+
+
+Zem
+
+Mesiac
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+										
+
+
+
+
+
+
+
+32
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+Mars
+
+Jupiter
+
+
+
+
+
+
+
+
+Urán
+
+
+Neptún
+
+
+
+Pluto
+
+
+
+
+
+
+
+
+Saturn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+33
+
+
+
+
+
+
+2. Už vieme, aké vesmírne telesá patria do slnečnej sústavy. Teraz lepšie preskú- mame to, ako sa Zem ako guľovitá planéta v slnečnej sústave pohy- buje. Všimnite si jednu z prvých fotografií z vesmíru. Pochádza z 24. decembra 1968. Viete z obrázka zistiť, čo zobra- zuje?
+Ak váhate, môžete skúsiť vyhľadať ďalšie informácie na internete. Pravdepodobne vám pomôže informácia, že fotografiu urobila posádka Apolla 8.
+                
+Žiak vie, že Zem má približne guľovitý tvar a okolo Zeme obieha jej družica – Mesiac. Žiak vie demonštrovať na modeli Zeme rotáciu planéty okolo vlastnej osi a zároveň rotáciu okolo Slnka.
+Žiak vie, že Mesiac nesvieti, ale odráža svetlo dopadajúce naň zo Slnka. Žiak vie graficky znázorniť usporiadanie slnečnej sústavy.
+
+Všimni si dve vesmírne telesá na obrázku.
+Vedel/vedela by si určiť, o aké vesmírne telesá ide? Vedel/vedela by si určiť aj to, odkiaľ prichádza svetlo a čo je jeho zdrojom?
+
+
+
+Pokús sa situáciu z obrázka napodobniť pomocou dvoch rôzne veľkých polystyrénových gúľ a stolovej lampy.
+Lepšie výsledky získaš, ak budeš skúmanie realizovať v tmavšej miestnosti a gule upevníš na ceruzky. Cieľom je, aby si dosiahol/dosiahla na obrázku uvedené osvetlenie väčšej gule v pozadí obrázka, menšia guľa je v popredí. Nakresli, ako situácia vyzerala.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Na väčšiu guľu sa pokús nakresliť svetadiely a špendlíkom vyznač, kde približne sa nachádza Slovensko. Keď je špendlík obrátený smerom k lampe (Slnku), je u nás deň. Zem sa ale otáča okolo vlastnej osi, a tak sa Slnko zdanlivo posúva po oblohe, až za- padne, čo znamená, že špendlík je oproti lampe v takej pozícii, že svetlo nie je vidieť. Zem sa točí okolo svojej vlastnej osi stále rovnako. Celú otočku spraví za 24 hodín. A preto sa strieda deň s nocou.
+
+
+34
+
+                                               Žiak vie, že okolo Zeme obieha jej družica – Mesiac. Žiak vie demonštrovať na modeli Zeme rotáciu planéty okolo vlastnej osi a zároveň rotáciu okolo Slnka.
+Žiak vie, že Mesiac nesvieti, ale odráža svetlo dopadajúce naň zo Slnka.
+
+
+Druhá otázka:
+ČO SPôSOBuJE, žE mESIAC má NA OBLOHE V RôZNyCH DňOCH RôZNy TVAR?
+mesiac sám o sebe nesvieti, len odráža svetlo od Slnka.
+Podľa toho, na akej strane sa nachádza voči Slnku a Zemi, vidíme na oblohe väčšiu alebo menšiu osvetlenú časť Mesiaca – tomuto javu hovoríme mesačné fázy. Priraď čísla k pomenovaniam fáz Mesiaca.
+
+4.	5.	6.
+3.	7.
+2.	8.
+1.
+1. 
+Jedným z vesmírnych telies slnečnej sústavy je Mesiac. Mesiacu ho- voríme aj prirodzená družica Zeme. Tak ako obieha Zem okolo Slnka, obieha Mesiac okolo Zeme. Rovnako ako Zem, ani Mesiac nie je hviezda, a tak nevyžaruje vlastné svet- lo.
+Prečo teda zvykneme hovoriť: Ako krásne nám dnes svieti mesiac? Zistite viac, aby ste ve- deli odpovedať na zve- davú otázku z listu od redakčného tímu.
+
+
+3.
+4.	2.
+
+5.	1.
+
+
+
+6.	7.	8.
+Pomocou polystyrénovej gule na paličke sa pokús zistiť, v akej pozícii budeš vidieť nov, prvú štvrť, druhú štvrť a spln.
+Obrázky pospájaj podľa toho, čo si zistil/zistila. Lampa svieti vždy zľava.
+
+
+
+2. Keďže nemôžeme vycestovať do vesmíru a preskúmať, ako sa Me- siac javí tam, vyskúšame si vytvoriť fázy Mesiaca s pomôckami. Potrebovať budete drevenú paličku (postačí aj ceruzka), polystyrénovú guľu a svetelný zdroj – lampu. Vyskúšajte si štyri rôzne situácie, ktoré vidíte na obrázkoch. Priraďte obrázky podľa toho, ako bola polystyrénová guľa osvietená. Potom sa pokúste pomenovať osvetlené gule podľa fáz Mesiaca.
+
+
+
+Čo v tomto skúmaní predstavuje polystyrénová guľa?Čo v tomto skúmaní predstavuje človek?Čo v tomto skúmaní predstavuje lampa?35
+
+                 Žiak vie, že okolo Zeme obieha jej družica – Mesiac. Žiak vie, že Mesiac nesvieti, ale odráža svetlo dopadajúce naň zo Slnka.
+
+
+
+3. Už sme zistili, čo spôsobuje, že Mesiac má na oblohe v rôznych dňoch rôzne tvary. Tie sa postupne opakujú. Zau- jímavé by bolo zistiť, či je opakovanie tohto ja- vu pravidelné. Všimnite si tabuľku, v ktorej sa nachádza záznam fáz Mesiaca počas roka 2018. Označte všetky splny v roku a pokúste sa odpovedať na otázky.
+
+V tabuľke sa nachádza prehľad fáz mesiaca v roku 2018.
+Vyznač spln a nov v každom mesiaci (nov je vyfarbený kruh). Koľko dní prejde od jedného splnu k druhému?
+
+
+
+
+
+
+
+
+
+Koľkokrát v roku nastal spln?Koľko dní prešlo od jedného splnu k druhému?Nájdi na internete fázy mesiaca na nasledujúce dva týždne a vyznač fázy do tabuľky. V dňoch, keď bude bezoblačná noc, pozoruj Mesiac na oblohe a zhodnoť, či pozorovanie súhlasí s údajmi, ktoré sú na internete.
+
+DátumInternetPozorovanieVšimni si podobnosti a rozdielnosti v tom, ako sa každú noc v januári v rôznych rokoch javí mesiac na nočnej oblohe. Vytvor z pozorovania záznamov záver.
+
+JANUÁR 2018
+
+POUTSTŠTPISONE12345678910111213141516171819202122232425262728293031
+Čo si zistil/zistila?
+
+
+
+
+
+36
+
+       Žiak vie charakterizovať súhvezdie ako viditeľné usporiadanie hviezd do rozpoznateľného obrazca. Žiak vie rozpoznať hlavné súhvezdie zimnej oblohy – Orion – a hlavné súhvezdie letnej oblohy – Veľký voz.
+
+
+
+Tretia otázka:
+VIDímE NA OBLOHE STáLE TIE ISTé HVIEZDy?
+Pri pozorovaní nočnej oblohy vidíme okrem mesiaca aj veľa hviezd. Aby sa pozorovanie hviezd zjednodušilo, vedci ich pomenúvajú. Okrem samotných hviezd zvyknú pomenovať aj zoskupenia hviezd na oblohe, a to zvyčajne podľa obrazca, ktorý pripomínajú. Všimni si, ako vyzerajú niektoré súhvezdia.
+
+LabuťDrakMalý vozKasiopeaPolárkaAndromedasever
+
+Zatiaľ sme sa venovali vesmírnym telesám, kto- ré sú súčasťou našej slnečnej sústavy. Tretia otázka je zameraná na vesmírne telesá, ktoré sú od našej slnečnej sústavy veľmi vzdialené
+– sú to hviezdy. Ak je noc bezoblačná, na ob- lohe môžeme pozoro- vať obrovské množstvo hviezd. Vidíme ich tým viac, čím menej svetla je na mieste, z ktoré- ho pozorujeme. Najviac hviezd vidíme, ak pozo- rujeme z miesta, ktoré je dostatočne vzdialené od osvetleného mesta.
+Preskúmajme, či vidíme na oblohe stále tie isté hviezdy a či ich môžeme nájsť na tom istom mieste.
+
+
+
+Polárka
+
+
+
+
+
+
+
+
+
+
+juh
+
+Spoznal/spoznala by si, aké súhvezdie je na fotografii?
+Je to typické súhvezdie zimnej oblohy.
+
+2. Rozpoznávanie sú- hvezdí je jednoduché, ak vieme, ktoré hviezdy do súhvezdia patria. Na nočnej oblohe však vi- díme len rôzne veľ-  ké svetelné body. Vyskúšajte, či by ste ve- deli rozpoznať, aké sú- hvezdie je na fotografii. Aby to nebolo pre vás také zložité, vedľa fo- tografie máte uvedené schémy troch možných súhvezdí, pričom vašou úlohou je vybrať to správne. Ak je úloha priveľmi ťažká, pomôže vám, ak na internete vyhľadáte, ktoré je ty- pické súhvezdie našej zimnej oblohy, pretože práve to je na obrázku zobrazené.
+
+37
+
+       Žiak vie charakterizovať súhvezdie ako viditeľné usporiadanie hviezd do rozpoznateľného obrazca. Žiak vie rozpoznať hlavné súhvezdie zimnej oblohy – Orion – a hlavné súhvezdie letnej oblohy – Veľký voz.
+
+
+Spoznal/spoznala by si, aké súhvezdie je na fotografii?
+Je to typické súhvezdie letnej oblohy.
+
+
+
+4. Z toho, čo sme doposiaľ zistili, je zrej- mé, že na nočnej oblo- he môžeme rozpo- znávať vždy tie isté súhvezdia. Keďže sme tiež zistili, že Zem sa v slnečnej sústave po- hybuje – točí sa okolo vlastnej osi a zároveň sa točí okolo Slnka, môže to znamenať, že súhvez- dia nemusíme vidieť na oblohe stále rovnako.
+
+4
+
+
+
+
+leto
+
+Všimni si, ako vidíme to isté súhvezdie na nočnej oblohe počas rôznych ročných období.
+Odpovedz na otázku a do rámčeka nakresli podľa uvedeného obrázka, ako vyzerá dané súhvezdie v zime, a dokresli k nemu aj súhvezdie Malého voza.
+
+jar
+
+
+zima
+
+
+
+jeseň
+
+
+Okrem hviezd zoskupených do súhvezdí je možné na oblohe pozorovať aj takzvané
+„padajúce hviezdy”. Zisti, aké vesmírne telesá týmto názvom pomenúvame.
+
+
+
+
+
+
+
+
+
+Zisti, aká povera sa viaže k vzhliadnutiu „padajúcej hviezdy“. Opíš ju. Je možné v určitom období v roku vidieť viac
+„padajúcich hviezd“?
+
+
+
+
+
+38
+
+Žiak vie vysvetliť, akými spôsobmi človek skúma vesmír.
+
+
+
+Štvrtá otázka:
+Môže človek prežiť vo vesMíre?
+Alebo presťAhovAť sA nA inú plAnétu?
+prvým vynálezom, ktorým človek začal vesmír skúmať, bol ďalekohľad.
+Väčšina ďalekohľadov funguje na princípe šošoviek, ktoré poznáme z lupy či okuliarov. V ďalekohľade sa nachádzajú takéto šošovky minimálne dve. Vyskúšaj, čo sa stane, ak budeš používať na zväčšovanie predmetov nie jednu, ale dve lupy nad sebou. Aby zväčšovanie fungovalo, lupy musia byť od seba určitým spôsobom vzdia- lené. To, ako musia byť vzdialené, zisti skúmaním.
+
+
+Na skúmanie budeš potrebovať dve lupy.
+
+
+
+
+ Najskôr zisti, v akej vzdiale- nosti musíš držať lupu (2) od pozorovaného predmetu (1) a od oka (3), aby si predmet zväčšil/zväčšila čo najviac.
+
+
+1 	2 	3
+Teraz zisti, v akej vzdialenosti musí byť pozorovaný predmet (1), prvá lupa (2A), potom od nej druhá lupa (2B) a nakoniec tvoje oko (3), aby si predmet zväčšil/zväčšila čo najviac.
+
+1 	2A 	2b 	3
+
+Prvý astronomický ďalekohľad zostrojil Galileo Galilei. Zisti, kto to bol a čím sa vo svojej dobe preslávil.
+
+
+
+
+
+
+priraď nástroje pozorovania a skúmania vesmíru k ich názvom. pomôž si internetom.
+1. Hubblov vesmírny ďalekohľad, 2. mesačné vozidlo Lunarrover, 3. teleskop ALMA,
+4. prvá slovenská umelá družica zeme skCUBE, 5. vesmírna sonda Curiosity,
+6. observatórium na Skalnatom plese, 7. prvá vesmírna družica Sputnik1
+
+
+Informácie o ďalekom vesmíre, napríklad o vzdialených planétach slnečnej sústavy, ale aj o vesmíre za na- šou slnečnou sústa- vou, človek získava rôznym spôsobom. V nasledovných úlohách preskúmame, ako člo- vek skúma  vesmír, aby mohol zvážiť, či je bezpečné tam cestovať a prípadne aj navštíviť iné planéty, či už v rámci slnečnej sústavy, alebo aj mimo nej.
+1. V minulosti ešte ne- bolo možné letieť do vesmíru a presvedčiť sa, či to, čo vidíme zo Zeme, je skutočne také, ako si to predstavuje- me. Preto sa oddávna ľudia snažili vymyslieť prístroje, pomocou kto- rých by dokázali lepšie pozorovať, čo všetko sa vo vesmíre nachádza. Najvýznamnejším ob- javom, ktorý posunul poznanie vesmíru veľmi rýchlo dopredu, bol ob- jav ďalekohľadu. V mier- ne pozmenenej podobe ho používame dodnes.
+
+
+2. Okrem klasických ďalekohľadov postupne ľudia vyvinuli aj oveľa väčšie zariadenia na po- zorovanie vesmíru. Ve- deli by ste priradiť názvy k obrázkom? Pomôžte si internetom.
+Vesmírne sondy skúma- jú vesmír pri lete, sú bez posádky a často ďaleko vo vesmíre zaniknú, dovtedy však posielajú množstvo zaujímavých fotografií z miest, ktoré by inak boli pre človeka nedosiahnuteľné. Pre- to máme k dispozícii napríklad aj fotografie najvzdialenejších planét slnečnej sústavy, ku ktorým by človek mu- sel cestovať aj niekoľko rokov.
+
+
+39
+
+Žiak vie vysvetliť, akými spôsobmi človek skúma vesmír.
+
+
+
+
+3. Vesmír je veľmi roz- siahly, hovorí sa,  že je nekonečný. Aj na- priek tomu, že neustále vyvíjame nové zaria- denia na jeho skúmanie, stále vieme pozorovať len jeho malú časť. Na základe toho, ako sa výskumníkom vesmír javí pri jeho pozoro- vaní, vytvárajú hypo- tézy o tom, ako vyzerá ten vzdialenejší, pre nás zatiaľ nedosiahnuteľný vesmír.
+
+Vedci vesmír skúmajú aj tak, že o tom, ako sa vesmír javí z rôznych pozorovaní, premýšľajú.
+Výsledkom tohto premýšľania sú vedecké hypotézy.
+
+
+
+Jedným z najpoprednejších vedcov v koz-
+mológii je profesor Stephen Hawking. Aj napriek svojmu ochoreniu, ktoré spôso- bilo, že sa väčšinu svojho života nemohol takmer vôbec hýbať, bol jedným z naj- aktívnejších vedcov vo svojom odbore. Jeho spôsob premýšľania je vzorom pre mnohých jeho vedeckých nasledovníkov. Jeho najzaujímavejšie objavy posunuli vpred teóriu čiernych dier a teóriu veľkého
+  tresku.	
+
+
+
+4. Okrem zaujímavých kníh, ako sú Stručné dejiny času a Ešte stručnejšia história ča- su, napísal Stephen Hawking so svojou dcérou Lucy aj sériu dobrodružných kni- žiek pre deti, pri ktorých čítaní sa mladí nadšenci skúmania ves- míru dozvedia od najpoprednejšieho koz- mológa veľa zaujíma- vých informácií o tom, ako funguje vesmír.
+
+Pokús sa z rôznych zdrojov zistiť, čo je to čierna diera, a pokús sa jednu nakresliť.
+Inšpiruj sa rôznymi zdrojmi informácií, do vlastného vysvetlenia však vkladaj len tie, ktorým skutočne rozumieš. Uvedom si, že prírodu, ktorej je vesmír súčasťou, je možné vysvetľovať rôzne zložito, ale mnohokrát aj veľmi jednoducho.
+
+
+
+
+40
+
+Žiak vie zvážiť, aké podmienky by musela mať planéta na to, aby na nej človek prežil.
+Žiak vie, že vo vesmíre nie je vzduch.
+
+
+
+Doplň tabuľku o ďalšie informácie o tom, čo všetko potrebuje človek na to, aby prežil.
+Pomôžu ti obrázky. Hľadaj informácie na internete a v rôznych encyklopédiách a zhodnoť, či si človek vo vesmíre vie takéto podmienky zabezpečiť.
+
+
+5. 
+Ak človek chce zistiť, ako to v skutočnosti vo vesmíre všetko fun- guje, ak chce zistiť, či sú jeho hypotézy skutoč- ne pravdivé, potre- buje vesmír preskúmať skutočným cestovaním. Preto sú na svete rôzne vesmírne výskumné ústavy, ktoré sa zao- berajú možnosťou ces- tovať do vesmíru a prí- padne aj osídliť nie- ktorú z planét slnečnej sústavy.
+Skúsme aj my spolu uvažovať, či je možné, aby človek vo vesmíre alebo na inej planéte prežil.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zisti najnovšie informácie o plánoch človeka cestovať na iné planéty slnečnej sústavy.
+O ktorej planéte sa najviac uvažuje? Vieš zdôvodniť, prečo sa uvažuje práve o tejto planéte?
+
+
+
+
+
+
+
+
+
+
+
+
+41
+
+Žiak vie graficky znázorniť usporiadanie slnečnej sústavy.
+
+
+
+
+Navrhnite článok do prírodovedného časo- pisu pre mládež o téme vesmír. Pamätajte, že vo vašom článku sa musia objaviť odpovede na všetky otázky uvedené v e-maile, ktorý ste dostali na začiatku skú- mania témy o vesmíre. Keďže jednou z otázok je charakteristika toho, čo je slnečná sústava, vhodné by bolo, ak by ste článok doplnili o vlastnú kresbu toho, čo je možné považovať za slnečnú sústavu.
+Pokúste sa vytvoriť odpovede čo najjedno- duchšie, môžete použiť aj nákresy či obrázky, ak vám to pomôže lepšie vysvetliť odpoveď na otázku.
+
+Návrh článku do prírodovedného časopisu pre mládež
+
+Nezabudni odpovedať na otázky z listu od redakčného tímu časopisu:
+• Čo je slnečná sústava?
+• Čo spôsobuje, že Mesiac má na oblohe v rôznych dňoch rôzny tvar?
+• Vidíme na oblohe stále tie isté hviezdy?
+• Môže človek prežiť vo vesmíre? Alebo presťahovať sa na inú planétu?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+42
+
+Poznámky:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+43
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+44
+
+ČLOVEK
+DÝCHACIA SÚSTAVA
+
+Milí mladí výskumníci
+
+
+
+
+
+Milí mladí výskumníci!
+Premýšľame o tom, či by bolo možné prepojiť Európu s Amerikou tak, ako je prepojené Francúzsko s An- glickom – podmorským tunelom. Sme stavební inžinieri, takže sa budeme musieť popasovať najmä s tým, ako takúto obrovskú stavbu postaviť. Vy nám však môžete pomôcť naplánovať, ako ho postaviť tak, aby bol bezpečný pre človeka.
+Vzhľadom na to, že pod vodou a ani pod zemou sa nedá dýchať, jedna z vecí, ktoré budeme musieť vyriešiť, je vzduch na dýchanie. Potrebovali by sme vedieť, koľko vzduchu potrebuje človek na dýchanie, a aj to, či potre- buje len určité množstvo toho istého vzduchu alebo na dýchanie potrebuje neustále nový vzduch. Zaujíma nás tiež, či sa vzduch dýchaním nejakým spôsobom mení a môže sa postupne stať pre človeka nevhodný, dokonca nebezpečný.
+Vopred vám ďakujeme za vysvetlenia, bez nich nebudeme vedieť naplánovať samotnú stavbu tunela tak, aby bol pobyt v ňom pre človeka bezpečný.
+S pozdravom	tím stavebných inžinierov
+
+
+EuROTuNEL – SuCHOu NOHOu Z FRANCÚZSKA DO ANGLICKA
+
+Anglicko
+
+
+
+
+
+
+  Celková dĺžka tunela: 50,5 km 
+
+
+
+
+
+
+
+
+
+Francúzsko
+
+49 kilometrov dlhé stavebné dielo, z ktorého takmer 38 kilo- metrov vedie pod morom, tvoria dva tunely pre nákladnú a osob- nú železnicu, medzi ktorými sa nachádza obslužný – únikový tunel. Južná rúra je určená pre smer z Francúzska do Anglicka, severnou premávajú vlaky opačným smerom.
+Raziť ich začali v mestách Calais vo Francúzsku a Folkestone v An- glicku v roku 1986. Tunel prebieha v hĺbke 40 m pod morským dnom. Prvé vlaky s cestujúcimi tunelom prešli 14. novembra 1994.
+Cesta aj s nakladaním a vy- kladaním vozidiel trvá z Londýna do Paríža dve hodiny a 15 minút, z Londýna do Bruselu hodinu a 51 minút. Prejazd tunelom trvá približne 35 minút.
+
+
+
+
+45
+
+Žiak vie vysvetliť proces dýchania.
+
+
+
+
+Keďže tunel bude postavený pod mo- rom, bude potrebné zabezpečiť do neho prísun vzduchu. Aby sme mohli odpovedať tímu stavebných in- žinierov, potrebujeme preskúmať, koľko vzdu- chu potrebuje človek na dýchanie.
+Najskôr preskúmame, koľko vzduchu potrebu- jeme na jeden nádych. Keď zistíme, koľkokrát sa nadýchneme za jednu minútu, budeme vedieť vypočítať  aj to, koľko vzduchu budeme potrebovať za akýkoľvek čas.
+
+
+1.	KOľKO VZDuCHu POTREBuJE ČLOVEK NA DÝCHANIE?
+
+
+1	Zisti, koľko vzduchu potrebuješ na jeden nádych.
+
+Ako by si odmeral/odmerala, kto vydýchol viac vzduchu?
+Navrhni postup, pomocou ktorého zistíš, kto na jeden nádych vydýchol viac vzduchu do balóna (ktorý balón je
+
+
+Tvoj návrh postupu merania balónov:
+
+
+
+
+
+
+
+
+
+Postup, na ktorom ste sa dohodli, zrealizuj, výsledky merania si zapíš a sformuluj záver.
+
+Meranie pre každého člena skupiny zrealizu- jte trikrát, aby ste sa vyh- li prípadnej chybe v me- raní. Čím trpezlivejšie a precíznejšie bude- te meranie realizo- vať, tým dôveryhodnej- šie výsledky získate. Nie každý výdych je rovnaký, preto nemusíte dostať úplne rovnaké hodnoty.
+
+
+
+1.
+2.
+3.
+4.
+
+Záver:
+
+
+Meno
+
+
+1. meranie
+
+
+2. meranie
+
+
+3. meranie
+
+
+Výsledok
+
+
+
+
+
+
+
+
+46
+
+Žiak vie vysvetliť proces dýchania.
+
+
+
+Vysvetli, na akom princípe funguje nasledovné meranie množstva vydychovaného vzduchu.
+Vysvetlenie vpíš priamo do obrázka v podobe opisu toho, čo sa deje.
+2. 
+Aby si boli vedci istí svojimi výsledkami, čas- to používajú na meranie toho istého javu rôzne metódy. Na obrázku je uvedená ďalšia metó- da, pomocou ktorej by ste mohli zistiť, aké množstvo vzduchu vy- dychujete. Opis k nej sa však stratil. Vašou úlohou bude najskôr sa pokúsiť opis k postupu dotvoriť a potom si túto metódu merania vyskúšať.
+Získané výsledky po- rovnajte s tými, ktoré ste získali pri pred- chádzajúcom meraní.
+
+
+
+
+Vedel/vedela by si zariadenie z dostupných materiálov zostrojiť a preveriť výsledky zís- kané meraním z prvej úlohy?
+
+Meno1. meranie2. meranie3. meranieVýsledok1.2.3.4.
+Zhodujú sa výsledky s tými, ktoré som získal/získala v úlohe 1?
+
+
+
+
+
+
+
+
+stvo vzduchu, ktoré človek potrebuje?
+
+Tvoj návrh iného postupu merania:
+
+
+
+
+
+
+
+
+
+
+47
+
+                                                          Žiak vie vysvetliť proces dýchania. Žiak vie, že pri zvýšenej námahe potrebuje človek viac energie (potravy) aj kyslíka (dýcha rýchlejšie).
+
+
+
+3. V predchádzajúcich úlohách sme zistili, koľko vzduchu potre- buje človek na jeden nádych. Aby sme vedeli povedať, koľko vzduchu potrebuje za určitý čas, musíme ešte zistiť, ako rýchlo človek dýcha.
+V nasledujúcej úlohe budeme pozorovať, koľ- kokrát sa nadýchneme za jednu minútu. Po- dobne ako v pred- chádzajúcich úlohách, aj tu budeme zisťovať, či sú medzi ľuďmi rozdie- ly v tom, ako rýchlo dýchajú.
+
+Ako rýchlo človek dýcha?
+Diskutuj o tom, ako by bolo možné zistiť, koľkokrát sa človek nadýchne za minútu.
+Najskôr premýšľaj, ako je možné dýchanie človeka pozorovať. Pozorujte sa navzájom
+loveka pozorovať.
+
+Ako sa pozorovateľne prejavuje dýchanie človeka?
+
+
+
+
+
+
+
+
+ 	
+Navrhni postup, pomocou ktorého by si zistil/zistila, koľkokrát sa človek chne za minútu a či všetci dýchame rovnako rýchlo.
+
+
+Tvoj návrh postupu:
+
+
+
+
+
+
+
+
+
+Dýchate všetci v skupine rovnako rýchlo?
+Pozoruj a výsledok zaznamenaj. Vytvor záver. Meno
+
+Záver z pozorovania. Dýchate všetci v skupine rovnako rýchlo?
+
+
+
+
+
+
+
+5. Vašou ďalšou úlohou bude zistiť, či človek dýcha stále rovnako rýchlo. Najskôr disku- tujte v skupine o tom, aké máte skúsenosti so situáciami, v ktorých ste sa zadýchali. Na základe skúseností sa pokús- te vytvoriť predpoklad, ktorý si následne ove- ríte pozorovaním.
+
+Je možné dýchanie zrýchliť?
+Ako? Vytvor predpoklad, použi overený postup pozorovania rýchlosti dýchania a svoj predpoklad si over.
+
+
+
+
+
+
+
+
+
+
+
+48
+
+Žiak vie vysvetliť proces dýchania.
+
+
+
+Prečítaj si články z novín informujúce o množstve vzduchu, ktoré človek potrebuje na dýchanie.
+Podľa  správy TASR  každý strom
+denne vytvorí 180 litrov kyslíka.
+
+
+6. Skúmaním sme zis- tili, približne koľko vzduchu potrebujeme na dýchanie a aj to, aké
+
+Priemerný dospelý človek vdýchne pri jed- nom nádychu asi pol litra vzduchu. Pľúca stále uskladňujú asi 3 litre vzduchu. Udržiavajú si stále množstvo bez ohľadu na to, ako dý- chame, a správajú sa ako bezpečnostné zaria- denie, chránia telo pred náhlymi zmenami prostredia.
+https://www.personaloxygen.eu
+
+Človek denne v pokoji spotrebuje až 360 l kyslíka. Na to, aby mohol denne dýchať, teda potrebuje 2 stromy. V prípade, že vyvíja nejakú činnosť, potrebuje stromov ešte viac.
+17. apr. 2005 o 14:47, TASR
+
+sú medzi nami rozdiely v tom, ako rýchlo a ako hlboko dýchame. Ak vedci zrealizujú skúma- nie, zvyčajne sa snažia doplniť si poznatky čítaním výsledkov vý- skumov iných vedcov. Výsledky im tak môžu dávať väčší zmysel, lepšie ich pochopia.
+Vyskúšajte si to. Prečítajte si vybrané
+
+Ročná    spotreba    kyslíka
+dospelého   človeka   je asi
+330 kilogramov. 100 rokov starý buk vytvorí za jednu hodinu asi 17 kg kyslíka, čím zabezpečuje ročnú spotrebu desiatim dospelým ľuďom.
+http://www.lesnapedagogika.sk
+
+Každý vie, že človek potrebuje na dýchanie kyslík,
+ktorý sa nachádza vo vzduchu. Vieme aj to, že kys- lík tvoria rastliny. Málokto však vie, koľko kyslíka človek potrebuje, a tiež je málo známe, koľko kys- líka vie rastlina vyrobiť. Americkí vedci zistili, že na dýchanie človeku postačí len jedna stredne veľká izbová rastlina a nemusí ani vetrať.
+http://www.novinarske-kacice.sk
+
+články, ktoré hovoria o množstve vzduchu, ktoré človek potrebuje na dýchanie. Sú všetky tieto zdroje dôveryhod- né? Uvažujte a svoju odpoveď zdôvodnite.
+
+
+Ktorá informácia ťa prekvapila?
+Čo nové a zaujímavé si o dýchaní zistil/zistila?
+
+
+
+
+
+
+Našiel/našla si v textoch niečo, čo nesedí?
+Je možné niektorý zdroj informácií spochybniť? Vysvetli.
+
+
+
+
+
+
+Napíš podobnú krátku správu do novín o tom, pre koľkých ľudí vytvárajú stromy na vašom školskom dvore kyslík.
+Zahrň do správy aj informáciu o tom, koľko stromov by bolo potrebné na zabezpečenie kyslíka pre celú triedu, prípadne pre celú školu.
+
+
+
+
+
+
+
+
+
+
+49
+
+                                                          Žiak vie vysvetliť proces dýchania. Žiak vie, že pri zvýšenej námahe potrebuje človek viac energie (potravy) aj kyslíka (dýcha rýchlejšie).
+
+
+
+7. Kým my sme zisťo- vali množstvo vydycho- vaného vzduchu nás – štvrtákov, v článkoch v predchádzajúcej úlohe sa hovorí o dospelých ľuďoch. Pravdepodobne je vhodné preskúmať aj to, či nebudú rozdiely v údajoch, koľko vzduchu potrebuje na dýchanie dieťa a koľko dospelý človek.
+7 
+Porovnaj informácie na obrázkoch a vytvor z porovnania záver.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8. Potrebujeme tiež vedieť, či deti dýchajú rovnako rýchlo ako dospelí. V tabuľke sú už namerané údaje, vyskúšajte z nich urobiť graf. Porovnajte záver z tejto úlohy so záverom z predchádzajúcej úlohy. Čo zaujímavé ste zistili?
+
+Pozoruj, ako sa mení rýchlosť dýchania s vekom.
+Pokús sa z merania vytvoriť graf. Z pozorovania grafu urob záver.
+
+Záver:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+50
+
+                                                          Žiak vie vysvetliť proces dýchania. Žiak vie, že pri zvýšenej námahe potrebuje človek viac energie (potravy) aj kyslíka (dýcha rýchlejšie).
+
+
+
+Prisúď k osobám toľko stromov, koľko ich podľa teba daný človek potrebuje kvôli tvorbe kyslíka.
+Potrebujú všetci rovnaké množstvo kyslíka? Zakrúžkuj ich pastelkou príslušnej farby. Uvažuj tiež, čo sa stane, ak starý strom neprežije zimu.
+9. 
+Človek potrebuje dýchať preto, lebo vzduch obsahuje kyslík, ktorý ľudské telo pre svoj život potrebuje. Ako sme už zistili, kys- lík tvoria zelené ras- tliny, napríklad stromy. Využite informácie zo šiestej úlohy, porovnaj- te ich so zisteniami zo siedmej a ôsmej úlohy a pokúste sa odhadnúť, koľko a akých stromov vytvorí kyslík potrebný na dýchanie rôznych ľudí.
+
+
+
+
+
+
+
+Zdôvodnenie riešenia:
+
+
+
+
+
+
+
+
+
+
+
+ 	Riešenie výskumného problému	
+
+1. KOľKO VZDuCHu POTREBuJE ČLOVEK NA DÝCHANIE?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+51
+
+Žiak vie vysvetliť proces dýchania. Žiak vie zakresliť proces dýchania.
+
+
+
+Riešením predchádza- júceho výskumného problému sme zistili, koľko vzduchu človek potrebuje na dýchanie. Dôležitá je však otázka, či mu stačí stále ten istý vzduch alebo sa vzduch dýchaním ne- jakým spôsobom me- ní a človek  potre- buje neustále nový vzduch. Aby sme ve- deli odpovedať na túto otázku, potrebujeme najskôr preskúmať, čo sa pri dýchaní deje.
+
+2. STAČí ČLOVEKu LEN uRČITé mNOžSTVO VZDuCHu ALEBO POTREBuJE NEuSTáLE NOVÝ VZDuCH? mENí SA VZDuCH JEHO DÝCHANím?
+Čo sa deje pri dýchaní?
+Pozoruj obrázok, na ktorom je nakreslené, čo sa deje, keď sa človek nadychuje vzdu- chu. Všimni si, ako je usporiadaná dýchacia sústava. S pomocou encyklopédie doplň
+
+
+Vedel/vedela by si na základe obrázka vysvetliť, prečo môžeme dýchať, aj keď máme upchatý nos?
+
+
+
+Pokús sa nakresliť pľúca pri výdychu.
+Pomôž si encyklopédiou alebo internetom. Čo sa vtedy deje a ako to môžeme pozorovať
+
+
+
+
+Rozprávame zväčša len vtedy, keď vydychu- jeme. Pri nádychu sa rozpráva ťažšie.
+Je to tak? Zisti.
+
+Vieš iba na základe pozorovania človeka určiť, či sa nadychuje alebo vydychuje?
+
+
+
+áno	nie
+
+
+
+
+NÁDYCH	VÝDYCH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+52
+
+Žiak vie, že vdychovaný vzduch sa od vydychovaného odlišuje tým, že obsahuje menej kyslíka a viac oxidu uhličitého. Žiak vie, že vo vydychovanom vzduchu sa nachádza veľa vody v podobe vodnej pary.
+
+
+
+Vzduch je zložený z rôznych látok.
+Človek zo vzduchu využíva kyslík. Všimni si, koľko sa ho vo vzduchu nachádza v po- rovnaní s inými látkami.
+
+Vzduch, ktorý vdychujeme, obsahuje:	Vzduch, ktorý vydychujeme, obsahuje:
+2. 
+Pri nádychu sa do pľúc dostáva vzduch, ktorý je hneď nato vydy- chovaný. Tento neustále sa opakujúci dej nády- chu a výdychu musí mať
+
+<1 1 <1
+
+21
+
+
+
+78
+
+3	<1
+4
+15
+
+
+
+78
+
+pre život človeka nejaký význam. Vedci sa preto rozhodli preskúmať, čo sa nachádza vo vdycho- vanom a čo vo vydycho- vanom vzduchu.
+Výsledky sú zobrazené na dvoch nasledujú- cich obrázkoch. Pozo- rujte ich, porovnajte a pokúste sa odpovedať
+
+dusík
+
+kyslík
+
+oxid uhličitý
+
+voda
+
+iné
+
+na otázky.
+
+
+vydychovaným vzduchom?
+
+Vysvetli na základe informácií z obrázkov:
+
+
+
+
+
+
+uch alebo potrebuje stále nový?
+
+Vysvetli, ako tomu rozumieš:
+
+
+
+
+
+Prečo je potrebné školskú triedu vetrať?
+
+Vytvor vlastné vysvetlenie:
+
+
+
+
+Priestory telocvične sa od priestorov školských tried odlišujú napríklad aj tým, že
+
+
+Vysvetli túto skutočnosť pomocou toho, ako rozumieš dýchaniu človeka v pokoji a pri pohybe:
+
+
+
+
+
+
+53
+
+Žiak vie, že vdychovaný vzduch sa od vydychovaného odlišuje tým, že obsahuje menej kyslíka a viac oxidu uhličitého. Žiak vie, že vo vydychovanom vzduchu sa nachádza veľa vody v podobe vodnej pary.
+Žiak vie navrhnúť postup, ako zistiť, či človek dýcha.
+
+
+
+3. Zistili sme, že vdycho- vaný vzduch sa od vy- dychovaného odlišuje. To znamená, že človek dýcha preto, lebo zo
+
+Využíva pri dýchaní človek naraz všetok kyslík, ktorý sa vo vzduchu nachádza?
+Ako súvisia uvedené informácie s možnosťou pomôcť človeku umelým dýchaním z úst do úst?
+
+vzduchu využíva jeho          	 časť, ktorú nazývame
+kyslík. Prezrite si obráz- ky z druhej úlohy ešte raz a uvažujte o tom, či človek využíva zo vzdu- chu pri jeho dýchaní všetok kyslík.
+
+
+
+
+
+
+
+Dôležité!
+Bez jedla človek prežije aj 30 dní, bez vody len 3 dni a bez dýchania maximálne 5 minút.
+Ak človek nedýcha, potrebuje rýchlo pomoc. Dieťa môže pomôcť urýchleným privolaním dospelej osoby, ak zistí, že človek nedýcha.
+
+
+
+
+4. Keďže dýchanie je pre človeka veľmi dôležité, mali by sme
+
+Ako zistiť, či človek dýcha?
+Navrhni postup, ako by si zistil/zistila, že človek dýcha. Navrhnúť môžeš rôzne spôso-
+by zisťovania.
+
+vedieť pomôcť ľuďom,          	 ktorí z nejakého
+dôvodu dýchať pre- stali. Preto by sme mali vedieť na človeku zistiť, či dýcha alebo nie. Najvhodnejšie by bolo zistiť to tak, aby sme prí- padne spiaceho člove- ka nezobudili. Uvažujte o tom, čo všetko o dýchaní viete, a využite
+to na riešenie úlohy.	 	
+
+Pokús sa vysvetliť, prečo je možné zistiť, či človek dýcha, zrkadielkom.
+Odvolaj sa na to, čo si zistil/zistila o vydychovanom vzduchu.
+
+
+
+
+
+
+
+
+
+
+54
+
+Žiak vie vysvetliť proces dýchania.
+
+
+
+Zväčšuje sa pri dýchaní hrudník?
+Použite uvedený postup na vyplnenie tabuľky nameranými údajmi.
+
+
+5. Jedným zo spôsobov, ako zistiť, či človek dý- cha, je pozorovanie pohybu jeho hrudníka. Využite uvedený pos- tup na zistenie toho, či sa vám rovnakým spôsobom pri dýchaní dvíha hrudník. Hrudník merajte na jeho najširšej časti.
+Dvíha sa hrudník viac tým z vás, ktorí ste na jeden výdych vydýchli viac vzduchu?
+
+
+
+
+
+Výsledky porovnaj s výsledkami z úlohy, v ktorej ste merali množstvo vydýchnutého vzduchu. Čo si zistil/zistila?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 	Riešenie výskumného problému	
+2. STAČí ČLOVEKu LEN uRČITé mNOžSTVO VZDuCHu ALEBO POTREBuJE NEuSTáLE NOVÝ VZDuCH? mENí SA VZDuCH JEHO DÝCHANím?
+
+
+Vytvorte odpoveď a odvolávajte sa na ziste- nia z predchádzajúce- ho skúmania (uveďte, na základe čoho to tvrdíte). Použiť môžete aj akúkoľvek ďalšiu skúsenosť, ktorou vie- te svoje vysvetlenie podporiť. Vysvetlenie môžete napísať, ale aj nakresliť a primerane opísať, aby mu každý rozumel.
+
+
+
+
+
+
+
+
+
+
+55
+
+Žiak vie, že so vzduchom sa do organizmu môžu dostať aj nečistoty alebo pôvodcovia ochorení.
+
+
+
+
+Dôvodom, prečo skú- mame dýchanie, je list od stavebných inžinierov, ktorí potre- bujú vedieť, ako majú zabezpečiť v tuneli spá- jajúcom Európu s Ame- rikou vzduch na dý- chanie. Okrem dostatoč- ného množstva vzdu- chu je však dôležité uvažovať aj o tom, čo môže a čo nemôže vzduch obsahovať, aby bolo jeho dýchanie pre človeka bezpečné.
+Preto potrebujeme zistiť viac o tom, či môže byť vzduch pri dýchaní pre človeka nebezpečný.
+
+
+3.	môžE Byť VZDuCH PRI DÝCHANí PRE ČLOVEKA NEBEZPEČNÝ?
+Vyskúšaj, či vieš zistiť prítomnosť rôznych látok vo vzduchu, ak dýchaš ústami a ak dýchaš nosom.
+Dýchame preto, aby sme prijali do tela kyslík, ktorý je nevyhnutný pre náš život, podobne ako voda a potrava. Vzduch môžeme prijímať aj ústami, ale na dýchanie máme prispôsobený najmä nos. Vyskúšaj, či vieš zistiť prítomnosť rôznych látok vo vzduchu, ak dýchaš ústami a ak dýchaš nosom.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. Z predchádzajúcej úlohy vyplýva, že človek má v dýchacej sústave vytvorené určité nástro- je, pomocou ktorých hodnotí, čo sa vo vdy- chovanom vzduchu na- chádza. Uvažujme, či dokáže zistiť, že vo vzduchu sa nachádzajú nebezpečné látky.
+
+uvažuj o nepríjemných pachoch.
+Určité pachy sú nepríjemné pre každého človeka, iné môžu byť nepríjemné len pre niekoho. Doplň tabuľku podobným spôsobom.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+56
+
+Žiak vie, že so vzduchom sa do organizmu môžu dostať aj nečistoty alebo pôvodcovia ochorení.
+
+
+
+Je dôležité uvedomiť si, že plyny nemusia byť jedovaté, a predsa môžu človeka ohrozovať.
+Napríklad tým, že sa nahromadia v miestnosti a vytlačia vzduch, ktorý obsahuje pre nás potrebný kyslík. Človek sa síce nadychuje, ale nedostáva do tela kyslík. Táto situá- cia je o to nebezpečnejšia, že mnohé plyny nemajú pach, pomocou ktorého by sme ich vedeli spoznať, a tiež ich nie je vidieť.
+
+Prítomnosť kyslíka vo vzduchu je možné zisťovať napríklad horením. Aby látky horeli, vo vzduchu sa musí nachádzať kyslík. Pozoruj a zakresli, čo sa stalo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sviečku, ktorá zhasla, opatrne vyber, ale pohár neprevráť.
+Zapáľ sviečku znovu a opatrne ju vsuň pod pohár. Znovu pozoruj. Čo si zistil/zistila?
+
+
+3. Niekedy sa vo vzdu- chu môžu nachádzať nebezpečné látky a niekedy je vzduch ne- bezpečný preto, lebo neobsahuje dostatok kyslíka. Vyskúšajte si, ako je možné zistiť, či je vo vzduchu dostatok kyslíka.
+
+
+
+
+
+
+
+
+
+
+4	Vytvor predpoklad o tom, kedy bude sviečka horieť najdlhšie.
+4. 
+Na horenie je potreb- ný kyslík, podobne ako je potrebný kyslík na dýchanie. Dýchaním vzniká oxid uhličitý, rovnako vzniká oxid uhličitý aj pri horení. Horenie sa preto na dýchanie podobá. Ho- rením sa zo vzduchu spotrebúva kyslík a nazhromažďuje sa oxid uhličitý. V uzatvorených nádobách sa preto kys- lík pomerne rýchlo mi- nie.
+
+
+
+
+
+
+57
+
+Žiak vie, že so vzduchom sa do organizmu môžu dostať aj nečistoty alebo pôvodcovia ochorení.
+           Žiak vie vysvetliť obranné mechanizmy – kýchanie a kašľanie. Žiak vie vysvetliť prenos ochorenia prostredníctvom kvapôčkovej infekcie.
+
+
+
+5. Dýchacia sústava nás často upozorňuje, že v prostredí sa nachádzajú látky a čias- točky, ktoré nie je vhodné vdychovať. Nie vždy však dokážeme nebezpečné látky vo vzduchu zistiť na zá- klade pachu, lebo nemajú špecifickú vôňu. Aj na takéto situácie je
+
+Čo spôsobuje, že kašleme a kýchame?
+Doplň tabuľku. Uvažuj tiež, či je kašľanie a kýchanie vždy príznakom ochorenia. Chýbajúce informácie vyhľadaj na internete.
+
+
+vírus CHRíPKY
+
+ľudské telo pripravené          	 a nebezpečné látky a
+čiastočky sa pokúša z tela dostať napríklad kýchaním a kašľaním. Zistime o týchto mecha- nizmoch viac.
+
+
+
+
+6. Kýchanie a kašľanie pozná každý z nás z vlastnej skúsenosti. Pre- čítajte si ďalšie in-
+
+Prečítaj si informácie o tom, ako sa môžu dostať pôvodcovia ochorení do tela a spôsobiť ochorenie.
+
+formácie o kýchaní a na základe toho, ako tento jav chápete, pokúste sa vytvoriť pravidlá proti šíreniu ochorenia v triede. Čítajte pozorne a sústreďte sa na to, ako sa pôvodcovia ochorení môžu dostať z tela chorého človeka do tela zdravého človeka.
+
+Dýchací  systém  človeka je taký úžasný, že dokáže rozpoznať, že vzduch obsa- huje nebezpečných pôvod- cov ochorení. Ak zistí, že vdychujeme vzduch, ktorý obsahuje takéto čiastočky, vyšle do mozgu príkaz na kýchnutie. Pri kýchnutí človek dokáže zo svojej dýchacej sústavy veľmi silným prúdom vzduchu dostať nežiaduce nečistoty von.
+
+Podľa toho, ako kýchame, sa pôvodcovia ochorení dostávajú naspäť do vzdu- chu, do vreckovky alebo do dlane či oblečenia, kde znovu vyčkávajú na svoju príležitosť dostať sa do tela nosom, ús- tami, očami alebo rôznymi poraneniami.
+
+
+
+Na základe týchto informácií navrhni aspoň 4 pravidlá, ktorými je potrebné riadiť sa, aby zili šíreniu ochorenia v trie	napíš).
+1. pravidlo	3. pravidlo
+
+
+
+
+
+
+4. pravidlo
+
+
+
+
+
+58
+
+Žiak vie, že so vzduchom sa do organizmu môžu dostať aj nečistoty alebo pôvodcovia ochorení.
+           Žiak vie vysvetliť obranné mechanizmy – kýchanie a kašľanie. Žiak vie vysvetliť prenos ochorenia prostredníctvom kvapôčkovej infekcie.
+
+
+môže vdychovaný vzduch spôsobiť, že ochorieme?
+Prezri si, čo spôsobil Juraj, pracujúci v závode na výrobu cukroviniek, tým, že išiel chorý do práce.	8:30 hod., 1. deň
+
+
+7. Kýchanie môže po- môcť človeku zbaviť sa nebezpečných pôvod- cov ochorení, ktorí sa
+
+7:00 hod., 1. deň
+
+
+
+
+
+Juraj
+    
+Juraj Jakub
+
+
+Jana
+
+Monika
+
+spolu so vzduchom
+môžu dýchaním dostať do tela človeka. Ak predsa ochorieme, dô- ležité je dodržiavať hy- gienické pravidlá pri kýchaní, aby sme ne- spôsobili, že ochorenie budeme šíriť vzduchom na ľudí v našej blízko- sti. Všimnite si, čo sa v priebehu jedného dňa môže stať.
+
+10:00 hod., 1. deň
+
+10:00 hod., 1. deň
+
+10:00 hod., 1. deň
+
+10:00 hod., 1. deň
+
+
+
+
+Monika
+
+
+
+Juraj
+
+Jakub
+
+Jana
+
+
+
+
+16:00 hod., 1. deň
+
+18:00 hod., 1. deň
+
+19:00 hod., 1. deň
+
+17:00 hod., 1. deň
+
+
+
+
+Jakub
+
+
+
+Juraj
+
+
+Monika
+
+
+Jana
+
+
+
+
+20:00 hod., 1. deň
+
+
+21:00 hod., 1. deň
+Monika
+
+
+20:00 hod., 1. deň Jakub
+
+
+20:00 hod., 1. deň
+
+
+
+
+
+
+Juraj	Jana
+
+
+Záver: Pokús sa odhadnúť, koľko ľudí môže od jedného človeka ochorieť do dvoch dní, ak kýchajú bez servítky. Uvažuj, s kým prídu do kontaktu na druhý deň osoby, ktoré boli v kontakte s chorou osobou.
+
+
+
+
+
+
+
+
+59
+
+Žiak vie, že so vzduchom sa do organizmu môžu dostať aj nečistoty alebo pôvodcovia ochorení.
+                                     Žiak vie vysvetliť obranné mechanizmy – kýchanie a kašľanie. Žiak vie, že na zachytávanie nečistôt a pôvodcov ochorení slúži hlien, ktorý sa vylučuje v nose a v hrdle.
+
+
+
+8. Z predchádzajúcej úlohy je zrejmé, že ochorieť môžeme veľ-
+8 
+Ako sa telo bráni pred ochorením?
+
+mi	ľahko,	stačí	sa	 	
+
+nachádzať v prostredí, kde kýchal alebo kašľal chorý človek. Samotné telo sa však dokáže pro- ti pôvodcom ochorení brániť. Najúčinnejším spôsobom, ako neo- chorieť v dôsledku vdýchnutia rôznych bak- térií a vírusov zo vzdu- chu, je dostať pôvod- cov ochorení okamžite von z tela, napríklad kýchaním a kašľaním.
+
+Ak je telo oslabené, nepomôže ani ký- chanie a niektorí pôvodcovia ochorení sa cez dýchaciu sústavu  dostanú  do tela, kde sa množia a spôsobujú rôzne príznaky ochorenia: zvýšená teplota, únava a napríklad aj tvorba väčšieho množstva hlienu. Ten slúži na odstraňovanie pôvodcov ochorení. Hlienu sa zbavujeme vykašliavaním.
+
+
+Pomocou internetu zisti, aký je rozdiel medzi uvedenými druhmi kašľa:
+
+
+Suchý kašeľ – neproduktívnyVlhký kašeľ – produktívny
+
+9. Nepríjemným sprie- vodcom kýchania a kašľania je hlien. Je prirodzené, že človek má voči nemu odpor. Skúste odpor voči hlienu zdôvodniť in- formáciami z nasledu- júceho článku.
+Na druhej strane, hlien je veľmi užitočný. Akým spôsobom pomáha člo- veku, sa taktiež do- zviete z článku. Čítajte pozorne a pokúste sa odpovedať na otázku.
+9 
+Prečítaj si text o tvorbe hlienu v dýchacej sústave.
+Hlien, ktorý potrebujeme
+Denne sa u každého z nás vytvorí asi 1,5 až 2 litre hlienu – a to len v prípade, že sme zdraví a netrápi nás nádcha a prechladnutie. Hlien je prirodzenou súčasťou našej dýchacej sústavy a má najmä ochrannú funkciu. „Hlien vytvára jemný povlak na povr- chu sliznice, aby sa prachové a rôzne iné nečistoty na ňom zachytili a nedostali sa ďalej do dolných dýchacích orgánov. Zároveň sa vzduch, ktorý prúdi ponad vlhké prostredie tvorené hlienom, zvlhčuje, a tak sa nedostáva do dolných dýchacích orgánov suchý, aký je vo vonkajšom prostredí, a nedráždi ich. Zároveň sa aj otepľuje, takže aj v mrazivom prostredí sa vzduch, ktorý prúdi nosom a nosohltanom, dostane do dýchacích ciest už zohriaty na 37 stupňov,“ vysvetľuje MUDr. Ján Korch, primár Kliniky otorinolaryn- gológie Fakultnej nemocnice v Nitre. Pri vírusových či bakteriálnych infekciách hlien zmení svoju kvalitu a zvýši sa jeho produkcia, a práve to pociťujeme ako nádchu.
+http://mediweb.hnonline.sk
+
+
+Na základe informácií uvedených v texte sa pokús vysvetliť, prečo je vhodnejšie dýchať ústami.
+
+
+
+
+
+
+
+60
+
+      Žiak vie, že so vzduchom sa do organizmu môžu dostať aj nečistoty alebo pôvodcovia ochorení. Žiak vie, že na zachytávanie nečistôt a pôvodcov ochorení slúži hlien, ktorý sa vylučuje v nose a v hrdle.
+
+
+
+Ako správne dýchať?
+Nosom či ústami?
+10. 
+Uvažujte, ako fun- guje dýchacia sústava a ako sa bráni pred
+
+
+
+100
+80
+
+60
+
+40
+
+20
+
+0
+
+Ako dýchajú žiaci prvého stupňa ZŠ?
+
+8562
+
+38
+
+15dievčatá	chlapci
+nosom	ústami
+
+prienikom nevhodných a škodlivých látok do tela.
+Rozhodnite, či je podľa vás vhodnejšie dýchať ústami alebo nosom.
+
+Na základe informácií uvedených v texte sa pokús vysvetliť, prečo je vhodnejšie dýchať nosom.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 	Riešenie výskumného problému		Vytvorte odpoveď a od-
+predchádzajúceho skú-
+
+3.	môžE Byť VZDuCH PRI DÝCHANí PRE ČLOVEKA NEBEZPEČNÝ?
+
+mania (uveďte, na základe čoho to tvr- díte). Použiť môžete aj akúkoľvek ďalšiu skúsenosť, ktorou vie- te svoje vysvetlenie podporiť. Vysvetlenie môžete napísať, ale aj nakresliť a primerane opísať, aby mu každý rozumel.
+
+
+
+
+
+
+
+
+
+
+
+61
+
+Žiak vie, že vdychovaný vzduch sa od vydychovaného odlišuje tým, že obsahuje menej kyslíka a viac oxidu uhličitého.
+                                                      Žiak vie vysvetliť proces dýchania. Žiak vie, že so vzduchom sa do organizmu môžu dostať aj nečistoty alebo pôvodcovia ochorení.
+
+
+
+Navrhnite odpoveď na list, ktorý ste na začiat- ku vášho skúmania do- stali od stavebných in- žinierov. Pamätajte, že vo vašom liste sa musia objaviť odpovede na všetky ich otázky.
+Pokúste sa vytvoriť od- povede čo najjedno- duchšie, môžete použiť aj nákresy, ak vám to pomôže lepšie vysvetliť to, čo by ste radi staveb- ným inžinierom poradi- li.
+
+
+Odpoveď na list od tímu stavebných inžinierov
+
+1. Koľko vzduchu človek potrebuje na dýchanie?
+2. Stačí človeku len určité množstvo vzduchu alebo potrebuje neustále nový vzduch? Mení sa vzduch jeho dýchaním?
+3. Môže byť vzduch pri dýchaní pre človeka nebezpečný?
+
+Odpoveď a zdôvodnenie na základe zistených informácií.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+62
+
+SRDCOVO-CIEVNA SÚSTAVA
+
+
+
+Krvné skupiny
+Krv je tekutina, ktorá je pre život každého človeka veľmi dôležitá. V minulosti vedci skúmali, či majú všetci ľudia krv rovnakú alebo rôznu, pre prípad, že by bolo potrebné a možné prípadnú stratu krvi nahradiť. Skúmaním vedci postupne prišli na to, že aj na- priek tomu, že krv všetkých ľudí vyzerá na prvý pohľad rovnako, môže sa líšiť, a to tak, že darovanie nesprávnej krvi môže spôsobiť človeku dokonca smrť. Ľudí je možné podľa krvného typu triediť do štyroch základných skupín – A, B, AB a 0. Zásluhy za tento objav sa pripisujú profesorovi MUDr. Jánovi Janskému.
+Zisti od rodičov, akú máš krvnú skupinu, a podľa tabuľky zisti, od ktorého spolužiaka by si mohol/mohla krv prijať.
+
+
+prof. MUDr. Ján Janský
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zisti, za čo sa udeľuje ocenenie (plaketa) profesora muDr. Jána Janského.
+
+Zdroj: https://goo.gl/kphRNV
+
+
+
+
+
+
+
+63
+
+Žiak vie, že na srdce sú napojené cievy, ktoré rozvádzajú krv po celom tele. Žiak vie, kde sa nachádza srdce, aký má tvar a aké je veľké.
+                         Žiak vie, že krv je rozvádzaná po tele cievami a cievy sa nachádzajú v celom tele. Žiak vie, že cievy sa rozvetvujú od najhrubších, vychádzajúcich zo srdca, po najtenšie, nachádzajúce sa v koži.
+Žiak vie zakresliť krvný obeh.
+
+
+1. Ak by sme chceli vytvoriť náhradu krvi, mali by sme najskôr zistiť, kde sa krv v tele nachádza a koľko jej človek má. Premýšľajte o svojich skúsenostiach s vlastnou krvou a tiež o všetkom, čo o nej viete.
+
+1.	KOľKO KRVI má ČLOVEK A KDE JE SÚSTREDENá?
+
+Pokús sa nakresliť, kde si myslíš, že je krv človeka sústredená.
+Svoj nákres zdôvodni vlastnými skúsenosťami a vedomosťami. To, čo si nakreslil/ nakreslila, primerane opíš. Ako krv napojíš na srdce? Svoju predstavu porovnaj s in- formáciami v encyklopédii, nakresli, ako to v skutočnosti je.
+
+
+Ako si to myslím:Ako to je:
+Ako súvisí srdce s krvou?
+Zisti a vysvetli vlastnými slovami, ako tomu rozumieš.
+
+
+
+
+
+
+
+
+
+
+
+
+
+64
+
+Žiak vie, že srdce je sval. Žiak vie, že srdce je duté a pracuje ako pumpa na krv. Žiak vie, kde sa nachádza srdce, aký má tvar a aké je veľké. Žiak vie, že činnosť srdca sa prejavuje ako tep.
+
+
+
+2	Čo je to srdcový tep?
+2. 
+Aby sme vedeli odpovedať výskumné- mu tímu biotech- nológov, musíme naj- skôr preskúmať, aký má pre človeka krv význam. Kvôli lepšiemu poro- zumeniu významu krvi pre ľudské telo je dôle- žité porozumieť tomu, ako sa krv v tele pohy- buje. Tlkot srdca, ktorý považujeme za jeden zo životných prejavov človeka, súvisí s pohy- bom krvi v ľudskom tele. Zistite, ako spolu súvisia.
+
+
+
+
+Na internete zisti, aká by mala byť hodnota srdcového tepu zdravého dospelého človeka.
+
+Vyznač do obrázka ľudského tela, kde a akým spôsobom by si dokázal/dokázala zistiť, či človeku bije srdce.
+Svoj predpoklad zdôvodni a over ho pozorovaním. Do druhého obrázka zaznač, kde bolo v skutočnosti možné prácu srdca najlepšie pozorovať.
+
+
+
+
+
+
+
+3. Ako pracuje srdce, je možné pozorovať aj na povrchu tela. Tlkot srdca je možné vnímať na rôznych častiach ľudského tela. Zis- tite, kde na tele sa dá pozorovať, a pokúste sa zdôvodniť, prečo práve na týchto miestach.
+Využite všetko, čo vie- te o tom, ako sa krv v tele pohybuje. Ak je to potrebné, použite en- cyklopédiu alebo inter- net.
+
+
+
+
+
+
+
+
+
+
+
+
+Zdôvodni, prečo bolo možné pozorovať srdce práve na uvedených miestach.
+
+
+
+
+
+
+
+65
+
+Žiak vie vysvetliť, ako a prečo sa zrýchľuje tep pri vynakladaní námahy. Žiak vie, že pravidelným cvičením sa trénuje aj srdce.
+
+
+
+4. V úlohe 2 ste zistili, ako rýchlo bije srdce Porovnajte hodnotu zi tenú na internete s tý ako rýchlo bije srdc vám. Potom sledujte, č vám srdce bije rovnak rýchlo aj pri rôznyc aktivitách. Premýšľajte o výsledkoch. Čo mys- líte, čo sa deje so srd- com a krvou, keď sa namáhame? Súvisí to nejakým spôsobom s tým, aký má krv význam v ľudskom tele?
+
+
+
+
+Pozoruj rýchlosť srdcového tepu členov vašej skupiny. Srdcový tep sleduj počas 30 sekúnd v pokoji, pri miernej námahe a pri zvýšenej námahe.
+
+
+
+
+
+v pokoji	po drepoch	po „džekoch“	po„horolezcoch“
+Opakované meranie
+Meno:	1.	2.	1.	2.	1.	2.	1.	2.
+1.
+2.
+3.
+4.
+
+
+
+Záver:
+
+
+
+
+
+
+
+5. Pozorujte, ako sa mení váš srdcový te po cvičení. Porovnajt sa s Petrom a Pavlo
+a pokúste sa vytvori záver, v ktorom vyjad ríte, v čom je rozdi medzi	srdcovou	či nosťou Petra, Pavla a tou vašou. Čo myslíte, je možné srdce trénovať?
+
+
+
+Sleduj, ako rýchlo sa po minútovom cvičení upokojilo srdce dvom dospelým ľuďom. Do tabuľky doplň svoje údaje a pokús sa vytvoriť záver.
+
+
+Meno
+V pokojiPo cvičeníhneďpo
+2 minpo
+4 minpo
+6 minpo
+8 minpo
+10 minPeter - programátor6015014013012010080Pavol - futbalista401006050454540
+Záver:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+66
+
+Žiak vie, že činnosť srdca sa prejavuje ako tep.
+
+
+
+
+Pozoruj výsledky merania srdcového tepu v pokoji u rôznych ľudí. Hodnoty nanes do grafu. Pokús sa z výsledkov vytvoriť záver. Čo z výsledkov vyplýva, keď ich porovnáš s tými, ktoré si získal/získala?
+
+200	 	   	   	   	   	
+
+150
+
+100
+
+50
+
+
+6. Nemohli byť rozdie- ly, ktoré ste zistili pri tom, ako pracuje vaše srdce a srdce Petra a Pavla, spôsobené tým, že Peter a Pavol sú už dospelí? Zistite v nasle- dovnej úlohe.
+
+
+
+
+0	5	10	15	20
+
+VEK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pozoruj obrázok, ktorý vyjadruje približné množstvo krvi v tele ľudí rôzneho veku. Vytvor úsudok o tom, koľko krvi máš pravdepodobne v tele ty. Vyznač množstvo v grafe a doplň informáciu do tabuľky.
+
+
+
+
+7. V predchádzajúcich úlohách sme zistili, kde v tele sa krv nachádza a ako sa v ňom pohybuje. Aby sme vedeli vytvoriť odpoveď na výskumnú otázku, musíme ešte zistiť, koľko krvi sa v tele nachádza. Pomôže vám nasledujúca úloha.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+67
+
+
+
+
+
+8. Rôzne veľkí ľudia majú v tele rôzne veľké množstvo krvi. Aby sme si vedeli lep- šie predstaviť samotné množstvo krvi, skúsme ho vyjadriť objemom nádob, ktoré bežne používame.
+                                      
+Žiak vie vysvetliť krvný obeh. Žiak vie, že na srdce sú napojené cievy, ktoré rozvádzajú krv po celom tele.
+
+
+Všimni si rozdiely v množstve krvi novorodenca a dospelého človeka.
+Pokús sa rovnakým spôsobom vyjadriť, koľko približne máš krvi v tele ty.
+
+
+
+
+
+
+
+
+
+
+Čo si zistil/zistila?
+Má každý človek rovnaké množstvo krvi?
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vytvorte odpoveď a odvolávajte sa na zis- tenia z predchádza- júceho skúmania (uveď- te, na základe čoho to tvrdíte). Použiť môžete aj akúkoľvek ďalšiu skúsenosť, ktorou vie- te svoje vysvetlenie podporiť. Vysvetlenie môžete napísať, ale aj nakresliť a primerane opísať, aby mu každý rozumel.
+
+ 	Riešenie výskumného problému	
+1.	KOľKO KRVI má ČLOVEK A KDE JE SÚSTREDENá?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+68
+
+Žiak vie, že krv je tekutina, ktorá rozvádza po tele potrebné látky. Žiak vie vysvetliť, ako sa tieto látky dostávajú do krvi.
+Žiak vie, že cievy sa rozvetvujú od najhrubších, vychádzajúcich zo srdca, po najtenšie, nachádzajúce sa v koži.
+Žiak vie vysvetliť krvný obeh.
+
+2.	ČO VŠETKO KRV V TELE ZABEZPEČuJE?
+
+
+
+Pozoruj obrázok prepojenia krvného obehu a dýchacej sústavy. Odpovedaj na otázky. Do obrázka dokresli šípky podľa toho, ktorým smerom krv prúdi v cievach. Pomôžu ti základné informácie v rámčeku.
+
+
+1. Keďže biotechnológo- via nás oslovili preto, že majú snahu vytvoriť náhradu za krv, aby sme im vedeli pomôcť, mali by sme preskúmať aj to, čo všetko krv v tele zabezpečuje. Akákoľvek náhrada za krv musí v tele zabezpečiť všetko to, čo zabezpečuje krv.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+V predchádzajúcom skúmaní ste zistili, ako súvisí rýchlosť pohybu krvi v tele (rýchlosť, akou bije srdce) s vyna- kladanou námahou, na- príklad cvičením. Tiež ste pri skúmaní dýchacej sústavy zistili, že čím viac sa namáhame, tým
+
+to môže spolu súvisieť?
+69
+
+Žiak vie, že krv je tekutina, ktorá rozvádza po tele potrebné látky. Žiak vie vysvetliť, ako sa tieto látky dostávajú do krvi.
+Žiak vie, že cievy sa rozvetvujú od najhrubších, vychádzajúcich zo srdca, po najtenšie, nachádzajúce sa v koži.
+Žiak vie vysvetliť krvný obeh.
+
+
+2. Krv neprepravuje len kyslík, ale aj množstvo iných látok, napríklad tých, ktoré prijímame potravou. Spomeňte si, čo dôležité sa v potrave nachádza a na čo a kde v tele tieto  lát- ky využívame. Uvažujte, ako nám vo využívaní látok z potravy pomáha krv.
+
+Krv prepája všetky orgány a funguje ako prepravca všetkých látok, ktoré človek prijme nielen pľúcami, ale aj tráviacou sústavou.
+Pozoruj obrázok prepojenia krvného obehu a tráviacej sústavy. Pomenuj časti ľudského tela, ktoré poznáš. Odpovedaj na otázky. Pomôžu ti základné informácie v rámčeku.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+V predchádzajúcom skúmaní ste zistili, ako súvisí rýchlosť pohybu krvi v tele (rýchlosť, akou bije srdce) s vy- nakladanou námahou, napríklad cvičením. Tiež ste pri skúmaní trávia- cej sústavy zistili, že čím viac cvičíme, tým viac potravy potrebu- jeme prijať, aby sme si doplnili energiu a tiež stavebné látky na rozvoj svalov. Ako to môže spolu súvisieť?
+
+70
+
+Žiak vie vysvetliť, ako sa látky dostávajú do krvi.
+                                           Žiak vie vysvetliť krvný obeh. Žiak vie vysvetliť, ako sa krvou dostávajú lieky, ale aj jedy do rôznych častí tela.
+
+
+Dýchacou a tráviacou sústavou sa do tela dostáva množstvo potrebných látok, avšak pri nezdravom spôsobe života sa do tela týmto spôsobom dostáva aj veľa škodlivých látok.
+Telo sa mnohých škodlivých látok zbavuje pomerne ťažko. Všimni si, ako dlho sa rôzne látky (použiteľné i škodlivé) nachádzajú v krvi.
+
+
+3. Pri nezdravom spôso- be života sa do tela môže dostať aj veľa škodlivých látok. Pomo- cou krvi sa môžu dostať vo veľmi krátkom čase do celého tela. Niektoré sú také neprirodzené, že sa ich ľudské telo zbavu- je len veľmi ťažko.
+
+
+
+
+
+
+
+
+Vyber si jednu z uvedených škodlivých látok a nájdi informácie o tom, aký vplyv má na ľudské telo.
+
+
+
+
+
+
+
+
+
+
+
+
+ 	Riešenie výskumného problému	
+2.	ČO VŠETKO KRV V TELE ZABEZPEČuJE?
+
+
+Vytvorte odpoveď a odvolávajte sa na ziste- nia z predchádzajúceho skúmania (uveďte, na základe čoho to tvr- díte). Použiť môžete aj akúkoľvek ďalšiu skúsenosť, ktorou vie- te svoje vysvetlenie podporiť. Vysvetlenie môžete napísať, ale aj nakresliť a primerane opísať, aby mu každý rozumel.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+71
+
+Žiak vie, že v krvi sa nachádzajú červené krvinky, biele krvinky a krvné doštičky.
+
+
+
+
+Už sme zistili, že krv je pre človeka veľmi dôležitá. Ak by ju stra- til, telo by nemohlo fungovať, človek by mohol zomrieť. Preto sa telo pred stratou krvi vie v určitých situáciách brániť. Preskúmajme aj tieto obranné spôsoby, pretože biotechnológo- via sa ich budú musieť tiež pokúsiť napodobniť v prípade, že je ich sna- hou vytvoriť náhradu krvi.
+Určite vám už tiekla niekedy krv. Strata ma- lého množstva nie je nebezpečná. Na záchra- nu človeka je však dôležité vedieť, strata
+
+
+3.	KOľKO KRVI môžE ČLOVEK STRATIť BEZ OHROZENIA žIVOTA?
+Krv je veľmi dôležitá tekutina, a preto má telo vytvorené spôsoby, ktorými sa chráni pred jej stratou.
+V krvi sa nachádzajú tieto tri základné súčasti: červené krvinky, krvné doštičky a biele krvinky. Pomocou encyklopédie a/alebo internetu doplň chýbajúce informácie.
+
+
+Krvné doštičky
+
+akého množstva krvi je už nebezpečná.
+
+AKTIVOVA	NEAKTíVNE
+
+
+
+iele krvinky
+Ich úlohou je rozpoznať v tele pôvodcov ochorení a zneškodniť ich. Väčší výskyt bielych krviniek v krvi zvyčajne znamená prítomnosť baktérií alebo vírusov v tele.
+
+
+
+2. Krv prúdi v tele v cievach. Tie sa môžu poškodiť (napríklad keď sa porežete). Tým, že krv je tekutá, začne sa z cievy vylievať. Zo skúse- nosti však viete, že o chvíľu (ak je rezná rana alebo odrenina malá) rana prestane krvácať. Všimnite si, čo sa vtedy deje, a skúste opísať, aké ďalšie vlastnosti má krv.
+
+Pozoruj obranný mechanizmus ľudského tela proti krvácaniu.
+Pomenuj krvné zložky.
+
+
+
+
+
+Pokús sa vysvetliť, čo by sa stalo, ak by telo nedokázalo zaceliť poškodenú cievu.
+Kedy sa to môže stať?
+
+
+
+
+
+
+
+
+
+72
+
+                Žiak vie, že krv je tekutina, ktorá rozvádza po tele potrebné látky. Žiak vie, že krv je rozvádzaná po tele cievami a že cievy sa nachádzajú v celom tele.
+Žiak vie vysvetliť význam darcovstva krvi.
+
+
+Všimnite si, koľko krvi môže stratiť človek bez ohrozenia na živote a pri strate akého množstva je už jeho život v ohrození.
+Ak sa poruší cieva, krv vyteká z cievy von. Ak rana ústí na povrch tela, krvácanie je viditeľné, lebo krv vyteká von z tela. Cieva sa však môže porušiť aj vo vnútri tela a krv sa tak vylieva nie na povrch tela, ale do jeho vnútra. Takémuto krvácaniu hovoríme vnútorné krvácanie.
+
+Strata krvi bez ujmy na zdraví	Život ohrozujúca strata krvi
+
+
+3. Niekedy sú rany také veľké, že krv vyteká veľmi rýchlo, a kým sa rana zacelí, človek môže stratiť priveľa krvi na to, aby prežil. Zistite, koľko krvi môže človek stratiť bez ujmy na zdraví.
+
+
+
+
+
+
+
+
+
+
+stratená krv	krv v tele
+Keďže rôzne veľkí ľudia majú v tele rôzne množstvo krvi, ich život je v ohrození pri strate rôzneho množstva krvi. Všimni si rozdiely v tabuľke.
+
+Celkové množstvo krvi v teleStrata krvi bez ujmy na zdravíŽivot ohrozujúca strata krvi8-ročné dieťa
+(20 kg telesnej hmotnosti)2 000 ml300 ml800 mlDospelý
+(60 kg telesnej hmotnosti)5 000 ml800 ml2 000 mlKaždý pohár predstavuje 100 ml krvi. Preškrtni toľko pohárov, koľko predstavuje pre teba nebezpeč- nú stratu krvi. Všetky poháre predstavujú množstvo krvi v tvojom tele.
+
+Čo zaujímavé si zistil/zistila?
+
+
+
+
+
+Čo by si urobil/urobila ako prvé, keby si našiel/našla krvácajúceho človeka?
+Zavolať 155, 112 alebo akéhokoľvek dospelého človeka. Zistiť, či krvácajúci žije: či mu bije srdce, či dýcha.
+Zistiť, odkiaľ krváca, a spomaliť krvácanie pritlačením na ranu.
+Prikryť krvácajúcu osobu, aby nestrácala teplo. Volať o pomoc.
+Zdôvodni svoj prvý krok.
+
+
+4. Ohrozenie na živote stratou krvi závisí aj od toho, ako rýchlo krv z rany vyteká. Pri náhlej strate krvi stačí, ak človek stratí menšie množstvo, a môže zo- mrieť. Ak je krvácanie spomalené, napríklad obviazaním rany, krvá- cajúci človek má väčšie šance na záchranu ži- vota.
+
+
+
+
+
+
+
+
+
+73
+
+ Žiak vie vysvetliť, ako sa krvou dostávajú lieky, ale aj jedy do rôznych častí tela. Žiak vie, že v krvi sa nachádzajú červené krvinky, biele krvinky a krvné doštičky.
+
+
+
+5. Zranenia nie sú pre človeka nebezpečné len preto, že pri nich môže stratiť veľa krvi. Už vieme, že v pro- stredí sa nachádza veľa nebezpečných pôvod- cov ochorení, proti kto- rým nás veľmi dobre chráni pokožka.
+Čo však v prípade, že sa pokožka zranením poškodí? Skúmajte, čo sa deje v krvi. Zistíte, že krv má ešte ďalšiu zau- jímavú vlastnosť, kto- rú by sa mali biotech- nológovia pokúsiť napo- dobniť.
+
+Všimni si, čo sa deje v tele človeka, keď sa pichne špendlíkom. Pokús sa pomenovať to, čo na obrázkoch vidíš.
+Ak vznikne rana, tak okrem straty krvi hrozí človeku aj to, že sa cez ranu dostanú do tela nebezpečné látky, najmä mikroorganizmy, ale aj rôzne jedy. Telo človeka má vy- tvorené aj na takéto situácie obranné mechanizmy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pokús sa opísať, čo sa deje na obrázkoch.
+Čo zabezpečujú jednotlivé časti krvi?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+74
+
+                                 Žiak vie vysvetliť význam darcovstva krvi. Žiak vie vysvetliť, ako sa krvou dostávajú lieky, ale aj jedy do rôznych častí tela.
+
+
+
+uvažuj, akú výhodu môže mať podanie lieku injekčne.
+Niekedy lekári predpíšu pacientom lieky na užívanie (tabletky), inokedy liek podajú injekciou. Lekári musia dostatočne dobre vedieť, kde v tele sa nachádzajú cievy. Čo myslíš, ako to súvisí s podávaním liekov injekčne? Uvažuj, akú výhodu môže mať po- danie lieku injekčne.
+6. 
+To, že cez poškodené cievy môžu do tela vniknúť  rôzne   látky z prostredia, však má aj svoje lekárske využitie, a to v podobe injekcií a infúzií. Uvažujte, akú výhodu má podanie lieku injekciou v po- rovnaní s podaním lieku tabletkou.
+
+
+
+
+
+
+
+
+
+
+Zisti, kto môže darovať krv, aké množstvo a ako často.
+Porozmýšľaj, prečo nemôže darovať krv chorý človek alebo človek, ktorý berie drogy alebo fajčí, či pije alkohol.
+7. 
+Podobným spôsobom je možné doplniť do cievneho systému aj krv, ktorú človek stratil pri nehode alebo operácii. Keďže zatiaľ náhrada krvi nebola vymyslená, zvyčajne sa pacientom podáva krv od darcov. Využite všetky svoje nadobudnuté vedomo- sti o krvi a pokúste sa odpovedať na otázky v siedmej úlohe.
+
+
+
+
+
+
+
+Riešenie výskumného problému
+3.	KOľKO KRVI môžE ČLOVEK STRATIť BEZ OHROZENIA žIVOTA?
+
+
+Vytvorte odpoveď a od- volávajte sa na ziste- nia z predchádzajúceho skúmania (uveďte, na základe čoho to tvrdíte). Použiť môžete aj akúkoľvek ďalšiu skúsenosť, ktorou vie- te svoje vysvetlenie podporiť. Vysvetlenie môžete napísať, ale aj nakresliť a primerane opísať, aby mu každý rozumel.
+
+
+
+
+
+
+
+
+75
+
+                 Žiak vie, že srdce je sval, je duté a pracuje ako pumpa na krv. Žiak vie, že na srdce sú napojené cievy, ktoré rozvádzajú krv po celom tele.  Žiak vie, že v krvi sa nachádzajú červené krvinky, biele krvinky a krvné doštičky.
+Žiak vie, že krv je tekutina, ktorá rozvádza po tele potrebné látky. Žiak vie vysvetliť krvný obeh.
+
+
+Navrhnite odpoveď na list, ktorý ste na začiatku vášho skúmania dosta- li od tímu biotech- nológov. Pamätajte, že vo vašom liste sa musia objaviť odpovede na všetky ich otázky.
+Pokúste sa vytvoriť odpovede čo najjed- noduchšie, môžete pou- žiť aj nákresy, ak vám to pomôže lepšie vysvetliť to, čo by ste radi bio- technológom poradili.
+
+Odpoveď na list od tímu biotechnológov
+
+1. Koľko krvi človek potrebuje (má)? Kde je krv v tele sústredená?
+2. Koľko krvi môže človek stratiť bez ohrozenia života?
+
+
+Odpoveď a zdôvodnenie na základe zistených informácií.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+76
+
+ROZmNOžOVACIA SÚSTAVA
+
+
+Milí mladí výskumníci
+
+
+
+
+
+Milí mladí výskumníci!
+Sme tím výskumných psychológov, práve pracujeme na úlohe, ktorej cieľom je prehodnotenie hranice dospelosti. Oddeľovanie detstva od dospelosti a následne dospelosti od staroby je veľmi náročné. Hoci deti, keď sú staršie, sa už nepovažujú za deti, starší ľudia ich tak môžu vnímať. Ako určiť hranicu, kedy sa človek stáva dospelým?
+Keďže sme psychológovia, riešime najmä to, ako človek dokáže napríklad vnímať zodpovednosť za svoje činy alebo sa riadiť dohodnutými pravidlami a vnímať ich hodnotu. Riešime teda najmä myslenie človeka a jeho správanie. Chýba nám však prírodovedný pohľad na dospievanie.
+Na riešenie nášho problému by sme potrebovali vedieť, ako sa ľudské telo mení z pohľadu biológie. Aké sú znaky toho, že človek dospieva? Kedy sa to deje? Kedy je možné hovoriť, že človek už starne? Ako sa to preja- vuje? Vedeli by ste nám tieto otázky zodpovedať?
+Vopred ďakujeme za pomoc s výskumom.
+
+S pozdravom	tím psychológov
+
+Občiansky preukaz
+Jednou z dôležitých skutočností, ktoré sa viažu k dospelosti, je vydanie občianskeho preukazu. Občianskym preukazom človek preukazuje svoju totožnosť a často teda aj dovŕšenie určitého veku.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zisti, kedy dostanete občiansky preukaz.
+       Čo všetko je na občianskom preukaze uvedené?
+Čo myslíš, prečo má občiansky preukaz obmedzenú platnosť?77
+
+Žiak vie opísať vývin človeka od počatia až po starobu a sústrediť sa na zmeny v raste a vývine organizmu.
+
+
+
+
+V rámci výzvy  od tímu psychológov by bolo  vhodné  naj- skôr preskúmať, ako sa človek počas svoj- ho života mení. Naj- pozorovateľnejším zna- kom toho, že človek sa počas života mení, je rast jeho tela. Človek rastie len do dospelosti. Rastú plynule všetky časti jeho tela?
+
+Všimni si, ako sa mení telo človeka počas jeho dospievania.
+Ktorá časť tela rastie najmenej a ktorá najviac? Vytvor z pozorovania záver a over ho v encyklopédii alebo na internete.
+
+
+
+
+
+	
+
+
+
+
+
+
+2. Okrem rastu tela sa človek výrazným spôsobom mení aj v tvári. Na obrázku sa nachádzajú fotografie Michala z rôzneho obdobia jeho života. Vyskúšajte si prira- denie fotografií k veku a pokúste sa opísať, na základe akých znakov ste fotografiu priradili. Ako sa jeho tvár zme- nila?
+
+3. Tvár dieťaťa sa od tvá- re dospelého výrazne odlišuje. Pri pozornom porovnávaní tvárí je možné pomerne ľah- ko zistiť, v čom sa tváre detí od tvárí dospelých odlišujú.
+Pokúste sa opísať roz- diely. Pomôžu vám na- sledovné nákresy, na
+
+už podľa tváre človeka vieme povedať, či ide o dieťa alebo dospelého.
+Vedel/vedela by si k tváram priradiť nasledovný vek: 5, 10, 15, 30, 40 a 60 rokov?
+
+
+
+
+
+
+
+
+
+Zmena tváre vekom má tiež svoje zákonitosti.
+Pozoruj obrázok a pokús sa opísať, v čom je iná tvár dieťaťa od tváre dospelého človeka.
+
+ktorých sú rozdiely zvý-	 	
+
+raznené. Stačí ich len opísať. Podarí sa ti to?
+
+Ako sa mení tvár s vekom človeka? Čím sa odlišuje tvár dieťaťa od tváre dospelého človeka?
+
+
+
+
+
+
+78
+
+Žiak vie opísať vývin človeka od počatia až po starobu a sústrediť sa na zmeny v raste a vývine organizmu.
+
+
+
+Človek sa mení nielen vzhľadom, ale aj učením.
+Vyskúšaj si, ako to funguje. Všimni si obrázok snehuliaka. Pokús sa ho čo najvernejšie prekresliť do rámčeka označeného jednotkou. Použi tú ruku, ktorou zvyčajne píšeš. Označ (vyfarbi), ktorou rukou si snehuliaka kreslil. Do druhého rámčeka sa pokús prekresliť snehuliaka druhou rukou. Obrázky porovnaj a urob záver.
+
+		
+
+
+4. Dospievaním sa človek nemení len vý- zorom, ale aj spôso- bom premýšľania. Pre dospievanie je učenie veľmi dôležité. Učíme sa neustále a získa- vame tým nové schop- nosti a zručnosti. Učenie je zároveň aj veľmi pri- rodzené. Zisti, ako rých- lo sa môžeš niečo nové naučiť.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Trénuj každý deň kreslenie snehuliaka rukou, ktorú na písanie nepoužívaš, a v uvedených dňoch sa znovu a znovu pokúšaj napodobňovať kresbu snehuliaka. Zisti, či sa vieš naučiť kresliť aj rukou, ktorú zvyčajne na kreslenie nepoužívaš. Svoje pozorovanie vyhodnoť.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Záver zo skúmania. Čo si zistil/zistila o učení?
+
+
+Každý deň si doma trénuj kreslenie sne- huliaka. Každé ráno pri raňajkách skús nakresliť snehuliaka aspoň 10-
+-krát. Snehuliaka skúšaj kresliť aj večer, znovu aspoň 10-krát.
+
+
+
+
+
+
+
+
+
+
+79
+
+Žiak vie opísať vývin človeka od počatia až po starobu a sústrediť sa na zmeny v raste a vývine organizmu.
+        Žiak vie, že na splodenie dieťaťa je potrebný dospelý muž a dospelá žena. Žiak vie, že po oplodnení ženy mužom sa v tele ženy vyvíja dieťa – žena je tehotná.
+
+
+5. Každý človek po naro- dení rastie, avšak nie všetci rastieme rovna- ko rýchlo. Preto nie je možné určiť hranicu
+
+Ako sa prejavuje dospievanie človeka na jeho tele?
+Všimni si znaky uvedené na obrázku a pomocou encyklopédie môžeš doplniť ďalšie znaky.
+
+dospelosti podľa výšky,	 	
+
+do ktorej človek dorás- tol. Dospelé ľudské telo sa od detského odlišuje tým, že sa už vyvinuli všetky jeho orgány, najmä rozmnožovacia sústava.
+To, že rozmnožovacia sústava sa už vyvinula, je možné pozorovať aj na vonkajších znakoch tela – človek dospieva.
+
+Chlapcom aj dievčatám hrubne hlas, chlapcom výraznejšie, tomuto javu hovoríme mutácia hlasu.
+
+
+
+Na viacerých miestach tela sa začína objavovať ochlpenie, u chlapcov aj na tvári.
+
+
+
+
+
+
+
+U dievčat sa objavuje pravidelné mesačné krvácanie – menštruácia.
+
+
+
+
+
+
+
+
+
+6. S rozvojom rozmno- žovacej sústavy sa spá- jajú aj citové prejavy človeka, ktoré ho vedú k vyhľadávaniu partnera opačného pohlavia, s ktorým by rád prežil
+
+Z encyklopédie alebo internetu zisti, približne v akom veku sa tieto zmeny dejú, a uveďte ich priamo k ich opisom na obrázku.
+
+Vzťahy medzi ľuďmi v období dospievania sa výrazne menia.
+Prezri si príbeh Katky a Karola a pokús sa opísať, v čom si môžu byť muž so ženou oporou.
+
+život a spolu priviedli na svet deti.
+Bez rozvinutej rozmno- žovacej  sústavy  nie je možné priviesť na svet dieťa, na splode- nie dieťaťa je potreb- ný dospelý muž a dospelá žena. Intím- nym spolužitím par- tnerov dochádza k o- plodneniu ženy, žena je tehotná. Tehotná žena je zraniteľná, preto je pre ňu ro- dina veľmi dôležitá.
+
+80
+
+Katka	Katka
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Katka a Karol
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Katka a Karol
+
+
+
+
+
+
+
+
+
+
+
+Katka a Karol
+
+
+
+
+
+
+
+
+
+
+Katka	Katka a Karol
+Katka a Karol
+
+                             Žiak vie, že dieťa sa v tele matky vyvíja približne deväť kalendárnych mesiacov, pričom matka je s dieťaťom spojená pupočnou šnúrou, cez ktorú dieťa od matky prijíma potrebné látky a kyslík. Žiak vie opísať vývin človeka od počatia až po starobu a sústrediť sa na zmeny v raste a vývine organizmu.
+Žiak vie vysvetliť význam rodiny pri rozmnožovaní človeka.
+
+
+Ešte pred narodením sa dieťa vyvíja v tele matky.
+Všimni si, ako sa mení postava ženy v tehotenstve. Zisti, ako dlho trvá život dieťaťa od počatia po narodenie. Dopíš mesiace do obrázka. Obrázky porovnaj a urob záver.
+7. 
+Život nevzniká naro- dením dieťaťa, ale jeho počatím. Pomerne dlhú dobu dieťa rastie v tele matky. Pre matku je to krásne obdobie plné zmien a očakávaní. Rov- nako krásne je toto ob- dobie pre otca dieťaťa, a to aj napriek tomu, že dieťa nosí v tele matka. Harmonický vzťah part- nerov je pre dieťa veľmi dôležitý.
+Všimnite si, ako veľmi sa človek mení počas svojho života pred narodením. Porovnajte veľkosť dieťaťa v tele matky v prvom mesiaci tehotenstva s posled- ným mesiacom. Viete, koľko ste vážili, keď ste sa narodili? Koľko vážite dnes? A viete tiež, koľko ste merali? Aká je vaša výška dnes?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nájdi informácie o tom, čo je to pupočná šnúra.
+Pokús sa vysvetliť, ako informácie o pupočnej šnúre súvisia s tým, že tehotná žena by sa mala zdravo stravovať a nemala by sa pohybovať v prostredí, v ktorom sa nachádzajú nebezpečné látky. Vysvetlenie môžeš nakresliť a/alebo primerane opísať.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+81
+
+Žiak vie opísať vývin človeka od počatia až po starobu a sústrediť sa na zmeny v raste a vývine organizmu.
+Žiak vie vysvetliť význam rodiny pri rozmnožovaní človeka.
+
+
+
+9. Keď sa narodí dieťa, je úplne bezmocné, odkázané na svojich rodičov. Avšak už o rok vie chodiť, o ďalší už dokáže rozprávať. Deti postupne rastú, menia sa, veľa sa učia, dospievajú a raz tiež privedú na svet svoje vlastné deti, ktoré budú po narodení na nich rovnako odkázané, ako boli ony odkázané na svojich rodičov. Ale naj- skôr musia dospieť.
+
+Po deviatich mesiacoch sa dieťa narodí.
+Novorodenec je skutočne veľmi bezmocný, v podstate len spí, plače, prijíma potravu. Síce hýbe končatinami, ale nedokáže otočiť a ani zdvihnúť hlavu alebo sa pohybovať z miesta na miesto. Premýšľaj, čo všetko musia novorodencovi rodičia zabezpečiť. Aký význam tu zohráva rodina?
+
+
+
+
+
+
+
+
+
+10. Aj napriek tomu, že dospelý človek prestáva rásť, neznamená to, že sa už nemení. Postupne starne. Určenie obdo- bia, v ktorom človek začína starnúť, je rovna- ko ťažké, ako určenie obdobia dospievania. Premýšľajte o znakoch, na základe ktorých považujete človeka za starého.
+
+Kedy je možné hovoriť, že človek už starne?
+Premýšľaj o otázkach a označ tie výroky, s ktorými súhlasíš. Vyspovedaj ďalších  spolužiakov   a   za   každú   súhlasnú   odpoveď   vyfarbi   políčko   v tabuľke. Vyhodnoť, ako ste sa v triede na odpovediach zhodli. Diskutujte o odpove- diach. Snaž sa odpovede, s ktorými nesúhlasíš, spochybniť a obhajuj svoje názory.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+82
+
+Žiak vie opísať vývin človeka od počatia až po starobu a sústrediť sa na zmeny v raste a vývine organizmu.
+
+
+
+Pozoruj výsledky podobného prieskumu.
+Do tohto sa zapojilo 2 969 dospelých ľudí. Sú medzi tvojimi výsledkami a týmito výsledkami rozdiely? Pokús sa vytvoriť záver k otázke, kedy by bolo možné hovoriť, že človek starne. Zistenia z prieskumov porovnaj s informáciami, ktoré získaš z en- cyklopédií a internetu.
+
+
+
+
+
+
+
+11. Deti zvyčajne vníma- jú hranicu staroby inak ako dospelí. Všimnite si výsledky podobného prieskumu, do ktorého sa zapojili dospelí ľudia. Je váš pohľad na starobu rovnaký alebo odlišný ako pohľad dospelých ľudí? Čo o starnutí ho- voria encyklopédie o ľudskom tele?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Záver zo skúmania:
+
+
+
+
+
+
+
+Je možné určiť hranicu, kedy sme už dospelí?
+Je možné stanoviť, kedy začíname starnúť? Vyznač na obrázku a svoje rozhodnutie sa pokús zdôvodniť.
+
+
+12. Obdobie života človeka medzi dospie- vaním a starobou nazý- vame dospelosť. V tom- to období človek  ži- je samostatný život, prá- cou zabezpečuje nielen seba, ale aj svojich blíz- kych, ktorí sa nedokážu sami o seba postarať, t. j. tých, ktorí sú pod alebo nad hranicou dospe- losti.
+
+
+
+
+
+
+
+Uvažuj, prečo nie je také jednoduché určiť, kedy je človek už starý. Prečo sa hovorí, že sme presne takí starí, na aký vek sa cítime?
+
+
+
+
+
+
+
+83
+
+Žiak vie opísať vývin človeka od počatia až po starobu a sústrediť sa na zmeny v raste a vývine organizmu.
+
+
+
+
+Navrhnite odpoveď na list, ktorý ste na začiatku vášho skúmania dostali od tímu psychológov. Pamätajte, že vo vašom liste sa musia objaviť odpovede na všetky ich otázky.
+Pokúste sa vytvoriť od- povede čo najjedno- duchšie, môžete použiť aj nákresy, ak vám to pomôže lepšie vysvetliť to, čo by ste radi psy- chológom poradili.
+
+
+Odpoveď na list od tímu psychológov
+
+1. Aké sú znaky toho, že človek dospieva? Kedy sa to deje?
+2. Kedy je možné hovoriť, že človek už starne? Ako sa to prejavuje?
+
+
+Odpoveď a zdôvodnenie na základe zistených informácií.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+84
+
+Poznámky:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+85
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+86
+
+PRíRODNé SPOLOČENSTVá
+
+
+
+Milí mladí výskumníci
+
+
+
+
+
+Milí mladí výskumníci!
+Obraciame sa na vás s ďalšou výskumnou úlohou. Určite viete, že viaceré rastliny a živočíchy sú zákonom chránené, čo znamená, že ich poškodenie v prírode je priestupkom proti zákonu, ktorý sa trestá pokutou. Nás zaujíma, či je skutočne nevyhnutné chrániť vybrané druhy rastlín a živočíchov. Veď na svete je toľko rôznych rastlín a živočíchov, že by sa pravdepodobne nič nestalo, ak by niektoré vyhynuli. Prosím, skúste preskúmať, čo by mohlo spôsobiť vyhynutie jedného druhu rastliny alebo živočícha. Ako súvisí život jednej rastliny alebo jedného živočícha so životom ostatných rastlín, živočíchov a človeka?
+Veľmi by nám pomohlo, keby ste výsledok svojho skúmania prezentovali ako článok do prírodovedného časopisu. Bude preto potrebné vymyslieť aj názov článku a vaše zistenia dokladovať aj vhodnými kresbami.
+Vopred ďakujeme za váš príspevok. S pozdravom
+redakcia prírodovedného časopisu pre deti a mládež
+
+Prezri si výber zo zoznamu zákonom chránených rastlín.
+Pokuta (nazývaná aj spoločenskou hodnotou), ktorá je pri nich uvedená, predstavuje cenu za jeden zničený kus rastliny. Prezri si kyticu kvetov a vyčísli pokutu za takúto kyticu. Pomôž si tabuľkou,        v ktorej vyškrtneš tie rastliny, ktoré sa v kytici nenachádzajú.
+
+
+Názov rastliny€plesnivec alpínsky51hlaváčik jarný69klinček lesklý69bleduľa jarná karpatská69črievičník papučkový138cyklámen fatranský138jesienka piesočná230Spolu:Zisti, ktoré z uvedených živočíchov sú zákonom chránené a aká je ich spoločenská hod- nota v eurách.
+
+
+fúzač alpský
+
+babôčka pávooká
+
+salamandra škvrnitá
+
+
+
+
+
+
+
+
+srnec lesný
+
+veverica stromová
+
+rys ostrovid
+
+
+
+
+2	87
+
+LES
+
+Rastliny a huby
+
+1. dub letný
+2. buk lesný
+3. hrab obyčajný
+4. borovica lesná
+5. ostružina černicová
+6. jahoda obyčajná
+7. hríb dubový
+8. pečeňovec dubový
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+88
+
+živočíchy
+
+9. jeleň lesný a laň
+10. medveď hnedý
+11. diviak lesný
+12. vlk dravý
+13. veverica stromová
+14. sova lesná
+15. sojka obyčajná
+16. užovka stromová
+17. myš poľná
+18. hrobárik obyčajný
+19. mäsiarka obyčajná
+20. lajniak obyčajný
+21. slizovec hnedý
+22. svetluška  svätojánska
+23. kliešť obyčajný
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+89
+
+                             Žiak vie vysvetliť život živočíchov v lese. Žiak vie opísať spôsob života typických zástupcov lesného spoločenstva.
+
+
+
+Aby sme vedeli sku- točne vedecky odpo- vedať na otázky od redakčného tímu časo- pisu, preskúmame spô- sob života rôznych rastlín a živočíchov. Rastliny a živočíchy môžeme nájsť na rôz- nych miestach, najskôr preskúmame les, potom lúky, následne  polia  a nakoniec vodu a jej okolie.
+
+1. Prezrite si pozorne obrázok lesa. Rozprá- vajte sa o rastlinách a živočíchoch, ktoré po- znáte, a o tom, čo o nich viete. Zamyslite sa, ako súvisí život rastlín so životom živočíchov v le- se.
+
+Zisti, ako žijú vybrané lesné živočíchy.
+Podčiarkni informácie, ktoré vyjadrujú, že tieto živočíchy sú závislé od rastlín. Zisti, ktoré z uvedených živočíchov sú zákonom chránené.
+
+Živia sa len rastlinnou potravou, zelenými časťami rastlín, rôznymi plodmi a semenami rastlín, ale obhrýzajú aj kôru stromov, mladé výhonky stromov a krov. Samice a mláďatá žijú v čriede pod vedením starej samice, samce v menších skupinách. Mláďatá sú po narodení skryté počas dňa v tráve, večer cicajú materské mlieko.
+jeleň lesný
+
+Vyhľadávajú najmä rastlinnú potravu, napríklad bobuľové plody, žalude, orechy. Živia sa aj mravcami, chrobákmi, plazmi, vtáčími vajcami a uhynutou zverou. Medvede sú samotári, svoje územie si chránia. Medveď najtuhšiu zimu prespáva v úkryte. Medvieďatá sa rodia v zime v medveďom brlohu a opúšťajú ho až po 3 mesiacoch.
+medveď hnedý
+
+Veverica je všežravá, živí sa rôznymi plodmi, bobuľami, se- menami, ale aj hmyzom, vtáčími vajcami a uloví aj mladé vtáky. Veverica tvorí vysoko vo vetvách stromov okrúhle hniezdo z vetvičiek, trávy a machu, kde vychováva svoje mláďatá. Na zimu si vytvára rôzne úkryty na potravu, zimu neprespáva.
+
+veverica stromová
+
+
+
+
+
+
+sova lesná
+
+
+Sova je dravec. Za súmraku loví rôzne drobné cicavce, veveričky, králiky, vtáky, žaby. Korisť vyhľadáva podľa slu- chu. Na lov je prispôsobená aj silnými pazúrmi, zahnutým zobákom a jemným perím, čo spôsobuje, že pri lete ju tak- mer nie je počuť. Cez deň drieme, ukrytá v korunách stro- mov. Mláďatá vychováva zvyčajne v hniezde v dutine stro- mov.
+
+Nájdi rozdiely v spôsobe života uvedených živočíchov a pokús sa opísať tie, ktoré
+ 	považuješ za najzaujímavejšie.	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+90
+
+Žiak vie opísať spôsob života typických zástupcov lesného spoločenstva. Žiak vie, že rastliny vyžadujú pre svoj život rôznorodé podmienky.
+
+
+
+Zisti, ako žijú vybrané lesné rastliny.
+Podčiarkni informácie, ktoré vyjadrujú, že tieto rastliny sú závislé od živočíchov.
+
+Dubové lesy sú pomerne svetlé, lebo ich listy prepúšťajú veľa svetla, preto rastie v dubovom lese pod stromami veľa rôznych rastlín. Duby predstavujú úkryt pre mnohé živočíchy a tiež sú pre ne zdrojom potravy. Napríklad soj- ka si na zimu zahrabe do zeme až 5 000 žaluďov, z ktorých môžu na jar vyrásť nové duby. V dutinách starších stromov
+2. 
+Aj rastliny môžu mať prospech zo života živočíchov. Napríklad môžu opeľovať kvety alebo odnášať plody  a semená na rôzne  iné miesta, kde z nich vyrastú nové rastliny. Premýšľajte, ako človek ovplyvňuje život rastlín.
+
+dub letný
+
+
+
+
+
+
+buk lesný
+
+
+
+
+
+
+hrab obyčajný
+
+
+
+
+
+
+borovica lesná
+
+si vytvárajú hniezda rôzne vtáky alebo včely.
+
+Bukové lesy sú pomerne tmavé, a preto tam rastie menej ras- tlín. Zem je zvyčajne pokrytá veľkým množstvom postupne sa rozkladajúceho lístia, ktoré poskytuje pre rôzne drobné živočíchy potravu a tiež úkryt, napríklad pre mnohonôžky a slimáky. Plody buku sú bukvice a živia sa nimi rôzne druhy lesnej zveri, napríklad diviaky, jelene, ale zbierajú ich aj veveričky a rôzne druhy lesných vtákov.
+
+Hrab má nižší vzrast, niekedy pripomína tvarom ker. Vy- tvára spolu s lieskami, dubmi a brezami lesy bohaté na huby. Podhubie prerastá pomedzi korene stromu. Strom aj huba si vzájomne poskytujú látky, ktoré potrebujú pre svoj život. Okrem toho hustý porast zabezpečuje tienisté a vlh- ké prostredie, ktoré je na rast húb veľmi vhodné. Hrabové drevo človek používa najmä pri výrobe papiera.
+
+Ihličnaté stromy tvoria horkú, lepkavú látku – živicu, ktorá odrádza živočíchy od toho, aby ich obhrýzali. Borovicové lesy sú pomerne tmavé a zem je pokrytá veľkým množstvom ihličia, čo spôsobuje, že pod týmito stromami rastie málo rastlín. Ihličie využívajú mravce na stavbu mravenísk. Šišky obsahujú semená, ktorými sa živia rôzne lesné živočíchy. Semená sa tak rozširujú ďalej.
+
+
+Nájdi rozdiely v spôsobe ich života a pokús sa ich opísať.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+91
+
+       Žiak vie opísať les ako spoločenstvo rastlín a živočíchov, ktoré sú vzájomne od seba závislé. Žiak dokáže vyhľadať v informačných zdrojoch chýbajúce informácie o spôsobe života organizmov.
+
+
+
+3. Vzťah medzi rastli- nami a živočíchmi sa vy- tvára najmä v súvislosti so získavaním potravy. Rastliny však môžu živočíchom poskytovať aj iný osoh. Premýšľajte o vzťahoch vybraných dvojíc živočíchov a ras- tlín. Pomôže vám, ak si v encyklopédiách alebo na internete nájdete viac informácií o tom, ako uvedené živočíchy žijú.
+
+Potrebujú sa živočíchy a rastliny navzájom?
+Pokús sa vysvetliť, ako súvisí život uvedených druhov živočíchov a rastlín. Pomôž si obrázkom lesa. To, čo nevieš a potrebuješ vedieť, pokús sa vyhľadať v encyklo- pédiách alebo na internete. Živočíchy a rastliny na obrázkoch pomenuj.
+
+
+
+
+borovica lesná
+
+
+
+
+
+
+
+
+
+
+
+
+
+dub letný
+
+
+
+
+
+
+
+
+
+
+smrek obyčajný
+
+
+
+
+
+
+
+
+
+
+dub letný
+
+92
+
+       Žiak vie opísať les ako spoločenstvo rastlín a živočíchov, ktoré sú vzájomne od seba závislé. Žiak dokáže vyhľadať v informačných zdrojoch chýbajúce informácie o spôsobe života organizmov.
+
+
+
+Doplň, s akými živočíchmi a rastlinami súvisí spôsob života uvedených druhov drobných živočíchov.
+Vzťah vysvetli. Pomôžu ti informácie o jednotlivých živočíchoch, ktoré nájdeš v en- cyklopédiách.
+
+lykožrút smrekový
+
+
+
+Rastlina:
+4. 
+Obrovskou skupinou živočíchov, ktoré žijú v lese, ale sú menej viditeľné kvôli svojmu vzrastu, sú bezstavov- ce. Zistite, ako spôsob života zástupcov tejto skupiny živočíchov sú- visí so životom ostat- ných lesných živočíchov a rastlín.
+Zistite viac o spôsobe života týchto živočíchov a uveďte aspoň jeden druh rastliny a jeden druh živočícha, o kto- rom viete, že ovplyvňuje jeho život.
+
+
+hrobárik obyčajný
+
+
+
+Rastlina:
+
+
+
+včela medonosná
+
+
+
+Rastlina:
+
+
+
+slizovec hnedý
+
+
+
+Rastlina:
+
+
+
+93
+
+                    Žiak dokáže uvažovať o vzťahoch medzi rastlinami, živočíchmi a prostredím. Žiak dokáže vyhľadať v informačných zdrojoch chýbajúce informácie o spôsobe života organizmov.
+
+
+
+5. Často počujeme, že veverica sa živí orieškami, pavúk mu- chami. Je skutočne
+„jedálniček” živočíchov taký jednotvárny? Zis- tite čo najviac rôz- norodej potravy, ktorou sa živia križiak, plch, soj- ka a mravec. Nájdete medzi ich potravou aj takú, ktorou sa živia iné živočíchy, napríklad veverica, medveď, jeleň či sova?
+
+Tak ako je strava človeka pomerne pestrá, aj živočíchy sa živia pomerne rôznou potravou.
+Zisti, čím sa živia uvedené živočíchy (križiak, plch, sojka a mravec). Pomáhaj si obráz- kom lesa a encyklopédiami. Ak váhaš, over si vedomosti na internete.
+Farebne zakrúžkuj, čo patrí do „jedálnička” veverice (modrá), medveďa (žltá), jeleňa (zelená) a sovy (červená).
+
+ Ktorú potravu majú spoločnú?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+uveď, ktorá potrava patrí do „jedálnička” najväčšieho množstva živočíchov uvedených v tabuľke. Čo by sa stalo, ak by tejto potravy bolo málo? Ako by sa to mohlo stať?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+94
+
+Žiak vie opísať les ako spoločenstvo rastlín a živočíchov, ktoré sú vzájomne od seba závislé.
+                                                               Žiak vie vysvetliť život živočíchov v lese. Žiak vie zostaviť na základe informácií, ktoré má o organizmoch žijúcich na vybranom území, potravový reťazec.
+
+
+Všimni si, ako sú svojím spôsobom života prepojené rôzne druhy rastlín a živočíchov žijúcich v lese.
+Tvojou úlohou je doplniť podobným spôsobom ďalšie súvislosti. Zváž aj význam vody, vzduchu, pôdy a svetla pre ich život.
+
+sojka
+
+
+6. Preskúmali sme, ako žijú rôzne ras- tliny a živočíchy v lese. Zistili sme, že medzi rôznymi rastlinami a ži- vočíchmi sú určité vzťahy, ktoré sa týkajú
+
+medveď
+
+
+
+
+jeleň
+
+vlk
+
+netopier
+
+kukučka
+
+sova
+
+
+
+
+
+
+
+ďateľ
+
+najmä potravy, úkrytu a rozmnožovania. Po- zrime sa teraz na les ako celok a pokúsme sa vyznačiť čo najviac vzťahov.
+
+
+
+
+
+veverica
+ 
+dutiny stromov
+
+rastlinné semená
+
+užovka
+
+
+
+
+
+
+
+diviak
+
+
+salamandra
+
+
+
+
+
+
+
+
+človek
+
+huby	rastlinné plody
+
+
+pstruh
+
+
+
+
+
+
+
+
+lykožrút
+
+
+mravec
+
+
+
+včela
+
+
+
+slizovec
+
+
+križiak
+
+
+
+svetluška
+
+
+
+
+
+
+SVETLO
+
+
+
+
+
+
+Od ktorého organizmu vedie najviac šípok?
+
+
+Ku ktorému organizmu vedie najviac šípok?
+
+
+95
+
+LÚKA
+
+Rastliny a huby
+
+1. zvonček konáristý
+2. rumanček roľný
+3. nevädza poľná
+4. lipnica lúčna
+5. čakanka obyčajná
+6. ďatelina lúčna
+7. šalvia lúčna
+8. tanečnica poľná
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+96
+
+živočíchy
+
+9. tur domáci
+10. koza domáca
+11. zajac poľný
+12. králik divý
+13. krt obyčajný
+14. včela medonosná
+15. koník lúčny
+16. čmeľ zemný
+17. križiak obyčajný
+18. lienka sedembodková
+19. babôčka pávooká
+20. bystruška fialová
+21. voška ružová
+22. slimák pásikavý
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+97
+
+   Žiak vie opísať spôsob života typických zástupcov lúčneho spoločenstva. Žiak dokáže uvažovať o vzťahoch medzi rastlinami, živočíchmi a prostredím.
+
+
+
+Preskúmali sme, ako žijú živočíchy a rastliny v lese. Teraz budeme rovnakým spôsobom skúmať vzťahy ras- tlín a živočíchov na lúke. Možno zistíme ďalšie zaujímavé veci o živote rôznych rastlín a živočíchov.
+
+1. Prezrite si pozorne obrázok lúky. Rozprá-
+
+Zisti, ako žijú vybrané lúčne živočíchy.
+Podčiarkni informácie, ktoré vyjadrujú, že tieto živočíchy sú závislé od rastlín. Zisti, ktoré z nich sú zákonom chránené.
+
+Hniezdi v zemi, najčastejšie v opustených dierach po hlodav- coch. Čmele, podobne ako včely, vytvárajú čmeliu rodinu. V jednej rodine je okolo 500 čmeľov. Prezimuje len čmelia kráľovná, ktorá na jar zakladá nové hniezdo. V zemi si robí voskové bunky, do ktorých kladie vajíčka. Z nich sa vyliahnu larvy (červíky), ktoré čmele kŕmia najmä peľom z kvetov. Čmele si, podobne ako včely, vytvárajú zásobu medu vo voskových
+
+vajte sa o  rastlinách a	živočíchoch,	ktoré
+
+čmeľ zemný
+
+bunkách, ktorý tvoria z nektáru kvetov. Čmele dokážu opeliť aj
+také kvety, ktoré včely nedokážu.
+
+poznáte  a  o  tom, čo	 	
+
+o nich viete. Zamyslite sa nad tým, ako súvisí život rastlín so životom živočíchov na lúke.
+
+
+
+
+
+
+
+
+križiak obyčajný
+
+Samička každé ráno obnovuje svoju okrúhlu sieť, ktorú stavia od augusta do októbra zvyčajne na kroch, stro- moch, ale aj na mohutnejších bylinách. Najskôr vytvorí sieť z nelepivej pavučiny a až na tej buduje samotnú lepkavú lapa- ciu sieť s nelepkavým stredom, v ktorom zvyčajne čaká na korisť. Nohami sa dotýka vlákien pavučiny a sleduje chvenie spôsobené chytenou korisťou. Samičky na jeseň hynú, zimu prežívajú vajíčka, z ktorých sa mladé pavúky liahnu v máji a hneď si stavajú vlastné siete. Živí sa hmyzom chyteným do siete.
+
+
+
+
+
+
+
+
+koník lúčny
+
+
+
+
+
+
+lienka sedembodková
+
+Živí sa iba rastlinnou potravou, najmä zelenými časťami rastlín. Je ľahko rozpoznateľný podľa trasľavého cvrčania, ktoré je typické pre slovenské horúce letné lúky. Cvrčanie vydáva trením zadných stehien o krídla. Rozmnožuje sa vajíčkami, ktoré väčšina koní- kov kladie na jeseň do pôdy alebo do pňov stromov. Z vajíčok sa na jar liahnu larvy, ktoré sa čiastočne podobajú na dospelého koníka, nemajú však krídla. Počas leta koník postupne rastie a pritom sa niekoľkokrát zvlieka. Svoju farbu tela prispôsobuje farbe rastlinného porastu, v ktorom žije.
+
+Dospelé lienky, ale aj larvy sa živia takmer výlučne voškami. Lienka kladie väčšie množstvo vajíčok, z ktorých sa vyliahnu bezkrídle čierno-oranžové larvy. Po určitom čase sa zakuklia a po premene sa vykuklia dospelé lienky. Lienky prezimovávajú v kolóniách, ukryté napríklad pod kôrou stromov. Často sa vyskytujú aj v blízkosti ľudských obydlí. V nebezpečenstve lienka vylučuje kvapôčky žltej tekutiny, ktorá obsa- huje jedy. Pre človeka však táto tekutina nie je nebezpečná, najmä ak ju nekonzumuje.
+
+
+Nájdi a opíš najzaujímavejšie rozdiely v spôsobe ich života.
+
+
+
+
+
+
+
+
+
+
+
+
+
+98
+
+      Žiak vie, že rastliny vyžadujú pre svoj život rôznorodé podmienky. Žiak vie opísať spôsob života typických zástupcov lúčneho spoločenstva.
+
+
+
+Zisti, aké podmienky pre svoj život vyžadujú uvedené rastliny.
+Sú svetlomilné alebo tieňomilné? Ktoré z uvedených rastlín sú liečivé? Ktoré z uve- dených rastlín sú medonosné?
+
+zvonček konáristý	rumanček roľný	nevädza poľná
+2. 
+Kým v lese sme videli skôr stromy, na lúke sa vyskytuje najmä veľa bylín. Aby sme zistili, prečo to tak je, preskú- mame, aké podmienky potrebujú pre svoj život rastliny, ktoré môžeme vidieť bežne na lúkach.
+Premýšľajte aj o tom, ako človek ovplyvňuje život rastlín na lúkach.
+
+
+
+
+
+
+
+
+
+lipnica lúčna
+
+
+čakanka obyčajná
+
+
+vlčí mak
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vyfarbi mesiace, v ktorých uvedené lúčne kvety kvitnú.
+Zvoľ takú farbu, akej sú kvety danej rastliny. Informácie nájdi v atlase rastlín. Kedy je lúka najpestrejšia?
+
+
+Nájdi informácie o tom, prečo kvety kvitnú a ako to súvisí s ich závislosťou od živočíchov.
+
+Pod lúkou si zvyčajne predstavujeme pes- trofarebnú stráň. Je to tak po celý rok alebo má lúka niekedy menej a inokedy viacej farieb? Aj toto môžeme zistiť a vyhodnotiť. Vašou úlohou je vyskúmať, kedy je lúka, na ktorej rastú uvedené kvety, najpestrejšia.
+
+
+
+
+
+
+
+99
+
+ Žiak vie, že rastliny vyžadujú pre svoj život rôznorodé podmienky. Žiak vie navrhnúť postup skúmania rôznorodosti lúčneho porastu.
+
+
+
+3. Preskúmali sme ras- tliny lesov a aj typické rastliny lúk.  Aj  keď  v prírode nepozoru- jeme žiadne živočíchy, vieme povedať, či sme na lúke alebo v lese. Vysvetlite, na základe čoho viete povedať, či ste v lese alebo na lúke. Rozmýšľajte o rôznoro- dosti rastlín, ktoré tu rastú.
+
+Hneď na prvý pohľad vieme určiť, ktorý obrázok predstavuje les a ktorý lúku. Pokús sa opísať, na základe čoho odlišujeme les od lúky.
+
+
+
+
+
+Opis rozdielu:
+
+
+
+
+
+
+
+
+
+
+
+Pokúste sa výsku- mom overiť svoj úsu- dok z predchádza- júcej úlohy. Najskôr skúste odpovedať na dve otázky uvedené v úlohe. Tak si vytvoríte predpoklady. Potom sa pokúste navrhnúť pos- tup, pomocou ktorého by ste vedeli overiť, či je to skutočne tak, ako si myslíte. Pozor, postup musí byť taký, aby ste pomocou neho získali výsledok, ktorému bu- dete dôverovať.
+
+Navrhni postup, pomocou ktorého by si zistil/zistila odpoveď na nasledujúce dve otázky:
+1. Rastú na lúke a v lese tie isté rastliny?
+2. Kde rastie viac druhov rastlín?
+
+
+
+Postup vyskúšaj a zapíš si výsledok skúmania. Súčasťou výsledku musia byť aj odpovede na otázky.
+
+
+
+
+
+
+
+
+
+
+100
+
+                                                     Žiak vie vysvetliť život živočíchov v lúčnom poraste. Žiak vie zostaviť na základe informácií, ktoré má o organizmoch žijúcich na vybranom území, potravový reťazec.
+
+
+
+Všimni si, ako sú svojím spôsobom života prepojené rôzne druhy rastlín a živočíchov žijúcich na lúke.
+Tvojou úlohou je doplniť podobným spôsobom ďalšie súvislosti. Zváž aj význam vody, vzduchu, pôdy a svetla pre ich život.
+ropucha
+
+4. Preskúmali sme, ako žijú rôzne rastliny a živočíchy na lúke. Zistili sme, že medzi rôznymi rastlinami a ži-
+
+
+krava (tur)
+
+
+
+
+kôň
+
+koza	ovca
+
+krt
+
+
+
+
+
+
+bystruška
+
+vočíchmi sú určité vzťahy, ktoré sa týkajú najmä potravy, úkrytu a rozmnožovania. Po- zrime sa teraz na lúku ako celok a pokúsme sa vyznačiť čo najviac vzťahov.
+
+
+
+
+
+
+zajac
+
+
+nory v zemi
+
+zelené časti rastlín
+
+
+
+modlivka
+
+
+
+križiak
+
+
+
+
+
+lienka
+človek
+
+huby	nektár a peľ
+
+
+koník
+vošky
+
+
+
+
+
+
+mravec
+
+
+slimák
+
+
+včela
+
+čmeľ
+
+
+babôčka
+
+stonôžka
+
+
+
+
+
+
+			
+
+Od ktorého organizmu vedie najviac šípok?
+
+
+Ku ktorému organizmu vedie najviac šípok?
+
+
+101
+
+POLE
+
+Rastliny
+
+1. pšenica ozimná
+2. slnečnica ročná
+3. vlčí mak
+4. nevädza poľná
+5. rumanček poľný
+6. agát biely
+7. baza čierna
+8. ruža šípová
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+102
+
+živočíchy
+
+9. chrček poľný
+10. hraboš poľný
+11. myš domová
+12. líška hrdzavá
+13. bažant obyčajný
+14. prepelica poľná
+15. sokol myšiar
+16. zajac poľný
+17. králik divý
+18. včela medonosná
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+103
+
+
+
+
+
+Už sme preskúmali, ako žijú živočíchy a rastliny v lese a na lúkach. Teraz budeme rovnakým spôsobom skúmať vzťahy rastlín a živočíchov na poli. Pole sa od lúky odlišuje, a preto je možné, že aj vzťahy medzi rastlinami a živočíchmi žijúcimi v tomto priestore budú iné.
+
+1. Polia vznikli čin- nosťou človeka, preto ich nepovažujeme za prirodzené životné pro- stredie. Je ich však toľko, že na mnohých miestach sú v pod- state najčastejšie sa vyskytujúcim priesto-
+   
+Žiak vie vysvetliť vznik polí obrábaním. Žiak vie vysvetliť význam polí pre človeka.
+
+
+Polia vznikajú obrábaním zeme, ktorá je dostatočne úrodná a ľahko dostupná pre poľnohospodársku techniku.
+Zasadiť tú istú rastlinu na veľkú plochu je pre človeka výhodné. Porozmýšľaj, prečo to tak je. Postrehy si zapíš a porovnaj s ostatnými.
+
+
+
+
+
+
+
+
+
+
+
+Čo by sa stalo, keby človek prestal polia obrábať?
+Skús nakresliť, ako by také pole vyzeralo po jednom roku a po desiatich rokoch. Svo- ju predstavu zdôvodni poznatkami o životnom cykle rastlín.
+
+rom  pre  život rastlín	 		 	
+
+a živočíchov.
+
+po 1 roku
+
+po 10 rokoch
+
+
+
+2. Keďže polia sú ne- prirodzeným spoločen- stvom, zaujímavé by bolo zamyslieť sa nad tým, čo by sa stalo, keby ich človek prestal obrábať. Rozmýšľajte, čo všetko viete o tom, ako človek polia obrába, a predstavte si, že polia prestane obrábať. Pri- dajte k tomu všetko, čo viete o rozmnožovaní a raste rastlín, a pokúste sa vytvoriť predstavu o tom, ako by polia po čase vyzerali.
+
+
+
+
+
+
+
+
+Zdôvodnenie:
+
+
+Podľa obrázkov sa pokús vysvetliť význam polí pre človeka.
+Podobným spôsobom doplň ďalšiu poľnohospodársku rastlinu a to, ako ju človek využíva.
+
+
+
+
+
+
+
+
+104
+
+                                             Žiak vie porovnať pole s lúkou. Žiak vie na základe porovnania poľa s lúkou vytvoriť závery o rôznorodosti rastlinstva.
+
+
+
+4	Kde rastie viac druhov rastlín – na poli alebo na lúke?
+Použi nasledovný postup a zisti, či rastie na poli viac druhov rastlín ako na lúke.
+Postup:
+1 meter špagátu uviažeme okolo 4 palíc tak, aby sme v rastlinnom poraste vymedzili približne štvorcový priestor so stranou dlhou 20 cm.
+V takto ohraničenom priestore spočítame druhy rastlín. To znamená, že jeden druh, aj keď ho bude viac kusov, započítame len raz.
+4. 
+Tým, že človek obrába polia, ovplyvňuje aj to, čo bude na poli rásť. Už sme zistili, že v lese rastú iné rastliny ako na lúke. Keďže polia vznikli z lúk, môžeme predpokladať, že na poli budú rásť rovnaké rastliny ako na lúke a okrem nich aj tie rastliny, ktoré tam zasa- dil človek?
+
+
+
+
+20 cm
+
+20 cm
+
+Toto zopakujeme na 4 rôznych miestach vy- braného poľa a vybranej lúky.
+Vyhodnoť rozdiely.
+
+
+Počet druhov rastlín na štyroch miestach pozorovaniaSúčet druhov rastlín1234PoleLúkaZáver z pozorovania a odpoveď na výskumnú otázku.
+
+
+
+
+
+
+
+
+Porovnaj vaše výsledky s výsledkami skúmania iných vedcov.
+Počet druhov bylín
+
+5
+
+13
+
+Prezrite si zoznam ras- tlín, ktoré na poli a lúke našli iní  výskumníci, a skúmajte, ako svoje pozorovanie vyhodno- tili. Zhodujú sa vaše závery s ich závermi?
+
+
+0	5	10	15
+Záver:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+105
+
+                                                Žiak vie porovnať pole s lúkou. Žiak vie na základe porovnania poľa s lúkou vytvoriť závery o rôznorodosti rastlinstva.
+Žiak vie vysvetliť význam polí pre človeka.
+
+
+
+5. Z toho, čo sme zis- tili, vyplýva, že človeka ovplyvňuje život na poliach veľmi výrazne. Všetky rastliny potre- bujú pre svoj život svetlo, teplo, vzduch, vodu a živiny z pôdy. V pôde je však živín len určité množstvo, a tak sa môže stať, že jedna rastlina uberá živiny druhej. Človek sa preto rozhodol zabraňovať na poli rastu rastlín, ktoré nie sú cieľom jeho pestovania.
+
+Čo myslíš, čím je spôsobený rozdiel v množstve druhov rastlín rastúcich na poli a na lúke?
+Ako uvedené súvisí s látkami, ktoré sa nazývajú herbicídy? Čo myslíš, prečo človek herbicídy používa? Čo je to ekologické poľnohospodárstvo?
+
+
+
+Staré logo - Nové logo - platné stále platné od 1. 7. 2010
+v celej EÚ. v celej EÚ.
+
+
+
+6. Herbicídy aj napriek tomu, že sú škodlivé pre iné organizmy, pomáhajú človeku v tom, aby dopestoval viac poľnohospodár- skych plodín. Tým, že na svete je čím ďalej viac ľudí a polí už viac nebude, musí sa snažiť, aby získal z poľa čo naj- viac, napríklad obilia na chlieb.
+Preskúmajte, koľko chle- ba spotrebujete v ro- dine za jeden rok, a po- rovnajte to s veľkosťou poľa, ktoré je na výrobu tohto chleba potrebné.
+
+Sleduj, koľko chleba spotrebujete doma v priebehu jedného týždňa. Vypočítaj, koľko chleba pravdepodobne zjete za jeden rok.
+
+Jeden rok má 52 týždňov. Vypočítaj, koľko chleba pravdepodobne zjete za jeden rok.
+
+
+
+
+
+
+Všimni si, aký kus obilného poľa je potrebný na výrobu jedného chleba.
+
+Z poľa veľkosti 1 m na dĺžku a 1 m na šírku je možné získať asi 410 g obilia, z ktorého sa vyrobí asi 350 g múky.
+Z 350 g múky sa vyrobí asi 525 g cesta a z neho sa upečie asi
+500 g chleba.	1 m
+To	znamená,	že	na	výrobu	jedného	bochníka	chleba
+(1200 g) je potrebné pole s veľkosťou asi 2 m na dĺžku
+a 2 m na šírku.	1 m
+
+Predstav si, aké veľké pole bolo potrebné na výrobu chleba, ktorý ste zjedli za jeden týždeň. Čo myslíš, prečo je vyrobenej múky menej ako zrna? Prečo je cesta viac ako múky, z ktorej sa vyrába?
+
+
+
+
+
+106
+
+Žiak vie opísať spôsob života typických poľných živočíchov.
+
+
+
+Zisti, ako žijú vybrané poľné živočíchy.
+Podčiarkni informácie, ktoré vyjadrujú, že tieto živočíchy sú závislé od rastlín.
+
+Králiky sú aktívne predovšetkým za súmraku. Žijú v 20 až 25-členných skupinách. Králiky vyhrabávajú podzemné chod- bové systémy, ktoré môžu siahať až do troch metrov pod po- vrch zeme. Živia sa spásaním trávy a iných bylín, koreňmi rastlín, v zime obhrýzajú kôru a výhonky stromov a krov. Rozmnožujú sa niekoľkokrát do roka. Ak majú dostatok obživy a v prírode nie je dostatok živočíchov, ktoré by ich lovili, veľmi ľahko sa môžu premnožiť a zničiť úrodu na poli. Mláďatá sa rodia slepé
+7. 
+Prezrite si pozorne obrázok poľa. Rozprá- vajte sa o rastlinách a živočíchoch, ktoré po- znáte, a o tom, čo o nich viete. Zamyslite sa, ako súvisí život rastlín so životom živočíchov na poli. Ako ich život ovplyvňuje človek?
+
+králik divý
+
+
+
+
+
+
+
+
+zajac poľný
+
+
+
+
+
+
+
+
+chrček poľný
+
+
+
+
+
+
+
+
+sokol myšiar
+
+a bez srsti.
+
+
+Podobne ako králiky, aj zajace sú aktívne skôr za súmraku. Nerobia si podzemné chod- by, odpočívajú v priehlbinách na zemi vo vysokej tráve alebo v plytko vyhrabanej jamke v zemi. V porovnaní s králikom sú skôr samotárske. Živia sa zelenými časťami rastlín, koreňmi, ale aj rôznymi semenami rastlín. Okrem toho obhrýzajú kôru stro- mov a mladé výhonky krov a stromov. Vo vhodných podmienkach sa rozmnožujú niekoľkokrát do roka. Rodia mláďatá, ktoré majú od narodenia srsť a vidia. Zajac sa pri úteku pohybuje až jeden meter dlhými skokmi.
+
+
+V zemi si vyhrabáva hlboký systém tunelov, v ktorých vytvára komôrky, niektoré sú obytné a iné slúžia na zásoby potravín na zimu. Vytvára si pomerne veľké zásoby, a to tak, že si na poli vloží potravu do lícnych vakov, ktoré sú na prenos prispôsobené, a prenesie si ich do svojho úkrytu v podzemí. Živí sa rastlinnými semenami, plodmi, koreňmi, trávou, ale aj hmyzom. Podzemné obydlie opúšťa za súmraku a v noci. Záso- by si často robí neúmerne tomu, čo spotrebuje, v komorách je možné objaviť aj 50 kilogramov potravy.
+
+
+Živí sa predovšetkým myšami a podobnými hlodavcami, menšími druhmi vtákov, ale aj inými drobnými živočíchmi, napríklad kobylkami, chrobákmi, žabami a jaštericami. Má výborný zrak, dokáže zazrieť korisť z veľkej diaľky, preto ho často vidieť, ako strieh- ne vysoko na stromoch pri poliach alebo sa trepotavo vznáša nad poľom. Ku koristi sa znesie veľmi rýchlym letom a loví ju ostrými pazúrmi. Hniezdo si sokol nestavia, zvyčajne využíva hniezda po iných vtákoch alebo hniezdi na rôznych vyvýšených mies- tach.
+
+
+Nájdi a opíš rozdiely v spôsobe ich života.
+
+
+
+
+
+
+
+
+
+
+
+107
+
+Žiak vie, že potravový reťazec vyjadruje potravovú závislosť jednotlivých organizmov žijúcich na určitom území. Žiak vie na základe informácií, ktoré má o organizmoch žijúcich na vybranom území, zostaviť potravový reťazec.
+
+
+
+8. Preskúmali sme už život veľmi rôznorodých rastlín a živočíchov žijúcich v rôznych pros- trediach. Zdá sa, že väčšina živočíchov sa zdržiava tam, kde majú dostatok potravy. Ak sa teda na určitom mieste nachádza napríklad ve- ľa žaluďov, je možné, že tam bude aj veľa
+
+Všimni si vzťah medzi uvedenými rastlinami a živočíchmi žijúcimi v lese.
+Opíš ho. Pokús sa vytvoriť podobnú reťaz, ktorá bude začínať trávou.
+
+veveričiek.	 	
+
+A zároveň, tam, kde bude veľa veveričiek, bude aj veľa živočíchov, ktoré ich lovia, na- príklad sov.
+
+Návrh potravového reťazca organizmov žijúcich na poli:
+
+
+
+
+
+
+
+
+
+
+
+Žaluď – veverička – sova. Vyzerá to veľmi jednoducho, my sme však zistili, že tou is- tou potravou sa môžu živiť rôzne živočíchy. Vzťahy medzi rastlinami a živočíchmi sú preto zložitejšie, často bojujú o tú istú potravu.
+
+Ako však už vieme, tou istou potravou sa môže živiť viacero druhov živočíchov.
+Vzťahy sú potom zložitejšie. Prezri si, v akom potravovom vzťahu sú rôzne živočíchy žijúce na poli, a pokús sa doplniť chýbajúce vzťahy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Červenou doplňte vzťahy lovca a koristi, ktoré nemajú potravový účel.
+108
+
+ Žiak vie vysvetliť život živočíchov na poli. Žiak vie vysvetliť význam polí pre človeka.
+
+
+
+Všimni si, ako sú svojím spôsobom života prepojené rôzne druhy rastlín a živočíchov žijúcich na poli.
+Tvojou úlohou je doplniť podobným spôsobom ďalšie súvislosti. Zváž aj význam vody, vzduchu, pôdy a svetla pre ich život.
+
+9. Preskúmali sme, ako žijú rôzne rastliny a živočíchy na poli. Zistili sme, že medzi rôznymi rastlinami a živočíchmi sú určité
+
+chrček
+
+
+
+
+líška
+
+
+hraboš
+
+
+
+
+myš
+
+králik
+
+
+zajac
+
+
+
+
+
+včela
+
+vzťahy, ktoré sa týkajú najmä potravy, úkrytu a rozmnožovania. Po- zrime sa teraz na lúku ako celok a pokúsme sa vyznačiť čo najviac vzťahov.
+
+
+
+
+
+mačka
+
+nory v zemi
+
+remízy
+
+
+
+kanárik
+
+
+
+
+
+
+
+človek
+
+
+bažant
+
+
+
+
+
+
+sokol
+
+rastliny polí
+
+
+prepelica
+
+
+
+
+
+
+			
+
+Od ktorého organizmu vedie najviac šípok?Ku ktorému organizmu vedie najviac šípok?Aký záver z toho vyplýva?	
+
+
+
+
+
+
+
+
+
+
+
+109
+
+VODA
+
+Rastliny
+
+1. žaburinka menšia
+2. chaluha bublinatá
+3. lekno biele
+4. trsť obyčajná
+5. vŕba biela
+6. jelša lepkavá
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+110
+
+živočíchy
+
+7. bobor vodný
+8. vydra riečna
+9. bocian biely
+10. rybárik obyčajný
+11. kačica divá
+12. trsteniarik veľký
+13. rosnička zelená
+14. žabie ikry a žubrienky
+15. užovka obyčajná
+16. škľabka veľká
+17. šťuka zubatá
+18. kapor obyčajný
+19. rybie ikry
+20. vážka obyčajná
+21. komár piskľavý
+a jeho larvy
+22. korčuliarka obyčajná
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+111
+
+
+
+
+
+
+Posledným prostredím, ktoré si preskúmame, je vodný zdroj a jeho okolie. Znovu budeme zisťovať, ako sú vzá- jomne prepojené životy rastlín a živočíchov, a pokúsime sa zistiť ďalšie zaujímavosti.
+
+1. Prezrite si pozorne obrázok vodného zdro- ja a jeho okolia. Roz-
+
+Žiak vie vysvetliť, že voda je prostredím pre život mnohých živočíchov. Žiak vie uviesť príklady živočíchov žijúcich priamo vo vode.
+Žiak vie uviesť príklady živočíchov žijúcich pri vode, pre ktoré je vodný zdroj zdrojom potravy. Žiak vie uviesť príklad živočíchov, ktoré potrebujú vodu len na rozmnožovanie.
+Žiak vie vyhľadať v informačných zdrojoch chýbajúce informácie o spôsobe života organizmov.
+
+Zisti, ako žijú vybrané vodné živočíchy, chýbajúce informácie doplň.
+Pomenuj názov skupiny živočíchov, do ktorej patria. Podčiarkni informácie, ktoré vy- jadrujú, že tieto živočíchy sú závislé od vodného prostredia.
+
+Názov skupiny živočíchov:
+
+Vážky sú dravé, lovia menší hmyz. Pri vodných zdrojoch sa zdržiavajú preto, lebo ich larvy sa vyvíjajú pod vodou. Samička nakladie vajíčka do vody. Tie sa uchytia na stonkách vodných rastlín a vyvíjajú sa z nich dravé larvy, ktoré sa živia drobnými
+
+právajte sa o rastlinách
+a živočíchoch, ktoré po- znáte, a o tom, čo o nich viete. Zamyslite sa, ako súvisí život rastlín so ži- votom živočíchov v blíz- kosti vody a priamo  vo vode. Ako ich život ovplyvňuje človek?
+
+vážka ploská
+
+
+
+
+
+komár piskľavý
+
+
+
+
+
+korčuliarka obyčajná
+
+vodnými živočíchmi, dokážu uloviť aj menšie ryby a žubrienky.
+
+Samček sa živí len nektárom kvetov. Samičky okrem toho cicajú krv, ktorá obsahuje látky potrebné na vývin vajíčok. Vajíčka kla- die do vody, kde sa z nich vyvíjajú larvy, ktoré sa pravidelne chodia nadychovať k hladine vody dýchacou trubicou. Preto je ich často vidieť zoskupené pri hladine vody. Typický hvízdavý zvuk je spôsobený najmä chvením krídel.
+
+Prvý pár nôh používa na lovenie drobného hmyzu spadnu- tého na hladinu, stredný pár poháňa tento hmyz dopredu po hladine vody, a to buď veslovaním, alebo skákaním, zadný pár nôh používa ako kormidlo. Celé telo korčuliarok je pokryté množstvom malých chĺpkov, ktoré majú vosk. To umožňuje korčuliarke udržať sa na hladine vody.
+
+
+Názov skupiny živočíchov:
+
+
+
+
+
+
+kapor obyčajný
+
+
+
+
+
+
+
+šťuka obyčajná
+
+Na spodnej čeľusti má nerovnako veľké dovnútra zahnuté zuby, aby ulovená korisť neutiekla. Zdržiava sa v zárastoch vodných rastlín a nehybne striehne na korisť. Mladšie šťuky lovia larvy vodného hmyzu, väčšie sa takmer výlučne živia rybami, pričom často lovia aj menšie šťuky. Tomuto javu hovoríme kanibalizmus.
+
+
+Názov skupiny živočíchov:
+
+
+
+
+rosnička zelená
+
+112
+
+Žiak vie vysvetliť, že voda je prostredím pre život mnohých živočíchov. Žiak vie uviesť príklady živočíchov žijúcich priamo vo vode.
+Žiak vie uviesť príklady živočíchov žijúcich pri vode, pre ktoré je vodný zdroj zdrojom potravy. Žiak vie uviesť príklad živočíchov, ktoré potrebujú vodu len na rozmnožovanie.
+Žiak vie vyhľadať v informačných zdrojoch chýbajúce informácie o spôsobe života organizmov.
+
+Názov skupiny živočíchov:
+
+
+
+
+
+
+užovka obyčajná
+
+Býva v blízkosti rôznych vodných zdrojov, kde najmä v ranných hodinách pláva s hla- vou nad hladinou. Živí sa mlokmi, menšími rybami, ale loví najmä žaby (vo vode aj na súši). Na súši loví aj hraboše a hmyz. Užovka má zuby, ale nemá jed. Korisť zvyčajne prehltne ešte živú. Keď je v nebezpečenstve, syčí a vylučuje páchnucu látku.
+
+
+Názov skupiny živočíchov:
+
+
+
+
+
+
+kačica divá
+
+
+
+
+
+
+rybárik obyčajný
+
+Názov skupiny živočíchov:
+
+
+
+
+bobor vodný
+
+Vajíčka kladie do chodbičiek vyhĺbených v brehu vodného zdroja. Tie sú dlhé až 100 cm. Na ich konci je hniezdo vystlané rybími kostičkami. Často pri svojom hniezde striehne na korisť. Loví malé ryby a vodné larvy, a to tak, že sa za nimi vrhne strmhlav do vody. Po vynorení rybu udrie o konár, vyhodí do vzduchu a nechá si ju padnúť do zobáka, vždy hlavou vpred.
+
+
+
+Živí sa zelenými rastlinami, kôrou, listami a konármi mäkkých drevín, ale aj vodnými rastlinami, napríklad riasami. Stromy používa aj na tvorbu úkrytu (bobrí hrad), v ktorom sa nachádza hniezdo. Vchod do úkrytu je pod vodou. Ak je hĺbka vody na budovanie úkrytu malá, pomocou stromov tvorí typické bobrie hrádze.
+
+
+
+
+
+
+vydra riečna
+
+Pomocou informácií o spôsobe života uvedených živočíchov sa pokús odpovedať na otázky:
+
+Vodu potrebujú pre
+svoj život takmer všetky živočíchy.
+• Niektorým stačí vo- da v mláke, iné by mimo vody (na súši) neprežili.
+• Niektoré si zvykli žiť pri vode preto, lebo sa tu zdržiava veľké množstvo takých ra- stlín a živočíchov, ktorými sa živia. Voda a jej okolie je pre ne zdrojom potravy.
+• Okrem toho sa pri vode zdržiavajú aj také živočíchy, ktoré potrebujú vodu na rozmnožovanie.
+
+
+113
+
+ Žiak vie, že rastliny vyžadujú pre svoj život rôznorodé podmienky. Žiak vie vysvetliť, ako sa vodné rastliny prispôsobili životu vo vode.
+Žiak vie vysvetliť, že rastliny, ktoré žijú v blízkosti vodných zdrojov, vyžadujú väčšie množstvo vody, v inom prostredí by neprežili.
+
+
+
+2. Tie živočíchy, ktoré nedokážu žiť na súši, nazývame vodnými živočíchmi. Podobne existujú aj vodné ra- stliny. Tie sa prispôso- bili svojím tvarom tela životu vo vode. Pozo- rujte vodnú rastlinu na obrázku a pokúste sa opísať, ako sa prispôso- bila životu vo vode.
+
+Pozoruj obrázok zákonom chránenej vodnej rastliny.
+Vyfarbi ju a pomenuj. Pokús sa o vysvetlenie toho, ako sa prispôsobila táto rastlina životu vo vode. Využi informácie o tom, na čo rastline slúžia listy.
+
+Z koreňov vyrastajú dlhé stonky, na konci ktorých sú listy. Tie sa rozvinú až nad hladinou. To znamená, že má také dlhé stonky, v akej hlbokej vode rastie. Listy sú položené na hladine a na okraji sú zdvihnuté.
+
+
+
+
+
+
+
+
+
+
+Nájdi príklady rastlín, ktoré môžeme pozorovať na brehoch vodných zdrojov.
+
+BylinyKry a stromy
+
+3. Všetky rastliny potre- bujú pre svoj život vodu. Niektoré jej potrebujú viac a iné menej. Vieme to aj podľa toho, ako často je potrebné doma polievať rôzne druhy iz- bových rastlín.
+Zaujímavé by bolo zistiť, či je možné do akvária zasadiť rastliny, ktoré bežne pestujeme v črepníku, a naopak, vodné rastliny zasadiť do črepníka a výdatne ich polievať.
+
+Výskumná otázka:
+Je možné pestovať vodné rastliny aj v črepníku, ak ich budeme dobre zalievať?
+Vytvor predpoklad, navrhni postup skúmania, zrealizuj ho a vytvor záver v podobe odpo- vede na výskumnú otázku.
+
+Môj predpoklad:
+
+
+
+
+
+Môj návrh postupu skúmania:
+
+
+
+
+
+
+
+
+
+Čo som zistil/zistila (odpoveď na výskumnú otázku):
+
+
+
+
+
+
+114
+
+Žiak vie, že potravový reťazec vyjadruje potravovú závislosť jednotlivých organizmov žijúcich na určitom území.
+          Žiak dokáže uvažovať o vzťahoch medzi rastlinami, živočíchmi a prostredím. Žiak vie vysvetliť narušenie rovnováhy potravového reťazca pri vyhynutí určitej rastliny. Žiak vie vysvetliť, čo sa môže stať, ak úplne vyhynie niektorý živočíšny druh.
+
+
+Pozoruj potravový reťazec.
+Pomenuj jednotlivé druhy živočíchov a uveď, čím iným sa ešte živia.
+
+4. Už pri skúmaní života na poli sme sa pokúšali vyjadriť vzťahy medzi rastlinami a živočíchmi pomocou potravových reťazcov. Pozorujte reťa- zec a uvažujte, či by nebolo možné doplniť aj ďalšie rastliny a živočíchy, ktoré sú vo vzťahu s tými, ktoré sú uvedené na obráz- ku. Vzťahy vyjadrite šípkami.
+
+
+
+
+
+
+uvažuj, ktorý výrok je podľa teba pravdivý. Svoju voľbu zdôvodni.
+
+
+Ak vyhynú všetky
+
+Zistili ste už pomerne veľa vecí o tom, ako žijú rôzne rastliny a živočíchy vo vode a pri vode. Pokúste sa tieto informácie využiť na to,
+
+Ak vyhynú všetky rastliny, vyhynú aj všetky živočíchy, ktoré sa nimi živia
+– žubrienky a kapry.
+
+Ak vyhynú všetky rastliny, zahynú len žubrienky.
+
+rastliny, vyhynú aj všetky živočíchy a potom aj človek.
+
+aby ste rozhodli, ktorý z troch kamarátov má pravdu. Nestačí to len tvrdiť, mali by ste os- tatným vysvetliť, na základe čoho si to mys- líte.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zdôvodnenie:
+
+
+
+
+
+
+
+
+
+
+
+
+
+115
+
+Žiak dokáže uvažovať o vzťahoch medzi rastlinami, živočíchmi a prostredím. Žiak vie vysvetliť, že voda je prostredím pre život mnohých živočíchov.
+
+
+
+5. Preskúmali sme, ako žijú rôzne rastliny a živočíchy pri vode a vo vode. Zistili sme, že medzi rôznymi rastlina- mi a živočíchmi sú určité vzťahy, ktoré sa týkajú najmä potravy, úkrytu a rozmnožovania. Po- zrime sa teraz na vodu a jej okolie ako celok a pokúsme sa vyznačiť čo najviac vzťahov.
+
+Všimni si, ako sú svojím spôsobom života prepojené rôzne druhy rastlín a živočíchov žijúcich pri vode a vo vode.
+Tvojou úlohou je doplniť podobným spôsobom ďalšie súvislosti. Zváž aj význam vody, vzduchu, pôdy a svetla pre ich život. Ktoré živočíchy sú zákonom chránené?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+vážka
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+116
+
+          Žiak dokáže uvažovať o vzťahoch medzi rastlinami, živočíchmi a prostredím. Žiak vie vysvetliť narušenie rovnováhy potravového reťazca pri vyhynutí určitej rastliny. Žiak vie vysvetliť, čo sa môže stať, ak úplne vyhynie niektorý živočíšny druh.
+
+
+Všimni si potravové vzťahy medzi rastlinami a živočíchmi žijúcimi vo vode a pri vode a pokús sa odpovedať na nasledujúce otázky. Využi všetko, čo vieš o rastlinách a živočíchoch žijúcich pri vode a vo vode. Pomáhaj si učebnicou, ale aj encyklopédiami a internetom.
+
+Od ktorého organizmu vedie najviac šípok?
+
+
+Premýšľaj, čo by sa mohlo stať, ak by tento druh vyhynul.
+
+
+
+
+
+
+
+
+
+Ku ktorému organizmu vedie najviac šípok?
+
+
+Premýšľaj, čo by sa mohlo stať, ak by tento druh vyhynul.
+
+
+6. Pri skúmaní spôso- bu života rastlín a živočíchov v lese, na lúke, na poli a v okolí vody sme zistili, že jednotlivé rastliny a živočíchy sú od seba vzájomne závislé. Vzhľa- dom na otázku, ktorú nám na riešenie zadal redakčný tím príro- dovedného časopisu, je ešte dobré zamyslieť sa, čo by sa stalo, ak by niektorá rastlina alebo živočích vyhynuli.
+
+Prezrite si vzťahy medzi organizmami v pred- chádzajúcej úlohe a uveďte tie organizmy, od ktorých alebo ku ktorým vedie najviac šípok. Pokúste sa zvážiť, čo by spôsobilo ich vy- hynutie na konkrétnom mieste.
+
+
+
+
+
+
+
+
+
+
+Aký záver z toho vyplýva?
+Ako to, čo ste zistili, súvisí s ochranou prírody? Pomôžte si informáciami od ochranárskych združení Vlk a Greenpeace.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+117
+
+Žiak dokáže uvažovať o vzťahoch medzi rastlinami, živočíchmi a prostredím.
+
+
+
+
+Preskúmali sme život rastlín a živočíchov na rôznych miestach, a to preto, aby sme zistili, čo potrebujú pre svoj život a ako ovplyvňujú svoje prostredie. Teraz sa o tom, čo sme zistili, pokúsime vytvoriť text do časopisu.
+Najskôr sa pokúste vytvoriť text článku.
+
+
+Odpoveď na list od redakcie prírodovedného časopisu pre deti a mládež
+Na základe požiadavky z listu vytvor článok do časopisu. Dbaj na to, aby v obsahu článku nechýbala odpoveď na otázky vyplývajúce z listu:
+• Čo by mohlo spôsobiť vyhynutie jedného druhu rastliny alebo živočícha?
+• Ako súvisí život jednej rastliny alebo jedného živočícha so životom ostatných rastlín, živočíchov a človeka?
+
+Názov článku:
+
+Sústreďte sa na to, aby ste v ňom odpovedali na otázky, ktoré boli v liste od redakcie. Tiež je dôležité používať len dôveryhodné in- formácie, preto je dobré, ak si prezriete, čo všetko ste v kapitole o prírod- ných spoločenstvách zistili. Nezabúdajte, text je pre vašich rovesníkov, preto je vhodné vkladať zaujímavé informácie.
+Potom vymyslite názov článku tak, aby vystiho- val obsah toho, čo ste napísali.
+Text doplňte o obrázok, ktorý bude vystihovať, o čom ste písali. Obrázok môžete nakresliť ale- bo použiť vystrihnutý obrázok, prípadne foto- grafiu.

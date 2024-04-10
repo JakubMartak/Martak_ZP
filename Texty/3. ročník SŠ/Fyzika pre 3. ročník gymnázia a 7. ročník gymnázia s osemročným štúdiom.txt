@@ -1,0 +1,2174 @@
+﻿
+
+
+
+
+
+
+
+
+
+
+
+
+pre 3. ročník gymnázia a 7. ročník gymnázia
+s osemročným štúdiom
+
+
+
+
+
+
+doc. RNDr. Peter Demkanin, PhD. Mgr. Martina Horváthová
+
+
+
+
+Fyzika
+pre 3. ročník gymnázia
+a 7. ročník gymnázia s osemročným štúdiom
+
+
+
+
+
+
+
+
+© združenie EDUCO
+
+
+
+
+
+
+
+
+
+
+
+Autori ©	doc. RNDr. Peter Demkanin, PhD. Mgr. Martina Horváthová
+
+
+
+Lektori:	PaedDr. Soňa Chalupková, PhD. RNDr. Pavol Kubinec, CSc.
+
+
+Ilustrácie © autori
+Dizajn © štúdio Patria I., spol. s r.o.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Schválilo Ministerstvo školstva, vedy, výskumu a športu Slovenskej republiky pod č. 2012-12951/37450:3-919 zo dňa 24. augusta 2012 ako učebnicu fyziky pre 3. ročník gymnázia a 7. ročník gymnázia s osemročným štúdiom. Schvaľovacia doložka má platnosť 5 rokov.
+
+1. vydanie, 2012
+
+
+
+
+
+
+Všetky práva vyhradené.
+Toto dielo ani žiadnu jeho časť nemožno reprodukovať bez súhlasu majiteľa práv.
+
+
+
+ISBN 978-80-89431-35-9
+
+
+
+
+
+
+
+
+1.1 Spektrum elektromagnetického vlnenia	7
+1.2 Lúč svetla, odraz svetla	10
+1.3 Lom svetla	13
+1.4 Úplný odraz, lom na hranole, spektroskop	16
+1.5 Difrakčná mriežka, interferencia svetla	18
+1.6 Šošovky	21
+1.7 Oko, okuliare, lupa	24
+1.8 Fyzikálne veličiny spojené so svetlom	27
+1.9 Prenos signálu elektromagnetickým vlnením, digitalizácia signálu	29
+1.10 Digitalizácia obrazu	32
+1.11 Prenos informácií	33
+1.12 Zhrnutie, úlohy	36
+2.1 Veľkosť atómu a počty atómov v látke	43
+2.2 Kvantovanie elektrického náboja, elektrón	45
+2.3 Ako vyzerá atóm	49
+2.4 Fotoelektrický jav	51
+2.5 Meranie energie elektrónov uvoľnených pri fotoelektrickom jave	54
+2.6 Atóm ako zdroj svetla	56
+2.7 Röntgenové žiarenie	58
+3.1 Zákony zachovania v jadre atómu	61
+3.2 Jadrová syntéza a štiepenie jadier	65
+3.3 Objav rádioaktívneho žiarenia	68
+3.4 Fyzikálne veličiny súvisiace s rádioaktivitou	71
+3.5 Účinky ionizujúceho žiarenia a jeho využitie	73
+3.6 Zhrnutie, úlohy	77
+4.1 Formy energie	81
+4.2 Elektrický ohrievač, motor a tepelné čerpadlo	85
+4.3 Voda a energia	88
+
+
+
+
+
+
+
+
+   Učebnica je určená pre študentov, ktorí končia povinný gymnaziálny kurz fyzi- ky. Pripravená je v súlade so Štátnym vzdelávacím programom. Poskytuje však aj materiál a námety na rozšírenie vyučovania a pre samostatnú prácu nad rámec tohto vzdelávacieho programu. Ak sa chystáte maturovať z fyziky a na vysokej škole štu- dovať niektorý z prírodovedných alebo technických odborov, mali by ste použiť učebnicu fyziky určenú na prípravu na takéto štúdium.
+
+   V predchádzajúcom štúdiu ste sa na primeranej úrovni naučili fyzikálne myslieť, pozorovať javy okolo seba a zapisovať si výsledky pozorovaní, merať hodnoty nie- ktorých fyzikálnych veličín, naplánovať, zrealizovať a vyhodnotiť experiment. Cieľom vašich učiteľov fyziky bolo tiež pomôcť vám naučiť sa čítať prírodovedné texty a prečítaný text primerane interpretovať. Naučili ste sa používať v komunikácii fyzikálne veličiny a ich jednotky, grafy závislosti jednej fyzikálnej veličiny od inej fyzikálnej veličiny,  schémy rôznych aparatúr a zariadení. Naučili ste sa pracovať   v tíme a prezentovať výsledky svojej práce. Už dokážete klásť otázky – učiteľom, spolužiakom i prírode samotnej. Naučili ste sa tiež interpretovať odpovede, ktoré ste získali. „Rozumné odpovede sú možné len na rozumné otázky, a preto skôr, ako sa niečo opýtame, mali by sme rozmýšľať nad tým, čo nám ten koho sa pýtame prav- depodobne odpovie, alebo čo nám odpovie príroda sama, ak sa pýtame.“ z rozhovo- ru s prof. RNDr. Jozefom Masarikom, DrSc., dekanom Fakulty matematiky, fyziky a informatiky Univerzity Komenského v Bratislave, 10. augusta 2012.
+
+   V tejto učebnici prinášame množstvo informácií, ktoré sa Vám zídu v bežnom živote. Väčšina z týchto informácií je určená na to, aby ste sa s nimi len oboznámi- li. Keď ich raz budete potrebovať, budete si ich vedieť vyhľadať vo svojom zdroji informácií a mali by ste ich vedieť primeraným spôsobom použiť. Každý človek so všeobecným vzdelaním by mal byť schopný primeraným spôsobom komunikovať  s odborníkmi z jednotlivých oblastí prírodných vied a techniky.
+
+   Už na prvý pohľad je zrejmé, že nových pojmov je v tejto učebnici oveľa viac, ako v predchádzajúcich ročníkoch. Tak to je práve preto, lebo väčšina z týchto pojmov nie je určená na trvalejšie zapamätanie, ale iba na spracovanie v rámci danej témy, či pri riešení danej úlohy. Odporúčame vám, popri výklade učiteľa a aktivitách realizovaných pod jeho vedením, aj samostatne pracovať s touto učebnicou a s vaši- mi zdrojmi informácií. Taktiež vám odporúčame spojiť učivo s vedomosťami, ktoré ste získali mimo školy, napríklad z televízie alebo z vašej činnosti v prírodovedných a technických kluboch a krúžkoch.
+
+   V tejto učebnici sa vo veľkej miere venujeme oblastiam fyziky, ktoré sa výrazne vyvíjali v dvadsiatom storočí. Viaceré zo zásadných objavov vedy, ktoré ovplyvnili život ľudí, boli ocenené rôznymi cenami. Najznámejšia je Nobelova cena, ktorá sa každoročne udeľuje za zásadný vedecký výskum, technické objavy a za prínos pre ľudstvo. Udeľuje sa každoročne od roku 1901 s výnimkou rokov 2. svetovej vojny. Súčasťou ceny je finančná odmena približne 850 000 EUR. Pôvodným cieľom tejto odmeny bolo umožniť pokračovať vo výskume či práci bez starosti o ich finančné zabezpečenie. Dnes už tento dôvod nie je až tak aktuálny. Oblasti vedy priamo súvi- siace s objavmi, ktoré boli ocenené Nobelovou cenou, sme vyznačili poznámkou na okraji textu. Zámerne sme neuvádzali mená vedcov, ktorým bola táto cena udelená.
+
+
+
+
+V prípade záujmu si ich môžete vyhľadať vo  svojom zdroji informácií. Viaceré      z objavov, o ktorých píšeme v tejto učebnici, boli ocenené v oblasti chémia.
+
+
+
+
+
+
+
+
+   Pri pojme elektromagnetické vlnenie sa väčšine z vás vybavia kapitoly týkajúce sa mechanického vlnenia z učebnice pre druhý ročník. Skutočne, elektromagnetické vlnenie úzko súvisí s mechanickým vlnením. Pri opise mechanického a elektromag- netického vlnenia používame vo veľkej miere rovnaký matematický aparát, avšak fyzikálna podstata týchto vlnení je rozdielna. Hovoríme, že mechanické a elektro- magnetické vlnenie sú navzájom analogické. Súvislosť elektromagnetického vlne- nia s elektrickým a magnetickým poľom je zrejmá už zo samotnej podstaty tohto vlnenia.
+
+
+
+   Rôzne typy elektromagnetického vlnenia sa využívali počas celého dvad- siateho storočia a ich využitie sa stále zdokonaľuje – od začiatku budovania telefónnych sietí, rozhlasového a televízneho vysielania až po masové používanie mobilných telefónov a bezdrôtovej internetovej komunikácie. Teórie súvisiace s elektromagnetickým vlnením sa začali vyvíjať na začiatku devätnásteho storočia, pri štúdiu vlastností elektrického poľa a magnetické- ho poľa. Dôležitým  medzníkom  bol  objav  elektromagnetickej  indukcie, o ktorej ste sa učili v predchádzajúcom ročníku. Teoretický základ elektro- magnetického vlnenia pochádza od škótskeho fyzika J. C.  Maxwella  (1831 – 1879). Maxwell tiež ukázal, že elektromagnetické vlnenie na svoje šírenie nepotrebuje látkové prostredie.
+
+
+
+   J. C. Maxwell sa svojimi prácami zaradil do prvej desiatky fyzikov všet- kých čias, niektorí ho kladú na druhé miesto hneď po I. Newtonovi.
+
+
+
+
+
+
+   S elektromagnetickým vlnením sa stretávame na každom kroku a mnohokrát si to ani neuvedomujeme. Sledujeme televízny program, počúvame rádio, pozorujeme osvetlené predmety okolo nás, necháme sa ohrievať infražiaričom, počas slnečných dní sa opaľujeme, lekár nám v prípade potreby zhotoví röntgenovú snímku. Žiadna z týchto činností by nebola možná bez elektromagnetického vlnenia.
+
+Elektromagnetické vlnenie delíme podľa vlnovej dĺžky λ.
+
+
+   Najväčšie vlnové dĺžky majú rádiové vlny, vlny používané pri prenose rozhlaso- vého a televízneho signálu a vlny používané radarmi. Potom nasleduje infračervené žiarenie, viditeľné svetlo, ultrafialové žiarenie, röntgenové žiarenie a rádioaktívne žiarenie gama. Takéto rozdelenie elektromagnetického vlnenia podľa vlnovej dĺžky (alebo podľa frekvencie) sa nazýva spektrum elektromagnetického vlnenia. Všetky tieto vlnenia majú rovnakú fyzikálnu podstatu, aj keď sú ich prejavy veľmi rozdielne.
+
+
+   V tejto učebnici budeme používať slová vlnenie a žiarenie v súvislosti s elektro- magnetickým vlnením takmer ako synonymá. Pri vlnových dĺžkach zodpovedajú- cich rádiovým vlnám sa prikláňame skôr k pojmu vlnenie, pri vlnových dĺžkach mikrovlnného žiarenia a menších vlnových dĺžkach sa prikláňame skôr k pojmu žia- renie. Musíme upozorniť, že elektromagnetické vlnenie má úplne inú podstatu ako mechanické vlnenie (napr. zvuk) a tiež úplne inú podstatu ako napr. žiarenie alfa alebo žiarenie beta, s ktorými sa stretneme v kapitolách venovaných rádioaktivite.
+
+
+   Svetlo je pre človeka životne dôležité, a to z viacerých dôvodov. Asi najdô- ležitejšia je schopnosť vidieť – získavať informácie sprostredkované svetlom. Práve preto, že svetlo súvisí s jedným z našich zmyslov, budeme sa mu venovať trochu viac. Viaceré závery, ku ktorým dospejeme, platia rovnako aj pre iné časti elektro- magnetického spektra, dokonca aj pre iné vlnenia ako napr. ultrazvuk.
+
+
+   Pripomeňme si niektoré závery a informácie, s ktorými sme sa stretli počas pred- chádzajúceho štúdia fyziky. Svetlo je elektromagnetické vlnenie s vlnovou dĺžkou  z intervalu (vo vzduchu) od 380 nm po 780  nm. Vo  vákuu  sa  šíri  rýchlosťou 3·108 m·s-1, rovnako ako každé iné elektromagnetické vlnenie. Frekvenciu svetla môžeme vypočítať rovnako ako frekvenciu každého iného elektromagnetického vlnenia podľa vzťahu
+kde λ je vlnová dĺžka svetla, v je rýchlosť svetla a f je frekvencia svetla.
+
+
+
+
+   Spektrum svetla, alebo aj iného elektromagnetického žiarenia, môže byť spojité alebo diskrétne. Diskrétne spektrum je také, ktoré obsahuje žiarenie iba s niektorý- mi vlnovými dĺžkami. Spojité spektrum je také, ktoré obsahuje žiarenie so všetký- mi vlnovými dĺžkami z istého intervalu vlnových dĺžok. Príkladom zdroja spojitého spektra je rozžeravené vlákno žiarovky alebo, ak zanedbáme drobné detaily, tak aj žiarenie emitované Slnkom. Príkladom diskrétneho spektra je žiarenie emitované rozžeraveným plynom, napr. vodíkom. Diskrétne spektrum žiarenia zdroja nazý- vame tiež čiarové emisné spektrum.
+
+   Svetlo, ale aj iné žiarenie, sa pri prechode cez látku čiastočne alebo úplne absor- buje. Pri prechode svetla plynom sa absorbujú iba zložky svetla s určitými vlnový- mi dĺžkami. Spektrum svetla po prechode plynom potom nie je spojité, ale diskrét- ne. Hovoríme o čiarovom absorpčnom spektre.
+
+   Niekedy sa stretávame s kombináciou spojitého a čiarového spektra. Vtedy spektrum obsahuje svetlo so všetkými vlnovými dĺžkami, ale niektoré vlnové dĺžky sú zastúpené výrazne viac alebo výrazne menej. Takéto spektrum má väčšina úspor- ných žiariviek.
+
+
+   Niektoré zdroje svetla, napríklad lasery, vyžarujú svetlo iba s jednou vlnovou dĺžkou. Takéto svetlo nazývame monochromatické svetlo.
+
+V súvislosti so svetlom nás bude zaujímať jeho šírenie prostredím, prechod z jedného prostredia do iného prostredia a odraz od rozhra- nia dvoch prostredí. Pri informácii o rýchlosti šírenia svetla sme zvýraznili, že uvedená hodnota platí pre šírenie svetla vo vákuu. Táto rýchlosť je zároveň maximálnou rýchlosťou, akou sa môže čokoľvek šíriť. Vyššou rýchlosťou sa nešíri žiaden materiálny objekt, ani informácia. V tabuľke uvádzame približné rýchlosti šírenia svet- la v iných prostrediach.
+
+
+
+
+
+
+   Červené svetlo z lasera má vo vzduchu vlnovú dĺžku 680 nm. Určte frekvenciu a vlnovú dĺžku tohto svetla vo vode, v skle a v diamante.
+
+
+
+
+
+
+
+
+   Už sme spomenuli, že svetlo sa v mnohých javoch správa ako vlnenie. Tiež sme spomenuli, že je vhodné využívať analógiu medzi elektromagnetickým a mechanic- kým vlnením.
+
+
+
+   Použime teda terminológiu z častí pred- chádzajúcej učebnice o vlnení a o zvuku. Zvuk sme zobrazovali pomocou vlnoplôch   a lúčov. Vlnoplochy predstavovali množiny bodov, v ktorých má vlnenie v danom okami- hu kladnú amplitúdu. Lúče predstavovali orientované čiary  vychádzajúce  zo  zdroja  a určujúce smer šírenia vlnenia. Boli vždy kolmé na vlnoplochy. Teraz si ukážeme, ako možno použiť pojem lúč pri opisovaní javov súvisiacich so šírením svetla v prostrediach  a na rozhraniach dvoch prostredí.
+
+
+
+
+   Zatemnite triedu alebo si predstavte, že ste v zatemnenej miestnosti. V jednom kúte zasvieťte prenosnú lampu. Vedľa lampy položte červenú a zelenú farbičku tak, aby obe boli osvetlené. Postavte sa do protiľahlého kúta miestnosti. Pozorujte svoje okolie a zrealizujte nasledovné čiastkové úlohy. Opisy javov zaznamenajte, na samostatný list papiera tak, aby zápisy čo najlepšie vystihovali pozorované javy.
+
+
+a) Opíšte, prečo vidíte žiarovku. Použite pritom pojmy: svetlo, oko, lúč svetla, ener- gia, informácia.
+b) Opíšte, prečo vidíte farbičky. Použite pritom pojmy: odraz svetla, absorpcia svet- la, farba svetla.
+
+
+   Postavte spolužiaka do tretieho kúta miestnosti a dajte mu do ruky rovinné zr- kadlo, tabuľku skla a knihu s tmavým matným obalom.
+
+
+c) Opíšte jav, ktorý pozorujete, ak sa dívate na lampu prostredníctvom zrkadla. Jav opíšte pre rôzne polohy zrkadla.
+d) Pozorovanie z bodu c) zrealizujte tak, že svetlu z lampy dáte do cesty namiesto zrkadla tabuľku skla, a potom čierny matný obal knihy.
+e) Zápisy svojich pozorovaní zaveste na nástenku. Porovnajte si kvalitu svojich zápi- sov z pozorovaní so zápismi svojich spolužiakov.
+
+
+   Ak ste pozorovania robili iba vo svojich predstavách (ako myšlienkový experi- ment), doma si pozorovania urobte s reálnymi pomôckami.
+
+V predchádzajúcich pozorovaniach ste si mohli všimnúť, že svetlo sa na rozhra-
+
+ní dvoch prostredí odráža. Tento poznatok môžeme zovšeobecniť. Už v predchá- dzajúcich ročníkoch ste sa stretli s poznatkom, že lúč svetla sa na rozhraní dvoch prostredí vždy odráža podľa zákona odrazu, a tiež že sa do istej miery odráža difúz- ne, na všetky strany. Pri odraze od zrkadla prevláda odraz podľa zákona odrazu, pri odraze od matnej knihy prevláda odraz difúzny.
+
+
+
+
+   Pripomeňte si pojmy kolmica dopadu, uhol dopadu a uhol odrazu, rovina dopa- du. Zaznačte tieto objekty do nasledujúceho obrázka, ktorý si prekreslíte do svojich poznámok. Vysvetlite svojimi slovami zákon odrazu.
+
+
+
+
+   V predchádzajúcom obrázku sme znázornili odraz lúča svetla od zrkadla. Všetky objekty sú v jednej rovine. Ak predpokladáme, že tento lúč predstavuje svetlo zo zdroja, ktorý svieti iba v smere vyznačeného lúča a v miestnosti nie je svetlo zo žiadneho iného zdroja, potom môžeme predpokladať, že svetlo bude vstupovať do oka iba v polohe B. Ak však zrealizujeme pozorovanie, môžeme zistiť, že bod dopa- du svetla na zrkadlo vidíme aj keď je oko v polohách A a C. Ak tento bod vidíme, znamená to, že svetlo z tohto bodu do oka vstupuje. Toto vysvetlenie podporuje myšlienku difúzneho odrazu. Teda aj na zrkadle sa časť svetla odrazí na všetky stra- ny.
+
+
+
+   Na nasledujúcom obrázku je znázornený jeden bod predmetu, z ktorého sa odrá- ža svetlo na všetky strany. Časť tohto svetla dopadá na rovinné zrkadlo a odráža sa od neho. Zakreslené sú dva  lúče tohto svetla. Každý z nich dopadá na zrkadlo        a odráža sa od neho. Všimnime si, že tieto lúče sa po odraze od zrkadla rozbiehajú. Ak lúče predĺžime smerom za zrkadlo, stretnú sa. Pozorovateľ v polohe B vníma rozbiehavý zväzok lúčov tak, akoby vychádzal z jedného bodu. Tento bod nazýva- me obraz bodu. Zaujímavé je, že v mieste kde sa po predĺžení pretínajú dva z odra- zených lúčov (napr. tie, ktoré sú zakreslené na obrázku) sa stretávajú aj všetky ďal- šie odrazené lúče.
+
+   Na to, aby sme obraz bodu videli musí existovať lúč, ktorý vychádza z bodu pred- metu a po odraze od zrkadla sa dostane do nášho oka. Všimnime si, že pre polohy oka A a C takéto lúče neexistujú, a teda v polohách A a C obraz bodu predmetu nevi- díme.
+
+
+
+
+
+
+   Ak svetlo dopadne na rozhranie dvoch prostredí, vždy sa časť svetla odrazí. Ak je druhé prostredie priehľadné, zvyčajne časť svetla prejde do druhého prostredia   a často zmení aj smer svojho šírenia. Hovoríme, že sa svetlo láme. Predtým, ako si povieme viac o lome svetla, budeme sa venovať experimentu navrhnutému a zreali- zovanému trojicou študentov.
+
+
+
+   Pozorne si prečítajte nasledujúcu časť laboratórneho protokolu (záznamu z expe- rimentu) zaoberajúceho sa odrazom a lomom svetla na rozhraní dvoch prostredí, ktorý robili študenti. Všímajte si postup študentov a záver, ku ktorému dospeli.
+
+  Príprava experimentu: Počas prípravy tohto experimentu sme pozorovali, že lúč svetla z lasera sa od rozhrania vzduchu a skla odráža späť do vzduchu, ale aj láme do skla. Tiež sme pozorovali, že keď lúč svetla dopadne na rozhranie kolmo, smer lúča sa nezmení. Ak lúč svetla dopadne na rozhranie pod uhlom dopadu α, potom lúč prechádza do skla pod uhlom lomu β menším ako uhol α.
+
+  Cieľ experimentu: V tomto experimente chceme preskúmať závislosť uhla lomu od uhla dopadu.
+
+
+  Hypotéza: Predpokladáme, že pri lome zo vzduchu do skla je uhol β priamo úmerný uhlu α a uhol β je menší, než uhol α. Tento predpoklad je založený na pozorovaní, ktoré sme zrealizo- vali.
+
+  Aparatúra: Použijeme la- serové ukazovadlo a uhlomer 360º. Na uľahčenie merania po- užijeme sklený polvalec, lúč svetla necháme dopadať do stre- du krivosti polvalca tak, ako to je znázornené na obrázku. Celá aparatúra je položená  na  stole a stred uhlomera je v strede kri- vosti polvalca.
+
+
+Uhol dopadu budeme meniť po 5º, od 0º po 85º.
+
+Namerané údaje:
+  Konštanty: lúč svetla bol počas celého experimentu z jedného lasera a bol čer- vený. Rozhranie bolo zo vzduchu do skla.
+
+Ďalšie údaje sú v tabuľke:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Meranie pre uhol dopadu 85º sa nám nepodarilo zrealizovať, uhol medzi dopa- dajúcim lúčom a rovinou rozhrania bol príliš malý.
+
+  Spracovanie nameraných údajov: Naša hypotéza by sa mala potvrdiť tak, že grafom závislosti uhla lomu od uhla dopadu by mala byť priamka prechádzajúca nulou. Zostrojme teda tento graf.
+
+
+
+
+
+   Iste sa vám už stalo, že ste boli presvedčení, že niektoré vaše tvrdenie bolo prav- divé a na základe meraní a/alebo experimentov ste prišli k záveru, že ste sa mýlili. Vymenujte takéto skúsenosti z hodín fyziky.
+
+
+   Skupina študentov, ktorá plánovala a realizovala predchádzajúci experiment, použila pri plánovaní iba vedomosti získané vlastným pozorovaním. Niekedy je vhodnejšie využiť pri plánovaní experimentu aj poznatky získané inými ľuďmi. Napr. pri tomto experimente by sme mohli využiť poznatky o lome svetla z niektorého zdroja informácií. Mohli by sme nájsť tzv. Snellov zákon, nazývaný tiež zákon lomu.
+
+
+   Na základe tejto informácie môžeme z údajov získaných skupinou študentov     v predchádzajúcom experimente vytvoriť nové grafy.
+
+
+
+
+   Vidíme, že závislosť sínusu uhla lomu od sínusu uhla dopadu je priama úmernosť a tiež vidíme, že pomer sínusu uhla dopadu a sínusu uhla lomu je 1,5. Všimnime si, že táto hodnota je rovnaká ako index lomu skla uvedený v tabuľke v časti 1.1.
+
+
+   Rýchlosť svetla v rozličných prostrediach zvyčajne vyjadrujeme pomocou veli- činy index lomu. Túto veličinu označujeme písmenom n a definujeme ju ako podiel rýchlosti svetla vo vákuu a rýchlosti svetla v danom prostredí. Z tejto definície je zrejmé, že index lomu vákua je 1. Zákon lomu môžeme vyjadriť aj pomocou indexov lomu:
+
+
+
+
+
+
+
+
+Vráťme sa k zákonu lomu a analyzujeme ho. Vyjadrime si sínus uhla lomu.
+
+
+   Vieme, že pri lome má zmysel uvažovať o uhloch od 0º po 90º. Pozrime sa či môže nastať situácia, pri ktorej sa uhol lomu nedá vypočítať. Takáto situácia môže nastať vtedy, ak n1 > n2 a ak je uhol dopadu dosť veľký. V takomto prípade svetlo do druhého prostredia vôbec neprechádza. Jav, pri ktorom sa svetlo po dopade na roz- hranie nezlomí do druhého prostredia nazývame úplný odraz.
+
+
+
+   Svetlo dopadá zdola na roz- hranie sklo-vzduch tak, ako je to znázornené na obrázku.
+
+
+a) Zistite, či svetlo prejde do vzduchu, ak je uhol dopadu 75º.
+
+b) Nájdite minimálny uhol dopa- du taký, že svetlo sa do vzdu- chu nezlomí.
+
+c) Svoje závery si overte mera- ním s reálnymi pomôckami.
+
+
+
+   Vezmime si sklené teleso iného tvaru, hranol s podstavou v tvare trojuholníka. Na hranol nechajme dopadať úzky zväzok lúčov bieleho svetla. Toto svetlo sa láme tak, ako je to znázornené na obrázku.
+
+
+   Môžeme pozorovať, že biele svetlo sa pri vhodnom uhle dopadu na hranol lomom rozkladá na spektrum. Spektrum svetla sme už spomínali v súvislosti so spektrom elektromagnetického vlnenia. Na obrázkoch v časti 1.1, ako aj na predchádzajúcom obrázku vidíme, že biele svetlo sa rozkladá na farby od červenej, cez oranžovú, žltú, zelenú, modrú až k fialovej. V prírode môžeme pozorovať aj iné farby, napríklad hnedú. Tieto však nie sú spektrálnymi farbami, ale podobne ako biele svetlo, sú zmesou viacerých spektrálnych farieb.
+
+   Rozklad svetla lomom na rozhraní prostredí nazývame disperzia. Disperzia súvisí s rýchlosťou šírenia svetla v niektorých materiáloch. V skle je rýchlosť červe- nej zložky svetla o niečo vyššia ako fialovej. Na grafoch sú znázornené závislosti indexu lomu od vlnovej dĺžky svetla pre tri rôzne sklá.
+
+  
+
+   Na obrázku je spektrum bežnej žiarivky používanej v domácnostiach a žiarivky používanej v pouličnom osvetlení.
+
+
+
+Vo svojom zdroji informácií zistite, ako súvisí disperzia svetla s dúhou.
+
+
+   Rozklad svetla na spektrum je jednou z metód, ktorými vieme určiť chemické zloženie látok. Spektrá niektorých látok sú na obrázku v časti 1.1. Zariadenie na rozklad svetla na spektrum sa nazýva spektroskop. Činnosť spektroskopu je zvyčajne založená na lome svetla na hranole. Na základnej škole ste sa stretli aj so spektroskopom, ktorý využíva javy súvisiace s interferenciou svetla.
+
+
+
+
+
+   V tejto časti sa budeme venovať správaniu svetla na jemných štruktúrach. Najjednoduchšou štruktúrou bude sústava dvoch tenučkých navzájom rovnobežných otvorov v tienidle. Takúto štruktúru nazveme dvojštrbina. Najskôr budeme skúmať správanie svetla na dvojštrbine, potom výsledky zovšeobecníme na viacero navzá- jom rovnobežných štrbín a na sústavu vrypov na CD nosiči.
+   Pomôžeme si analógiou svetla s mechanickým vlnením. Pri mechanickom vlne- ní vlnoplochy predstavovali množiny bodov s maximálnou kladnou výchylkou, pri
+
+elektromagnetickom vlnení vlnoplochy predstavujú množiny bodov s maximálnou hodnotou fyzikálnej veličiny popisujúcej elektromagnetické vlnenie.
+Na obrázku sme nakreslili lúče a vlnoplochy svetla dopadajúceho na dvojštrbi-
+nu.
+
+   Za každým z otvorov sa svetlo šíri na všetky strany. Otvory sa správajú ako bodo- vé zdroje svetla. Situácia je podobná šíreniu zvuku otvorenými dverami. Pri svetle však v použití takejto analógie musíme byť opatrní. V skutočnosti sa svetlo šíri tak, ako je to znázornené na obrázku iba vtedy, ak je veľkosť otvoru porovnateľná s vlno- vou dĺžkou svetla. Ak je veľkosť otvoru výrazne väčšia, potom sa svetlo šíri takmer iba priamo a za prekážkou vzniká tieň.
+
+
+  Okrem toho šírenia sa svetla na všetky strany si na obrázku môže- me všimnúť aj ďalší jav. Tento si vysvetlíme na príklade lúča, ktorý je zakreslený na obrázku šikmo nahor. Tento lúč prechádza bodmi, v ktorých sa svetlo z jedného otvo- ru spolu so svetlom z druhého otvo- ru vzájomne zosilňujú. Všimnime si, že sa stretávajú oblasti s maxi- málnou kladnou výchylkou z jed- ného otvoru s oblasťami s maximál- nou kladnou výchylkou z druhého otvoru. Na iných miestach tohto lúča sa stretávajú oblasti s maxi- málnymi zápornými výchylkami.
+
+
+  Takýmto spôsobom sa svetlo v smeroch naznače- ných na obrázku zosilňuje. V iných oblastiach sa stre- távajú maximálne kladné výchylky z jedného otvoru s maximálnymi zápornými výchylkami z druhého ot- voru a vlnenia sa vzájomne zoslabujú. Takéto vzájomné zosilňovanie a zoslabova- nie dvojice vlnení nazýva- me interferencia vlnení. Interferenciu vlnení mô- žeme pozorovať ak máme dve štrbiny, ktorých vzdia- lenosť   je    porovnateľná s vlnovou dĺžkou svetla.
+Uhly od priameho smeru, v ktorých vzniknú zosilnenia a zoslabenia závisia od vzdialenosti štrbín a tiež od vlnovej dĺžky svetla. Ak na dvojštrbinu necháme do- padať biele svetlo, rozloží sa na spektrum. Jednotlivé zosilnenia v priamom smere budú farebné. Tento jav je výraznejší vtedy, ak namiesto dvoch štrbín použijeme
+
+
+
+tienidlo s väčším počtom navzájom rovnobežných štrbín – tienidlo s takouto štruk- túrou nazývame difrakčná mriežka.
+   Na základnej škole ste mali možnosť pracovať so zariadením na rozklad svetla na spektrum, ktorého súčasťou bol kúsok CD nosiča alebo DVD nosiča. Princíp fungo- vania tohto zariadenia je veľmi podobný interferencii svetla na dvojštrbine. Rozdiel je v tom, že pokiaľ pri dvojštrbine sa vzájomne ovplyvňujú svetlá, ktoré jednotlivý- mi štrbinami prešli, pri CD a DVD nosiči sa vzájomne ovplyvňujú svetlá, ktoré sa od jednotlivých vrypov odrazili. Na obrázku je najjednoduchší spektropskop zalo- žený na difrakcii svetla odrazeného od CD nosiča.
+
+
+
+   Nechajte na CD nosič dopadať svetlo a) z laserového ukazova- dla; b) z baterky, v ktorej je vlák- nová  žiarovka; c)   z   baterky, v ktorej je dióda; d) z ľubovoľné- ho iného zdroja svetla; a sledujte odrazené svetlo tak, ako je to naznačené na obrázku. Vyme- nujte rovnaké a rozdielne vlast- nosti odrazeného svetla.
+
+
+   Všimnite si, že niektoré ob- jekty na obrázku,  napr.  baterku a CD nosič sme výrazne zväčšili.
+Pri takýchto obrázkoch zvykneme dávať poznámku, že v obrázku nie je zachovaná mierka.
+
+   Na základe pozorovaní z predchádzajúcej úlohy by sme mohli začať pochybovať o platnosti zákona odrazu. Mali by sme si však uvedomiť, že odraz podľa zákona odrazu nastáva na rozhraní medzi dvoma prostrediami, zatiaľ čo na CD nosiči ide   o difrakciu svetla odrazeného od jemných vrypov, vytvorených na tomto nosiči.
+
+   Interferencia svetla poskytuje možnosti na veľmi presné merania vzdialeností. Na princípe interferencie svetla bol založený jeden z najdôležitejších experimentov súvisiacich s potvrdením teórie relativity.
+
+
+
+
+
+
+
+   Šošovka je teleso z priehľadného materiálu, ktorého rozhrania sú guľové plochy, prípadne jedno z rozhraní môže byť aj rovina. Hrúbka šošovky je výrazne menšia, než polomery krivosti guľových plôch a tiež menšia, ako je polomer šošovky. Príklady šošoviek sú  na  obrázku.  Šošovky  majú  zaujímavú  vlastnosť,  ktorú  si v nasledujúcich riadkoch opíšeme. Predstavme si bod, z ktorého vychádza svetlo (bodový zdroj svetla). Niektoré lúče tohto svetla nechajme dopadať na šošovku. Ak sa dva z týchto lúčov po prechode šošovkou stretnú, potom môžeme s dosť veľkou presnosťou povedať, že sa v tomto bode stretnú všetky lúče, ktoré šošovkou prešli. Túto vlastnosť šošoviek môžeme použiť pri konštrukcii obrazu pri zobrazovaní pred- metov šošovkami a skupinami šošoviek.
+
+
+   Šošovky rozdeľujeme na spojné šošovky a rozptylné šošovky. O tom, či je šošovka spojná alebo rozptylná rozhodujú nasledovné parametre šošovky:
+
+- index lomu materiálu šošovky n2,
+- index lomu okolitého prostredia n1,
+- dutosť alebo vypuklosť lámavých plôch,
+- polomery krivosti lámavých plôch r1 a r2.
+
+
+
+
+   Prekreslite si šošovky z predchádzajúceho obrázka do zošita. Predpokladajte, že svetlo bude na šošovky dopadať zľava, teda že ľavé rozhranie je prvé a pravé rozhra- nie je druhé. Pre obidve šošovky vyznačte polomery krivosti r1 a r2 a rozhodnite, ktoré z rozhraní sú duté a ktoré vypuklé.
+
+
+   Na nasledujúcom obrázku je schematická značka spojnej šošovky a tiež nie- koľko lúčov vychádzajúcich z jedného bodu nazvaného predmet. Červenou farbou sú zvýraznené lúče, ktoré sa zvyčajne dajú skonštruovať najjednoduchšie. Tieto lúče nazývame význačné lúče.
+
+
+
+
+Vidíme, že:
+- stredom šošovky prechádza optická os – myslená čiara kolmá na obe rozhrania, táto čiara prechádza tiež stredmi krivosti rozhraní,
+- lúč idúci rovnobežne s optickou osou (význačný lúč) sa láme tak, že po prechode šošovkou prechádza bodom nazývaným obrazové ohnisko F’, toto platí pre každý lúč idúci rovnobežne s optickou osou,
+- lúč prechádzajúci optickým stredom šošovky (význačný lúč) sa na šošovke láme tak, že pokračuje bez zmeny smeru,
+- lúč prechádzajúci predmetovým ohniskom F (význačný lúč) sa láme tak, že po prechode šošovkou je rovnobežný s optickou osou; toto platí pre každý lúč pre- chádzajúci predmetovým ohniskom,
+- vzdialenosť predmetového ohniska od optického stredu šošovky označujeme pís- menom f a je rovnaká, ako vzdialenosť obrazového ohniska od optického stredu šošovky, nazývame ju ohnisková vzdialenosť,
+- vzdialenosť predmetu od optického stredu šošovky označujeme písmenom a, nazývame ju predmetová vzdialenosť,
+- vzdialenosť obrazu od optického stredu šošovky označujeme písmenom a’, nazý- vame ju obrazová vzdialenosť.
+
+Teraz si tieto isté objekty a vlastnosti všimnime na rozptylnej šošovke.
+
+   Pri rozptylnej šošovke je obrazové ohnisko F’ v tom istom priestore ako predmet. Predmetové ohnisko F je v tom priestore, do ktorého prechádzajú lúče po lome na šošovke. Pozorne sledujte lúč vychádzajúci z predmetu rovnobežne s optickou osou a lúč vychádzajúci z predmetu smerom k predmetovému ohnisku.
+
+
+
+
+   Vlastnosti šošoviek často vyjadrujeme veličinou nazvanou optická mohutnosť. Optická mohutnosť je definovaná ako prevrátená hodnota ohniskovej vzdialenosti  a označujeme ju písmenom a. Jednotkou je dioptria, označujeme ju D. Pre optickú mohutnosť platí znamienková dohoda uvedená nižšie.
+
+
+
+
+
+
+   Vezmime si spojnú šošovku a priblížme ju ku stene oproti oknám. Na stene môžeme vidieť obraz okna a všetkého, čo je za oknami. Podobným spôsobom zobrazme aj predmet, ktorý je v miestnosti nie príliš ďaleko od steny.
+
+
+
+
+   Na stene sme vytvorili obraz okna a scény za oknami, v druhom prípade sme zís- kali obraz predmetov menej vzdialených od šošovky. Podobným spôsobom môžeme vysvetliť aj princíp fungovania ľudského oka. Na rozdiel od nášho pokusu ľudské oko nemení vzdialenosť šošovky od tienidla ale mení ohniskovú vzdialenosť šošov- ky.
+
+   Oko je teleso guľovitého tvaru  s  polomerom približne 23 mm. Na hodinách biológie ste sa naučili, že oko tvorí optický systém s viacerými prostrediami a na zadnej časti oka je fotocitli- vá vrstva tyčiniek a čapíkov, ktoré zbierajú signál do zrakové- ho nervu. Táto vrstva sa nazýva sietnica. Na obrázku je vyznače- ná aj časť oka, ktorá sa nazýva očná šošovka. Očná šošovka je pružná a kruhovým svalom ju možno zmenšiť a naopak uvoľniť.
+Zmenou geometrie šošovky meníme polomery krivosti lámavých plôch šošovky     a tým meníme ohniskovú vzdialenosť šošovky a celého oka. Tento proces nazývame akomodácia oka.
+
+   Akomodačná schopnosť oka má isté hranice. Bežne dokážeme vidieť predmety, ktoré sú veľmi vzdialené. Najvzdialenejší predmet, ktorý sa na sietnici zobrazí ostro
+
+nazývame ďaleký bod. U väčšiny ľudí je v nekonečne. Predmety, ktoré sú veľmi blízko oka nevidíme ostro. Vzdialenosť najbližšieho bodu, ktorý ešte dokážeme ostro pozorovať nazývame blízky bod. U ľudí je rôzna, vo všeobecnosti je u mla- dých ľudí menšia a u starších väčšia. Bežná najmenšia vzdialenosť textov, ktoré dokážeme bez väčšej únavy čítať je 25 cm a nazýva sa konvenčná zraková vzdia- lenosť.
+   Ak človek ostro nevidí vzdialené predmety, hovoríme, že je krátkozraký. Obraz vzdialených predmetov vznikne pred sietnicou. Ak človek nevidí ostro predmety vo vzdialenosti 25 cm a menej, hovoríme, že je ďalekozraký. Takémuto človeku sa predmet vo vzdialenosti 25 cm zobrazí za sietnicu.
+
+
+   Na obrázku je predmet tvaru šípky. Naznačené lúče zobrazujú jeden bod pred- metu. Vidíme, že tento bod sa zobrazil na sietnici. V obrázku nie je zachovaná mier- ka.
+
+
+
+
+Obrázok načrtnite do zošita a vyznačte smery šírenia sa lúčov.
+a) Dokreslite tretí lúč vychádzajúci z toho istého bodu idúci rovnobežne s optickou osou. Tento lúč, ak by prešiel šošovkou, tak by sa dostal do obrazu na sietnici Pomocou takéhoto lúča ukážte, kde je ohnisko oka.
+b) Ak viete, že priemer oka je približne 23 mm, tak odhadnite optickú mohutnosť oka.
+   Na nasledujúcom obrázku je ďalekozraké oko. Bod predmetu, ktorý je vo vzdia- lenosti 25 cm od oka sa zobrazil za sietnicu. Aby sme tento bod videli zreteľne, pou- žijeme vhodnú spojnú šošovku. Na obrázku vpravo lekár koriguje zrak najmoder- nejším excimerovým laserom.
+
+
+
+
+   Podobným spôsobom, pomocou vhodného obrázku vysvetlite ako korigujeme krátkozraké oko.
+
+
+   Veľkosť obrazu na sietnici závisí od zorného uhla, ktorý zvierajú lúče vychád- zajúce z krajných bodov predmetu smerujúce od optického stredu šošovky. Čím je predmet bližšie k oku, tým je zorný uhol väčší. Vieme, že dlhodobejšie môže prie- merné oko pozorovať predmet najbližšie vo vzdialenosti 25 cm. Oko je schopné roz- líšiť dva body, ak ich vidí pod zorným uhlom väčším, ako 1’ (jedna šesťdesiatina stupňa), teda ak sú navzájom vzdialené viac, ako 0,07 mm (pri vzdialenosti od oka 25 cm). Na pozorovanie jemnejších detailov používame lupu alebo mikroskop.
+
+
+
+   Lupa je spojná šošovka, alebo sústava šošoviek s ohniskovou vzdialenosťou menšou než 25 cm. Použitie lupy je naznačené na nasledujúcich obrázkoch.
+
+
+   Na hornom obrázku máme predmet vo vzdialenosti 25 cm a vidíme ho pod zor- ným uhlom τ. Na spodnom obrázku dáme pred oko lupu, predmet dáme do ohniska lupy (čo je menej ako 25 cm), alebo ešte trošku bližšie k oku. Predmet vidíme pod zorným uhlom  ’ väčším ako  . Uvedomme si, že uhol  ’ je veľmi malý, a preto lupu nemusíme mať tesne pri oku. Pokojne ju môžeme držať tak, ako nám je pohodlné.
+
+
+
+
+1. Nakreslite význačné lúče vychádzajúce z krajného bodu predmetu, ktorý sa nachádza v ohnisku spojnej šošovky. Diskutujte ako z obrázka, ktorý ste zostro- jili vyplýva, že obraz vznikol v nekonečne. Obrázok dajte do súvisu s použitím lupy.
+
+2. Pripravte si referáty o využití sústavy šošoviek v mikroskope, v rôznych typoch ďalekohľadov a v objektívoch fotoaparátu. Svoje referáty prezentujte podľa pravidiel zaužívaných na vašej škole.
+
+   Iste nemusíme pripomínať, že zrak je pre človeka dôležitý a že je veľmi zraniteľ- ný. Medzi najväčšie ohrozenia zraku patrí:
+- mechanické poškodenie, napríklad rýchlo letiacimi ostrými predmetmi,
+- chemické poškodenie, napríklad rozstreknutou kyselinou alebo zásadou,
+- poškodenie ultrafialovým žiarením, napríklad zo Slnka,
+- poškodenie svetlom s veľkou intenzitou, napríklad z lasera alebo z výkonného ref- lektora,
+- poškodenie dlhodobým zaostrením na jednu vzdialenosť, napríklad pri dlhodobom čítaní knihy alebo sledovaní monitora počítača bez prestávok.
+   Medzi základné spôsoby ochrany zraku patrí nosenie ochranných okuliarov     a ochranných štítov a prílb.
+Pracoviská a iné priestory so zvýšeným rizikom bývajú označené symbolmi.
+Niektoré z týchto symbolov sú na obrázkoch.
+
+
+
+
+
+   Ako zdroj svetla si predstavme matnú žiarovku guľového tvaru. Zaujímať nás budú vlastnosti tejto žiarovky ako zdroja svetla a tiež vlastnosti povrchu, ktorý je touto žiarovkou osvetlený. Definujme si fyzikálne veličiny, ktorými tieto vlastnosti opisujeme.
+   Žiarovka je zdrojom energie, ktorá zo žiarovky vyžaruje. Na opis tejto vlast- nosti používame veličinu žiarivý tok Φe, definujeme ju ako podiel vyžiarenej energie a času, za ktorý bola táto energia vyžiarená. Jednotkou je watt, označujeme
+ju W.
+
+
+   Niekedy nás zaujíma iba vyžarovanie istej časti žiarovky. Napríklad vtedy, ak vyžarovanie nie je rovnaké vo všetkých smeroch, ak niektorá časť žiarovky vyžaru- je viac a iná menej. Na vyjadrenie tejto vlastnosti používame veličinu intenzita vyžarovania Me. Definovaná je ako podiel žiarivého toku vyžarovaného istou plo-
+chou a veľkosti tejto plochy. Jednotkou je W·m-2. Podobne intenzita dopadajúceho žiarenia je podiel žiarivého toku dopadajúceho na plochu a veľkosti tejto plochy.
+   Naše oko reaguje na elektromagnetické žiarenie rôznych vlnových dĺžok rôzne. Žiarenie s vlnovými dĺžkami menšími než 380 nm a väčšími než 780 nm vôbec nevi- díme. Najlepšie vidíme žiarenie s vlnovou dĺžkou 555 nm. Preto zavádzame veliči- ny, ktoré vychádzajú zo subjektívneho vnemu človeka. Nemajú opodstatnenie na-
+
+príklad pri práci s niektorými zvieratami a už vôbec ich nepoužívame vo fyzikálnych meraniach, ktoré nie sú spojené s vnemom človeka.
+   Predstavme si zdroj svetla s istou intenzitou vyžarovania a pod ním plochu, na ktorej je istá intenzita dopadajúceho žiarenia. Ak svetlo z tohto zdroja bude mono- chromatické s vlnovou dĺžkou 555 nm, tak budeme ním osvetlenú plochu istým spôsobom vidieť. Plochu v rovnakej vzdialenosti od iného zdroja s tou istou inten- zitou vyžarovania, avšak s vlnovou dĺžkou 500 nm budeme vidieť osvetlenú iba tre- tinovo, ak by sme farbu zdroja vymenili za fialovú s vlnovou dĺžkou 450 nm, tak by osvetlenie bolo iba 5 %. Pri týchto odhadoch sme vychádzali z čiernej krivky grafu. Zelená krivka grafu znázorňuje hodnoty pre nízke osvetlenie, v šere. V šere najlep- šie vidíme svetlo s vlnovou dĺžkou 500 nm.
+
+
+
+   Ak hodnotu žiarivého toku Φe vynásobíme v závislosti od vlnovej dĺžky svetla
+číslom od 0 po 1, podľa predchádzajúceho grafu, dostaneme novú veličinu svetelný tok. Označujeme ju symbolom Φ. Jednotkou svetelného toku je lumen, označuje- me ju lm. Od roku 2010 musí byť každá žiarovka označená údajom, aký svetelný tok vyžaruje. Napríklad 60 W vláknová žiarovka musí vyžarovať minimálne 806 lm. Na 70 W halogénovej žiarovke sme našli údaj 1 200 lm.
+
+
+
+
+
+
+   Nájdite údaje o svetelnom toku a o príkone úsporných žiaroviek s klasickým závitom E 27 a zostrojte graf závislosti svetelného toku od príkonu. Uvažujte hod- noty dané výrobcami na obaloch žiaroviek.
+
+
+
+   Analogickou veličinou k veličine intenzita dopadajúceho žiarenia je veličina osvetlenie. Označujeme ju EO, definovaná je ako podiel svetelného toku a veľkosti plochy, na ktorú svetelný tok dopadá. Jednotkou osvetlenia je lux, označujeme ju lx. Bežné osvetlenie niektorých priestorov je v tabuľke.
+
+
+
+
+1. Osvetlenie plochy vo vzdialenosti 1 m je 250 lx.
+
+a) Určte svetelný tok žiarovky za predpokladu, že žiarovka svieti vo všetkých sme- roch rovnako.
+
+b) Odhadnite osvetlenie plochy touto žiarovkou vo vzdialenostiach 2 m, 3 m, 4 m. Pri tomto odhade zanedbajte odrazy svetla od iných predmetov a od stien miestnosti.
+
+Riešenie:
+a) Podľa definície osvetlenia vieme, že svetelný tok je súčinom osvetlenia a veľkos- ti plochy, ktorú osvetľujeme. Ak zdroj svieti vo všetkých smeroch rovnako, potom bude osvetlenie všade vo  vzdialenosti 1 m od žiarovky rovnaké. Povrch gule      s polomerom r = 1 m je S = 44 r2. Svetelný tok bude Φ = EOS = 250 lx·4·3,14·1 m2 =
+= 3 140 lm.
+
+b) Z predchádzajúceho vzťahu vyplýva, že	. Osvetlenie teda klesá s dru-
+hou mocninou vzdialenosti. Vo vzdialenosti 2 m bude osvetlenie 4-krát menšie, vo vzdialenosti 3 m bude 9-krát menšie, vo vzdialenosti 4 m bude 16-krát men- šie. Dostaneme teda hodnoty 62,5 lx, 28 lx, 16 lx. V miestnosti nameriame vyš- šie hodnoty, pretože na plochu kde meriame osvetlenie sa dostáva nielen svetlo vyžiarené priamo smerom na túto plochu, ale aj svetlo vyžiarené inými smermi  a odrazené smerom na túto plochu.
+
+
+2. Naplánujte a zrealizujte meranie závislosti osvetlenia plochy od jej vzdialenosti od prenosnej lampy. Pri plánovaní tohto experimentu berte do úvahy napr. schop- nosť okolitých povrchov odrážať svetlo, závislosť osvetlenia plochy od jej na- klonenia od smeru priamo ku zdroju svetla, kolísanie osvetlenia s frekvenciou 100 Hz pri použití vláknovej žiarovky a napájaní napätím s frekvenciou 50 Hz, ako aj ďalšie aspekty. V rámci plánovania nezabudnite vysloviť a odôvodniť vašu hypotézu, po spracovaní výsledkov experimentu sa pokúste vysvetliť rozdiely medzi vašimi výsledkami a vašou hypotézou.
+
+
+
+
+
+
+   V nasledujúcich dvoch častiach sa budeme venovať digitalizácii signálu. V súčas- nosti väčšinu signálov s ktorými pracujeme, premieňame do digitálnej podoby. Zvyčajne to robievame preto, lebo tieto signály a informácie chceme spracovať pomocou počítačov a tiež preto, lebo ich chceme uchovať dlhšie obdobie. Základné princípy digitalizácie si ukážeme na príklade digitalizácie zvuku a na príklade digi- talizácie obrázka.
+
+   Predstavme si lúč monochromatického svetla z lasera. Tento lúč budeme zapínať a vypínať. Na druhom konci miestnosti alebo aj oveľa ďalej, napríklad na konci ulice,
+
+môžeme tento lúč vidieť a sledovať, ako ho niekto pri jeho zdroji zapína a vypína. Od zdroja sa k nám prostredníctvom tohto lúča šíri informácia. Uvedomme si, že zdrojom signálu je spínač (alebo človek alebo zariadenie ovládajúce tento spínač), komunikačným kanálom je lúč svetla s danou frekvenciou a prijímačom signálu je miesto dopadu lúča na stenu v spolupráci s našim okom. Ak lúč svetla nahradíme napríklad elektromagnetickou vlnou s frekvenciou z oblasti rádiových vĺn, potom opäť zdrojom signálu opäť môže byť spínač, avšak prijímačom musí byť zariadenie, ktoré nám zachytí postupnosť zapnutí a vypnutí a premení ju na informáciu, ktorú sme schopní vnímať.
+
+
+   V predchádzajúcom odseku sme opísali prenos veľmi jednoduchej informácie, ktorý pripomína komunikovanie prostredníctvom Morseovej abecedy, v ktorej každé písmeno je vyjadrené postupnosťou zapnutí a vypnutí signálu. Na obrázku je signál SOS zapísaný Morseovou abecedou.
+
+
+
+
+
+   Podobným spôsobom prenášame aj iné informácie. V tejto učebnici naznačíme podstatu prenášania zvuku a neskôr aj obrazu. Pripomeňme si základné poznatky   o zvuku z predchádzajúceho ročníka. Zvuk je mechanické vlnenie a prenáša sa napríklad vzduchom. Ak ho chceme preniesť z jedného miesta na iné napríklad tele- fónnou linkou, musíme informácie o tomto zvuku zakomponovať do elektromagne- tického signálu. Robíme tak najmä preto, lebo s elektromagnetickým vlnením vieme zaobchádzať oveľa sofistikovanejšie ako s mechanickým vlnením, dokážeme ho pre- nášať na oveľa väčšie vzdialenosti a elektromagnetickú informáciu dokážeme lepšie uchovávať.
+
+
+   Majme zvukové vlnenie. Na obrázku je zobrazená hláska a pomocou spojitého signálu. V ďalšom sa budeme usilovať premeniť tento signál na postupnosť zapnutí a vypnutí.
+
+
+  Najskôr vyberieme zo znázorneného spojitého (analógového) signálu jeho hod- noty v pravidelných časových intervaloch, napríklad každú desatinu milisekundy.
+
+Každej z týchto hodnôt priradíme istý, vždy rovnaký počet stavov. Každý stav je daný jednou z dvoch možností úrovní - zapnuté / vypnuté. V našom príklade priradíme každej hodnote tri stavy. Teda každej hodnote, ktorú sme zo signálu vybrali priradíme trojicu hodnôt, pričom každá z hodnôt môže dosahovať jednu z dvoch úrovní, 1 (zapnutie) a 0 (vypnutie). Celá trojica teda môže dosahovať nasledovné úrovne: 000; 001; 010; 011; 100; 101; 110;
+111. Spolu máme 23 úrovní. Z predchádzajúceho obrázka vidíme, že signál dosahuje hodnoty od - 6 Pa po 6 Pa. Teda celkový meraný rozsah je 12 Pa. Tento rozsah rovnomerne rozdelíme na 8 úrovní, dostaneme 12 Pa : 8 = 1,5 Pa. Rozdelenie môže vyzerať napr. tak, ako v tabuľke.
+
+
+
+   Na  predchádzajúcom  obrázku  sme  ako  príklad  vyznačili  hodnotu  signálu   v čase 0,4 ms. Táto hodnota je o niečo menšia, než 2 Pa, priradíme jej teda úroveň 101.
+
+   Aby sme sa mohli lepšie a presnejšie vyjadrovať, zavedieme si novú ter- minológiu. Mnohí z vás ste sa s uvedenými pojmami už stretli, porovnajte naše zavedenia pojmov so svojimi predchádzajúcimi vedomosťami. Keď hovoríme o tom, že v pravidelných časových intervaloch vyberáme zo spojitého signálu jeho hodnoty, hovoríme o vzorkovacej frekvencii. V našom príklade sme použili vzor- kovacou frekvenciu 10 kHz, teda 10 000 hodnôt za sekundu alebo 10 hodnôt za mili- sekundu.
+
+
+   Keď hovoríme o zapnutí a vypnutí, môžeme hovoriť aj o logickej 0 a logickej 1. Takéto množstvo informácie nazývame 1 bit, môže dosahovať hodnotu 0 alebo 1.
+
+   Bit je jednotkou digitálnej informácie. V našom príklade sme použili trojbitové rozlíšenie, každú z hodnôt vybraných vzorkovaním sme nahradili trojicou bitov. Teraz môžeme vypočítať počet bitov potrebných na prenos zvukového vlnenia v nami zvolenej kvalite. Celkový čas vlnenia je 30 ms. Vzorkovaním vyberieme 30 · 10 hodnôt. Každej priradíme tri bity. Spolu teda použijeme 900 bitov.
+
+   Vzorkovaciu frekvenciu 10 kHz, ako aj trojbitové rozlíšenie sme si zvolili iba kvôli prehľadnosti. Pri zvuku väčšina zariadení v takzvanej CD kvalite používa vzor- kovaciu frekvenciu 44,1 kHz a rozlíšenie 16 bit.
+
+   Kapacitu zariadenia na ukladanie digitálnych informácií zvyčajne stanovujeme v jednotkách bajt, pričom platí 1 bajt = 8 bit.
+
+
+
+1. Odhadnite dĺžku zvukovej nahrávky ktorú je možné zaznamenať na pamäťové médium, napr. USB kľúč s kapacitou 2,0 Gbajt.
+
+Riešenie: Na zaznamenanie 1 s zvuku potrebujeme 44 100 Hz·16 bit = 705 600 bit, teda približne 706 kbit. Môžeme teda zaznamenať (2·109·8) bit : (706·103) bit·s-1 =
+= 2,3·104 s = 380 min = 6,3 h zvukového záznamu.
+
+
+2. Pripravte si referát o rozdieloch medzi formátom zvuku wav a mp3. Vysvetlite  v ňom, prečo na USB kľúč možno nahrať niekoľkonásobne dlhší zvukový záznam v porovnaní s výpočtom z predchádzajúcej kapitoly.
+
+
+
+
+
+
+
+
+
+   Základnou súčiastkou používanou vo väčšine súčasných zariadení na záznam obrazu je CCD snímač. Tento snímač obsahuje body, nazývané pixely, ktoré sú cit- livé na svetlo. Keď je pixel osvetlený, prebehne na ňom fotoelektrický jav, elektró- ny v ňom zmenia svoju energiu a táto informácia sa ďalej spracuje.
+
+
+   Niektoré aspekty činnosti fotoaparátu s CCD snímačom si ozrejmíme na príkla- de. Majme CCD snímač s rozmermi 24 mm·18 mm obsahujúci 12 miliónov pixelov, teda 12 Mpixel. Predstavme si pixel ako štvorec s hranou a. Odhadneme dĺžku strany a. Plocha CCD snímača je 24·18·10-6 m2  = 4,3·10-4 m2. Na jeden pixel
+teda pripadá plocha
+Hrana pixelu má teda dĺžku a = 6·10-6 m.
+
+   Odfotografujme týmto  fotoaparátom  strom  s výškou 4,5 m tak, že obraz stromu zaberie tre- tinu výšky fotografie. Počas fotenia leteli okolo stromu dva maličké motýle vzdialené od seba 9,0 mm. Určme, či na fotografii môžeme tieto motýle navzájom rozlíšiť.
+
+   Pri riešení si uvedomíme, že výška obrazu stromu na CCD snímači je tretina
+z 24 mm, čo je 8 mm. Obraz je teda zmenšený v pomere	.
+Vzdialenosť motýľov teda bude 9·10-3 m·1,77·10-3 = 1,6·10-5 m. Vidíme, že táto vzdia- lenosť je väčšia, než hrana pixelu, teda motýle nesplynú do jedného bodu. Výsledok je naznačený v obrázku.
+
+
+
+
+
+
+   Pripravte si referát o tom, koľko fotografií a koľko minút videozáznamu bez kom- presie môžeme zaznamenať na USB kľúč s kapacitou 2,0 Gbajt. Vychádzajte z infor- mácií o svojom fotoaparáte a z ďalších informácií z vášho zdroja informácií.
+
+
+
+
+
+   V predchádzajúcich dvoch častiach sme vysvetlili, ako sa informácia (zvuk, obraz) digitalizuje. Takto upravenú informáciu je často potrebné preniesť aj na veľké vzdialenosti.
+
+
+   Možnosť komunikovať (komunikácia) patrí medzi prirodzené ľudské potreby. Ľudia sa oddávna snažili komunikovať aj na väčšie vzdialenosti napríklad pomocou ohňa, dymu. Takýto signál niesol zväčša málo informácií na pomerne krátke vzdia- lenosti (dodnes tak fungujú semafory). Tento prenos veľmi závisel od vonkajších podmienok (hmla). S priemyselným rozvojom v druhej polovici 19. storočia vznik- la potreba prenosu väčšieho množstva informácií a na väčšie vzdialenosti. Problém riešili objavy v elektrotechnike – telegraf (S. F. B. Morse, 1844), telefón (A. G. Bell, 1870), televízia (J. L. Baird, 1926). V roku 1929 sa Baird snažil preniesť obraz pomocou kábla spleteného z tisícky sklenených vlákien. Obraz bol však veľmi nekvalitný, a preto sa upustilo od myšlienky používať svetlo na prenos informácií. Namiesto toho sa použilo elektromagnetické vlnenie rádiových vĺn s frekvenciou   1 až 10 GHz, ktoré sa šírilo káblami. Ak by sme však použili viditeľné svetlo, kapa- cita prenášaných hovorov by vďaka vysokej frekvencii svetla mohla byť výrazne väčšia. Problém vyriešili dva významné objavy druhej polovice 20. storočia. Objav lasera, ktorého svetlo má viaceré výhody a objav možností použiť sklenené vlákna
+
+ako vhodné médium na prenos informácií. K týmto možnostiam prispeli aj násled- né technologické vylepšenia ich výroby.
+
+
+   V tabuľke je historický prierez množstva prenesených dát podmorskými komu- nikačnými káblami medzi Európou a Amerikou. Ak by sme zobrali všetky dnes používané optické káble, vlákna sú také dlhé, že by omotali Zem asi 25 000-krát    a celková dĺžka vo svete vyrobených káblov rastie každú hodinu o niekoľko tisí- cok km.
+
+
+
+   Optické vlákna sú tenké vlákna, vyrobené z polymérov alebo z kremíkového skla (SiO2), obalené obalom a niekedy aj ochranným plášťom. Princíp šírenia svetla pomocou optického vlákna je založený na úplnom odraze svetla. Názorne si to môžeme ukázať pokusmi znázornenými na obrázkoch. Na prvom obrázku svietime laserovým svetlom na hranol z plexiskla, na druhom obrázku prúd vody vytekajúci z otvoru v PET fľaši znázorňuje optické vlákno. Vyskúšajte si to!
+
+
+   Technici musia v súvislosti s prenosom svetla optickým vláknom riešiť aj prob- lém, ako čo najefektívnejšie dostať svetlo zo zdroja do vlákna. Na to musia poznať jednu z charakteristík vlákna a to uhol, pod ktorým je svetlo ešte schopné šíriť sa vláknom. Najčastejšie používané vlákna na prenos informácií vyrobené z kremíko- vého skla, majú úzky príjmový kužeľ, pozri úlohu 1. bod a). Z toho vyplýva nevy- hnutnosť presnej technológie pri nadväzovaní žiarenia do vlákna. Niektoré polymé- rové vlákna, používané napríklad ako dekoračné osvetlenie, majú veľký príjmový kužeľ, takže majú schopnosť prijať svetlo z veľkého priestoru, pozri bod b) úlohy 1. Jednoduchým pokusom s polymérovým vláknom sa môžeme presvedčiť, že stačí, aby vlákno bolo na bežnom dennom svetle a na koncoch sa optické vlákno javí, akoby svietilo. Ak potom zakryjeme jeden koniec vlákna, druhý koniec prestane svietiť. Treba si však uvedomiť, že týmto spôsobom sa nedá osvetliť nejaký predmet, pretože podobne, ako svetlo vstupuje do vlákna, tak z neho aj vystupuje – rozptýli sa do priestoru pod veľkým uhlom do širokého kužeľa.
+
+
+
+
+
+
+
+
+1. Na obrázku je znázornené optické vlákno. Zistite, pod akým maximálnym uhlom
+umax máme zasvietiť do vlákna („nadviazať svetlo do vlákna“), aby sa lúč ešte šíril:
+
+
+a) optickým vláknom z kremíkového skla (nech index lomu jadra vlákna je 1,48 a index lomu obalu je 1,46),
+
+b) optickým vláknom z polyméru (nech index lomu polyméru je 1,59 a index lomu obalu je 1,34).
+
+
+
+Riešenie:
+a) Úlohu budeme riešiť v troch krokoch:
+     Aby sa daný lúč šíril vláknom, na rozhraní jadro – obal musí nastať úplný odraz svetla, teda platí 
+Z pravouhlého trojuholníka vyplýva, že Zmax = 90° – = = 9,4°.
+Pri vstupe lúča zo vzduchu do vlákna nastáva lom svetla. Platí zákon lomu:
+    , z čoho	.
+b) Riešenie je podobné ako v bode a). Výsledok je Rmax = 58,9°
+
+2. V optickom vlákne so známou hodnotou priemeru r, indexu lomu jadra n1 a indexu lomu obalu n2 sa šíri svetelný lúč pod konkrétnym uhlom  .
+
+a) Koľkokrát dôjde k úplnému odrazu v priamom vlákne dlhom l km?
+
+b) Akú dráhu prejde lúč v tomto vlákne?
+
+c) Ak sa bude daný lúč šíriť vláknom, teoreticky za aký čas by prišiel z New Yorku do Bratislavy?
+
+
+
+   Pojmy ako gastroskopia, bronchoskopia, rektoskopia, kolo- noskopia, rinoskopia, hysteroskopia, cystoskopia a iné spája jedna fyzikálna podstata – prenos svetla do neprístupných častí ľudského tela pomocou optických vlákien. Ide o medicínske, takzvané endoskopické metódy na vyšetrovanie dutých častí tela (žalúdok, pľúca, konečník, hrubé črevo, nos, maternica, močové cesty a iné). Na vyšetrenie slúži endoskop - optický prístroj na princípe optických vlákien, ktorý umožňuje posvietiť si a pre- niesť obraz z dutých častí tela. Endoskopy sa využívajú aj v prie- mysle.
+
+  Na obrázku lekár operuje laparoskopickou metódou. Brušná dutina sa pred operáciou pacientovi naplní oxidom uhličitým. Cez malý otvor sa do tela zave- die endoskop slúžiaci na osvetlenie a zobrazenie orgánov a ďalšími otvormi sa do tela zavedú chirurgické nástroje.
+
+
+
+
+
+
+
+
+
+
+
+1. Pomocou zväzku optických vlákien (napríklad z dekoračnej lampy) si overte, že svetlo vieme dostať “za roh”. Napodobnite historický pokus z roku 1929, kedy sa vynálezca televízie J. L. Baird pokúsil preniesť obraz predmetu pomocou zväzku optických vlákien.
+
+
+
+
+2. Pripravte si referáty o histórii podmorských komunikačných káblov, spôsobe ich výroby a ukladania na morské dno, využití optických vlákien v technike, technolo- gických novinkách týkajúcich sa tejto oblasti, histórie laparoskopie. Svoje referáty prezentujte podľa pravidiel zaužívaných na vašej škole.
+
+
+
+
+
+
+
+   Niekedy sa hovorí, že učenie sa je dávanie zmyslu novým skúsenostiam. Predpokladáme, že niektorým skúsenostiam získaným vyučovaním fyziky ste dali nový zmysel, a že tento je možné vyjadriť niektorými z pojmov, ktoré sme používa- li. V tejto kapitole sme zaviedli niekoľko nových pojmov. Používali sme aj pojmy,  s ktorými ste pracovali už na základnej škole, ktorých význam bolo však potrebné si znovu uvedomiť, zopakovať, prípadne spresniť, dať im zmysel, spojiť ich so skúse- nosťami získanými v škole i mimo školy. V prípade potreby pojmy a slovné spoje- nia vyhľadajte vo svojom zdroji informácií.
+
+– analógia
+– vákuum
+– svetlo
+– spektrum svetla
+– čiarové spektrum svetla
+– emisné spektrum
+– absorpčné spektrum
+– monochromatické svetlo
+– obraz bodu pri zobrazovaní zrkadlom
+
+– obraz bodu pri zobrazovaní šošovkou
+– zákon lomu
+– index lomu
+– úplný odraz
+– difúzny odraz
+– disperzia svetla
+– spektroskop
+– interferencia svetla
+– šošovka
+– obraz predmetu pri zobrazovaní zrkadlom
+– obraz predmetu pri zobrazovaní šošovkou
+– optická mohutnosť šošovky
+– dioptria
+– akomodácia oka
+– okuliare s optickou mohutnosťou kladnou
+– okuliare s optickou mohutnosťou zápornou
+– osvetlenie
+– lumen
+– lux
+– vzorkovacia frekvencia
+– bajt
+– pixel
+– optické vlákno
+
+
+1. Kúsok sodíka vložíme do modrého plameňa plynového horáka a uvidíme, že farba plameňa sa zmení na ostrú žltú. Všimnite si emisné spektrum sodíka na obrázku v časti 1.1. V oblasti viditeľného svetla má emisné spektrum sodíka jednu výraznú čiaru zodpovedajúcu vlnovej dĺžke 587 nm. Táto vlnová dĺžka zodpovedá žltému svetlu. Diskutujte o tom, že farba svetla sa nezmenila ako následok zmeny teploty plameňa, ale sa musela zmeniť z iných dôvodov.
+
+
+2. Pri pozorovaní svetla z hviezd môžeme pomocou kvalitných spektroskopov zistiť, že toto svetlo obsahuje okrem iného aj štvoricu čiar veľmi podobnú absorpčnému spektru vodíka. Z tohto usudzujeme, že na povrchu týchto hviezd sa nachádza vodík. V laboratóriu môžeme zmerať, že absorpčné spektrum vodíka obsahuje čiary zodpovedajúce vlnovým dĺžkam 410 nm, 434 nm, 486 nm,
+
+656 nm. Vo svetle z hviezdy nájdeme však čiary s vlnovými dĺžkami 412 nm, 436 nm, 488 nm a 658 nm. Diskutujte o tomto jave. Využite svoje vedomosti     z minulého ročníka o Dopplerovom jave. Pripravte si referát o tom, že tento jav sa dá využiť na meranie rýchlosti pohybu hviezd. Môžete sa tiež venovať skutoč- nosti, že hviezdy viac vzdialené od Zeme sa od nej vzďaľujú rýchlejšie. Zistite, ako ďaleko od Zeme je hviezda, ktorej spektrum je v tejto úlohe spomenuté.
+
+3. V časti 1.4 sme biele svetlo rozložili hranolom na spektrum. Diskutuje o tom, na ktorom rozhraní nastala disperzia a prečo sme použili hranol. Diskutuje tiež      o tom, ako sa po lome na hranole bude správať svetlo z lasera.
+
+
+4. Prístroje na nočné videnie používajú viacero systémov. Vo všeobecnosti zosil- ňujú infračervené žiarenie z prirodzených zdrojov svetla v okolí alebo používajú ako zdroj reflektor vyžarujúci infračervené žiarenie. Pripravte si referát o využí- vaní takýchto prístrojov. Spomeňte použitie pri zabezpečení majetku, v poľov- níctve a podobne.
+
+
+5. Termografia (niekedy nazývaná aj termovízia) je bezkontaktné mera- nie povrchových teplôt telies. Špeciálnym fotoaparátom sa zachytí infračervené žiarenie vyžarované týmto telesom. Pri meraní musíme zabezpečiť dostatočný rozdiel medzi teplotami zobrazovaného telesa a teplotou okolia. Budova na obrázku bola pred a po zateplení sní- maná pri teplote okolia pod bodom mrazu. Jednotlivým teplotám predmetu zodpovedajú vlnové dĺžky infračerveného žiarenia, ktoré sú snímané. Týmto teplotám sa v nastavení prístroja priradia farby, napríklad tak, ako to vidíme na obrázku. Môžeme si všimnúť, že spoje medzi panelmi a niektoré okná majú teplotu okolo 5 °C a teda týmito spojmi a oknami uniká z budovy teplo. Diskutujte o tejto téme a tiež o úlohe zatepľovania budov. Po zateplení uniká teplo naj- viac cez pootvorené okná.
+
+
+
+
+
+
+
+1. Svetlo sa dostane na Zem zo Slnka za 8 min a 20 s. Vypočítajte z tohto údaja vzdialenosť Zeme od Slnka.
+
+
+2. Lúč svetla na obrázku dopadá na rozhranie špeciálneho materiálu so vzdu- chom zdola pod uhlom dopadu 20° a láme sa pod uhlom lomu 50°. Rozhodli sme sa uhol dopadu zväčšovať dovtedy, kým sa bude svetlo lámať do vzduchu. Určte maximálny takýto uhol. Určte tiež index lomu tohto materiálu. Diskutujte o tom, že svetlo sa od rozhrania vždy odráža a nie- kedy sa aj láme do druhého prostredia. Do obrázka dokreslite odrazený lúč.
+
+
+3. Na dno bazéna nám padli kľúče. Podľa údajov na stene bazéna je v ňom voda s hĺbkou 1,5 m. Kľúče sa nám však javia v menšej hĺbke. Vysvetlite tento jav.
+
+
+   Riešenie (kvalitatívne): Lúče odrazené od kľúčov smerom nahor sa na roz- hraní voda-vzduch lámu. Uhol lomu je väčší než uhol dopadu. Do oka nám vstupujú tieto lomené lúče a nám za zdá, že vychádzajú z obrazu kľúčov, ktorý je v ich priesečníku. Tento priesečník je bližšie ku hladine.
+
+
+
+
+   Pomôcka na kvantitatívne riešenie: Vieme, že index lomu vody je 1,33. Uvedomme si, že v obrázku nie je zachovaná mierka. Ak sa pozeráme zhora, tak nám do oka vstupujú lúče, ktoré navzájom zvierajú veľmi malý uhol. Pre malé uhly platí, že sin α sa približne rovná tg α. Označme si vzdialenosť bodov, v ktorých lúče vystupujú z hladiny 2x, hĺbku bazéna h a zdanlivú hĺbku hz. Dostaneme:
+
+4. Navrhnite spôsob merania vlnovej dĺžky monochromatického svetla a lasera difrakčnou mriežkou. Predpokladajte, že máte k dispozícii mriežku, ktorá obsa- huje 120 štrbín na 1,00 mm šírky mriežky. Vo svojom návrhu použite vzťah týka- júci sa difrakčnej mriežky, ktorý ste našli vo vašom zdroji informácií:
+          kde k je uhol odklonu od priameho smeru, v ktorom nastane
+interferenčné maximum, λ je hľadaná vlnová dĺžka svetla, d je vzájomná vzdia- lenosť susedných štrbín v mriežke a k je celé číslo. Číslo k môže pri svetle z vlák- novej žiarovky dosahovať hodnoty od 0 maximálne po 3, pri použití svetla z lase- ra môže dosahovať hodnoty od 0 po 8, niekedy aj viac.
+
+
+5. Predstavte si, že v jasný slnečný deň stojíte na lúke a pozorujete jasnú modrú oblohu, zatiaľ čo slnko má žltobielu farbu. Preneste sa v čase a uvedomte si že
+
+zapadajúce slnko má červenú farbu, podobne ako keď ráno vychádza. Pokúste sa vysvetliť tieto javy.
+
+
+Pomôcka: V tejto učebnici sme sa venovali nasledovným javom:
+- Vznik svetla
+- Šírenie svetla v prostredí, ktoré toto svetlo neovplyvňuje
+- Absorpcia svetla
+- Odraz svetla na rozhraní dvoch prostredí
+- Lom svetla na rozhraní dvoch prostredí
+- Disperzia svetla
+- Interferencia svetla
+- Správanie sa svetla na difrakčnej mriežke
+- Dopplerov jav v súvislosti so svetlom z hviezd
+
+
+   Asi je rozumné predpokladať, že obloha je osvetlená Slnkom, teda že zdrojom svetla je Slnko a nie obloha. Slnko však nie je modré. Môžete sa pokúsiť na zákla- de niektorého z uvedených javov modrú farbu oblohy vysvetliť, ale pravdepodobne sa vám to nepodarí. Naše schopnosti spracovať vopred získané informácie nám asi v tejto úlohe nepomôžu, potrebujeme informácie nové. Odpoveď je skrytá v samot- nom šírení svetla vzduchom. Svetlo interaguje s molekulami vzduchu (molekulami dusíka, kyslíka, vody a pod.). Vedci  zistili, že molekuly vzduchu dokážu pohltiť    a zároveň vyžiariť do rôznych smerov svetlo s istými vlnovými dĺžkami. Tento jav nazývame rozptyl svetla. Vzduch oveľa lepšie rozptyľuje modré svetlo, než červené. Vysvetlite javy z úlohy s použitím tejto pomôcky.
+
+
+
+6. Vieme, že olej má menšiu hustotu ako voda, a teda že pláva na hladine vody. Tiež vieme, že olej s vodou chemicky nereaguje. Olejová škvrna na vodnej hladine má často dúhové sfarbenie. Kvalitatívne vysvetlite tento jav.
+
+
+   Pomôcka: Vieme, že svetlo sa od každého rozhrania dvoch prostredí čiastočne odráža. Odráža sa teda aj od rozhrania vzduch – olej a olej - voda. Tieto dve odra- zené svetlá za istých okolností môžu interferovať (interferencia vlnení).
+
+
+
+7. Ukážte, že vlnová dĺžka červeného svetla vo vode je približne rovnaká, ako je vlnová dĺžka zeleného svetla vo vzduchu. Rozhodnite, akú farbu bude vnímať človek ponorený pod vodou v bazéne, ak na hladinu dopadá zelené svetlo.
+
+
+   V časti 1.6 sme sa venovali aj správaniu svetla pri dopade na šošovky. Pri základ- nom štúdiu správania svetla pri dopade na šošovku sa venujeme iba aplikácii záko- nu lomu na rozhraniach šošoviek s okolitým prostredím a zanedbávame odraz svetla, interferenciu, rozptyl svetla a podobne. V nasledujúcich úlohách si môžete precvičiť vašu schopnosť aplikovať vlastnosti význačných lúčov.
+
+8. V nasledujúcich schémach doplňte smer šírenia naznačeného lúča.
+
+
+
+
+
+
+9. V nasledujúcich schémach nájdite polohu bodov A, B, C, D po zobrazení šošovkou.
+
+10.V tejto úlohe sme zobrazovaný predmet znázornili šípkou kolmou na optickú os. Zostrojíme schému mikroskopu.
+a) Nájdite obraz vyznačených predmetov.
+
+
+
+b) Schémy v bode a) nakreslite tak, že predmet schémy    z pravej časti obrázka bude totožný s obrazom predme- tu z ľavej časti obrázka, pričom polohy predmetov voči ohniskám ostanú približne zachované. Vznikne vám sústava dvoch šošoviek zobrazujúca predmet tak, ako sme to znázornili na obrázku vľavo. Uvedomte si, že pís- menom sme označili iba predmetové ohniská. Ďalej si uvedomte, že sme zobrazili lúče potrebné na konštruk- ciu (nájdenie polohy a vlastností) obrazu, nie lúče vchádzajúce do oka. Červenou farbou sme označili lúče vhodné na konštrukciu obrazu prvou šošovkou (objek- tívom), zelenou farbou lúče vhodné na konštrukciu obrazu druhou šošovkou (okulárom). Môžeme povedať, že obraz budeme vidieť, pretože pre každý bod predme- tu sa dajú nájsť také lúče, ktoré po lome na oboch šošovkách vchádzajú do oka.
+
+
+c) Odôvodnite, prečo sa bod predmetu ležiaci na optickej osi zobrazí na optickú os tak, ako je to znázornené na obrázku vľavo.
+
+
+d) Uvedomte si, že bez použitia prístroja môžeme vidieť predmet pod zorným uhlom daným veľkosťou predmetu a vzdialenosťou od oka 25 cm (konvenčná zraková vzdialenosť). Pri sledovaní predmetu mikroskopom vidíme predmet pod zorným uhlom znázorneným na obrázku. Tento môže byť až 2 000-krát väčší.
+
+
+
+   V nasledujúcich dvoch kapitolách sa budeme zaoberať stručnou históriou obja- vov mikrosveta. Od objavu atómu, cez objavy elektrónu rádioaktívneho žiarenia až po súčasný základný výskum v týchto oblastiach.
+
+
+   Počas svojho štúdia ste sa už viackrát stretli s pojmami ako atóm, elektrón alebo protón. Teraz sa sústredíme najmä na experimenty súvisiace s objavmi týchto častíc mikrosveta. Naznačíme aj metódy práce s takýmito časticami. Ukážeme, ako je základný výskum prepojený s aplikovaným výskumom a ako využívame výsledky takéhoto výskumu.
+
+
+   V predchádzajúcich ročníkoch sme skúmali vlastnosti plynov. Zaviedli sme kine- tický model plynu, v ktorom sme videli súvislosti medzi makroskopickými vlast- nosťami plynu (ako teplota, tlak) a správaním sa častíc plynu (atómov, molekúl) na mikroskopickej úrovni. Fyzikálne skúmanie sveta na základe skúmania správania atómov a skúmania vlastností atómov je základom modernej fyziky, avšak vždy to tak nebolo. Veľkosti samostatných atómov sú tak malé, že ich nemožno vidieť ani mikroskopom, ktorý používate v biológii. O atómoch sa môžeme viac dozvedieť iba na základe ich prejavov v oveľa väčších rozmeroch, než sú ich rozmery.
+
+
+
+
+
+
+   Jedným z významných krokov, ktoré prispeli k rozvoju atómovej teórie bola kvantitatívna atómová teória chémie, ktorú okolo roku 1803 vypracoval anglický fyzik a chemik J. Dalton. Základným postulátom tejto teórie bolo, že chemické reak- cie iba oddeľujú alebo spájajú atómy. Zistilo sa tiež, že keď sa rôzne atómy spájajú, výsledná zlúčenina obsahuje atómy vždy v rovnakom pomere. Dalton a jeho nasle- dovníci zostavili na základe tejto teórie tabuľky atómových hmotností, pričom porovnávali hmotnosti jednotlivých atómov s atómom vodíka. Hmotnosť, ani veľkosť atómu vodíka a tým ani ďalších atómov v tomto období nebola známa. Hmotnosť atómu vodíka teda použili ako jednotku hmotnosti, ale vzťah medzi touto jednotkou a jednotkou kilogram známy ešte nebol.
+
+
+   Pomery hmotností atómov v zlúčeninách (podľa Daltonovej teórie) a pomery objemov jednotlivých atómov v zlúčenine priviedli talianskeho fyzika a chemika
+A. Avogadra k návrhu, že rovnaké množstvá plynov (pri rovnakej teplote a tlaku) obsahujú rovnaké počty molekúl. Táto hypotéza jasne rozlišovala medzi molekula- mi a atómami.
+
+
+   Na základe tejto hypotézy napríklad 1 ml vodíka pri izbovej teplote a bežnom atmosférickom tlaku obsahuje rovnaký počet molekúl H2 ako 1 ml vodnej pary H2O
+
+pri rovnakej teplote a tlaku. Avšak Avogadro nemohol vedieť koľko týchto molekúl v plyne je. Vedel iba to, že tento počet je obrovský. Jeho súčasníci tieto myšlienky ignorovali. V tom období iba málo experimentov mohlo tieto myšlienky potvrdiť, alebo vyvrátiť. Ostali na okraji záujmu takmer 50 rokov. Keďže atóm je veľmi malý, v rozumnom množstve látky, napríklad v jednom grame je atómov veľmi veľa.  Koľko atómov je v jednom grame látky? Toto bolo otázkou čakajúcou v časoch Avogadra na odpoveď.
+
+
+
+
+
+Látkové množstvo, mol
+
+
+
+
+
+
+
+
+
+
+Avogadrova konštanta
+
+
+  V súčasnosti na vyjadrenie množstva látky používame veličinu látkové množ- stvo. Jednotkou je mol. O sústave častíc hovoríme, že má látkové množstvo
+1 mol, ak obsahuje práve toľko častíc (ató- mov,  molekúl), koľko je atómov uhlíka 12C   v množstve s hmotnosťou 12 g. Pre jednotlivé prvky, alebo zlúčeniny potom zavádzame veličinu molová hmotnosť, ktorá sa rovná hmotnosti 1 molu danej látky.
+
+
+
+   Počet častíc v jednom mole nazývame Avogadrova konštanta. Označujeme ju NA. Veľkosť tejto konštanty bola publikovaná až v roku 1908. Jej veľkosť je 6,02·1023 mol-1.
+
+
+
+
+
+
+
+   Akú hmotnosť má atóm medi a koľko atómov medi je v objeme 1 cm3? Aká je veľkosť atómu?
+
+   Riešenie: Na riešenie tejto úlohy potrebujeme poznať molovú hmotnosť medi    a hustotu medi. Molovú hmotnosť získame napríklad z Mendelejevovej tabuľky prv- kov. Nájdeme v nej hodnotu 63,6 g·mol-1. Hustotu získame napríklad z fyzikálnych tabuliek je 8,96·103   kg·m-3. Hmotnosť medi s objemom 1 cm3   je súčinom hustoty   a objemu. Vynásobením dostaneme hodnotu 8,96 g. Látkové množstvo medi v obje- me 1 cm3 je
+
+Počet atómov v 1 cm3 je teda
+N = n·NA  = 8,49·1022
+   Hmotnosť jedného atómu medi dostaneme ako podiel hmotnosti s objemom      1 cm3 a počtu atómov medi v tomto objeme.
+
+Objem jedného atómu môžeme odhadnúť tak, že objem 1 cm3 vydelíme počtom
+
+atómov v tomto objeme. Ide iba o odhad, pretože nevieme, či celý priestor je ató- mami vyplnený alebo sú medzi atómami aj medzery.
+Objem jedného atómu
+   Ak si atóm predstavíme ako kocku (robíme iba rádový odhad, teda nezáleží na tvare atómu), potom strana tejto kocky má dĺžku 2,3·10-10 m.
+
+
+
+1. V nádobe s objemom 0,5 l je vzduch pri bežnej teplote a tlaku.
+a) Odhadnite počet všetkých molekúl v tejto nádobe.
+b) Odhadnite počet atómov v tejto nádobe.
+
+2. Predpokladajme, že makromolekula istého plastu obsahuje atómy vodíka, kyslí- ka a uhlíka v rovnakom pomere. Odhadnite počet atómov v telese z tohto plastu s hmotnosťou 100 g.
+
+3. Predstavme si, že každý človek na Zemi má jeden atóm zlata a prinesie ho na školský dvor vašej školy. Určte hmotnosť tohto množstva zlata. Ak by ľudia klád- li „svoje zlato“ po jednom a každému by to trvalo 1 s, odhadnite čas potrebný na to, aby  sa  všetci  vystriedali.  Podľa  odhadu  vo  februári  2010  žilo  na  Zemi 6 805 000 000 ľudí.
+
+
+
+
+
+
+   Začiatkom 19. storočia bolo známe, že niektoré chemické zlúčeniny možno roz- deliť na ich zložky procesom zvaným elektrolýza. Anglický fyzik M. Faraday obja- vil skutočnosť, že množstvo látky vylúčenej pri elektrolýze je priamo úmerné elek- trickému prúdu prechádzajúcemu roztokom a času, za ktorý elektrolýza prebehne.
+
+
+   M. Faraday tiež zistil, že hmotnosť látky vylúčenej na elektróde je priamo úmer- ná atómovej hmotnosti (presnejšie atómovej hmotnosti podelenej malým celým číslom). Napríklad pri elektrolýze jedlej soli (chlorid sodný, NaCl) sú vylúčené množstvá chlóru a sodíka priamo úmerné ich atómovej hmotnosti. Pri elektrolýze chloridu meďnatého CuCl2 je hmotnosť vylúčenej medi v pomere 1:2 voči hmotnos- ti vylúčeného chlóru.
+
+   Na základe týchto zistení bol vyslovený predpoklad, že náboj je kvantovaný – že existuje iba v diskrétnych, nie spojitých množstvách. Každý ión pri elektrolýze nesie iba jednu jednotku náboja (napríklad sodík z NaCl), alebo niekoľko málo jednotiek náboja (napríklad meď z CuCl2 nesie dve jednotky náboja). M. Faraday nedokázal existenciu atómu, nezistil ich hmotnosť, ani objem. Významne však prispel k týmto myšlienkam tým, že ukázal kvantovanie elektrického náboja.
+
+
+
+   Na obrázku je schéma zariadenia na elektrolýzu vody. Počet uvoľnených mole- kúl vodíka sa rovná polovici počtu elektró- nov, ktoré prešli obvodom. V súčasnosti sa uvažuje o využívaní vodíka ako paliva, pri- čom vodík je možné vytvoriť elektrolýzou vody elektrickým prúdom získaným zo solárneho článku. Na obrázku je funkčná hračka využívajúca vodík vyrobený elek- trickým prúdom zo solárneho článku ako palivo.
+
+
+
+
+
+   Počas elektrolýzy modrej skalice (CuSO4) sa na zápornej elektróde vylúčila meď. Vypočítajte hmotnosť tejto medi, ak počas elektrolýzy roztokom prechádzal prúd 10 A a elektrolýza prebiehala 3 h. Predpokladajte, že v roztoku bolo dostatok mod- rej skalice a existenciu iných nosičov elektrického prúdu v roztoku zanedbajte.
+
+Veličina označená vo Faradayovych zákonoch elektrolýzy písmenom z má v tomto prípade hodnotu 2.
+
+   Faradayove zákony elektrolýzy pracujú s kvantovaním náboja iónov. V obdo-  bí M. Faradaya však nebolo známe, čo je nositeľom najmenšieho náboja, nebola známa ani veľkosť tohto náboja. Po zmeraní Avogadrovej  konštanty bolo možné    z Faradayovych experimentov  určiť  veľkosť  najmenšieho  elektrického  náboja  (v súčasnej terminológii náboj elektrónu), avšak oveľa presnejšie meranie spravil
+R. Millikan. Schéma jeho experimentu je na obrázku.
+
+
+
+   R. Millikan rozprášil olej na veľmi malé kvapôčky (veľkosti približne rovnakej, ako je veľkosť kvapiek vody v hmle). Tieto ionizoval (nechal na ne pôsobiť žiarenie) a nechal ich padať vo vzduchu medzi dvoma vodorovnými platňami. Na vodorovné platne pripojil zdroj elektrického napätia. Kvapky pozoroval mikroskopom.
+
+   Na každú kvapku pôsobila gravitačná sila, elektrická sila a na pohybujúce sa kvapky aj odporová sila vzduchu.
+
+
+
+
+
+Zakreslite si kvapku padajúcu nadol a naznačte sily pôsobiace na kvapku.
+
+
+   Niektoré kvapky padali nadol (vplyvom odporu vzduchu ustálenou rýchlosťou), niektoré kvapky sa pohybovali nahor (pretože elektrická sila pôsobiaca na ne bola väčšia než gravitačná sila). R. Millikan počas experimentu menil napätie medzi plat- ňami. Pozoroval, že pri istých napätiach niektoré kvapky zastali, pri iných napätiach žiadne kvapky nezastali. Z tohto pozorovania usúdil, že náboj kvapky (vyvolávajú- ci elektrickú silu) nemôže byť ľubovoľný. Zistil, že náboj kvapky sa dá zapísať ako celočíselný násobok hodnoty 1,602·10-19 C.
+
+
+   Objav elektrónu sa pripisuje anglickému experimentálnemu fyzikovi J. J. Thomsonovi. K tomuto objavu významne prispel aj rodák z Bratislavy, P. Lenard, ktorý za práce súvisiace s týmto objavom dostal v roku 1905 Nobelovu cenu. Schéma Thomsonovho experimentu je na nasledujúcom obrázku.
+
+
+
+
+   J. J. Thomson pozoroval katódové lúče. Zistil, že tieto lúče je možné vychýliť v elektrickom, ako aj v magnetickom poli. Z toho usúdil, že tieto lúče nie  sú  elektromagnetickým  žiarením,  ale  prúdom  nabitých  častíc. Z vychýlenia lúčov v elektrickom a magnetickom poli vypočítal pomer náboja a hmotnosti týchto častíc. Nazval ich korpuskule, neskôr boli nazva- né elektróny.
+
+
+Dospel k týmto záverom:
+- atóm nie je nedeliteľný,  pretože záporne nabité častice boli vytrhnuté       z neutrálnych atómov;
+- všetky častice, z ktorých pozostávajú katódové lúče majú rovnaký náboj  a rovnakú hmotnosť a sú časťou atómov;
+- ak náboj častíc, z ktorých pozostávajú katódové lúče je rovnaký ako najmenší náboj z Faradayovych zákonov elektrolýzy (a tiež pozorovaný Millikanom), potom hmotnosť častice je 1 800-krát menšia ako hmotnosť dovtedy najľahšej známej častice, atómu vodíka.
+
+
+   Thomson sa o elektróne vyjadril ako o niečom nedôležitom, nepraktic- kom. Veď ako môže byť niečo tak malé a ľahké potrebné? Dnes vieme, že využitie vlastností elektrónu je hybnou silou elektrotechniky a elektroniky. Katódové lúče ešte nedávno predstavovali základ fungovania televíznej obrazovky. Na sklonku 19. storočia však bolo dôležitejšie, že konečne nie- kto experimentálne rozbil predstavy o nedeliteľnosti atómu pochádzajúce   z antiky. Thomson tak urobil prvý krok k objavu štruktúry atómu a k fyzike častíc.
+
+
+   Po objave elektrónu ako častice obsiahnutej v atóme sa predpokladalo, že atóm sa skladá z kladne nabitej hmoty, v ktorej sú rozmiestnené maličké záporne nabité elektróny tak, že atóm ako celok je elektricky neutrálny. Tento model atómu sa nazýva Thomsonov model atómu. Niekedy sa ozna- čuje aj ako pudingový model – spojite rozložený kladný náboj predstavuje puding a elektróny predstavujú hrozienka. Tento je z hľadiska histórie obja- vu atómu tak dôležitý, že aj po 100 rokoch sa o ňom učíme, napriek tomu, že už po 12 rokoch bol zavrhnutý a nahradil ho Ruthefordov model atómu.
+
+
+
+
+   Prezrite si schému Thomsonovho experimentu na predchádzajúcom obrázku. Predpokladajte, že z elektródy vľavo sa uvoľňujú elektróny. Tieto urýchľuje napätie zdroja, ktorý je zakreslený v ľavej hornej časti obrázka. Určte smer sily, ktorou na letiace elektróny pôsobia platne, z ktorých horná je kladne a dolná záporne nabitá. Určte, akým smerom na letiace elektróny pôsobí magnetické pole naznačené na obrázku. Vyhľadajte si vo svojom zdroji informácií interaktívnu animáciu tohto experimentu a experiment v nej zrealizujte.
+
+
+
+
+
+
+
+   Thomsonova predstava o atóme nebola jedinou. Už koncom roku 1903 prišiel japonský fyzik Nagaoka s myšlienkou, že by kladný náboj mohol byť sústredený   v malom objeme v strede jadra a elektróny by sa okolo neho pohybovali po kružni- ciach. Model bol ale hneď podrobený kritike, pretože elektróny pohybujúce sa okolo jadra by museli vyžarovať elektromagnetické vlnenie, strácať energiu a rýchlo spad- núť k ťažkému jadru do stredu atómu. Otázky stability neboli celkom jasné ani       v Thomsonovom modeli, ale aj tak bol tento model v období od roku 1908 po rok 1913 najviac používanou predstavou. V tomto období anglický fyzik E. Rutherford so svojimi spolupracovníkmi H. Geigerom a E. Marsdenom začali so slávnymi experimentmi, ktoré zmenili našu predstavu o štruktúre atómu. Princíp experimen- tov je naznačený na obrázku.
+
+
+
+   Zo zdroja vyletujú všetkými smermi častice Z. Prechodom niektorých z nich malým otvorom v stene vzniká úzky zväzok dopadajúci na tenkú zlatú fóliu. Po prechode fóliou sa snažíme častice detegovať v rôznych polohách okolo zlatej platne. Na obrázku sú štyri polohy detektora častíc. Väčšina častíc prešla zlatou fóliou priamo, alebo sa iba veľmi málo od priameho smeru odchýlila. Podarilo sa však zaznamenať aj častice odchýlené o veľký uhol a dokonca aj častice od fólie odrazené.
+
+   Výsledky boli skutočne prekvapením. Rutherford si neskôr na najdramatickejšie chvíle spomínal takto:
+
+
+
+  V tomto krátkom úryvku je skrytá celá podstata problému. Pozrime sa najskôr na to, prečo sa E. Rutherford čudoval. Zo svojich predchádzajúcich pokusov dobre vedel, čo sú to častice α. Ide o atómy hélia zbavené elektró- nov, ich náboj je + 2e a ich hmotnosť sa približne rovná štvornásobku hmot- nosti atómu vodíka. Preto sú častice α približne 8 000-krát ťažšie ako elektróny a ľahučké elektróny nemôžu ich pohyb ovplyvniť. Preto je pre odklonenie častíc podstatný len kladný náboj atómu. Pri svojich výpočtoch Rutherford predpokladal, že kladný náboj jadra je rovnomerne rozdelený    v guli s polomerom R. Keď za R zobral celý polomer atómu, dostal pre typický odklon častíc rádovo 1/100 stupňa. Preto bol Rutherford prekvape- ný slovami H. Geigera, že niektoré častice sa odkláňajú na niekoľko desiatok stupňov. Celkom "dozadu" sa odkláňalo len veľmi málo častíc, podstatné však bolo, že pomerne veľa častíc sa odchyľovalo o veľké uhly. Podrobná analýza výsledkov experimentov ukázala, že polomer atómového jadra musí byť menší ako 10-14 m.
+
+
+   Objav atómového jadra priniesol myšlienku, že atóm sa skladá zo záporne a klad- ne nabitých častíc, ktoré sa nachádzajú v odlišných častiach atómu. Kladne nabité častice protóny sa nachádzajú v jadre. Ich náboj sa veľkosťou rovná náboju elektró- nu, teda 1,602·10-19 C.
+
+
+Protón na rozdiel od elektrónu je ale oveľa ťažší
+
+mp = 1,67262 ·10-27 kg ≈ 1 837 me
+   V jadre sa okrem protónov nachádzajú aj neutrálne častice neutróny. Neutróny sú len o niečo ťažšie ako protóny:
+
+mn  = 1,67493·10-27  kg
+
+
+Ľubovoľný atóm X možno zapísať nasledovne:
+
+kde A je nukleónové číslo, vyjadrujúce počet nukleónov v jadre a Z je protónové číslo, zároveň určuje aj počet elektrónov v atómovom obale. Atómy s rovnakým zlo- žením jadra sa nazývajú nuklidy. Tento názov sa však v bežnej reči používa pomer- ne zriedkavo. Viac sme zvyknutí nazývať jednotlivé typy atómov názvami chemic- kých prvkov. Atómy určitého chemického prvku majú rovnaké protónové číslo a tiež rovnaké chemické vlastnosti. Teda chemický prvok môžeme určiť buď názvom, alebo počtom protónov. Atómy toho istého prvku, ktoré majú rovnaký počet protó- nov, ale rôzny počet neutrónov nazývame izotopy.
+   Chemický prvok môže označovať spoločne viaceré typy atómov líšiace sa počtom neutrónov. Napríklad neón sa v prírode bežne nachádza v troch rôznych izo- topoch
+20 Ne 21 Ne 22 Ne
+
+   Všetky tieto izotopy nazývame spoločným názvom neón. Väčšinou sa prvok vyskytuje v prírode iba v niekoľkých málo izotopoch, ďalšie sa dajú umelo vyrobiť v laboratóriu. Všetky izotopy určitého chemického prvku patria na to isté miesto    v Mendelejevovej tabuľke, ktoré je vyhradené tomuto prvku.
+
+
+
+Ďalším príkladom je napríklad vodík. Ten existuje v troch izotopoch:
+1 H nazývaný vodík, 2 H nazývaný deutérium, 3 H nazývaný trícium
+
+   Ak má prvok viacero izotopov, zvyčajne iba niektoré z nich sú stabilné. Väčšina je nestabilná. Nestabilným – rádioaktívnym izotopom sa venujeme v časti venova- nej rádioaktivite.
+
+
+
+
+   Od skúmania štruktúry atómu prejdime k zdanlivo inej téme. Vezmime si zinko- vý pliešok (postačuje, ak je zinok len na povrchu pliešku). Položme ho na elektro- skop. Zabezpečme, aby bol v miestnosti suchý vzduch a aby do miestnosti nesvieti- lo priame slnečné svetlo. Vykonajme nasledovný experiment.
+
+
+   Nabime elektroskop (vodivo spojený so zinkovým plieškom položeným na elek- troskope) kladným elektrickým nábojom. Vezmime zdroj červeného svetla a nasme- rujme ho na zinkový pliešok. Sledujme údaj na elektroskope. Vybil sa alebo sa nevybil? Experiment realizujme podľa údajov v tabuľke a výsledky zapíšme.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   V prípade ak sa elektroskop nevybil, zvýšme intenzitu dopadajú- ceho svetla a príslušný krok experi- mentu zopakujme.
+
+
+   Experiment zopakujeme bez zinkového pliešku na hornej platni elektroskopu. Zistíme, že elektroskop sa v žiadnom prípade nevybije, teda vybitie v prvej časti experimentu bolo spôsobené práve zinkovým plieškom.
+
+   Ak tento experiment nemôžete z časových alebo materiálnych dôvodov rea- lizovať, vypýtajte si od učiteľa výsledky skôr, než budete pokračovať v štúdiu tejto časti.
+
+
+Výsledkom experimentov podobných tomu nášmu sa venovali fyzici na rozhraní
+19. a 20. storočia.  Ako prvý vyslovil všeobecne prijaté vysvetlenie nemecký fyzik
+
+A. Einstein. Bolo mu jasné, že vybíjanie platne môže byť prejavom toho, že platňu opustí množstvo elektrónov (preto sa kladne nabitá platňa nevybila). Väčším pro- blémom však bolo vysvetliť, prečo sa záporne nabitá platňa nevybila ani účinkom červeného svetla s veľkou intenzitou. Na tomto mieste musíme, rovnako ako Einstein, ešte raz na chvíľu zdanlivo zmeniť tému.
+
+
+   V učebnici z predchádzajúceho ročníka sme spomínali, že teplo sa prenáša troma spôsobmi: vedením, prúdením a žiarením. Prenos tepla žiarením je spôsobe- ný skutočnosťou, že každé teleso vyžaruje energiu vo forme elektromagnetického žiarenia. Toto žiarenie skúmal okrem iných aj Max Planck a v roku 1900 vyslovil hypotézu, že telesá nevyžarujú energiu spojite, ale po istých dávkach – „kvantách“. Jedno kvantum tejto energie predstavuje hodnotu hf, kde h sa nazýva Planckova kon- štanta a má veľkosť h = 6,63·10-34 J·s a f je frekvencia príslušného elektromagnetic- kého vlnenia. Planckova kvantová hypotéza bola sprvu prijímaná s istým podozre- ním. Malo to viacero dôvodov. Fyzici si uvedomili, že kvantovanie energie je nie- čím, čo sa zásadne protiví duchu a princípom klasickej fyziky.
+
+
+   A. Einstein použil hypotézu M. Plancka a vysvetlenie fotoelektrického javu bolo zrazu veľmi jednoduché. Fotoelektrický jav je prejavom zákona zachovania energie.
+
+
+   Monochromatické svetlo, t. j. elektromagnetické vlnenie s jedinou frekvenciou f, sa skladá z jednotlivých kvánt (dávok) energie. Tieto kvantá energie svetla nazýva- me fotóny. Svetlo sa vyžaruje aj pohlcuje po takýchto jednotlivých kvantách – jed- notlivých fotónoch. Jedno takéto kvantum je pohltené jediným elektrónom materiá- lu katódy. Energia jednotlivých kvánt sa pri elektróne nesčítava. Keď elektrón prij- me jedno kvantum energie, táto sa v podstate ihneď prerozdelí do okolia, a to skôr, ako by prijal druhé kvantum energie. V našom experimente kvantum červeného svetla nepostačovalo na uvoľnenie elektrónov z povrchu zinkovej platne, avšak kvantum fialového  svetla už postačovalo. Tým  je vysvetlené, že aj fialové  svetlo   s malou intenzitou mohlo vybiť záporne nabitú zinkovú platňu.
+
+
+A. Einstein zosumarizoval fotoelektrický jav do nasledujúcej rovnice:
+
+
+kde  hf  je  energia  fotónu  pohlteného  elektrónom,	je kinetická energia
+uvoľneného elektrónu a Wv je energia potrebná na uvoľnenie elektrónu z povrchu kovu.
+
+
+   Energia potrebná na uvoľnenie elektrónu z povrchu kovu sa nazýva výstupná práca. Výstupná práca je vlastnosťou kovu a dá sa nájsť vo fyzikálnych tabuľkách. Ak je energia fotónu menšia ako výstupná práca, potom sa elektrón z povrchu kovu neuvoľní.
+
+
+
+
+   Vo fyzike sa snažíme každú teóriu testovať sériou experimentov. Na tomto mieste sa oboznámime s overením platnosti Einsteinovej rovnice  fotoelektric- kého javu. Elektrón uvoľnený z povrchu kovového pliešku  pri  fotoelektrickom jave budeme brzdiť záporne nabitou elektródou. Záporne nabitý elektrón bude záporne nabitá elektróda odpudzovať, a teda  jeho  pohyb  sa  bude  spomaľovať. Ak bude elektrické pole dostatočne veľké, elektrón sa zastaví a vráti sa späť na pliešok.
+
+
+   Schéma experimentu je na obrázku. Budeme pracovať s napätiami do 12 V        a s prúdmi rádovo 10-12 A. Budeme tiež potrebovať zdroje monochromatického svet- la so známymi frekvenciami. V našom experimente použijeme pliešok z cézia ulo- žený v sklenej nádobe (v elektrónke), z ktorej bol vyčerpaný vzduch. Ak tieto pomôcky nemáme, môžeme použiť model experimentu, napríklad vo forme interak- tívnej animácie, ktorý si nájdete vo vašom zdroji informácií.
+
+
+   Na zdroji napätia nastavme nulové napätie. Na pliešok nechajme dopadať svetlo so známou frekvenciou. Na ampérmetri pozorujme, či obvodom prechádza prúd, teda či sa z pliešku uvoľňujú elektróny. Ak prúd neprechádza zmeňme zdroj svetla tak, aby bola frekvencia svetla vyššia.
+
+
+   Pri vhodnej frekvencii svetla obvodom prechádza elektrický prúd niekoľko piko- ampérov. Začnime pomaly zvyšovať napätie zdroja a sledujme údaj na ampérmetri. Najskôr sa údaj na ampérmetri veľmi nemení, avšak pri istej hodnote napätia prúd prechádzajúci ampérmetrom rýchlo klesne na nulu. Práve táto hodnota napätia nás bude zaujímať. Zapíšme si jej hodnotu. Meranie opakujme pre ďalšie vlnové dĺžky svetla, prípadne pre iné kovy.
+
+
+
+Výsledok merania pre cézium je znázornený v grafe.
+
+
+
+
+
+Z výsledkov experimentu určte výstupnú prácu cézia.
+
+   Riešenie: Z grafu odčítame maximálnu vlnovú dĺžku svetla, pri ktorej je ešte brzdné napätie nulové. Táto hodnota je približne (4,6 ± 0,2) · 1014 Hz. Tomu zodpo- vedá energia fotónov hf = 6,63 · 10-34 J·s · (4,6 ± 0,2) · 1014 Hz = (3,0 ± 0,2) · 10-19 J.
+
+V atómovej fyzike energiu často vyjadrujeme v jednotkách eV (elektrónvolt).
+
+
+
+   Výstupná práca cézia v jednotkách elektrónvolt je potom
+   V tabuľke sú uvedené výstupné práce niektorých kovov.
+
+   Einsteinove vysvetlenie fotoelektrického javu potvrdilo, že fotóny s kratšou vlnovou dĺžkou majú väčšiu energiu. Sú teda schopné vyvolať aj reakcie, na ktoré
+
+energia fotónov s väčšou vlnovou dĺžkou nestačí. Ultrafialové žiarenie má kratšie vlnové dĺžky ako viditeľné fialové svetlo.
+
+
+   Slnečné žiarenie obsahuje aj ultrafialovú zložku. Našťastie pre život na Zemi väč- šinu tohto ultrafialového žiarenia pohlcuje tenká ozónová vrstva v stratosfére vo výške 10 – 40 km nad Zemou. Ozónovú vrstvu tvoria molekuly skladajúce sa z troch atómov kyslíka, teda molekuly ozónu.
+
+
+
+Zvýšené množstvo ultrafialového žiarenie je pre človeka nebezpečné.
+
+
+
+
+
+   Pri meraní fotoelektrického javu sme odmerali elektrický prúd prechádzajúci obvodom. Jeho hodnota bola 2,3 pA. Určte, koľko elektrónov sa z osvetlenej elek- tródy uvoľnilo za jednu sekundu.
+
+
+   Riešenie: Vieme, že elektrický prúd je definovaný ako podiel náboja, ktorý pre- šiel prierezom vodiča za časový interval a tohto časového intervalu. Za jednu sekun- du teda prejde prierezom vodiča elektrický náboj 2,3 pC = 2,3·10-12 C. Tento elek- trický prúd je zapríčinený usmerneným pohybom elektrónov, z ktorých každý má náboj 1,6·10-19 C. Elektrónov teda musí byť 1,4·107.
+
+
+
+
+
+
+   V učebnici z predchádzajúceho ročníku sme sa zaoberali aj vedením, prúdením a žiarením tepla. Spomenuli sme, že každé teleso vyžaruje elektromagnetické žiare- nie. Pri nízkych teplotách žiarenie nevidíme, lebo je najmä v oblasti infračerveného žiarenia. Pri vyšších teplotách sa dostáva do oblasti svetla.
+
+
+   V tejto časti sa v krátkosti oboznámime s ďalším spôsobom vzniku elektromag- netického žiarenia. Elektromagnetické žiarenie vzniká aj v obale atómu. Elektróny v obale atómu sa môžu nachádzať iba v istých stavoch a tieto stavy sú dané hodno- tami energie. Nie je jednoduché prostriedkami klasickej fyziky, teda prostriedkami dostupnými našim zmyslom, opísať existenciu elektrónov v obale atómu. V ďalšom budeme používať iba tie najjednoduchšie modely. Základom týchto modelov je hod- nota energie elektrónov.
+
+   Na obrázku sú hodnoty energie elektrónu, ktoré elektrón v danom atóme môže nadobúdať. Ako príklad sme použili atóm vodíka 1 H. Elektrón v obale atómu vodí- ka môže nadobúdať aj  ďalšie  stavy,  avšak  iba  s  hodnotami  energie  vyššími  ako – 0,85 eV. Hodnota 0 eV znamená, že elektrón prestáva byť viazaný k jadru atómu, potom môže mať akúkoľvek kladnú hodnotu energie. Ak má elektrón v obale atómu najnižšiu hodnotu energie hovoríme, že je v základnom stave.
+
+
+   Elektrón v obale atómu môže prejsť z jedného dovoleného stavu do iného dovo- leného stavu. Ak elektrón prejde zo stavu s vyššou energiou do stavu s nižšou ener- giou, uvoľní sa práve jeden fotón žiarenia s hodnotou energie hf = E2 – E1.
+
+   Ak sa fotón žiarenia ocitne v obale atómu, môže byť pohltený iba v tom prípade, ak v obale atómu existuje elektrón, ktorý dokáže energiu fotónu prijať. Elektrón môže prijať energiu iba vtedy,  ak  existuje  stav  s  dovolenou  hodnotou  energie E2 = hf + E1.
+
+   Uvedené tvrdenie si ukážeme na príkladoch. Aby sme do nášho modelu mohli zakresľovať pre- chody elektrónu medzi dovolenými stavmi, dokreslíme v hodnotách energie dovolených sta- vov vodorovné čiary.
+
+
+   Na prvom obrázku je znázornený prechod elek- trónu zo stavu s vyššou energiou do stavu s nižšou energiou.  Pri  tomto  prechode  sa  uvoľní  fotón  s energiou
+(3,4 – 1,5) eV = 1,9 eV =
+= 1,9 · 1,602 · 10-19  J = 3· 10-19  J
+
+
+Tejto energii zodpovedá fotón s vlnovou dĺžkou 
+= 6,6· 10-7 m = 660 nm. Tento fotón patrí do oblasti viditeľného svetla, je to fotón červeného svetla.
+
+
+   Na druhom obrázku je znázornený prechod elektrónu zo základného stavu do vyššieho energetického stavu. Pri tomto prechode sa absorbuje jeden fotón žiarenia. Podobným výpočtom ako vo vyššie uvedenom príklade môžeme určiť, že ide o fotón s vlnovou dĺžkou 1,0 · 10-7 m = 100 nm. Tento fotón patrí do oblasti ultrafialového žiarenia.
+
+
+   Z obrázkov z predchádzajúceho príkladu  vidíme,  že  atóm  môže  emitovať  iba fotóny s určitými presne definovanými vlnovými dĺžkami. Vzniká čiarové emis- né spektrum. Rovnako, atóm môže absorbovať iba fotóny s určitými vlnovými dĺž- kami, teda pri prechode žiarenia cez priestor s týmito atómami vzniká absorpčné čiarové spektrum.
+
+
+
+
+   Významné miesto v našom živote má röntgenové žiarenie. V spektre elektro- magnetického žiarenia sme týmto názvom pomenovali žiarenie s vlnovými dĺžkami približne od 10-8  m po 10-12  m. Vlnové dĺžky röntgenového žiarenia sa prekrývajú    s vlnovými dĺžkami ultrafialového žiarenia a žiarenia gama. Röntgenové žiarenie je charakteristické spôsobom vzniku. Vzniká dopadom elektrónov s dostatočne veľkou energiou na kovový terčík. Schéma jednoduchého zariadenia na vytváranie röntge- nového žiarenia je na obrázku. Z vlákna rozžeraveného elektrickým prúdom sa uvoľ- ňujú elektróny. Tieto sa urýchľujú vysokým napätím (niekoľko desiatok až stoviek kilovoltov) a dopadajú na kovový terčík. Tu sa letiace elektróny zabrzdia, pričom sa vyžiari elektromagnetické žiarenie. Okrem toho letiace elektróny môžu vyraziť elek- tróny z atómov kovu, z ktorého je terčík. Ak sa elektrón kovu, ktorý je najviac via- zaný k jadru atómu vyrazí, takmer okamžite je nahradený iným elektrónom, ktorý teda prejde z vyššieho dovoleného stavu do nižšieho a pritom vyžiari fotón so zod- povedajúcou hodnotou energie.
+
+
+
+   Uvedené dva spôsoby vzniku röntgenového žiarenia majú vplyv na jeho spek- trum. Spektrum röntgenového žiarenia je spojité aj diskrétne tak, ako to vidíme      z nasledujúceho grafu.
+
+
+   Na grafe vidíme, že spektrum röntgenového žiarenia začína od istej hodnoty vlnovej dĺžky, neobsahuje žiarenie s vlnovou dĺžkou menšou ako táto hodnota. Potom obsahuje spojite všetky vlnové dĺžky tak, že relatívna intenzita najskôr stúpa, potom dosahuje maximum a potom klesá. Spektrum vlnových dĺžok nie je zhora ohraničené. Na grafe vidíme dve ostré význačné lokálne maximá, tieto tvoria diskrétne spektrum, v niektorých spektrách röntgenového žiarenia ich môže byť viac.
+
+
+
+   Z grafu odčítajte minimálnu vlnovú dĺžku žiarenia. Určte energiu fotónu s touto vlnovou dĺžkou. Za predpokladu, že elektrón pri svojom brzdení vyvolal vznik práve tohto jedného fotónu, určte energiu tohto elektrónu v jednotkách eV a diskutujte    o tom, akým veľkým napätím bol tento elektrón urýchlený pred dopadom na kovo- vý terčík.
+
+
+   Röntgenové žiarenie bežne používame pri zobrazovaní vnútorných častí nášho tela. Žiarenie zo zdroja podobného tomu na obrázku vyššie nasmerujeme na časť tela, ktorú chceme zobraziť. Žiarenie prejde cez mäkké tkanivá a rozptýli sa na čas- tiach tela obsahujúcich viac atómov s vyššou atómovou hmot-
+nosťou (napríklad na kostiach). Takéto žiarenie sa dostane na fotografickú platňu, alebo na digitálny snímač. Viac dopadnu- tého žiarenia sa na výslednej snímke zobrazí čiernou farbou, menej žiarenia bielou. Pred fotografickou platňou je umiest- nená mriežka, ktorá zabezpečuje ostrosť obrazu. Röntgenové žiarenie, ktoré  dopadá  na  platňu  priamo  mriežkou  prejde a žiarenie, ktoré dopadá na platňu šikmo (rozptýlené žiarenie) mriežkou neprejde. Dávka žiarenia je optimalizovaná aj pou- žitím fluorescenčného materiálu, ktorý absorbuje röntgenové žiarenie a emituje žiarenie s vlnovými dĺžkami, ktoré vyvolá- vajú na fotografickej platni väčší účinok.
+
+
+   Použitie digitálnych snímačov pri zobrazovaní röntgenom a objav počítačovej metódy analyzovania a zobrazovania množstva röntgenových snímok zrealizovaných z rôznych uhlov voči telu sa stali základom počítačovej tomografie. Objav počítačovej tomografie bol ocenený v roku 1978 Nobelovou cenou za medicínu. S počítačovým tomografom sa dnes môžeme stretnúť napríklad aj pri kontrole batožiny na letisku.
+
+
+   Viaceré vlastnosti röntgenového žiarenia sú podobné vlastnostiam rádioaktív- nych žiarení, a preto sa im budeme venovať až v nasledujúcej kapitole.
+
+
+
+
+
+
+   Jadro atómu, jadrová elektráreň, jadrová fyzika, jadrová magnetická rezonancia, rádioaktívny žiarič. Slovné spojenia, ktoré vzbudzujú rešpekt a evokujú rôzne poci- ty. V tejto kapitole vysvetlíme niektoré základné vlastnosti jadier atómov a naznačí- me, ako toto poznanie vedie k skvalitneniu nášho života. Nie je potrebné, aby každý z nás vedel navrhnúť a vyrobiť jadrovú elektráreň, na to nám stačí pár profesionálov.
+Všetci si však môžeme uvedomovať, aké výhody majú takéto elektrárne, a prečo sa vo väčšine kra- jín používajú. Tiež by sme si mali uvedomovať, aké riziká sú spojené s voľne pohodeným rádio- aktívnym žiaričom niekde na smetisku. Iba málokto nosí pri sebe dozimeter, všetci však verí- me, že žijeme v bezpečnom prostredí, ktoré nás neohrozuje.
+   Na obrázku je zariadenie na pozitrónovo emisnú tomografiu,   zariadenie   používane pri diagnostike  nádorových  ložísk  a  metastáz v organizme. Ide o jedno zo zariadení, ktoré vyu- žíva rádioaktívne látky v medicíne.
+
+
+
+
+
+
+
+
+
+
+
+   Dávnym snom alchymistov bolo premeniť jeden chemický prvok na iný, zvyčaj- ne na zlato. Búchaním kladivom na olovenú platňu ale ani chemickými reakciami však zlato nezískame. Dnes už niektoré premeny jedného chemického prvku na iný sú známe a bežne v laboratóriách (dokonca aj v prírode) prebiehajú. Premeny jadra atómu jedného prvku na iný spoločne nazývame jadrové reakcie. Asi najbežnejšou skupinou jadrových reakcií je rádioaktivita, ďalšími skupinami sú jadrové štiepenie a jadrová syntéza. Rádioaktivite sa budeme venovať neskôr, teraz sa venujme jadro- vému štiepeniu a jadrovej syntéze.
+
+
+   Už sme hovorili, že jadro atómu obsahuje protóny a neutróny spoločne nazýva- né nukleóny. Počas jadrových reakcií nie je možné zmeniť počet nukleónov, nukleóny počas jadrových reakcií nevznikajú, ani nezanikajú. Avšak neutróny sa môžu meniť na protóny a naopak.
+
+
+
+   V predchádzajúcich častiach sme sa tiež dozvedeli, že elektrický náboj je nezni- čiteľný. Telesá je možné elektricky nabiť tak, že z nich odstránime niekoľko nabitých častíc, napríklad elektrónov, alebo že niekoľko nabitých častíc im pridáme z iných telies (z okolia). V jadrovej fyzike zákon zachovania elektrického náboja zvyčajne formulujeme tak, že protónové číslo sa počas jadrovej reakcie zachováva.
+
+
+   Použitie predchádzajúcich dvoch zákonov zachovania ukážeme na nasledujúcom príklade.
+
+
+   Na obrázku je naznačené štiepenie jadra uránu pri bombardovaní neutrónom. Vľavo je neutrón letiaci k jadru uránu. Vpravo je situácia po reakcii, z telesa pozo- stávajúceho z neutrónu a jadra uránu vyleteli dve jadrá ľahších prvkov a tri neutró- ny.
+
+
+
+Reakciu môžeme zapísať nasledovne:
+
+
+   V príklade vidíme, že počet protónov do reakcie vstupujúcich je 92 a počet protónov z reakcie vystupujúcich je 36 + 56 = 92. Počet nukleónov do reakcie vstupujúcich je 1 + 235 = 236, z reakcie vystupuje 92 + 141 + 3 · 1 = 236 nukleó- nov.
+
+
+
+   Jadro hélia narazí veľkou energiou do jadra dusíka. Výsledkom reakcie je jadro kyslíka a ešte jedna častica. Určte túto časticu. Konkrétne izotopy spomínaných prv- kov sú v rovnici.
+
+   Riešenie: Počet protónov na ľavej strane je 9, na pravej strane 8, teda na pravej strane je potrebné pridať jeden protón. Počet nukleónov na ľavej strane je 18, na pra- vej strane 17, teda chýba jeden nukleón. Chýbajúcou časticou je teda protón 1 p.
+
+   Vo fyzike aj v chémii sme doteraz niekedy vedome, niekedy intuitívne používali pri riešení rôznych situácií zákon zachovania hmotnosti. Pri chemických reakciách platí, že hmotnosť látok do reakcie vstupujúcich sa rovná hmotnosti látok z reakcie vystupujúcich. Aj vo fyzike, napríklad ak uviazne strela v guľke z plastelíny pred- pokladáme, že hmotnosť guľky so strelou sa bude rovnať súčtu hmotností strely     a guľky pred zrážkou.
+
+
+   Vo fyzike na úrovni jadra atómu zákon zachovania hmotnosti neplatí. Asi každý z nás už niekedy videl slávnu rovnicu E = mc2, spájajúcu sa s tvorcom teórie relativity Albertom Einsteinom. Doteraz sme sa však v učive fyziky s touto rovni- cou nestretli. Veľa fyzikálnych poznatkov získavame aj z mimoškolského prostredia, práve táto rovnica je dobrým príkladom takto získaného poznatku. Začnime experi- mentom, ktorý fyzici v dobre vybavených laboratóriách už mnohokrát realizovali.
+
+
+   Experiment spočíva v meraní hmotností protónu, neutrónu a jadier niekoľkých atómov.  Metóda  merania  teraz  nie  je  podstatná,  ale  môžeme  si  spomenúť
+napríklad na pohyb nabitej častice v magnetickom poli a na rovnicu	. Použi-
+tím tejto rovnice a vhodnej aparatúry sa dá odmerať hmotnosť nabitých častíc. Hmotnosť neutrónu, ktorý nie je elektricky nabitý, sa dá odmerať inými spôsobmi.
+
+
+   Výsledky experimentu sa zadajú byť prekvapivé. Hmotnosť jadra uhlíka 12C sa ukázala ako výrazne menšia, ako súčet hmotností šiestich protónov a šiestich neutrónov. Pokúsme sa predstaviť si túto situáciu nasledovne. Položme si „na stôl” 6 kociek Lega jedného typu, každú s hmotnosťou m1  a 6 kociek iného typu, každú  s hmotnosťou m2. Spolu teda máme kocky s celkovou hmotnosťou 6 m1 + 6 m2. Tieto kocky spolu poskladáme, vytvoríme z nich napr. vežu. Predpokladáme, že hmotnosť veže bude 6 m1 + 6 m2  a sme si istí, že máme pravdu. Vo  fyzike na úrovni jadra
+atómu je to však inak. Hmotnosť jadra je vždy menšia, ako je súčet hmotností jed- notlivých samostatných protónov a neutrónov. Platí: mAX < Zmp + (A – Z)mn. Úbytok hmotnosti sa nedá vysvetliť klasickou fyzikou, je však v priamej súvislosti s teóriou relativity. Chýbajúca hmotnosť už viac nie je hmotnosťou, premenila sa na energiu, ktorá sa uvoľnila do okolia. Experimenty ukázali, že hmotnostný úbytok sa rovná
+podielu uvoľnenej energie a druhej mocniny rýchlosti svetla,
+
+
+   Hmotnosti objektov na úrovni jadrovej fyziky zvyčajne vyjadrujeme ako podiel hmotnosti objektu a hmotnostnej konštanty mu. Relatívna hmotnosť objektu sa rovná jednej, ak je jeho hmotnosť rovnaká, ako jedna dvanástina hmotnosti uhlíka 12C, teda mu = 1,66057 × 10-27 kg. Hmotnosť objektov v kilogramoch získame zo vzťa- hu m = mr · 1,66057 × 10-27 kg. Dostávame tak relatívnu hmotnosť.
+
+Relatívne hmotnosti mr vybraných objektov sú v tabuľke.
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+ 
+ 
+
+  
+ 
+ 
+
+
+ 
+ 
+ 
+
+
+ 
+    Už sme povedali, že hmotnostný úbytok súvisí s energiou, ktorá sa uvoľní pri vzniku  jadra. Podľa vzťahu	môžeme vypočítať uvoľnenú energiu. Viac
+nám však povie energia pripadajúca na jeden nukleón. Hodnoty tejto veličiny sú tiež v tabuľke.
+
+
+   Aký význam má energia zodpovedajúca hmotnostnému úbytku? Ide o energiu, ktorá by sa pri hypotetickom vzniku jadra z jednotlivých protónov a neutrónov uvoľ- nila do okolia. Pomôžeme si analógiou z mechaniky.
+
+
+  Na obrázku je guľka predstavujúca nukleón. Táto guľka je v troch polohách. Guľka sa z polohy 1 dostane do polohy 2 tak, že spadne do jamy. Počas pádu sa zmení jej polohová energia na kinetickú a kinetická energia sa pri dopade uvoľní do okolia vo forme vnútornej energie okolia. Ak guľka padne až do polohy 3, uvoľní sa do okolia ďalšia energia. Na premiestnenie guľky z polohy 3 do polohy 2 musíme energiu dodať.
+
+
+  Poloha 1 predstavuje voľný nukleón. Poloha 2 predstavuje nukleón s malou hodnotou uvoľnenej energie, poloha 3 predstavuje nukleón s väčšou hodnotou uvoľnenej energie.
+
+
+   Môžeme hovoriť, že guľka v našom modeli je v polohe 1 voľná, môže sa odkotú- ľať preč. Avšak v polohách 2 a 3 je viazaná, je uväznená v jame. V jadrovej fyzike používame pojmy väzbová energia a väzbová energia pripadajúca na jeden nukleón.
+
+
+
+
+
+
+   Uvoľňovanie energie z paliva jadrových elektrární je založené na preskupovaní nukleónov v jadrách atómov tak, aby bola väzbová energia nukleónov v priemere väčšia. V predchádzajúcej tabuľke sme si ukázali, že väzbová energia pripadajúca na jeden nukleón nie je v jednotlivých atómoch rovnaká. Z uvedených atómov je naj- väčšia pri železe. Na nasledujúcom grafe je znázornená väzbová energia pripadajú- cu na jeden nukleón pre viacero stabilných atómov.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Z grafu môžeme vidieť, že energia pripadajúca na jeden nukleón je najvyššia pri jadrách prvkov v okolí železa. Prvky ľahšie ako železo, alebo ťažšie ako železo majú väzbovú energiu pripadajúcu na jeden nukleón menšiu. Ak sa spoja dve ľahké jadrá a vznikne ťažšie jadro, hovoríme o jadrovej syntéze. Ak sa jadro ťažkého prvku roz- delí na dve ľahšie jadrá, hovoríme o štiepení jadra.
+
+   Najskôr sa venujme jadrovej syntéze. Syntéza jadier je naším hlavným zdrojom energie. Samozrejme nemáme na mysli elektrickú energiu, ale energiu ako takú. Všetci vieme, že väčšina energie na Zemi pochádza zo Slnka. Na Slnku, rovnako ako aj na iných hviezdach je zdrojom energie jadrová syntéza.
+
+
+
+
+Príkladom jadrovej syntézy je reakcia zobrazená na predchádzajúcom obrázku.
+
+
+Rozsiahly a intenzívny výskum sa v súčasnosti venuje využitiu jadrovej syntézy ako zdroja elektrickej energie na Zemi. Ešte nikde nie je v pre- vádzke elektráreň, v ktorej by bola zdrojom energie syntéza jadier. Medzi hlavné problémy, ktoré je potrebné prekonať je vysoká teplota potrebná na začatie a udržanie syntézy. Výhodou je však ekologickosť navrhovaných technológií. Na rozdiel od iných elektrární by táto neprodukovala žiadne škodlivé látky. Palivom elektrárne by mali byť izotopy vodíka deutérium 2H a trícium 3H. Trícium nie je stabilný, mal by sa priamo v elektrárni vyrábať z lítia. Deutérium aj lítium sú dostupné všade na Zemi v množstve posta- čujúcom na výrobu energie na milióny rokov.
+
+
+
+
+
+Súčasná veda
+   
+Výskum v oblasti využitia jadrovej syntézy sa realizuje aj na Slovensku. Napríklad na FMFI UK sa realizuje výskum v oblasti vlastností nových materiálov na steny reaktora na syntézu jadier, reakcií elektrónov s atómami a molekulami      a štúdium interakcií plazmy so stenami.
+
+
+
+
+
+   Pri jednej z jadrových reakcií na slnku vzniká stabilný izotop uhlíka 12C. Tento vzniká syntézou protónu a jadra dusíka 15N. Zapíšte rovnicu tejto reakcie. Aká ďal-
+šia častica vzniká pri tejto reakcii?
+
+
+
+   O štiepení jadier hovoríme vtedy, ak sa jadro ťažkého prvku rozdelí na jadrá ľah- ších prvkov. O štiepení zvyčajne hovoríme v súvislosti s uránom a plutóniom. Štie- penie si ukážeme na príklade s jadrom uránu 235U. Štiepenie obvykle začína nára- zom neutrónu do jadra. Jadro pohltí neutrón a stane sa nestabilné. Rozdelí sa        na menšie časti – na dve jadrá a niekoľko neutrónov. Keďže väzbová energia pripada- júca na jeden nukleón je pri ľahších prvkoch vyššia, pri štiepení sa energia uvoľní. Zvyčajne sa uvoľní približne 300 · 10-13 J (187 MeV) energie.
+
+
+   Štiepenie jadier je podrobne preskúmané a v súčasnosti sa používa ako zdroj energie v jadrových elektrárňach. Na Slovensku sa v jadrových elektrárňach v roku 2010 vyrobilo vyše 60 % elektrickej energie.
+
+
+
+
+
+
+
+1. Nájdite aktuálny podiel  jadrových  elektrární  na  výrobe  elektrickej  energie  na Slovensku a v Európe.
+
+
+
+2. V nasledujúcich reakciách doplňte chýbajúce údaje
+
+
+
+
+
+3. Odhadnite hmotnosť uránu spotrebovaného v jednom z reaktorov atómovej elek- trárne v Mochovciach za jeden deň. Potrebné údaje vyhľadajte.
+
+
+   Riešenie: Na stránke Slovenských elektrární sa dá vyhľadať,  že  nainšta-  lovaný  výkon  každého  z  reaktorov  je  470  MW.  Za  deň  sa   teda  vyrobí 470· 106 W· 60· 60· 24 s = 4· 1013 J.
+
+   V predchádzajúcom texte je uvedené, že jeden atóm uvoľní približne 300 · 10-13 J. Za deň teda spotrebujeme	atómov uránu.
+
+   Dá sa vyhľadať informácia, že hlavným palivom je izotop uránu 235U, tento má 235 nukleónov. Jeho hmotnosť je teda približne 235 · 1,66057 · 10-27 kg = 3,9 · 10-25 kg. Celkovo teda za jeden deň minieme 1,4 · 1024 ·4· 10-25 kg = 0,53 kg uránu.
+
+
+
+
+
+
+
+
+   Za deň zrodu jadrovej fyziky môžeme považovať 2. marec 1896 keď H. Becquerel predniesol svoj prvý referát o “uránovom žiarení” na zasadnutí Akadémie vied       v Paríži. Druhým rozhodujúcim príspevkom bol objav atómového jadra založený na výsledkoch pokusov H. Geigera, E. Marsdena a E. Rutherforda a na Rutherfordovej analýze týchto výsledkov. O tomto objave sme hovorili v časti 2.3.
+
+
+
+   Prečítajte si nasledujúce dva odseky a zrealizujte aktivitu uvedenú v závere úlohy.
+
+Becquerelov objav bol sčasti náhodný a sčasti nie. Nasledoval po tom, čo sa
+H. Becquerel dozvedel o Röntgenových X-lúčoch a chcel zistiť, či nesúvisia s lumi- niscenciou. Luminiscencia je jav, pri ktorom teleso ožiarené elektromagnetickým žiarením sa istý čas po ožiarení správa ako zdroj elektromagnetického žiarenia. Vybral si kryštál soli obsahujúcej urán, ktorý už dávnejšie pripravil so svojim otcom. Vedel, že táto soľ má luminiscenčné vlastnosti. Kryštál položil na fotogra- fický papier dôkladne zabalený v nepriesvitnom čiernom papieri a celé to vystavil na niekoľko hodín na slnečné svetlo. Keď papier vyvolal, objavila sa na ňom silueta kryštálu. Predpokladal, že jeho hypotéza bola správna a že po ožiarení slnečným svetlom uránová soľ vysiela žiarenie ľahko prechádzajúce čiernym papierom. Becquerel chcel pokus zopakovať. Pripravil si nový fotografický materiál zabalený do čierneho papiera, položil naň kryštál uránu a všetko uložil do zásuvky. Nasledujúci deň to chcel len vybrať a vyložiť na slnečné žiarenie. Ale Slnko v Paríži niekoľko dní nesvietilo. Po niekoľkých dňoch sa chcel presvedčiť o tom, ako účinok klesá s časom. Predpokladal totiž, že slnečné svetlo spôsobuje to, že uránová soľ vydáva prenikavé žiarenie. Toto prenikavé žiarenie by nemuselo prestať ihneď po tom, ako skončilo pôsobenie slnečného žiarenia na kryštál soli. A tak vyvolal foto- grafický papier. V našom odhade sme neuvažovali o koncentrácii uránu v palive. Tiež sme zanedbali hmotnostný úbytok jadier uránu. Zistil, že sčernenie sa nielenže nezmenšilo, ale zväčšilo. Jedným z možných vysvetlení bolo, že po ožiarení slneč- ným svetlom vysiela uránová soľ prenikavé žiarenie dlhý čas. Becquerel ale ukázal, že intenzita prenikavého žiarenia s časom neklesá. Prenikavé žiarenie vysielajú aj tie
+
+zlúčeniny uránu, ktoré nevykazujú ani luminiscenciu ani fosforescenciu. Ukázalo sa tak, že pôsobenie slnečného žiarenia nie je potrebné na to aby uránová soľ vysiela- la prenikavé žiarenie a že za žiarenie je zodpovedná len prítomnosť uránu v látke. Becquerel nazýval preto žiarenie “uránovým”, ostatní hovorili o Becquerelovom žiarení. Ukázal tiež, že žiarenie ionizuje vzduch.
+
+
+   Becquerelov objav žiarenia sa často spomína ako príklad na úlohu, ktorú hrá pri objave šťastná náhoda. Otázka je ale dosť otvorená. Myšlienka hľadať možnú súvis- losť medzi luminiscenciou či fosforescenciou a novým objavom Röntgenových lúčov bola pre odborníka v týchto oblastiach celkom prirodzená. Náhoda mohla byť snáď len to, že si Becquerel už pre prvý experiment vybral soľ, ktorá obsahovala urán. Ale pri systematickejšom štúdiu luminiscenčných látok by sa nejaká zlúčeni- na uránu iste použila. Náhoda bolo aj to, že po prvom pokuse niekoľko dní v Paríži bolo slnko skryté za oblakmi. Ale otázka o tom, ako s časom slabne efekt zdanlivo vyvolaný v uránovej soli slnečným žiarením by sa bola objavila skôr či neskôr. Úplná náhoda to  určite  nebola.  Pôvodné  Becquerelove  práce  boli  publikované v zborníkoch Akadémie vied v Paríži. V týchto zborníkoch sa podľa historikov nachádzala aj staršia práca, v ktorej sa hovorilo o silnom účinku slnkom ožiarených uránových solí na fotografické platne. Takmer 40 rokov pred Becquerelom za týmto javom nikto nehľadal vplyv nejakého nového typu žiarenia. Na Becquerelov objav nadviazali viacerí vedeckí pracovníci. Najvýznamnejšie výsledky a objavy nových rádioaktívnych nuklidov vrátane izotopov rádia a polónia dosiahli Pierre a Mária Curieovci. Na výsledky Becquerela a manželov Curieových nadviazali viacerí vrá- tane Rutherforda. Jeho najzávažnejšie objavy v oblasti skúmania vlastností rádioak- tívneho žiarenia vošli do zlatého fondu fyziky a chémie.
+
+
+
+   Diskutujte o dôležitosti základného výskumu. Na príklade objavu rádioaktivity opíšte počiatočnú prácu niekoľkých nadšencov a v krátkosti načrtnite súčasné vy- užitie poznatkov o rádioaktivite. Vychádzajte z poznatkov, ktoré máte momentálne k dispozícii. K aktivite sa vráťte po preštudovaní celej kapitoly venovanej rádioakti- vite.
+
+
+   H. Beckerel objavil nové žiarenie. Bolo odlišné od röntgenového, nevyžadovalo žiaden vonkajší podnet. Nový jav bol nazvaný rádioaktivita. Nebola ovplyvniteľná ani silným zohrievaním či chladením, a ani iným fyzikálnym alebo chemickým pôsobením. Bolo jasné, že zdrojom rádioaktivity muselo byť niečo ukryté hlboko   v jadre atómu. Ukázalo sa, že rádioaktivita je výsledkom premeny nestabilného jadra.
+
+
+   Poznáme tri druhy rádioaktívneho žiarenia a to α, β a γ. Navzájom sa líšia prenikavosťou materiálom. Žiarenie neprenikne ani listom papiera, vo vzduchu preletí len niekoľko centimetrov. Žiarenie β zachytí hliníkový plech. Žiarenie γ nedokáže úplne pohltiť ani olovený blok. Spoločnou vlastnosťou všetkých troch žiarení je, že vznikajú v jadre atómu a že ionizujú prostredie, ktorým sa šíria. Rozdiely medzi žiareniami α, β a γ spočívajú v samotnej podstate týchto žiarení.
+
+
+
+   Zistilo sa, že jednotlivé zložky rádioaktívneho žiarenia sa líšia elektrickým nábo- jom. Preto sa jednotlivé zložky rôzne pohybujú v magnetickom, ako aj v elektric- kom poli.
+
+
+   Na zistenie typu elektric- kého náboja žiarení použije- me Flemigovo pravidlo ľavej ruky. Naučili sme sa ho  používať   v   učebnici  z predchádzajúceho roční- ka, v učive o magnetickom poli. Položme otvorenú dlaň ľavej ruky do magnetického poľa na obrázku tak, aby magnetické indukčné čiary vstupovali do dlane. Palec nasmerujme v smere pôso- biacej sily, teda do stredu
+kružnice, ktorej časť je vytvorená trajektóriou častice. Ak je častica kladná, potom vystreté prsty ukazujú smer jej pohybu. Ak je častica záporná, potom vystreté prsty ukazujú smer opačný k smeru jej pohybu.
+
+
+
+1. Postupom opísaným vyššie ukážte, že častice α žiarenia sú kladné a že častice β
+žiarenia sú záporné.
+
+2. Na obrázku sú znázornené dve kovové rovnobežné platne, medzi ktorými sa šíri rádioaktívne žiarenie vychádzajúce zo zdroja vľavo. Vyznačený je smer šírenia žia- renia vychádzajúceho zo zdroja rádioaktívneho žiarenia. Jednu platňu pripojíme  ku kladnému a druhú k zápornému pólu zdroja. Žiarenie sa rozdelí na tri zložky. Určte, ktorá zložka je žiarenie α, ktorá je žiarenie β a ktorá zložka je žiarenie γ.
+
+
+
+Rádioaktívnou premenou môžu vzniknúť tri typy žiarenia, a to α, β a γ. Žiarenie
+α je prúdom častíc totožných s jadrom hélia, 4He, žiarenie β je prúdom elektrónov,
+žiarenie γ je elektromagnetické žiarenie, hovoríme o prúde fotónov.
+
+   Predchádzajúci text popisuje zaujímavú skutočnosť. Existujú atómy, ktoré nie sú stabilné a samovoľne sa premieňajú na iné atómy. Pri tejto premene z jadier niekto- rých atómov sa uvoľní jadro hélia, z niektorých elektrón a z niektorých fotón. Neexistujú jadrá, z ktorých by sa samovoľne uvoľnil napríklad len protón, alebo len neutrón. Výnimočne existuje niekoľko jadier, z ktorých sa môže uvoľniť častica rov- naká ako elektrón ale s kladným nábojom, tzv. pozitrón.
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+
+
+ 
+
+Doplňte chýbajúce čísla v rovnici
+
+
+
+
+
+
+   Nabité častice α a β pohybujúce sa veľkými rýchlosťami dokážu ionizovať atómy prostredia, ktorým prechádzajú. V dôsledku elektrostatickej sily môžu priťahovať či odpudzovať elektróny a tým ich vytrhnúť z atómu. Podobne aj fotóny γ žiarenia ioni- zujú prostredie, uvoľňujú elektróny z obalu atómov a tým ovplyvňujú chemické väzby atómov. Každá častica môže pozdĺž trajektórie svojho pohybu spôsobiť až tisí- ce ionizácií. Častice α stratia svoju energiu na veľmi krátkej vzdialenosti (na povr- chu listu papiera, po niekoľkých centimetroch letu vo vzduchu a podobne) a táto strata energie je sprevádzaná ionizáciou prostredia. Teda častice α ionizujú malý objem a hustota ionizovaných častíc je v tomto objeme veľká. Častice β majú väčší
+
+dolet, a teda hustota ionizovaných častíc je menšia. Fotóny γ často preletia prostre- dím tak, že sú iba veľmi málo zoslabené, a teda hustota ionizovaných častíc je ešte menšia. Podobne ako fotóny γ žiarenia sa správajú aj fotóny röntgenového žiarenia.
+
+   Rádioaktívne žiarenie, rovnako ako aj iné ionizujúce žiarenie predstavuje nebez- pečenstvo pre živé organizmy. Žiarenie môže poškodiť bunku napríklad aj jedným  z troch spôsobov:
+
+1. Žiarenie s veľkou intenzitou môže zničiť bunku tak, že celé tkanivo odumrie.
+
+2. Jedna ionizujúca častica môže pôsobiť na DNA tak, že prestane správne praco- vať.
+
+3. Jedna ionizujúca častica môže rozbiť molekulu vody, pričom OH– reaguje s DNA a poškodí ju.
+
+
+Pri rádioaktívnom žiarení nás zaujíma najmä:
+
+* v súvislosti s rádioaktívnou vzorkou:
+- za aký čas sa rádioaktívne izotopy v rádioaktívnom materiáli premenia (cha- rakterizujeme to veličinou polčas premeny, značka T, jednotka s),
+- ako často dochádza v telese k rádioaktívnej premene (charakterizujeme to veli- činou aktivita, značka A, jednotka s-1),
+* v súvislosti s tkanivom, ktoré je zasiahnuté rádioaktívnym (ionizujúcim) žiare- ním
+- aká energia sa v tkanive spotrebuje na vytvorenie iónov (jednotka J· kg-1),
+- aké sú účinky na organizmus (jednotka Sievert, Sv).
+
+
+Najčastejšie používanou veličinou je polčas premeny.
+
+
+Príklad školského zariadenia na meranie rádioaktivity v prírode je na obrázku.
+
+
+
+ 
+   Polčas premeny označujeme písmenom T a jednotkou je jednotka času, sekunda. Už zo samotnej definície vidíme, že rádioaktívny izotop vo vzorke nikdy celkom nevymizne, vždy za polčas premeny sa premení polovica atómov vybraného izoto- pu. Samozrejme, po istom počte polčasov premeny sa množstvo rádioaktívnych ató- mov vo vzorke stane voči rádioaktivite okolitého prostredia zanedbateľné.
+
+   Účinky na ľudský organizmus sa vyjadrujú v jednotkách Sievert. Ide o jednotku fyzikálnej veličiny  nazývanej  dávkový  ekvivalent  ionizujúceho  žiarenia.  Údaje o dávkových ekvivalentoch niektorých radiačných záťaží sú v tabuľke.
+
+ZáťažDávkový ekvivalent3 hodiny letu vo výške 10 km0,01 mSvHraničná dávka od kozmického žiarenia0,3 mSv / rokStredná záťaž pri aplikáciách v medicíne0,5 mSv / rokRöntgen hrudníka0,03 mSv„Báriové jedlo“ (ako kontrastná látka
+pri röntgenovom vyšetrení čriev)1 mSvStredná prírodná záťaž v SR1,5 mSv / rokStredná záťaž pri bývanído 3 mSv / rokMax. prípustná dávka pre profesionálov50 mSv / rokKlinické príznaky z choroby250 mSvChoroba z ožiarenia1 000 mSvŤažké ochorenie (50 % smrteľné)4 000 mSvSmrteľná dávka7 000 mSv
+
+
+   Často sa hovorí o tom, ktoré zo žiarení je pre človeka najviac nebezpečné. Odpoveď nie je jednoduchá, najlepšie je povedať, že každé žiarenie, ktorému je člo- vek vystavený  je nebezpečné. Žiarenie α sa zo zdroja, ktorý je mimo človeka,      do organizmu ani nedostane. Na ochranu postačuje niekoľko centimetrov vzduchu a vrstva pokožky. Ak sa však do organizmu dostane napríklad vdýchnutím alebo    v strave, je veľmi nebezpečné, pretože v malom objeme tkaniva vyvoláva veľkú hus- totu ionizácie. Naopak, žiarenie γ sa do organizmu dostane aj zo zdroja umiestne- ného v inej miestnosti, avšak preletí organizmom a vyvolá ionizáciu iba s malou hustotou.
+
+Na obrázku sú označenia priestorov, v ktorých sú zdroje ionizačného žiarenia.
+
+
+
+
+   Pri spracovaní látok v tele prebiehajú biologické a chemické procesy. Biologickými procesmi látky prijímame i vylučujeme. Biologické ani chemické pro- cesy nerozlišujú izotopy rovnakého chemického prvku, spracovávajú ich úplne rov- nako. Jedným z hlavných rádioaktívnych izotopov v mračne z nehody v elektrárni v Černobyle bol jód 131 I. Jód nie je toxický. Navrhnite, akou terapiou bolo možné znižovať ožiarenie v tele ľudí zasiahnutých týmto rádioaktívnym jódom.
+
+
+   Aj keď sme v predchádzajúcich odsekoch rozprávali o nebezpečnosti rádioaktív- neho žiarenie, musíme si uvedomiť, že toto žiarenie je okolo nás aj v nás vždy        a úplne prirodzene. Spomenieme aspoň niekoľko prirodzených zdrojov rádioakti- vity.
+
+   Trícium – izotop vodíka 3H. Vodík je najrozšírenejší prvok, je súčasťou mole- kúl vody a nepatrné množstvo z neho tvorí rádioaktívny izotop. Polčas premeny je 12,3 rokov.
+
+
+   Uhlík 14C. Uhlík tvorí základ nášho života a opäť nepatrné množstvo z neho tvorí rádioaktívny izotop. Polčas premeny je 5 730 rokov.
+
+
+   Draslík 40K. Draslík sa bežne nachádza v pôde a je potrebný pre rast rastlín, 0,012 % z neho tvorí rádioaktívny izotop. Polčas premeny je 1 300 mil. rokov.
+
+
+   Radón 222Rn. Radón je bezfarebný plyn bez chuti a zápachu. Vzniká rádioaktí- vnou premenou iných izotopov pod povrchom Zeme a odtiaľ sa dostáva na povrch. Nebezpečný je najmä ak sa dostane do zle izolovaných pivníc a tam dosiahne vyš- šiu koncentráciu. Polčas premeny je 3,8 dňa. V prírode sa nachádzajú aj produkty premeny radónu, napr. 218Po, 214Pb, 214Bi, 210 Pb.
+
+   Rádium 226Ra. Rádium sa nachádza na povrchu Zeme iba v mizivých množ- stvách najmä v oblastiach, kde sa nachádza aj urán. Rádium je zdrojom plynného radónu. Vo veľmi malých množstvách sa môže dostať do stavebných materiálov. Polčas premeny je 1 600 rokov.
+
+
+   Urán 238U. Urán je v zemskej kôre zastúpený v koncentrácii približne 0,025 %. Urán je nielen rádioaktívny, ale aj toxický. Vo veľmi malých množstvách sa výni- močne môže dostať do stavebných materiálov. Polčas premeny 4 500 mil. rokov.
+
+   Okrem týchto rádioaktívnych izotopov sa v našom okolí nachádzajú aj mnohé ďalšie. Niektoré vznikli prirodzeným vývinom vesmíru, iné sme vyrobili, alebo stále vyrábame, najmä na lekárske účely.
+
+   Rádioaktívne prvky sa bežne využívajú v mnohých oblastiach ľudskej činnosti. Spomenieme najmä ich využitie v medicíne. Rádioaktívne prvky, aj také, ktoré sa  v prírode bežne nevyskytujú, ale sa vyrábajú v laboratóriách, sa používajú v dia- gnostike aj pri terapii.
+
+
+
+   V diagnostike je možné využiť izotopy vyžarujúce γ žiarenie. Vhodný je taký izotop, ktorý nie je toxický a biologicky sa môže dostať do orgánu alebo sústavy, ktorú chceme zobraziť. Dôležité je aj to, aby polčas premeny takéhoto prvku bol dosť veľký na to, aby sme ho dokázali prepraviť do nemocnice, dať pacientovi a pohodl- ne vykonať potrebné merania. Zároveň je dobré, aby polčas premeny nebol príliš veľký, aby sme nemali problém s odstránením žiarenia z pacienta a následne s likvi- dáciou použitého žiariča. Príkladom takéhoto izotopu je technécium 99Tc, ktorý je γ žiaričom. Polčas premeny je 6 hodín. Používa sa v rôznych rádiofarmakách na vyšetrovanie mozgu, obličiek, srdca, pľúc a iných častí tela. Ak sa tento žiarič dostane do tela, orgány a tkanivá obsahujúce tento izotop vyžarujú žiarenie, ktoré snímame zariadeniami podobnými ako zariadenia používané pri röntgenových vyšetreniach, napríklad tomografom. Na základe získaných obrázkov sú lekári schopní „vidieť“ problematické časti tkaniva alebo vyšetrovaných orgánov. Miera rizika využívania takéhoto rádioaktívneho izotopu je výrazne nižšia, ako riziko vyplývajúce z choroby, o ktorej by sme nevedeli, alebo by sme sa o nej dozvedeli príliš neskoro.
+
+
+
+   V terapii využívame zdroj rádioaktívneho žiarenia napríklad na ničenie nádoro- vých buniek. Vhodným výberom žiariča sa dá dosiahnuť situácia, keď sa bunky  nádoru v tele zničia a zdravé bunky ostanú nepoškodené. Aj tu platí, že rádioaktív- nemu žiareniu vystavujeme časť tela iba vtedy, ak miera rizika je výrazne nižšia ako je miera rizika vyplývajúca z neliečeného nádoru a ak neexistuje lepšia možnosť terapie.
+
+
+
+     Príkladom technického využitia rádioak- tívneho izotopu v domácnostiach je detektor dymu. V detektoroch dymu sa nachádza prvok amerícium, ktorý je zdrojom α častíc. Pri zrážke α častice s molekulami dusíka a kyslíka, nachá- dzajúcimi sa vo vzduchu, dochádza k ionizácii, získavame kladne nabité kyslíkové a dusíkové ióny a záporne nabité elektróny. V detektore sú umiestnené dve opačne nabité platne. Elektróny sú priťahované ku kladne nabitej platni, kladné
+ióny sa pohybujú k záporne nabitej platni. To spôsobí vznik elektrického prúdu. Ako náhle sa vo  vzduchu objavia častice dymu, elektrický prúd v obvode poklesne        a spustí sa alarm. Častice dymu jednak interagujú s nabitými časticami, a jednak α častice sú absorbované časticami dymu. Keďže α častice zastaví už list papiera a vo vzduchu preletia iba niekoľko centimetrov, nie je žiarenie z tohto detektora pre člo- veka nebezpečné.
+
+
+
+
+
+Odmerajte rádioaktivitu prostredia, vzduchu a iných zdrojov vo vašom okolí.
+
+
+a) Senzorom rádioaktívneho žiarenia odmerajte rádioaktivitu prostredia v triede. Preskúmajte, v akých jednotkách je táto rádioaktivita vyjadrená.
+
+
+b) Z papierového alebo z iného prachového filtra si pripravte „žiarič“ tak, že cez tento filter niekoľko desiatok minút prečerpávate vzduch. Odmerajte rá- dioaktivitu tohto filtra a porovnajte ju s rádioaktivitou prostredia nameranou v bode a). Na obrázku sme použili kúsok papierového vrecka do vysávača.
+
+
+                      c) Počas výletu v prírode zmerajte rádioaktivitu rôznych predmetov a prostredí, napr. v jaskyni, v kameňolome, pri potoku a podobne. Porovnajte získané hodnoty s hodnotou rádioaktivity nameranej v triede.
+
+
+Na nasledujúcich obrázkoch sú zábery z prípravy vzorky a z výsledkov meraní.
+
+
+   Na grafoch vidíme, že rádioaktívna premena je do veľkej miery náhodný proces. Rádioaktivita prostredia bola takmer konštantná a rádioaktivita vzorky zreteľne kle- sala. Pri meraní sme použili ako veličinu počet rádioaktívnych častíc, ktoré sa dosta- li do senzora za minútu.
+
+
+
+
+   Vysvetlite svojimi slovami – opisne – nasledujúce pojmy. V prípade potreby pojmy a slovné spojenia vyhľadajte vo svojom zdroji informácií.
+– Avogadrova konštanta
+– látkové množstvo, mol
+– elektrón
+– elektrolýza
+– jadro atómu
+– nukleón
+– neón, izotop neónu
+– fotoelektrický jav
+– fotón
+– výstupná práca (pri fotoelektrickom jave)
+– röntgenové žiarenie
+– eV ako jednotka energie
+– tomograf, tomografia
+– zákon zachovania počtu nukleónov,
+– zákon zachovania elektrického náboja
+– hmotnostný úbytok (v jadre atómu)
+– väzbová energia jadra atómu
+– jadrová syntéza
+– štiepenie jadier
+– rádioaktivita
+– ionizujúce žiarenie
+– žiarenie α
+– žiarenie β
+– žiarenie γ
+
+1. Lekár vyslovil podozrenie, že pacient má v čreve tesne pri žalúdku istú prekáž- ku. Pri diagnostike tohto problému môže použiť röntgen, ultrazvuk alebo endo- skopiu.
+
+a) Na röntgenovej snímke zvyčajne jasne vidíme kontrast medzi kosťami a mäk- kým tkanivom. Tiež môžeme vidieť kovové implantáty, alebo iné telesá obsa- hujúce atómy s vyššou atómovou hmotnosťou. V prípade, ak by touto prekáž- kou bol napríklad zjedený prsteň, tento by sme na snímke vidieť mohli. Ale ak je touto prekážkou nádor z mäkkého tkaniva, na jeho zobrazenie používame nápoj (hustú kriedovitú tekutinu) obohatenú báriom. S pomocou svojho zdro- ja informácií vysvetlite úlohu tejto tekutiny. Vysvetlite tiež výhody a nevýho- dy použitia jednej snímky v porovnaní s použitím počítačovej tomografie.
+b) Pri vyšetrovaní ultrazvukom (sonografia) sa zobrazujú najmä rozhrania jed- notlivých prostredí v tele. Túto zobrazovaciu techniku sme spomenuli v učeb- nici z predchádzajúceho ročníka v kapitole 2. Pri použití tejto techniky lekár najprv natrie pokožku gélom. Vysvetlite úlohu tohto gélu.
+c) Vysvetlite úlohu optických vlákien pri zobrazovaní endoskopiou.
+
+2. Hlavným zdrojom energie hviezd je syntéza jadier vodíka. Syntézou dvoch jadier
+
+vodíka dostaneme deutérium a 1,19 MeV energie, syntézou jadra vodíka a deu- téria dostaneme trícium a 5,49 MeV energie a syntézou dvoch jadier trícia dosta- neme hélium a 12,85 MeV energie.
+a) Vysvetlite, prečo tieto jadrové reakcie musia prebiehať pri veľkom tlaku       a veľkej teplote. Uvedomte si, že atómové jadrá sú kladne elektricky nabité. Tiež si spomeňte na súvis teploty a kinetickej energie častíc.
+b) Vo hviezdach s oveľa väčšou hmotnosťou než Slnko hrá pri uvoľňovaní ener- gie dôležitú úlohu syntéza uhlíka a vodíka. Vysvetlite, prečo táto syntéza vyžaduje oveľa vyššiu teplotu, než je teplota vnútri Slnka.
+
+3. Lekár pacientovi navrhol podstúpiť záťažový test srdca. Na určenie diagnózy potreboval zobraziť prúdenie krvi srdcom pri fyzickej námahe. Navrhol použiť rádioaktívny izotop tália 201Tl , ktorý sa vstrekne do krvi pacienta. Detektory žia- renia γ zachytávajú miesta, z ktorých vychádza žiarenie a teda miesta ktorými preteká krv srdcom. Takto dostane lekár presný trojrozmerný obraz srdca. Rizikom tohto vyšetrenie je, že pacient bude zaťažený dávkovým ekvivalentom žiarenia 21 mSv.
+a) Diskutujte, za akých okolností je podstúpenie tohto vyšetrenia pre pacienta prínosom. Diskutujte o zdravotnom stave pacienta a o veku pacienta.
+b) Polčas premeny izotopu tália 201Tl je 73 hodín. Diskutujte, prečo pacient ihneď po tejto procedúre nemôže ísť domov, ale musí byť ešte niekoľko dní hospitalizovaný.
+c) Diskutujte o bezpečnosti personálu nemocnice pri takejto diagnostike.
+d) Vysvetlite, prečo sa táto metóda používa iba vo veľmi výnimočných prípa- doch.
+
+4. V archeológii sa často určuje vek odumretých organizmov (napríklad dreva        a predmetov vyrobených z dreva) pomocou rádioaktívneho izotopu uhlíka 14C. Tento izotop vzniká v atmosfére Zeme vplyvom kozmického žiarenia a jeho kon- centrácia v atmosfére sa nemení. Izotop sa dostáva do organizmu rovnako ako bežný izotop uhlíka. Keď organizmus odumrie, prestane prijímať z okolia uhlík. Koncentrácia rádioaktívneho izotopu v organizme začne klesať. Polčas premeny uhlíka 14C je 5 730 rokov.
+a) Vysvetlite, prečo touto metódou nemôžeme určiť presný vek drevených obra- zov vyrobených niekedy začiatkom 19. storočia.
+b) Vieme, že izotop uhlíka 14C sa premieňa na izotop dusíka uhlíka 14N. Určte,
+6	7
+či ide o rádioaktivitu α, β, alebo γ.
+c) Egyptský faraón Sesostris III žil v rokoch 1878 – 1841 pred našim letopoč- tom. Určte, či koncentrácia rádioaktívneho uhlíka 14C vo zvyškoch jeho dre- veného pohrebného člna je v porovnaní s koncentráciou v dreve rastúceho stromu väčšia, alebo menšia. Určte, či koncentrácia už klesla na polovicu pôvodnej koncentrácie.
+
+
+1. Vo fľaši s objemom 1 liter je spolu 2,4·1022 molekúl vzduchu, teda najmä mole- kúl N2 a O2. V rovnakej fľaši máme pri rovnakej teplote a rovnakom tlaku čistý kyslík O2. Určte počet molekúl kyslíka v druhej fľaši.
+
+2. V istom röntgene používanom v medicíne sú elektróny urýchľované elektrickým
+
+napätím 80 kV. Určte interval vlnových dĺžok elektromagnetického žiarenia vyžarovaného týmto röntgenom. Vysvetlite, prečo tento interval nezávisí od materiálu použitých elektród. Vysvetlite tiež, ktorá vlastnosť spektra röntgenové- ho žiarenia závisí od použitých elektród.
+
+3. V grafe v časti 3.2 vidíme, že väzbová  energia pripadajúca na jeden nukleón     v jadre železa je približne 14·10-13 J. V našom zdroji informácií sme našli rovna- ký graf, na zvislej osi však bola hodnota v jednotkách MeV a hodnota pre žele- zo bola približne 8,5 MeV. Ukážte, že tieto dve hodnoty sú približne rovnaké.
+
+4. Slnko vyžaruje energiu, ktorú získava  premenou svojej hmotnosti na energiu.   Z toho vyplýva, že kým dočítame zadanie tejto úlohy, Slnko bude mať hmotnosť menšiu, než pred začatím čítania. Odhadnite o koľko sa zmenší hmotnosť Slnka za sekundu ak vieme, že Slnko vyžaruje 4·1026 J·s-1.
+
+5. Aktivita rádioaktívnej vzorky je fyzikálna veličina vyjadrujúca počet rádioaktív- nych premien v tejto vzorke za sekundu. Predstavme si, že máme rádioaktívnu vzorku obsahujúcu rôzne stabilné jadrá a iba jeden rádioaktívny izotop 13 N. Tento izotop sa po jednej premene premení na stabilný izotop. Polčas premeny je
+10 min. V istom okamihu je aktivita vzorky 8·1013 premien za sekundu. Nakreslite graf závislosti aktivity tejto vzorky od času pre nasledujúcu hodinu.
+
+6. Jadro atómu polónia 210 Po 210 sa rozpadá rádioaktívnou premenou na časticu alfa a na olovo 206 Pb. Alfa častica odletí rýchlosťou 1,55·108 m·s-1. Ak zanedbá- me hmotnostný úbytok, tak hmotnosť jadra atómu polónia je 210 u, hmotnosť jadra atómu olova je 206 u a hmotnosť častice alfa je 4 u, kde u = 1,66 10-27 kg. Vypočítajte kinetickú energiu častice alfa, kinetickú energiu jadra olova a celko- vú energiu, ktorá sa pri premene premení z jadrovej energie na mechanickú. Vyjadrite v percentách, akú časť uvoľnenej energie získa častica alfa.
+
+
+
+
+
+
+
+
+
+   Dostali sme sa k poslednej kapitole povinného kurzu fyziky. Zámerne ho venu- jeme téme, s ktorou ste sa stretávali už od začiatkov vášho školského fyzikálneho vzdelávania, dokonca ešte skôr. Vybrali sme si pojem energia. Dúfame, že máte dosť energie sa tejto kapitole venovať.
+
+
+
+
+
+
+
+   Energii sa v tejto kapitole budeme venovať z viacerých hľadísk a určite nie vyčer- pávajúco. Vybrali sme niekoľko príkladov. Niektoré z nich súvisia v veľkými výzva- mi, pred ktorými v súčasnosti stojí ľudstvo. Napríklad v súčasnosti prebiehajúce klimatické zmeny súvisia so životom každého z nás a venuje sa im vláda takmer každej krajiny. Venujú sa im vedci z rôznych oblastí, inžinieri, politici i ekonómo- via. Vedci v súčasnosti považujú zmeny klímy na Zemi za jasný fakt. Ak neklesnú emisie skleníkových plynov,  zmeny klímy tým vyvolané považujú za nezvratné     a dramatické. Zaujímavým a desivým dôsledkom takýchto zmien je napríklad zhor- šený prístup veľkej časti ľudstva k pitnej vode a zníženie poľnohospodárskej pro- dukcie závislej od zavlažovania. Najnovšie správy Medzivládneho panelu o klima- tických zmenách (IPCC, Intergovernmental Panel on Climate Change) hovoria napríklad aj o potrebe transformovať celý energetický sektor tak, aby miera využí- vania obnoviteľných zdrojov dosiahla v roku 2050 až 77%. Po získaní Nobelovej ceny sa vraj Al Gore vyjadril aj takto: „Čelíme skutočnej planetárnej katastrofe. Klimatická kríza nie je len politickou záležitosťou, ale aj morálnou a duchovnou výzvou pre všetko ľudské.“
+   Zvyšujúca intenzita spaľovania fosílnych palív zvyšuje množstvo oxidu uhličité- ho v atmosfére, zmenšovanie oblastí pokrytých snehom znižuje schopnosť Zeme odrážať Slnečné žiarenie, zvyšovanie teploty mora spôsobuje znižovanie schopnosti mora rozpúšťať oxid uhličitý a odlesňovanie znižuje možnosti fixovať oxid uhličitý.
+
+
+
+
+
+1. Vysvetlite pojem obnoviteľné zdroje energie
+
+2. Vysvetlite pojem skleníkové plyny, uveďte aspoň jeden príklad takéhoto plynu.
+
+3. Vymenujte spôsoby, ako môžete vy a vaša rodina znížiť spotrebu energie.
+
+4. Vymenujte spôsoby, ako môžeme znížiť množstvo oxidu uhličitého v atmosfére.
+
+5. V krátkosti objasnite schopnosť lesa viazať oxid uhličitý z vzduchu.
+
+6. Na obrázku je slnečná elektráreň na streche Fakulty matematiky, fyziky a informatiky UK v Bratislave, ktorá bola v roku 2009 naj- väčšou slnečnou elektrárňou na Slovensku. Systém vyrobí za rok približne 120 MWh elektrickej energie a prispeje k zníženiu emisie oxidu uhličitého o viac ako 70 ton.
+a) Diskutujte o rozdieloch pri budovaní slnečných elektrární na strechách a plášťoch budov a na zelených lúkach.
+b) Na internete vyhľadajte najkrajšie budovy so zabudovanou slnečnou elektrárňou.
+
+   S pojmom energia ste sa stretli už na prvom stupni v základnej škole. Veľa o ener- gii ste sa dozvedeli pri štúdiu fyziky, chémie, biológie a ďalších predmetov. Stále však existujú formy energie, premeny energie a ďalšie súvislosti, ktoré by sme chce- li v tejto učebnici načrtnúť. Vymenujte formy energie, s ktorým ste sa stretli pri štú- diu biológie, chémie a geografie.
+
+
+   Na obrázku je naznačené, čo sa na Zemi deje s energiou zo Slnka, nášho najväč- šieho zdroja energie. Na Zem dopadá energia vo forme elektromagnetického žiare- nia. Toto  žiarenie sa na každom rozhraní čiastočne odráža, približne tak, ako sme  o tom rozprávali pri svetle. Časť energie, ktorá sa neodrazí, prejde do ďalšieho pros- tredia, kde sa časť z nej premení na vnútornú energiu – hovoríme, že táto časť ener- gie sa absorbovala. Približne 50 % energie, ktorá zo Slnka smeruje k Zemi dopadne na povrch Zeme. Tu zohrieva povrchové vrstvy oceánu i pevniny a spôsobuje tiež fotosyntézu potrebnú pre rast rastlín.
+
+   Vieme, že každé teleso s istou teplotou vyžaruje elektromagnetické žiarenie. Aj povrchové vrstvy Zeme vyžarujú späť do vesmíru približne rovnaké množstvo ener- gie, ako to, čo na Zem dopadlo. V tejto časti učebnice prinášame niekoľko námetov na rozvinutie vašich schopností pracovať s pojmom energia, pracovať s operáciami, ktoré ste si mali štúdiom fyziky rozvinúť a pracovať s informáciami, ktoré ste mali získať. Tiež prinesieme ďalšie informácie, ktoré nie je potrebné pamätať si natrvalo, ale mali by ste byť schopní ich pochopiť a spracovať.
+
+
+1. V nasledujúcich úlohách predpokladajte bezvetrie. Vysvetlite:
+a) prečo sú dni relatívne teplejšie, ak je jasné, bezoblačné počasie,
+b) prečo sú noci relatívne teplejšie, ak je zamračené,
+c) prečo v zime za jasného slnečného dňa je teplejšie, ak príroda nie je zasnežená,
+d) prečo v zime pokles nočnej teploty je relatívne menší, ak je príroda zasnežená.
+
+2. Vo fyzike v základnej škole ste sa mohli stretnúť s pojmom slnečná konštanta. Podľa definície je to hodnota celkovej slnečnej energie, ktorá by dopadla na plo- chu 1 m2 umiestnenú kolmo na smer lúčov vo vzdialenosti Zeme od Slnka. Hodnota slnečnej konštanty je približne 1 367 W·m-2. Výrobcovia slnečných kolektorov uvádzajú, že v našich zemepisných podmienkach za jasného počasia dopadne na kolektor s plochou 1 m2 umiestnený na poludnie kolmo na Slnko približne 3,2 kWh za jeden deň. Kvantitatívne vysvetlite súvis týchto dvoch hod- nôt.
+
+
+   Riešenie: Zo Slnka na povrch Zeme nedopadne celá energia zo Slnka, podľa  predchádzajúceho obrázka dopadne približne polovica tejto energie. Teda na kolek- tor napoludnie za hodinu dopadá 680 W energie, čo je 0,68 kWh. Ak by bol kolek- tor nasmerovaný kolmo k Slnku celých 24 hodín, potom by naň dopadlo 16 kWh. Zem sa však točí okolo svojej osi, celú noc na kolektor žiadne slnečné žiarenie nedo- padá. Môžeme odhadnúť, že vplyvom tohto otáčania na kolektor dopadne iba štvrti- na energie, teda 4 kWh. Táto hodnota je blízka hodnote uvedenej v zadaní úlohy.
+
+   Napriek skutočnosti, že energia zo Slnka dopadá na našu Zem zadarmo, pomer- ne veľkú časť našich rozpočtov stoja platby práve za rôzne formy energie. Väčšina našich domácností platí sa dodávky elektrickej energie a plynu, niektoré domác- nosti platia aj za dodávku teplej vody na umývanie a tepla na kúrenie, niektoré do- mácnosti kupujú uhlie a drevo na kúrenie. Okrem toho kupujeme palivo do našich áut.
+   Najbežnejšou a najpraktickejšou formou energie určenou pre domácnosti je elek- trická energia. Elektrickú energie vyrábame v elektrárňach. Presnejšie povedané,   v elektrárňach premieňame iné formy energie na elektrickú energiu.
+
+   Tepelné elektrárne sú najstarším typom elektrární. Energia sa získava spaľova- ním uhlia, plynu alebo mazutu. Vyrobená vodná para s vysokým tlakom roztáča tur- bínu generátora.
+   Samostatne sa zvykne hovoriť o elektrárňach na biomasu, v týchto sa spaľujú rozštiepané kúsky dreva, zvyčajne inak nevyužiteľných konárov.
+   Jadrové štiepne elektrárne (niekedy nazývané aj atómové elektrárne) sú podob- né tepelným s tým rozdielom, že teplo sa získava štiepením jadier uránu.
+   Jadrové fúzne elektrárne sa zatiaľ neprevádzkujú, avšak prebieha intenzívny výskum na prípravu takejto elektrárne.
+   Vo vodných elektrárňach voda z nádrže (z miesta s vyššou hladinou) samovoľ- ne preteká na miesto s nižšou hladinou, a tak roztáča turbínu generátora. Niektoré vodné elektrárne sú konštruované tak, že umožňujú aj opačný chod. Vtedy sa voda prečerpáva z nádrže s nižšou hladinou do nádrže s vyššou hladinou. V tomto režime elektráreň pracuje vtedy, keď je v sieti prebytok elektrickej energie. Takéto vodné elektrárne nazývame prečerpávacie elektrárne.
+
+   V slnečných (fotovoltických) elektrárňach sa premieňa dopadajúce svetelné žiarenie v solárnych článkoch priamo na elektrickú energiu. Táto  premena súvisí    s fotoelektrickým javom, ktorému sme sa venovali v časti 2.4.
+
+Vo veterných elektrárňach vietor roztáča vrtuľu spojenú s generátorom.
+   Výnimočne sa používajú aj prílivové elektrárne, kde sa rozdiel hladín vody na brehu mora získava z prílivu a odlivu. Tiež je možné stretnúť sa s geotermálnou elek- trárňou, kde para vystupuje na povrch Zeme z veľkých hĺbok.
+
+
+
+1. Diskutujte o výhodách a nevýhodách jednotlivých typov elektrární.
+
+2. Predstavte si situáciu, že v malej obci cez deň máte veľký prebytok elektrickej energie vyrobenej v slnečnej elektrárni a večer máte nedostatok elektrickej ener- gie. Diskutujte o možnostiach technického riešenia takejto situácie. Spomeňte si napríklad na elektrolýzu vody, na potenciálnu energiu vody v priehrade a podob- ne. Uvedomte si, že v olovených akumulátoroch používaných v automobiloch je možné uskladniť iba malé množstvo elektrickej energie.
+
+
+   Okrem elektriny je ďalším bežným zdrojom energie spaľovanie palív. Spaľovaním získavame teplo na vyhrievanie budov, ale napríklad aj mechanickú energiu na pohyb automobilu. V minulosti sa vyrábali aj chladničky s motorom na spaľovanie plynu.
+
+   V tabuľke uvádzame výhrevnosť vybraných palív, teda množstvo energie získa- nej spálením 1 kg daného paliva. Pri výpočtoch v konkrétnych situáciách musíme brať do úvahy aj skutočnosť, že pri spaľovaní  musíme dodávať vzduch (kyslík)    a splodiny, často s vysokou teplotou, musíme odvádzať do komína (alebo do výfu- ku). Pri premene tepelnej energie (tepla) na mechanickú energiu je potrebné si uve- domiť, že účinnosť závisí od teplôt, pri ktorých táto premena nastáva. Maximálna možná účinnosť je daná vzťahom uvedeným v nasledujúcej časti.
+
+
+Palivo pri atmosférickom tlakuVýhrevnosť (MJ·m-3)Zemný plyn33,5Propán46,5Svietiplyn14,5
+PalivoVýhrevnosť (MJ·kg-1)Výhrevnosť (MJ·dm-3)Motorová nafta41,9 – 42,535,2 – 35,7Benzín do automobilov43,531,3
+PalivoVýhrevnosť (MJ·kg-1)Drevo14 – 17Hnedé uhlie14 – 17Čierne uhlie22 – 29Slama (z obilia)15,5Papier14
+
+
+1. Jeden večer sme sa v miestnosti rozhodli vykurovať krbom. V krbe sme za dve hodiny spálili 4 kg dreva, účinnosť nášho krbu je 30 %. Druhý večer sme sa roz- hodli miestnosť za rovnakých podmienok vykurovať elektrickým ohrievačom napájaným napätím 230 V. Odhadnite potrebný príkon ohrievača a elektrický prúd prechádzajúci ohrievačom.
+
+2. Porovnajte výhody a nevýhody automobilu s benzínovým motorom a elektromo- bilu. Venujte sa okrem iného aj rýchlosti dodávania energie do automobilu, eko- lógii zneškodňovania automobilu a špeciálneho použitia automobilov v uzatvore- ných priestoroch.
+
+
+
+
+
+
+
+   Elektrickým ohrievačom bude v tomto prípade elektrický infražiarič, ktorý pou- žívame v zime na doplnkové vykurovanie miestností. Pojem infražiarič zvyčajne označuje elektrický ohrievač bez ventilátora. Infražiarič použitý v tejto úlohe má dve rovnaké vyhrievacie telesá. Maximálny výkon infražiariča je 2 200 W,  pripája sa   k zdroju 230 V.
+
+a) Určte elektrický prúd, ktorý prechádza infražiaričom pri maximálnom výkone.
+
+b) Ak máme k dispozícii dve rovnaké vyhrievacie telesá môžeme ich ku zdroju napätia pripojiť nasledujúcimi spôsobmi.
+
+  Určte, ktoré zapojenie zodpovedá maximálnemu výkonu. Vypočítajte výkon pri ďalších dvoch zapojeniach. Pri výpočte zanedbajte závislosť elektrického odporu vyhrievacieho telesa od teploty.
+
+c) V našom zdroji informácií sme našli, že vyžarovaný výkon z 1 m2 povr- chu telesa závisí od teploty  podľa vzťahu	, kde σ je Stefano-
+va-Boltzmannova konštanta, ktorej hodnota je 5,67 · 10-8 W· m-2 · K-4. Použite tento vzťah na odhad teploty povrchu vyhrievacích telies. Rozmery vyhrievacích telies odhadnite. Pri odhade teploty zanedbajte vedenie tepla vzduchom a prúdenie vzduchu okolo vyhrievacích telies.
+
+d) V inom ohrievači s rovnakým výkonom je použitý ventilátor. Vysvetlite jeho úlohu a tiež to, ako použitie ventilátora vedie k zmenšeniu plochy povrchu vyhrievacích telies a k zmenšeniu teploty povrchu vyhrievacích telies.
+
+   V predchádzajúcich úlohách sme predpokladali, že teplo sa šíri z teplej- šieho telesa na chladnejšie. Tak sme zvyknutí a v skutočnosti to aj tak často je. Teplo nemôže samovoľne prechádzať z telesa chladnejšieho na teleso tep- lejšie. Nemôže sa stať, že by sa niektoré teleso v miestnosti samovoľne zoh- rialo na teplotu vyššiu, než je teplota okolia tak, že by od okolia prijalo teplo.
+
+   Avšak poznáme zariadenia ako sú chladničky a mrazničky. V týchto zariadeniach prechádza teplo z vnútorného priestoru s nízkou teplotou do zadnej časti chladničky s teplotou vyššou ako je teplota vzduchu v miestnosti. Tento proces však neprebie- ha samovoľne, chladnička musí konať prácu. Elektrickú energiu získava  zvyčajne  z elektrickej siete. Aby sme pochopili funkciu chladničky pozrime si najprv energe- tickú schému motora, teda zariadenia premieňajúceho teplo na mechanickú prácu.
+
+   Takýmto zariadením môže byť napríklad spaľovací motor v aute. Na to, aby sa  v zariadení premenila časť dodaného tepla na mechanickú prácu, vždy musí časť tepla prejsť do chladiča.
+
+   Vývojom motorov sa snažíme o čo najväčšiu účinnosť, teda aby sme z dodaného tepla čo najviac premenili na mechanickú prácu. Toto snaženie je ohraničené maxi- málnou teoretickou účinnosťou danou vzťahom.
+
+
+kde η je maximálna účinnosť, W je vykonaná práca, QT je dodané teplo, TCH je tep- lota chladiča a TT je teplota plynu v motore.
+
+   Na nasledujúcom obrázku je schéma tepelnej pumpy, teda chladničky, mraznič- ky, alebo  klimatizácie  zapnutej  na  chladenie.  Zariadenie  „prečerpáva“  energiu z chladnejšej oblasti do teplejšej oblasti.
+
+
+   Kvalita tepelného čerpadla sa posudzuje koeficientom účinnosti COP, definova- ným ako podiel tepla odvedeného z chladnejšieho priestoru a dodanej práce. Tento koeficient je zhora ohraničený maximálnou hodnotou. Platí:
+
+
+
+
+
+1. Na klimatizačnom zariadení je uvedená hodnota  pre  chladenie  miestnosti  COP = 5,0 a príkon 600 W. Vypočítajte výkon, s akým odvádza teplo z miest- nosti. Rozhodnite, či tento koeficient neprekračuje maximálnu teoreticky dosiah- nuteľnú hodnotu, ak je v miestnosti 25 ºC a vonku 34 ºC.
+
+
+Riešenie:
+
+
+ 
+   Z riešenia vidíme, že klimatizácia odvedie za jednu sekundu 3 000 J energie a že koeficient účinnosti je výrazne nižší, než teoreticky dosiahnuteľná hranica.
+
+
+2. V jednej z predchádzajúcich úloh sme pracovali s izbovým ohrievačom s príko- nom 2 200 W. Odhadnite príkon tepelného čerpadla pracujúceho s COP = 3, ktoré do miestnosti dodáva rovnaké teplo.
+
+   Riešenie: Izbový ohrievač premieňa elektrickú energiu na teplo, a teda do miest- nosti dodáva každú sekundu 2 200 W tepla.
+
+Tepelné čerpadlo za jednu sekundu odvedie z vonkajšieho priestoru teplo
+QCH  = COP · W = 3 W.
+   Toto teplo spolu s teplom dodaným konaním práce motora sa dodá do miestnos- ti. Do miestnosti sa teda dostane 3W + W tepla. Táto hodnota sa má podľa zadania úlohy rovnať 2 200 J. Teda platí: 4W = 2 200 J; W = 550 J.
+   Každú sekundu musí motor tepelného čerpadla vykonať prácu 550 J, teda príkon tepelného čerpadla musí byť 550 W. V porovnaní s ohrievačom ušetríme tri štvrtiny elektrickej energie.
+
+
+
+
+
+
+   Časť vody po daždi zachytávame v priehradách. Pri vypúšťaní vody z priehrady prúdiaca voda môže roztáčať turbíny pripojené ku generátoru elektrickej energie.  V nasledujúcej úlohe si môžeme zopakovať niektoré poznatky, ktoré sme získali štú- diom fyziky.
+
+
+
+
+1. Na obrázku je rez vodnou nádržou. V spodnej časti priehrady je vodná elektrá- reň.
+
+
+a) Určte hydrostatický tlak pri dne tejto priehrady.
+
+b) Uvažujme, že turbínou v spodnej časti múru priehrady pretečie za jednu sekun- du 1000 l vody.  To  znamená, že polohová energia vody v priehrade za zníži     o hodnotu, ktorá je rovnaká ako je polohová energie 1 000 l vody na hladine pri- ehrady. Určte výkon generátora pripojeného k tejto turbíne. Pri odhade predpo- kladajte celkovú účinnosť elektrárne 100 %.
+
+2. Vo svojom zdroji informácií vyhľadajte Bernoulliho rovnicu a odvoďte ju zo zákona zachovania energie.
+
+   Riešenie: V našej encyklopédii sme našli Bernoulliho rovnicu v  tvare  konšt. Bola tam tiež informácia, že táto rovnica sa týka ustálené-
+ho prúdenia kvapaliny a že je vyjadrením zákona zachovania energie pre prúdiacu kvapalinu.
+
+
+   Predstavme si časť ustále- ného vodného prúdu v tvare znázornenom na obrázku tak, že voda neprechádza bočnými (myslenými alebo reálnymi) stenami a že nevytvára vírenie. Zaoberajme sa prúdiacou vodou v priestore ohraničenom bodmi 1 a 2. Voda priteká zhora rýchlosťou v1 a odteká dolu rýchlosťou v2. Keďže hovoríme o ustálenom prúde- ní, voda v priestore medzi bodmi 1 a 2 je vždy v rovna- kom stave, teda táto voda má vždy rovnakú hmotnosť a tiež kinetickú aj polohovú energiu.
+
+
+   Zvoľme si ľubovoľný malý časový interval Δt. Za tento časový  interval  zhora pritečie
+isté množstvo vody a zdola musí vytiecť rovnaké množstvo vody (lebo hovoríme   o ustálenom prúdení a množstvo vody v zvolenom priestore je stále rovnaké). Objem
+pritečenej vody sa dá vyjadriť výrazom S1v1Δt, objem vytečenej vody výrazom
+S2v2Δt.  Voda,  ktorá  prierezom  S1    pritečie,  má kinetickú energiu	1	S1v1Δttv 2
+a potenciálnu energiu S1v1Δttgh1 (tieto vzťahy si odvoďte zo základných vzťahov pre kinetickú a potenciálnu energiu). Voda,  ktorá prierezom S2   vytečie,  má   kinetickú
+energiu  —1   S2v2Δttv 2   a potenciálnu S2v2Δttgh2. Pred samotným použitím zákona
+zachovania energie si musíme uvedomiť, že voda v nami vybranej oblasti nie je izo- lovaná. Pôsobí na ňu zhora pritekajúca voda a zdola vytekajúca voda. Voda pri- tekajúca z okolia vykoná na nami vybranej vzorke vody prácu W1 = F1v1Δt = p1S1v1Δt. Vytekajúca voda vykoná na okolí prácu W2 = F2v2Δt = p2S2v2Δt.
+
+   Zaoberajme sa celkovou energiou. Voda v našom vybranom priestore má stále rovnakú celkovú energiu, lebo hovoríme o ustálenom prúdení. Do nášho priestoru pribudne energia pritekajúcej vody a tiež energia vykonaná okolím. Z nášho pries- toru odbudne energia vytekajúcej vody a práca vykonaná na okolí. Toto si zapíšme.
+—1  S1v1Δttv 2  + S1v1Δttgh1  + p1S1v1Δt = —1  S2v2Δttv 2  + S2v2Δttgh2  + p2S2v2Δt
+2	1	2	2
+
+Celú rovnicu si vykráťme objemom pritečenej vody, teda výrazom
+S1v1Δt = S2v2Δt.
+
+Dostaneme rovnicu:
+—1
+
+
+v 2 + +gh
+
++ p  = —1
+
+
+v 2 + +gh + p
+
+2	1
+čo je Bernoulliho rovnica.
+
+1	1	2	2	2	2
+
+
+
+   Bernoulliho rovnica platí aj pre prúdiaci plyn, v tom prípade však hustota na ľavej strane rovnice nemusí byť rovnaká, ako hustota na pravej strane rovnice.
+
+
+   V nasledujúcej úlohe sa pokúsime odhadnúť energiu vlnenia na vodnej hladine. Energiu takéhoto vlnenia nezvykneme premieňať na elektrickú energiu, ani žiadnym iným spôsobom využívať, avšak vlny s veľkou amplitúdou môžu mať veľmi ničivé dôsledky.
+
+
+3. Odhadnite energiu vlny na vodnej hladine a výkon, ktorý takáto vlna prenáša. Kvôli jednoduchosti si vlnu predstavíte tak, ako na obrázku.
+
+
+   Vlna má v priereze obdĺžnikový tvar, dosahuje voči vyrovnanej hladine maxi- málnu výšku Y, má vlnovú dĺžku λ a šíri sa rýchlosťou v . Uvažujeme o vlne, ktorá má šírku L.
+
+a) Ukážte, že jedna vlnová dĺžka tejto vlny má gravitačnú potenciálnu energiu, ktorá sa dá vyjadriť vzťahom          je hustota vody a g je gravitačné zrýchlenie.
+
+b) Ďalej ukážte, že každý meter šírky tejto vlny prenáša výkon, ktorý sa  dá vyjadriť vzťahom
+c) Predchádzajúci vzťah použite pri odhade výkonu prenášaného jedným metrom šírky vlny na hladine mora, ak táto vlna dosahuje výšku 0,8 m. Hustota morskej vody je 1,03·103 kg·m-3.
+
+d) Vlna na vodnej hladine má približne harmonický tvar, teda v priereze má prib- ližne tvar sínusoidy, a nie hranatý tvar zobrazený v tejto úlohe. Určte, či reálne hodnoty sú nižšie alebo vyššie, než odhady uvedené v tejto úlohe.
+
+
+
+
+   Na tomto mieste prinášame niektoré základné pojmy a vzťahy. Prehľad slúži iba na opakovanie, preto význam použitých symbolov neuvádzame.
+
+
+
+
+
+
+
+Mechanická práca	W = Fs; W = Fp s = Fs cos  
+Práca silou vykonaná - práca sily pôsobiacej v smere pohybu telesa.
+Práca silou „spotrebovaná“ - práca sily pôsobiacej proti smeru pohybu telesa.
+Gravitačná potenciálna energia (Tiažová potenciálna energia):	Ep = mgh Zmena gravitačnej potenciálnej energie	∆Ep = GmM –1– – –1–
+r2	r1
+Potenciálna energia pružnosti	Ee = –1– kx2
+2
+Kinetická energia	EK  = –1– mv2
+2
+Výkon	P = –W–
+t
+Výkon pri mechanickom pohybe P = Fv
+Výkon elektrického prúdu	P = UI = I2R	U2
+= –R––
+Výkon striedavého prúdu P = UI cos V
+
+Výkon vyžarovaný z povrchu telesa P = σST4
+Účinnosť      = ––v–ý–k–o–n–– = ––E–V–YU–Ž–
+
+príkon
+
+EDOD	Q
+
+Zmena teploty pri dodaní energie	∆t = –m–c–
+Účinnosť tepelného stroja	a = ––W–– <1– ––T–CH––
+QT	TT
+Koeficient účinnosti tepelného čerpadla  COP = –Q––CH– < ––––T–CH–––
+W	TT  – TCH
+Jednotky energie	1kWh = 3,6 MJ; 1 eV = 1,602⋅10-19 J
+
+
+
+
+
+
+
+
+
+
+Predpony násobkov jednotiek
+
+PredponaZnačkaHodnotaPríkladZnamená hodnotu
+tera
+T
+1012Každý z dvoch blokov elektrárne
+v Jaslovských Bohuniciach vyrobí za hodinu elektrickú energiu rádovo 1 TJ.
+1 000 000 000 000 JgigaG10930 W žiarovka svietiaca 1 rok spotrebuje
+energiu rádovo 1 GJ.1 000 000 000 JmegaM106Hydrostatický tlak v hĺbke 100 m pod
+hladinou vody je približne 1MPa.1 000 000 Pakilok103Vzdialenosť, ktorú prejdeme pokojným
+krokom približne za 12 min je 1 km.1 000 mmilim10–3Najmenší dielik na bežnom pravítku je
+1 mm.0,001 mmikro10–6Svetlo prejde vzdialenosť 300 m za 1 Ss.0,000 001 s
+nano
+n
+10–9Ak zoradíme 10 atómov do úsečky, potom dĺžka tejto úsečky sa bude rádovo rovnať
+1 nm.
+0,000 000 001 m
+piko
+p
+10–12Ak prierezom vodiča prechádza usmerne- ným pohybom každú sekundu
+66106 elektrónov, potom ním prechádza
+elektrický prúd 1pA.
+0,000 000 000 001 A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+doc. RNDr. Peter Demkanin, PhD. Mgr. Martina Horváthová
+
+
+Fyzika
+pre 3. ročník gymnázia a 7. ročník gymnázia s osemročným štúdiom
+
+Odborná a jazyková redaktorka RNDr. Eva Danišová
+
+Excimerový laser (str. 25), EXCIMER s.r.o Endoskop (str. 35), Askin & Co. s.r.o
+Termografia stavieb (str.38), DEKPROJEKT s.r.o. MoLab (str. 72), PD COMP
+Mercedes-BENZ (str.86), Daimler AG, Stuttgart
+
+Schválilo Ministerstvo školstva, vedy, výskumu a športu Slovenskej republiky pod č. 2012-12951/37450:3-919 zo dňa 24. augusta 2012 ako učebnicu fyziky pre 3. roč- ník gymnázia a 7. ročník gymnázia s osemročným štúdiom. Schvaľovacia doložka má platnosť 5 rokov.
+
+1. vydanie, 2012
+Vydalo združenie EDUCO
+Tlač: Patria I., spol. s r. o., Prievidza
+
+
+ISBN 978-80-89431-35-9
+
+Publikácia bola hradená z finančných prostriedkov
+Ministerstva školstva, vedy, výskumu a športu Slovenskej republiky
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

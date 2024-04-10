@@ -1,0 +1,7339 @@
+﻿
+
+
+U P R A V E N Á E L E K T R O N I C K Á V E R Z I A , 2 0 1 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+matika
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Autorka ©	RNDr. Viera Kolbaská, 2012
+
+Odborný garant upravenej e-verzie: prof. RNDr. Beloslav Riečan, DrSc.
+
+Lektori:	PaedDr. Dagmar Andová RNDr. Marcel Tkáč
+
+Illustrations © Bystrík Vančo, 2012
+
+
+
+Schválilo Ministerstvo školstva, vedy, výskumu a športu Slovenskej republiky pod č. 2012-15889/49049:4-919 zo dňa 31. októbra 2012 ako prvú časť učebnice matematiky pre 9. ročník základnej školy a 4. ročník gymnázia s osemročným štúdiom. Schvaľovacia doložka má platnosť 5 rokov.
+
+Prvé vydanie, 2013
+
+Všetky práva vyhradené.
+Toto dielo ani žiadnu jeho časť nemožno reprodukovať bez súhlasu majiteľa práv.
+
+
+
+ISBN 978-80-10-02291-5
+
+
+
+
+
+
+
+
+
+
+
+Úvod
+1 Mocniny a odmocniny, zápis veľkých čísel	/5
+1.1 Druhá a tretia mocnina	/5
+1.2 Mocniny s mocniteľom – prirodzeným číslom	/13
+Počítanie s mocninami s prirodzeným mocniteľom (rozširujúce učivo)	/19
+1.3 Mocniny čísla 10, predpony a ich súvis s mocninami	/23
+1.4 Zápis veľkých a malých čísel v tvare a · 10n  (kde 1 1 a <10, n   N)	/27
+1.5 Počítanie s veľkými a malými číslami, zaokrúhľovanie a odhad výsledku	/33
+1.6 Druhá a tretia odmocnina	/38
+
+2 Pytagorova veta	/45
+2.1 Pytagorova veta – odvodenie a použitie v jednoduchých úlohách	/45
+2.2 Použitie Pytagorovej vety pri riešení praktických úloh	/62
+
+3 Riešenie lineárnych rovníc a nerovníc	/66
+3.1 Jednoduché lineárne rovnice riešené pomocou ekvivalentných úprav	/66
+3.2 Jednoduché lineárne nerovnice	/75
+3.3 Jednoduché rovnice s neznámou v menovateli	/89
+3.4 Vyjadrenie neznámej zo vzorca	/97
+3.5 Riešenie slovných (kontextových) úloh,
+ktoré sa dajú riešiť pomocou lineárnej rovnice alebo nerovnice	/102
+
+4 Súmernosť v rovine	/116
+4.1 Osová súmernosť, os súmernosti.
+Konštrukcia obrazu v osovej súmernosti	/116
+4.2 Stredová súmernosť, stred súmernosti.
+Konštrukcia obrazu v stredovej súmernosti	/122
+
+Výsledky	/128
+Metodické poznámky pre učiteľov	/142
+
+
+
+
+
+
+
+
+
+
+
+Milí deviataci a študenti gymnázií s osemročným štúdiom,
+
+dostali ste učebnicu matematiky pre 9. ročník ZŠ a 4. ročník gymnázia s osemročným štúdiom, jej prvú časť.
+
+
+   Zostavili sme ju tak, aby ste si zopakovali učivo z matematiky, ktoré ste doteraz preberali a rozšírili si vedomos- ti o také, ktoré budete potrebovať na prijímacie skúšky na stredné školy alebo rôzne formy skúšania.
+   V učebnici preto nájdete poznámky o rôznych spôsoboch riešenia úloh, odkazy na predchádzajúce vedo- mosti a zručnosti, informácie o využití týchto vedomostí a zručností v nových tematických celkoch.
+   Sú tu aj niektoré „veci“, ktoré podľa mnohých nemajú nič spoločné s matematikou. Sú tam preto, lebo všetko so všetkým súvisí. Dúfame tiež, že netradičné komixové ilustrácie oživia strohý matematický text a budú blízke mládeži vášho veku.
+   Pri riešení úloh z matematiky sa rozvíjajú rôzne myšlienkové operácie. Precvičuje sa pamäť, ale aj schopnosť odhadnúť výsledok riešenia problému. Trénuje sa sústredenie na text a schopnosť vybrať z neho potrebné informácie, triediť tieto informácie a zmysluplne ich využiť. To je potrebné v bežnom živote, pri práci s informá- ciami a pri riešení problémov z rôznych oblastí vedy.
+
+
+Ako je zostavená učebnica?
+Jej prvá časť sa skladá zo štyroch hlavných kapitol. Každá podkapitola
+• sa začína textom alebo úlohou s názvom Čo sme sa už učili – v žltom poli.
+Majú pripomenúť, čo by sme už mali vedieť (ako sme to počítali v minulých ročníkoch)
+• potom nasledujú úlohy rôzneho typu
+– bežné riešené úlohy – sú v žltom poli s modrým číslom
+– za nimi nasledujú riešenia úloh
+– neriešené úlohy (úlohy na precvičovanie učiva) – v žltom poli s červeným číslom
+– náročnejšie úlohy – pri čísle úlohy je jedna alebo dve hviezdičky podľa náročnosti
+
+– ak odporúčame pri riešení úlohy použiť kalkulačku, je pri úlohe piktogram
+
+
+
+Čo sme sa už učili
+
+
+  1. 
+Riešenie 1.	
+  2. 
+  2.*
+
+
+
+
+– problémové úlohy – to sú väčšinou úlohy, ktoré sa bežne neriešia –
+
+
+Problémová úloha	
+
+určené sú pre žiakov so záujmom o matematiku
+
+– projektové úlohy – to sú tie úlohy, ktoré sa bežne riešia doma
+
+Projektová úloha	
+
+alebo ako tímová práca – sú nepovinné – žiaci prostredníctvom nich získavajú nové informácie rôzneho druhu (nielen matematické)
+
+• dôležité učivo – v modrom poli, je označené piktogramom paragraf
+• pomôcky – informácie, ktoré môžu pomôcť pri riešení úloh
+• súbory úloh – na precvičenie učiva a sebahodnotenie
+• zaujímavosti rôzneho typu – v zelenom poli a začínajú sa Viete, že...?
+• súhrn prebraného učiva – Zapamätajte si na konci tematických celkov
+• to, že odporúčame využiť internet, označuje piktogram
+• v učebnici pracujeme väčšinou s číslami zaokrúhlenými na dve desatinné miesta. O zaokrúhľovaní ste sa učili v predchádzajúcich ročníkoch.
+
+Dúfame, že sa vám s učebnicou bude ľahšie učiť.
+
+Autorka
+
+
+
+
+
+
+ Zapamätajte si	
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.1 Druhá a tretia mocnina
+
+
+
+
+
+Prvú úlohu sme počítali:
+takto	ale	niektorí aj takto
+
+Riešenie 2.	
+Druhú úlohu sme počítali:
+takto	ale	niektorí aj takto
+
+
+
+
+a = 6 cm
+
+
+a = 6 cm
+
+obsah S
+S = a · a	S = a2
+S = 6 cm · 6 cm	S = 62 cm2
+S = 36 cm2	S = 36 cm2
+Objavilo sa tu niečo nové?
+
+Ako počítame druhú a tretiu mocninu čísla?
+Presne tak, ako to vidíme pri výpočte obsahu štvorca alebo povrchu a objemu kocky.
+
+a = 5 cm
+
+a = 5 cm
+a = 5 cm
+
+povrch S
+S = 6 · a · a	S = 6 ∙ a2
+S = 6 ∙ 5 cm · 5 cm	S = 6 ∙ 52 cm2
+S = 150 cm2	S = 150 cm2
+
+objem V
+V = a · a · a	V = a3
+V = 5 cm ∙ 5 cm ∙ 5 cm	V = 53 cm3
+V = 125 cm3	V = 125 cm3
+
+Objavilo sa aj tu niečo nové?
+
+
+
+
+
+To, čo sme riešili, si teraz precvičíme na týchto úlohách.
+
+
+	
+
+a) S = 122 cm2 = 144 cm2
+
+12 ∙ 12
+b) S = 0,42 dm2 = 0,16 dm2
+0,4 ∙ 0,4
+c) S = 322 mm2 = 1 024 mm2
+32 ∙ 32
+
+
+Obsah štvorca je 144 cm2.
+
+
+Obsah štvorca je 0,16 dm2.
+
+
+Obsah štvorca je 1 024 mm2.
+
+a) V = 103 cm3 = 1 000 cm3 S = 6 ∙ 102 cm2 = 600 cm2
+	
+10 ∙ 10 ∙ 10	6 ∙ 10 ∙ 10
+Objem kocky je 1 000 cm3, povrch kocky je 600 cm2.
+b) V = 0,83 dm3 = 0,512 dm3 S = 6 ∙ 0,82 dm2 = 3,84 dm2
+	
+0,8 ∙ 0,8 ∙ 0,8	6 ∙ 0,8 ∙ 0,8
+Objem kocky je 0,512 dm3, povrch kocky je 3,84 dm2.
+c) V = 153 mm3 = 3 375 mm3	S = 6 ∙ 152 mm2 = 1 350 mm2
+	
+15 ∙ 15 ∙ 15	6 ∙ 15 ∙ 15
+Objem kocky je 3 375 mm3, povrch kocky je 1 350 mm2.
+
+
+ 
+
+
+Riešenie 5.	
+Premena jednotiek: 0,60 m = 60 cm
+Plocha na opravenie: S = 602 cm2 = 3 600 cm2 Premena jednotiek: 2 dm = 20 cm
+Počet kachličiek: 60 cm : 20 cm = 3; 3 ∙ 3 = 9.
+Opraviť treba plochu 3 600 cm2. Na ploche 60   60 cm vy- chádzajú 3 rady po 3 kachličky, použije sa 9 kachličiek.
+
+
+
+
+
+
+
+
+
+
+
+
+
+a = 10 m
+
+
+
+
+
+
+
+
+
+  h = 1,5 m = v a = 10 m
+
+Podstavou hranola je štvorec. Výsledok máme uviesť  v litroch, preto rozmery v metroch premeníme na dm. Premena jednotiek:
+a = 10 m = 100 dm, h = v = 1,5 m = 15 dm
+Vyčerpaná voda:
+V = a2 ∙ v (dm3) = 1002 ∙ 15 (dm3) = 150 000 dm3 =
+= 150 000 l.
+Dno bazéna je štvorec: S = 102 m2 = 100 m2.
+Z bazéna sme vyčerpali 150 000 litrov vody a na opra- vu dna bazéna bolo potrebných 100 m2 dlaždíc.
+
+Pri riešení úloh sme počítali druhú alebo tretiu mocninu čísla. Pozrime sa na ne bez riešenia obsahov, povrchov a objemov.
+
+
+a) 12	= 1 ∙ 1 = 1	b)   (– 1)2	= (– 1) ∙ (– 1) = 1
+162	= 16 ∙ 16 = 256	(– 16)2	= (– 16) ∙ (– 16) = 256
+2012	= 201 ∙ 201 = 40 401	(– 201)2 = (– 201) ∙ (– 201) = 40 401
+3 0142  = 3 014 ∙ 3 014 = 9 084 196	(– 3 014)2= (– 3 014) ∙ (– 3 014) = 9 084 196
+
+Z riešenia úlohy 9 vidieť, že:
+
+
+
+
+
+
+
+
+
+
+
+a) 0,12 = 0,1 ∙ 0,1 = 0,01
+(– 0,1)2 = (– 0,1) ∙ (– 0,1) = 0,01
+3,52 = 3,5 ∙ 3,5 = 12,25
+(– 3,5)2 = (– 3,5) ∙ (– 3,5) = 12,25
+
+b)
+
+
+
+
+
+Kol’ko je 01, 02, 03...?
+Kol’ko je 21, 31, 41...?
+
+
+
+Pri počítaní úloh s mocninami veľakrát pomáha takáto tabuľka. Prekreslite ju do zošita a doplňte ju.
+V prvom riadku sú čísla, do druhého riadka doplňte druhé mocniny týchto čísel.
+a1234567891011121314151617181920a225144169400
+
+
+a) 13 = 1 ∙ 1 ∙ 1 = 1	b) (– 1)3 = (– 1) ∙ (– 1) ∙ (– 1) = – 1
+123 = 12 ∙ 12 ∙ 12 = 1 728	(– 12)3 = (– 12) ∙ (– 12) ∙ (– 12) = – 1 728
+3503 = 350 ∙ 350 ∙ 350 = 42 875 000	(– 350)3 = (– 350) ∙ (– 350) ∙ (– 350) = – 42 875 000
+1 2003 = 1 200 ∙ 1 200 ∙ 1 200 = 1 728 000 000	(– 1 200)3 = (– 1 200) ∙ (– 1 200) ∙ (– 1 200) = – 1 728 000 000
+
+
+
+C¡o si myslíš, platí nejaké pravidlo pre tretiu mocninu?
+Inak, o mocnine ktosi  povedal:
+„Mocnina je niec¡o, c¡o má moc.“ ...
+C¡o ty na to?
+
+
+
+
+
+
+
+a) 0,13 = 0,1 ∙ 0,1 ∙ 0,1 = 0,001
+(– 0,1)3 = (– 0,1) ∙ (– 0,1) ∙ (– 0,1) = – 0,001
+1,43 = 1,4 ∙ 1,4 ∙ 1,4 = 2,744
+(– 1,4)3 = (– 1,4) ∙ (– 1,4) ∙ (– 1,4) = – 2,744
+
+b)
+
+
+C¡o ti hovorí c¡íslo 3?
+
+
+Aj pri počítaní úloh s tretími mocninami využijete túto tabuľku. Prekreslite ju do zošita. V prvom riadku sú čísla, do druhého riadka doplňte tretie mocniny týchto čísel.
+a1234567891011121314151617181920a38275128 000
+
+
+
+
+
+
+
+
+
+
+
+
+
+Úlohu môžeme riešiť viacerými spôsobmi. My ju vyrie- šime tak, že vypočítame hodnoty mocnín a výsledky porovnáme. Navrhni iné riešenie a ukáž ho spolužia- kom v triede.
+a) 63 = 6 ∙ 6 ∙ 6 = 216	142 = 14 ∙ 14 = 196
+216 > 196	63 > 142	Platí 63 > 142.
+b) 112 = 121	(– 5,1)3 = – 132,651
+121 > – 132,651	112 > (– 5,1)3 Platí 112 > (– 5,1)3.
+c) 3,23 = 32,768	(– 6,4)2 = 40,96
+32,768 < 40,96	3,23 < (– 6,4)2  Platí 3,23 < (– 6,4)2.
+d)                    
+>	>	Platí	.
+
+
+Najprv vypočítame každú mocninu. Potom sčítame alebo odčítame ich hodnoty.
+a)	23 + (– 3)2 + (– 2)2 + 33
+			
+= 8 +	9	+	4 + 27 = 48 Hodnota výrazu je 48.
+b) (– 5)2 + (– 1)3 – 42 – 12 =
+			
+= 25 + (– 1) – 16 – 1 =
+
+= 25	–	18	= 7	Hodnota výrazu je 7.
+c)	0,23 + (– 0,4)2 + (– 0,3)3 + 0,13 =
+			
+= 0,008 + 0,16 + (– 0,027) + 0,001 =
+= 0,008 + 0,16 – 0,027 + 0,001 =
+= 0,008 + 0,16 + 0,001 – 0,027 =
+= 0,169 – 0,027 = 0,142	Hodnota výrazu je 0,142.
+d) (– 1,2)3 – (– 1,3)2 + (– 0,5)3 – 1,012 =
+			
+= – 1,728 – 1,69 + (– 0,125) – 1,020 1 =
+= – 1,728 – 1,69 – 0,125 – 1,020 1 =
+= – 4,563 1	Hodnota výrazu je – 4,563 1.
+e) 
+Zlomky upravíme na spoločného menovateľa a sčí- tame.
+
+
+Hodnota výrazu je	.
+
+
+
+
+e)	záporný zlomok
+
+kladný zlomok
+
+Keďže kladné číslo je vždy väčšie ako záporné, platí nerovnosť:
+
+f)	=
+Zmiešané čísla upravíme na nepravé zlomky a umoc- níme.
+=   =
+Zlomky upravíme na spoločného menovateľa a odčí- tame.
+= 
+
+Nepravý zlomok sme upravili na zmiešané číslo:
+– 2 733 : 200 = – 13 zv. 133
+Hodnota výrazu je	.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20. a) V tabuľke sa nachádzajú rôzne čísla. Vypíš len tie čísla, ktoré poznáš ako druhé mocniny racionálnych čísel.
+
+
+b) V tabuľke sa nachádzajú rôzne čísla.
+Vypíš len tie čísla, ktoré poznáš ako tretie mocniny racionálnych čísel.
+
+
+	
+
+
+
+
+a2 + 2 · aa3 + 3 · aa3 – a2a3 + a2
+a3– 2
+
+
+
+  Vyskúšajte sa	
+
+V každej úlohe je len jedna z uvedených možností správna.
+Ak zakrúžkujete len správne možnosti, získate dve chýbajúce slová do vety:
+... PRIATEĽSTVO JE LEN ... .
+
+
+1. Druhá mocnina čísla – 9 je:
+– 81
+2. Tretia mocnina čísla – 4 je:
+– 12
+3. Mocnina (– 5)2 sa rovná: 25
+4. Mocnina (– 6)3 sa rovná:
+
+
+5.
+
+
+6. 
+ 
+7. Mocnina (– 0,03)2 sa rovná: 0,000 9
+8. Mocnina 0,82 sa rovná:
+0,006 4
+
+
+81
+
+64
+
+10
+
+– 216
+
+
+
+
+
+
+
+0,09
+
+0,16
+
+
+18
+
+16
+
+– 25
+
+18
+
+
+
+
+
+
+
+0,009
+
+0,001 6
+
+
+– 18
+
+– 64
+
+– 10
+
+216
+
+
+
+
+
+
+
+0,000 6
+
+0,64
+
+
+9. O mocninách	a (– 0,8)3 platí:
+
+
+
+< (– 0,8)3
+
+
+> (– 0,8)3
+
+
+= (– 0,8)3
+
+
+(– 0,8)3
+
+
+10. O mocninách	a 2,73 platí:
+
+
+   >	2,73
+<	2,73
+
+    	2,73
+=	2,73
+
+ Zapamätajte si	
+
+Druhá mocninaTretia mocninaDruhá mocnina je súčin dvoch rovnakých činiteľov. Napríklad:
+62 = 6 ∙ 6 = 36Tretia mocnina je súčin troch rovnakých činiteľov. Napríklad:
+63 = 6 ∙ 6 ∙ 6 = 2160,82 = 0,8 ∙ 0,8 = 0,640,83 = 0,8 ∙ 0,8 ∙ 0,8 = 0,512Druhá mocnina kladného aj záporného čísla je vždyTretia mocnina kladného čísla je kladné číslo.kladné číslo.Napríklad:Napríklad:33 = 3 · 3 · 3 = 2732 = 3 · 3 = 9Tretia mocnina záporného čísla je záporné číslo.(– 3)2 = (– 3) · (– 3) = 9Napríklad:(–3)3 = (–3) · (–3) · (–3) = – 27Platí:
+(– a)2 = a2
+a, – a sú navzájom opačné číslaPlatí:
+(– a)3 = – a3, pre a a 0Platí:Platí:02 = 003 = 012 = 1, (– 1)2 = 113 = 1, (– 1)3 = – 1
+1.2 Mocniny s mocniteľom – prirodzeným číslom
+
+Čo sme sa už učili
+Učili sme sa počítať druhú a tretiu mocninu:
+a2   =  a  ·  a	a3 = a · a · a
+Počítali sme, ak
+a = 2	22   =  2  ·  2	23 = 2 · 2 · 2
+a = – 2	(– 2)2 = (– 2) · (– 2)	(– 2)3 = (– 2) · (– 2) ·	2)
+
+Čo je a a čo vieme o číslach 2 a 3? Porozmýšľajte...
+
+
+Kedysi v minulosti si dal jeden múdry človek zaplatiť     za svoje služby vládcovi tak, že chcel na každé políčko šachovnice vždy dvakrát viac mincí, ako bolo na predchá- dzajúcom políčku. Vládca zistil, že takú veľkú odmenu ne- vie vyplatiť, hoci išlo o rovnaké mince najmenšej hodnoty. Dnes by to bol 1 cent. Pozrime sa, ako by vyplatenie od- meny mohlo vyzerať, ak by na prvé políčko šachovnice dali 2 jednocentové mince:
+Vidieť, že súčiny s číslom 2 majú veľkú hodnotu už na ôs- mom políčku:
+2 · 2 · 2 · 2 · 2 · 2 · 2 · 2 = 256
+Aby sa súčiny rovnakých čísel dali jednoduchšie  zapiso- vať, vznikol matematický pojem mocnina s prirodzeným mocniteľom. Potom sa dajú súčiny zo šachovnice zapísať takto:
+2 = 21
+
+2 · 2 = 22
+2 · 2 · 2 = 23
+2 · 2 · 2 · 2 = 24
+2 · 2 · 2 · 2 · 2 = 25
+2 · 2 · 2 · 2 · 2 · 2 = 26
+2 · 2 · 2 · 2 · 2 · 2 · 2 = 27
+2 · 2 · 2 · 2 · 2 · 2 · 2 · 2 = 28
+2 · 2 · 2 · 2 · 2 · 2 · 2 · 2 · 2 = 29
+2 · 2 · 2 · 2 · 2 · 2 · 2 · 2 · 2 · 2 = 210
+
+Číslo dva v týchto mocninách nazývame základ mocniny (mocnenec). Čísla 1, 2, 3,..., 10 nazývame exponent mocniny (mocniteľ).
+Čítame:
+25  ... dva na piatu 27 ... dva na siedmu
+210 ... dva na desiatu a 21 je mocnina dva na prvú
+Ak sa pozorne pozrieme na súčiny čísla 2, zistíme, ako vzniká mocniteľ mocniny.
+
+
+
+Riešenie 1.	
+
+3 · 3 · 3 · 3
+
+Sú tu 4 trojky. Napíšeme 34. Čítame tri na štvrtú.4 · 4 · 4 · 4 · 4
+
+Je tu 5 štvoriek. Napíšeme 45.
+Čítame štyri na piatu.5 · 5 · 5 · 5 · 5 · 5 · 5
+
+Je tu 7 pätiek. Napíšeme 57.
+Čítame päť na siedmu.7 · 7 · 7 · 7 · 7 · 7 · 7 · 7 · 72 · 2 · 2 · 2 · 2 · 2 · 2 · 2 · 2 · 2 · 21 · 1 · 1 · 1 · 1 · 1 · 1 · 1 · 1 · 1 · 1 · 1 · 1 · 1 · 1 · 1Je tu 9 sedmičiek.Je tu 11 dvojok.Je tu 16 jednotiek.Napíšeme 79.Napíšeme 211.Napíšeme 116.Čítame sedem na deviatu.Čítame dva na jedenástu.Čítame jedna na šestnástu.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a) 0,33	Čítame 0,3 na tretiu.
+b) (– 1,4)5
+c) 
+d) 	 
+e) 06
+
+
+Je to správne?
+
+
+
+
+
+
+
+
+
+
+
+Mocniny väčšinou počítame pomocou kalkulačky alebo použijeme tabuľky.
+
+
+
+
+
+
+
+Je to správne?
+
+
+
+Riešenie 6.	
+
+a)
+b)
+	
+
+Riešenie 7.	
+
+a)
+b)
+	
+
+Čo môžeme povedať o mocninách kladných a záporných čísel? Čo platí?
+(– 2)4 = 24
+(– 3)5 = – 35
+
+Platí (– a)2k = a2k,
+kde 2k je vyjadrenie párneho čísla, k k N, a > 0.
+
+Platí (– a)2k – 1 = – a2k – 1,
+kde 2k – 1 je vyjadrenie nepárneho čísla, k k N, a > 0.
+
+
+
+
+Riešenie 8.	
+
+
+a) (– 15)2
+Exponent je párne číslo (2), mocnina je kladné číslo.
+Platí
+(– 15)2 > 0.
+b) (– 6)11Exponent je nepárne číslo (11), základ je záporné číslo (– 6), mocnina je záporné číslo.
+Platí
+(–
+6)11 < 0.
+c) (– 0,03)14
+Exponent je párne číslo (14), mocnina je kladné číslo.
+Platí (– 0,03)14 > 0.
+d) (– 0,27)9Exponent je nepárne číslo (9), základ je záporné číslo (– 0,27), mocnina je záporné číslo.
+Platí (– 0,27)9 < 0.e) 
+Exponent je nepárne číslo (3), základ je záporné číslo mocnina je záporné číslo.
+,
+Platí < 0.f) 
+Exponent je nepárne číslo (17), základ je záporné číslo mocnina je záporné číslo.
+,
+Platí  < 0.
+g)* (3,5 – 7,8)5Vypočítame rozdiel čísel v zátorke 3,5 – 7,8 = – 4,3.
+Potom (3,5 – 7,8)5 = (– 4,3)5. Exponent je nepárne číslo (5), základ je záporné číslo (– 4,3), mocnina je záporné číslo.
+Platí (3,5 – 7,8)5 < 0.h)* 
+Exponent je párne číslo (8), mocnina je kladné číslo.
+Platí  > 0.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17
+
+  Vyskúšajte sa	
+V každej úlohe je len jedna z uvedených možností správna.
+1. Štvrtá mocnina čísla – 8 je:
+
+A kladné číslo Bzáporné číslo C0 D– 842. Piata mocnina čísla – 7 je:
+ A kladné číslo
+ B
+záporné číslo
+ C
+0
+ D
+753. Mocnina (– 1)6 sa rovná:
+ A – 1
+ B
+1
+ C
+– 6
+ D
+64. Mocnina (– 4)5 sa rovná:
+ A 1 024
+ B
+– 20
+ C
+20
+ D
+– 1 0245.	
+A	B	C	D 64
+
+6.
+
+A	B	C	D
+
+7. Ktorá z daných mocnín má najväčšiu hodnotu?
+ A (– 1)5	B (– 2)3	C 14	D 22
+8. Ktorá z daných mocnín má najmenšiu hodnotu?
+ A (– 0,2)5	B 0,31	C 0,052	D (– 0,01)6
+9. O mocninách      a (– 0,5)7 platí:
+ A    < (– 0,5)7	B   > (– 0,5)7	C   = (– 0,5)7
+10. O mocninách      a 1,34 platí:
+A	< 1,34	B	> 1,34	C	= 1,34
+
+
+
+
+
+
+Ak vieme, čo sú mocniny s prirodzeným mocniteľom,
+oplatí sa vedieť,
+čo sa dá s nimi robiť.
+
+Počítanie s mocninami s prirodzeným mocniteľom
+
+
+
+
+
+
+
+
+
+
+
+
+
+39
+
+
+
+
+
+
+
+Môžeme počítať takto:
+Najprv vypočítame každú mocninu pomocou súčinu.
+(– 4)2 = (– 4) · (– 4) = 16
+
+(– 2)4 = (– 2) · (– 2) · (– 2) · (– 2) = 16
+
+
+
+Potom výsledky sčítame:
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+Môžeme počítať aj takto: Použijeme vedomosti o párnej a nepárnej mocnine záporného a kladného čísla.
+
+
+
+
+
+
+
+Potom môžeme počítať mocniny, podobne ako v predchádzajúcom spôsobe:
+
+Existuje aj iný  spôsob riešenia. Určite naň prídete po preštu- dovaní tejto kapitoly.
+
+
+
+
+
+
+
+
+
+Mocniny vypočítame, potom zlomky vynásobíme, zjednodušíme a nakoniec sčítame.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aj túto úlohu vyriešime tak, že najprv vypočítame mocniny.
+		
+Potom vynásobíme a nakoniec sčítame:
+= 250 + 500 = 750
+Všimnite si iný spôsob výpočtu tejto úlohy:
+2 · 53 + 4 · 53 = (2 + 4) · 53 = 6 · 53 = 6 · 125 = 750
+Hodnota výrazu je 750.
+Sčítanie mocnín, v ktorých je základom neznáma
+
+
+
+
+
+
+
+
+Riešenie 18.	
+Sčítame čísla pri rovnakých mocninách.
+a) 
+
+b) 2 · x2 + 3 · x3 + 4 · x2 + x3 = 2 · x2 + 4 · x2 + 3· x3 + x3 =
+= (2 + 4) · x2 + (3 + 1) · x3 =
+= 6 · x2 + 4 · x3
+c) 
+= (0,5 + 2,5) · y9 + (1,5 + 3,5) · x2 = 3 · y9 + 5 · x2
+d)	=
+
+
+
+=	=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Násobenie mocnín
+
+Riešenie 20.	
+Základ mocniny opíšeme a exponenty sčítame. a) 42 · 41 = 42 + 1 = 43
+b) a7 · a4 = a7 + 4 = a11
+c) (2 · x9) · (4 · x6) = (2 · 4) · x9 + 6 = 8 · x15
+d)   = 
+Pri násobení zlomkov sme použili krížové pravidlo.
+
+Delenie mocnín
+
+Riešenie 21.	
+Základ mocniny opíšeme a exponenty odčítame. a) 53 : 51 = 53 – 1 = 52
+b) a8 : a5 = a8 – 5 = a3
+c) (12 · x9) : (4 · x6) = (12 : 4) · x9 – 6 = 3 · x3
+d)   =
+=  . y5 – 3 = 
+Pri výpočte sme zmiešané číslo upravili na nepravý zlomok, a potom sme zlomky delili. To znamená, že prvý zlomok sme násobili prevrátenou hodnotou druhého zlomku.
+
+Umocňovanie mocnín
+Riešenie 22.	
+Základ mocniny opíšeme a exponenty vynásobíme. a) (72)3 = 72 · 3 = 76
+b) (a5)3 = a5 · 3 = a15
+c) (3 · b3)4 = 34 · b3 · 4 = 34 · b12
+
+d)	=	· x3 · 4 · y2 · 4 =	· x12 · y8
+
+
+Počítanie s rôznymi mocninami
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pripomínajú vám úlohy s mocninami nejaké učivo? ... Sú to výrazy s premennou.
+
+
+
+
+Riešenie 24.	
+Využijeme distributívny zákon a vedomosti o mocninách.
+a) (– 5a2 + 2a3) · (– 3a2) = (– 5a2) · (– 3a2) + (2a3) · (– 3a2) =
+= 15a4 – 6a5
+b) (– 15b2 + 6b4) : (– 3b2) = (– 15b2) : (– 3b2) + (6b4) : (– 3b2) =
+= 5 – 2b2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Zapamätajte si	
+
+Mocniny čísla 10, predpony a ich súvis s mocninami
+
+Stále hovoríme o mocninách. Prečo asi?
+Používajú sa pri výpočte obsahov rovinných útvarov, povrchov kvádrov, kociek, nájdeme ich vo vzorcoch na výpočet povrchu a objemu valca, kužeľa... A to je len matematika... a čo iné vedy?... fyzika... chémia... biológia... ?
+Zistite, kde všade sa používajú mocniny – je to ďalšia projektová úloha. Osobitnú kapitolu tvoria mocniny čísla 10. Skôr, ako si o nich povieme viac, pripomenieme si úlohy, v ktorých sa používali.
+
+
+
+Riešenie 1.	
+
+Zapisovali sme ich takto:
+243 = 2 ∙ 100 + 4 ∙ 10 + 3 ∙ 1
+3 725 = 3 ∙ 1 000 + 7 ∙ 100 + 2 ∙ 10 + 5 ∙ 1
+2,136  = 2 ∙ 1 + 1 ∙     + 3 ∙   + 6 ∙ 
+10,59 = 1 ∙ 10 + 0 ∙ 1 + 5 ∙ 0,1 + 9 ∙ 0,01
+
+Teraz ich zapíšeme pomocou mocnín, teda takto: 243 = 2 ∙ 102 + 4 ∙ 101 + 3 ∙ 100
+3 725 = 3 ∙ 103 + 7 ∙ 102 + 2 ∙ 101 + 5 ∙ 100
+2,136 = 2 ∙ 100 + 1 ∙ 10–1 + 3 ∙ 10–2 + 6 ∙ 10–3
+
+10,59 = 1 ∙ 101 + 0 ∙ 100 + 5 ∙ 10–1 + 9 ∙ 10–2
+
+
+
+ Nehovorili sme ešte o mocnine s exponentom 0. Prečo sa mocnina s exponentom 0 rovná 1?
+Vydeľme napríklad
+53 : 53 = 53–3 = 50
+53 : 53	50 = 1
+53 : 53 = 125 : 125 = 1
+
+
+Nehovorili sme ani o mocnine čísla 10 so záporným exponentom.
+
+Vedomosti o nich nepatria k povinnému učivu.
+Ale vždy je lepšie vedieť viac ako menej.
+
+
+
+
+
+
+
+
+n1101001 00010 000100 0001 000 00010 000 000100 000 0001 000 000 00010n
+
+
+12 = 1 ∙ 101 + 2 ∙ 100
+347 = 3 ∙ 102 + 4 ∙ 101 + 7 ∙ 100
+3 560 = 3 ∙ 103 + 5 ∙ 102 + 6 ∙ 101 + 0 ∙ 100
+56 709 = 5 ∙ 104 + 6 ∙ 103 + 7 ∙ 102 + 0 ∙ 101 + 9 ∙ 100
+102 568 = 1 ∙ 105 + 0 ∙ 104 + 2 ∙ 103 + 5 ∙ 102 + 6 ∙ 101 + 8 ∙ 100
+
+
+
+Zápis bez mocnín:	3,5 = 3 · 1 + 5 · 0,1
+0,23 = 0 · 1 + 2 · 0,1 + 3 · 0,01
+42,025 = 4 · 10 + 2 · 1 + 0 · 0,1 + 2 · 0,01 + 5 · 0,001
+305,123 05 = 3 · 100 + 0 · 10 + 5 · 1 + 1 · 0,1 + 2 · 0,01 + 3 · 0,001 + 0 · 0,000 1+ 5 · 0,000 01
+Zápis s mocninami: 3,5 = 3 · 100 + 5 · 10–1
+0,23 = 0 · 100 + 2 · 10–1 + 3 · 10–2
+42,025 = 4 · 101 + 2 · 100 + 0 · 10–1 + 2 · 10–2 + 5 · 10–3
+305,123 05 = 3 · 102 + 0 · 101 + 5 · 100 + 1 · 10–1 + 2 · 10–2 + 3 · 10–3+ 0 · 10–4 + 5 · 10–5
+
+
+
+Čo by sme mali vedieť o mocninách čísla 10? Používajú sa v Medzinárodnej sústave jednotiek SI.
+Majú svoje zápisy, názvy, označenia.	Časť z nich je v nasledujúcej tabuľke.
+
+Predpony sústavy SI10npredponaznaknázovnásobokpôvodpríklad106mega-Mmilión1 000 000gréc. – veľkýMB – megabajt103kilo-ktisíc1 000gréc. – tisíckg – kilogram102hekto-hsto100gréc. – stohPa – hektopascal101deka-dadesať10gréc. – desaťdag – dekagram100--jeden1m – meter10– 1deci-ddesatina0,1lat. decimus – desiatydB – decibel10– 2centi-cstotina0,01lat. centum – stocm – centimeter10– 3mili-mtisícina0,001lat. mille – tisícml – mililiter10– 6mikro-μmilióntina0,000 001gréc. – malýμA – mikroampér10– 9nano-nmiliardtina0,000 000 001gréc. – trpaslíknT – nanoteslaV sústave SI napríklad predpona kilo násobí jednotku tisíckou, takže kilometer je 1 000 metrov a kilowatt je 1 000 wattov. Naproti tomu predpona mili jednotku tisíckou delí, takže milimeter je tisícina metra a miliampér je tisícina ampéru.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0,652 dm526 mm0,000 625 km5,62 dm256 cmTIAFR2,65 m6,25 cmGI0,000 356 a56,3 dm235 600 cm253 600 mm23,65 m2ZRBAO5,87 dm38 750 cm30,007 58 hl5,78 l0,785 m3ETANS
+
+
+1.4 Zápis veľkých a malých čísel v tvare
+a · 10n, kde 1   a   10, n   N
+
+Všetky úlohy v tejto kapitole počítame bez kalkulačky.
+
+
+
+Riešenie 1.	
+
+Viete, že...?
+
+2 150 000
+3 425 000
+5 575 000
+
+
+5 890 000
+–  2 560 000 
+3 330 000
+
+
+
+7 891 000
+ .	500	
+3 945 500 000
+
+12 150 000 : 5 000 = 2 430
+– 10 000
+2 150 0
+  – 2 000 0
+150 00
+ 	– 150 00
+00
+– 0
+0
+  2. Od vody závisí náš život.
+
+Môžeme počítať aj bez núl: 2 150	000
+ 	3 425		000
+    Teraz nuly pridáme: 5 575 000
+Môžeme počítať aj bez núl: 5 89	0 000
+– 2 56		0 000
+    Teraz nuly pridáme: 3 330 000
+Môžeme počítať aj bez núl: 7 891	000
+   .	5	00
+      Teraz nuly pridáme: 3 945 500 000
+Môžeme počítať aj tak, že rovnaký počet núl škrtneme:
+
+12 150 000 : 5 000 = 2 430
+
+Tieto čísla sa kedysi volali „veľké“. Nachádzame ich vša- de okolo nás. Napríklad v tabuľke sú počty obyvateľov v susediacich štátoch z roku 2011. Zdroj: Wikipédia
+
+ŠtátPočet obyvateľovMaďarsko10 019 000Poľsko38 116 000Ukrajina46 490 000Rakúsko8 402 000Česko10 507 000Štatistici by ich zoradili vzostupne, nakreslili stĺpcový di- agram, vyhodnotili percentuálne zastúpenie a znázornili ho kruhovým diagramom.
+Ako sa nazýva veda, ktorá skúma obyvateľstvo v rôznych regiónoch?
+Je to:
+demografia? etnografia? ekonómia?
+Zistite, čo je o tom uvedené na internete.
+
+Vypočítaj, aká je celková dĺžka vodných tokov uvedených v tabuľke.
+
+vodný tok (rieka)dĺžka vodného toku v metrochNitra196 700Váh403 000Hron298 000Hornád193 000Ipeľ232 500Dunaj172 000Aký je podľa teba význam tohto vypočítaného údaja?
+
+
+
+
+
+
+
+
+
+C¡o tak rôzne zdroje energie – elektrárne, rybné hospodárstvo, relax a oddych...?
+
+
+
+
+
+
+
+
+Hron pri Tekovskom Hrádku
+foto Gcenkei
+
+
+
+27
+
+
+Pri počítaní s veľkými číslami môžeme používať aj iných pomocníkov.
+Sú to napríklad mocniny čísla 10.
+
+
+
+
+
+
+
+
+
+
+
+
+Kde sa stretneme s údajmi napísanými pomocou mocnín čísla 10?
+Vo fyzike...
+V geografii...
+V astronómii...
+
+   Povrch Zeme je 510 miliónov km2, čo je 5,10 . 108 km2. Z toho je pevnina
+149 miliónov km2, čo je 1,49 . 108 km2. Voda
+zaberá 361 miliónov km2, čo je 3,61 . 108 km2.
+
+
+
+
+Pomocou mocnín čísla 10 zapisujeme veľké čísla takto
+
+Ako vzniká takýto zápis? Použijeme:
+čísla 10, 100, 1 000, 10 000,...
+mocniny čísla 10...
+... a súčin.
+
+
+
+Postup pri zápise je podobný ako napríklad postup pri rozšírenom zápise čísla v desiatkovej číselnej sústave alebo pri premene jednotiek.
+50 = 5 . 101	150 = 1,50 . 100 =  1,5 . 102
+300 = 3 . 102	2 300 = 2,3 . 1000 =  2,3 . 103
+2 000 = 2 . 103	372 000 = 3,72 . 100 000 =  3,72 . 105
+50 000 000 = 5 . 107	41 200 000 = 4,12 . 10 000 000 =  4,12 . 107
+
+V zápise čísel (v súčine) používame čísla, ktoré sú vždy väčšie alebo sa rovnajú 1 a menšie ako 10.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pozrime sa, aké údaje vieme získať o niektorých vodných nádržiach na Slovensku.
+  6. V tabuľke je rozloha niektorých vodných nádrží na Slovensku pri najvyššom stave vody v nich.
+Uveď rozlohu týchto vodných nádrží v m2 a potom ju zapíš pomo- cou súčinu a . 10n, kde 1 , a a 10, n n N.
+
+vodná nádržLiptovská MaraRužínNitrianske RudnoDomašaZemplínska šíravarozloha21,6 km2600 ha0,96 km21 422 ha3 350 ha
+
+
+
+
+Riešenie 6.
+21,6 km2 = 21 600 000 m2 = 2,16 ∙ 107 m2
+600 ha = 60 000 a =
+= 6 000 000 m2 = 6 ∙ 106 m2
+0,96 km2 = 960 000 m2 = 9,6 ∙ 105 m2
+1 422 ha = 142 200 a =
+= 14 220 000 m2 = 1,422 ∙ 107 m2
+3 350 ha = 335 000 a =
+= 33 500 000 m2 = 3,35 ∙ 107 m2
+
+Riešenie 7.	
+5 500 kg = 5,5 ∙ 103 kg
+150 000 kg = 1,5 ∙ 105 kg
+1 800 = 1,8 ∙ 103
+40 000 kg = 4 ∙ 104 kg
+550 cm = 5,5 ∙ 102 cm
+1 000 cm = 1 ∙ 103 cm
+
+
+
+
+
+1,70 ∙ 106 = 1,70 ∙ 1 000 000 = 1 700 000
+2,71 ∙ 106 = 2,71 ∙ 1 000 000 = 2 710 000
+1,69 ∙ 106 = 1,69 ∙ 1 000 000 = 1 690 000
+1,66 ∙ 106 = 1,66 ∙ 1 000 000 = 1 660 000
+1,18 ∙ 106 = 1,18 ∙ 1 000 000 = 1 180 000
+
+
+
+
+a) 7 ∙ 104 = 7 ∙ 10 000 = 70 000
+3 ∙ 105 = 3 ∙ 100 000 = 300 000
+5 ∙ 101 = 5 ∙ 10 = 50
+2 ∙ 1010 = 2 ∙ 10 000 000 000 = 20 000 000 000
+b) 5,6 ∙ 101 = 5,6 ∙ 10 = 56
+3,7 ∙ 104 = 3,7 ∙ 10 000 = 37 000
+0,3 ∙ 105 = 0,3 ∙ 100 000 = 30 000
+9,1 ∙ 106 = 9,1 ∙ 1 000 000 = 9 100 000
+c) 4,15 ∙ 107 = 4,15 ∙ 10 000 000 = 41 500 000
+1,13 ∙ 1012 = 1,13 ∙ 1 000 000 000 000 =
+= 1 130 000 000 000
+2,18 ∙ 1010 = 2,18 ∙ 10 000 000 000 =
+= 21 800 000 000
+8,23 ∙ 1011 = 8,23 ∙ 100 000 000 000 =
+= 823 000 000 000
+d)   1,135 ∙ 107	= 1,135 ∙ 10 000 000 = 11 350 000
+1,153 ∙ 1012 = 1,153 ∙ 1 000 000 000 000 =
+= 1 153 000 000 000
+2,718 ∙ 1010 = 2,718 ∙ 10 000 000 000 =
+= 27 180 000 000
+8,253 ∙ 1011 = 8,253 ∙ 100 000 000 000 =
+= 825 300 000 000
+
+
+
+Riešenie 11.	
+a) 5 · 102 + 3 · 103 + 9 · 101 =
+= 5 · 100 + 3 · 1 000 + 9 · 10 =
+= 500 + 3 000 + 90 = 3 590
+b) 5,1 · 103 – 2,3 · 102 – 8,5 · 101 =
+= 5,1 · 1 000 – 2,3 · 100 – 8,5 · 10 =
+= 5 100 – 230 – 85 = 4 785
+c) 7,12 · 102 + 1,92 · 103 – 2,78 · 101 =
+= 7,12 · 100 + 1,92 · 1 000 – 2,78 · 10 =
+= 712 + 1 920 – 27,8 = 2 604,2
+
+d) 6,02 · 103
+
+– 3,2 · 103
+
++ 2,005 · 103 =
+
+= 6,02 · 1 000 – 3,2 · 1 000 + 2,005 · 1 000 =
+= 6 020 – 3 200 + 2 005 =
+= 4 825
+
+
+
+
+  Vyskúšajte sa	
+V každej úlohe je len jedna z uvedených možností správna.
+1. Číslo 30 200 môžeme zapísať ako:
+
+3,02 ∙ 104
+
+3,2 ∙ 102
+
+3,02 ∙ 102
+
+3,2 ∙ 104
+
+2. Číslo 10 020 000 môžeme zapísať ako:
+
+1,002 ∙ 104
+3. Číslo 9 ∙ 102 je: 90
+4. Číslo 5,03 ∙ 103 je:
+5 030
+5. Číslo 1,302 ∙ 104 je:
+1 302 000
+6. Milión zapíšeme ako: 107
+7. 3,5 km2 je:
+3,5 ∙ 106 m2
+8. 7 800 km je:
+7,8 ∙ 103 m
+
+1,2 ∙ 107
+
+900
+
+53 000
+
+13 020
+
+1 ∙ 105
+
+3,5 ∙ 103 m2
+
+7,8 ∙ 106 m
+
+1,002 ∙ 107
+
+9,0
+
+5 003
+
+132 000
+
+1 ∙ 106
+
+3,5 ∙ 106 m
+
+7,8 ∙ 102 m
+
+1,2 ∙ 104
+
+1,9
+
+5 300
+
+1 320
+
+103
+
+3,5 ∙ 103 m
+
+7,8 ∙ 104 m
+
+
+9. Výraz 4 ∙ 103+ 3 ∙ 102+ 2 ∙ 101 sa rovná:A 4 310B 4 302C4 032D4 32010. Výraz 5,5 ∙ 103 – 5,5 ∙ 102 – 5,5 ∙ 101 sa rovná:
+
+48 950	44
+
+4 445
+
+4 895
+
+
+
+
+
+Viete, že...?
+Aké významné je číslo 10?
+
+
+
+
+
+
+
+
+Číslo 10 je základom desiatkovej číselnej sústavy, ktorá je najpoužívanejšia v bežnom živote.
+
+
+Antický filozof a matematik Pytagoras považoval číslo 10 za vrchol dokonalosti.
+Číslo 10 totiž vznikne súčtom čísel 1, 2, 3 a 4, ktorým tiež prisudzoval veľký význam.
+1 považoval za jeden konkrétny bod
+2 považoval za priamku, čo má začiatok a koniec
+3 považoval za plochu
+(už pomocou troch bodov môžeme definovať základnú plochu, ktorá má začiatok, koniec a „priestor medzi tým“)
+4 považoval za priestor, štvrtý rozmer je čas
+Zdroj: internet
+
+Niečo navyše – malé čísla
+
+
+Čo sme sa už učili
+15. Vypočítaj tieto úlohy:
+0,000 567 + 0,000 126 =
+0,005 678 – 0,003 246 =0,000 567 .0,003 =0,006 309 :0,003 =Riešenie 15.0,000 5670,005 6780,000 126– 0,003 2460,000 6930,002 4320,000 5670,006 309 : 0,003 = /. 1 000. 0,003	6,309 : 3 = 2,1030,000 001 701
+
+
+
+Tieto čísla sme kedysi volali „malé“. Môžeme ich nájsť v učebniciach fyziky, chémie, dokonca aj biológie, alebo aj v encyklopédiách. Zvyčajne sú to konštanty. V bežnom živote ich používame určite menej ako
+„veľké čísla“.
+
+
+
+   Pri odc¡ítaní a delení je dobré urobit' skúšku správnosti.
+Toto rozhodnutie necháme teraz na teba.
+
+
+
+
+
+
+Dohoda
+Malé čísla zapisujeme pomocou súčinu
+a . 10–n, kde 1 , a a 10, 10–n =	, n n N.
+
+
+
+
+
+	
+
+ Zapamätajte si	
+
+1.5 Počítanie s veľkými a malými číslami, zaokrúhľovanie a odhad výsledku
+
+Teraz budeme hovoriť o veľkých a malých číslach,
+o ich zaokrúhľovaní a počítaní s nimi pomocou odhadu a zaokrúhľovania. Budeme používať slová ako odhad, približne, asi,...
+Kedy je vhodné používať odhad a kedy zaokrúhľovanie? Odpoveď na túto otázku nám dajú riešenia nasledujúcich úloh.
+Predstavte si, že stojíte pri pokladni v obchode a čo najrýchlejšie chcete zaplatiť.
+Chystáte si peniaze. Kupujete 2 jogurty po 35 centov, 3 rožky po 6 centov a 2 horalky po 74 centov.
+
+Viete hneď po dočítaní tohto textu bez počítania po- vedať minimálny počet eur, ktoré si máte nachystať na zaplatenie nákupu?
+Ak áno, máte dobrý zmysel pre odhad. Nasledujúce úlohy počítajte bez použitia kalkulačky.
+Riešenie 1.	
+
+a) 125 369 567 + 1 758 369 =
+Ako urobíme čo najpresnejší odhad?
+Odhad sa robí s presnosťou na jednotky, desiatky, stov- ky, tisícky..., resp. desatiny, stotiny, tisíciny...
+Urobíme ho s presnosťou na milióny, lebo menšie čís- lo – druhý sčítanec – má prvú číslicu zľava na mieste miliónov.
+Znamená to, že čísla v súčte zaokrúhlime na milióny
+a tie spamäti sčítame.
+125 369 567 125 000 000
+	
+3 < 5	zaokrúhľujeme aritmeticky nadol
+1 758 369 2 000 000
+
+Zaokrúhlený súčet je:
+125 000 000 + 2 000 000 = 127 000 000
+Sčítame 125 + 2 spamäti a nuly pripíšeme.
+
+Presný súčet je:
+125 369 567
+    1 758 369
+127 127 936
+Odhad sa líši od presného súčtu o: 127 127 936
+– 127 000 000
+127 936
+
+
+
+7 > 5	zaokrúhľujeme aritmeticky nahor
+
+Porozmýšľaj, či je to veľa alebo málo.
+
+
+pokracˇovanie
+
+Riešenie 1.	pokracˇovanie	
+
+b) 0,236 586 + 1,369 258 125 =
+Odhad urobíme s presnosťou na desatiny, lebo menšie číslo – prvý sčítanec – má prvú nenulovú číslicu zľava na mieste desatín.
+Znamená to, že čísla v súčte zaokrúhlime na desatiny
+a tie spamäti sčítame.
+0,236 586 0,200 000 = 0,2
+3 < 5	zaokrúhlime nadol
+1,369 258 125 1,400 000 000 = 1,4
+	
+6 > 5	zaokrúhlime nahor
+
+Súčet zaokrúhlených čísel je 0,2 + 1,4 = 1,6. Presný súčet je:
+0,236 586 000
+ 1,369 258 125 
+1,605 844 125
+Odhad sa líši od presného súčtu o: 1,605 844 125
+– 1,600 000 000
+0,005 844 125
+
+Porozmýšľaj, či je to veľa alebo málo.
+
+
+
+	
+
+
+
+
+
+
+46 896 321 – 40 526 302 =
+Čísla obsahujú desiatky miliónov – číslica na tomto mieste je rovnaká, je to 4.
+
+Odhad preto urobíme na milióny. 46 896 321 47 000 000
+	
+8 > 5	zaokrúhlime nahor
+40 526 302 41 000 000
+	
+5 = 5	zaokrúhlime nahor
+Odhady odčítame:	47 000 000 – 41 000 000 =
+= 6 000 000
+Spamäti odčítame 47 a 41, nuly pripíšeme.
+Presný rozdiel:
+46 896 321
+– 40 526 302
+6 370 019
+Odhad sa líši od presného výsledku o: 6 370 019
+– 6 000 000
+370 019
+
+V nasledujúcich úlohách môžeš násobiť a deliť pomocou kalkulačky, ale len pôvodné čísla zo zadaní.
+
+Riešenie 5.	
+a) 786 ∙ 350 =
+Prvé číslice zľava sú v oboch číslach na mieste stoviek: 786 ∙ 350. Zaokrúhlime čísla na stovky.
+786 800
+	
+8 > 5	zaokrúhlime nahor
+350 400
+ 5 = 5	zaokrúhlime nahor Vynásobíme zaokrúhlené čísla:
+800 ∙ 400 = 320 000
+Čísla 8 a 4 vynásobíme spamäti a nuly pripíšeme. Presný súčin vypočítame pomocou kalkulačky: 786 ∙ 350 = 275 100
+Odhad sa líši od presného výsledku o:
+
+Vzhľadom na počítanie v miliónoch je odhad prijateľný.
+
+320 000
+– 275 100
+44 900
+
+Počítali sme súčin stoviek a odhad sa od presného výpočtu líši o desaťtisíce.
+pokracˇovanie
+
+Riešenie 5.	pokracˇovanie	
+Bolo by lepšie zaokrúhliť čísla na desiatky a urobiť odhad pre čísla zaokrúhlené na desiatky?
+Pozrime sa, ako by to vyzeralo. Zaokrúhlime čísla na desiatky. 786 790
+
+6 > 5	zaokrúhlime nahor
+350 350
+	
+0 < 5	zaokrúhlime nadol
+Ak máme vynásobiť takto zaokrúhlené čísla (790 a 350), väčšinou použijeme kalkulačku.
+Nuž a potom nám takýto odhad počítanie neuľahčí. Preto treba zvážiť, kedy odhad použiť a ako.
+Kedy je približný výpočet vhodný a kedy nie.
+
+b) 0,27 ∙ 2,81 =
+Prvé číslo je menšie a jeho prvá nenulová číslica zľava je na mieste desatín. Preto zaokrúhlime obe čísla na de- satiny, tie ľahko spamäti vynásobíme.
+0,27 0,3
+7 > 5	zaokrúhlime nahor
+2,81 2,8
+1 < 5	zaokrúhlime nadol
+Vynásobíme spamäti zaokrúhlené čísla: 2,8 ∙ 0,3 = 0,84
+Presný súčin vypočítame pomocou kalkulačky: 0,27 ∙ 2,81 = 0,758 7
+Odhad sa líši od presného výsledku o: 0,840 0
+– 0,758 7
+0,081 3
+
+
+
+Riešenie 7.	
+964 258 : 320 =
+Úprava delenca a deliteľa:
+964 258	900 000
+320	300
+Odhady delíme spamäti:
+900 000 : 300 = 3 000
+Teraz čísla vydelíme na kalkulačke: 964 258 : 320 = 3 013,306 25
+Odhad sa líši od presného výsledku o: 3 013,306 25 – 3 000 = 13,306 25
+Je to veľa alebo málo?
+Zdá sa, že je to dostatočne presné.
+
+Viete, že...?
+O veľkých číslach hovoríme hlav- ne v astronómii. Eratostenes vytvoril princíp „stupňového merania Zeme“. Na jeho základe a na základe odme- ranej vzdialenosti medzi Alexandriou
+
+Znovu si položme otázku:
+Oplatilo sa počítať približne?
+
+a Asuánom stanovil dĺžku zemského poludníka na 252 000 stadiónov. Pri meraní použil prístroj skafé, ktorým možno určiť výšku Slnka. Pretože dĺžka stadiónu bola rôzna (egypt- ský 157,7 m, v Grécku bol olympij- ský stadión 177,6 m, iónsky stadión 210 m), dá sa ťažko povedať, k akej dĺžke poludníka dospel. Predpokla- dáme, že použil egyptský, vtedy by mal poludník dĺžku 39 690 km.
+
+Alexandria Assuán
+
+
+
+
+
+
+
+
+autor Lookang
+
+
+
+
+
+
+Riešenie 9.	
+Zlomok bude mať tvar
+čitateľ zlomku – prírastok
+
+
+menovateľ zlomku – počet trvalo bývajúcich obyvateľov
+Hovoríme, že takýto zlomok má malú výpovednú hodnotu. Zjednodušíme ho preto na základný tvar (ak je to možné) alebo ho zjednodušíme tak, aby predstava o množstvách bola čo najzrozumiteľnejšia.
+
+
+
+Desatinné číslo zaokrúhlime na tisíciny (prvú nenulovú číslicu zľava).
+Zlomok môžeme zjednodušovať aj takto:
+
+Číslo 306,98... zaokrúhlime na celé číslo, teda na číslo 307.
+Ktorý z výsledkov je lepší? Je nejaký vzťah medzi oboma výsledkami? Porovnajme získané zlomky:    a  .
+Prvý zlomok upravíme na zlomok s čitateľom 1:
+                                        Platí:  Je táto nepresnosť významná? Aký význam majú tieto zlomky?
+znamená, že na 1 000 obyvateľov z roku 2001 pribudli približne traja noví obyvatelia.
+Z trvalo bývajúcich obyvateľov k 21. máju 2011 tvorí zistený prírastok približne . Prirodzený prírastok obyvateľstva sa zvyčajne vyjadruje v percentách.
+Vyjadrime pomocou nich riešenie tejto úlohy.
+Delíme zistený prírastok počtom trvalo bývajúcich obyvateľov:
+
+Desatinné číslo zaokrúhľujeme podľa vopred určených podmienok. Podmienku nemáme určenú, tak číslo zaokrúhlime na desaťtisíciny:
+
+Počet percent získame násobením číslom 100:
+0,003 3 ∙ 100 = 0,33
+Z trvalo bývajúcich obyvateľov k 21. máju 2011 tvorí zistený prírastok približne 0,33 %.
+
+
+
+
+
+
+
+meno a priezviskopočet odovzdaných platných hlasovpoznámkaIvan Gašparovič1 234 787Kandidát zvolený za prezidenta Slovenskej republikyIveta Radičová988 808spolu2 223 595
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Škoda Fabia4 973 ks2. Škoda Octavia4 483 ks3. Kia Sportage1 904 ks4. Škoda Octavia Tour1 742 ks5. Suzuki SX41 684 ks5. Kia cee´d1 627 ks7. VW Polo1 562 ks8. VW Golf1 525 ks9. Dacia Duster1 200 ks10. Hyundai i301 019 ks
+1.6 Druhá a tretia odmocnina
+
+
+
+
+
+
+
+
+
+
+
+
+
+Umocňovaniemocninadruhá mocnina tretia mocnina
+mocnina s prirodzeným
+mocniteľomOdmocňovanieodmocninadruhá odmocnina tretia odmocnina
+
+Riešenie 1.	
+Záhrada má tvar štvorca, preto počítame dĺžku strany štvorca z jeho obsahu 100 m2.
+Úlohu môžeme počítať takto:		Úlohu môžeme počítať aj takto: Ak označíme dĺžku strany štvorca a,
+potom obsah štvorca S počítame
+
+ako súčin	S = a ∙ a	ako mocninu S = a2
+S = 100 m2	S = 100 m2
+a ∙ a  = 100 m2	a2 = 100 m2
+Súčin akých dvoch rovnakých čísel je 100?	Druhá mocnina akého čísla je 100?
+10 ∙ 10 = 100	102 = 100
+Strana štvorca má dĺžku 10 m.	Strana štvorca má dĺžku 10 m.
+Úlohu môžeme riešiť aj pomocou odmocniny:
+S = a2
+a2 = 100
+a = 
+a = 10	lebo	102 = 10 · 10 = 100
+Záhrada tvaru štvorca má dĺžku strany 10 m.
+
+
+Keď chceme kúpiť pozemok na stavbu domu alebo záhradku, alebo chatku s pozemkom, skoro vždy je daná plocha
+– hovoríme výmera – v štvorcových metroch alebo v ároch.
+
+
+Úlohu môžeme počítať takto:	Úlohu môžeme počítať aj takto:
+Ak označíme polomer kruhu r
+a obsah kruhu S, tak r počítame
+
+ako súčin  S = = ∙ r ∙ r	ako mocninu S = = ∙ r2
+S = 3,14 ∙ r ∙ r	S = 3,14 ∙ r2
+12,56 = 3,14 ∙ r ∙ r	12,56 = 3,14 ∙ r2
+12,56 : 3,14 =  r ∙ r	12,56 : 3,14 = r2
+4 =  r ∙ r	4 = r2
+Súčin akých dvoch rovnakých čísel je 4?	Druhá mocnina akého čísla je 4?
+4 = 2 ∙ 2	4 = 22
+Polomer kruhového záhona je 2 m.	Polomer kruhového záhona je 2 m.
+Správna odpoveď je C.
+Úlohu vieme riešiť aj pomocou odmocniny:
+S = = ∙ r2
+S = 3,14 ∙ r2
+12,56 : 3,14 = r2
+r2 = 4
+r = 
+r = 2	lebo	22 = 4
+Pri riešení týchto úloh sme používali vedomosti o druhej mocnine čísla:
+Druhá mocnina čísla je súčin dvoch rovnakých čísel.
+Súčasne sme ukázali výpočet pomocou druhej odmocniny čísla.
+
+
+	
+
+Ak si označíme stranu štvorca a, potom:
+S   = a2
+49 = a2
+a   =                                                    a
+a   = 7	lebo 72 = 49
+Dĺžka strany štvorca je 7 cm.	a
+Úlohu určite vyriešia viacerí aj spamäti.
+
+Nech má kruh polomer r. Potom platí:
+S = = ∙ r2
+28,26 = 3,14 ∙ r2
+28,26 : 3,14 = r2
+9 = r2
+r = 
+         r = 3	lebo 32 = 9 Polomer kruhu má dĺžku 3 mm.
+
+
+	
+
+Hovoríme, že druhá odmocnina z nezáporného čísla a (kladné číslo alebo nula) je také nezáporné číslo b, ktorého druhá mocnina sa rovná a. Stručne matematicky zapísané:
+Druhá odmocnina má aj tento zápis:  . Platí: 
+Nasledujúce odmocniny je vhodné vedieť naspamäť:
+          lebo	02 = 0 · 0 = 0
+           lebo	12 = 1 · 1 = 1
+         lebo	102 = 100
+          lebo	22 = 4
+           lebo	52 = 25
+          lebo	42 = 16
+           lebo	92 = 81
+
+
+Riešenie 7.	
+                            lebo 1102 = 12 100
+
+lebo 0,92 = 0,81 alebo 
+
+Riešenie 10.	
+Najprv vypočítame jednotlivé odmocniny a potom ich sčítame alebo odčítame.
+
+= 4 + 11 – 2 – 1 =
+
+=  15	–   3	= 12
+
+
+
+
+
+
+
+
+
+
+Riešenie 12.	
+Najprv vypočítame jednotlivé odmocniny a potom porovnáme hodnoty výrazov:
+A =       C = 
+B =           D = 
+7 < 10 < 11 < 12 ==> B < D < C < A
+Najväčšiu hodnotu 12 má výraz A.
+
+14. V Murphyho knižkách sa vraj píše aj o pyramídach. Pôvodne to vôbec nemali byť ihlany. Keď architekt pri- niesol faraónovi svoj návrh, ten povedal:
+„Výška pyramídy sa mi páči, ale rozpočet nie.“ A tak má pyramída tvar ihlanu – bola lacnejšia.
+Ak zoradíš odmocniny od najväčšej po najmenšiu, získaš odpoveď na otázku:
+Aký tvar mala mať pyramída podľa Murphyho?
+
+
+
+
+
+
+
+ORNALH
+
+
+Druhé odmocniny počítame väčšinou pomocou kalkulačky.
+Keďže kalkulačiek je veľa druhov, dôkladne si preštuduj návod na jej obsluhu.
+
+
+
+
+
+
+
+
+
+Riešenie 15.	
+
+a)    sa nachádza medzi odmocninami    a  . Platí:	  <   < 
+7 <    < 8
+Odhad výsledku: 7,2.
+Výpočet kalkulačkou: 
+
+b)    sa nachádza medzi odmocninami   a  . Platí:    <	< 
+0 <	< 1
+Odhad výsledku: 0,5.
+Výpočet kalkulačkou:
+
+c)  sa nachádza medzi odmocninami	a	. Platí:	<  <
+3 <       < 4
+Odhad výsledku: 3,5.
+Výpočet kalkulačkou:
+
+
+
+16. Odmocniny vypočítaj pomocou kalkulačky. Výsledok zaokrúhli na dve desatinné miesta. Najprv výsledok odmocnenia odhadni.
+
+a)
+b)
+c)*
+
+
+Prečo je dobré odhadnúť výsledok?
+Pri počítaní s kalkulačkou sa môže stať, že zle zadáme číslo alebo znak operácie. Ak sme odhadli približný vý- sledok, tak nás kalkulačka „neoklame“.
+
+
+
+Riešenie 18.	
+Úlohu vyriešime tak, že vypočítame hodnotu výrazu na ľavej strane rovnosti a potom hodnotu výrazu na pravej strane rovnosti.
+Ak sa hodnoty výrazov na ľavej a pravej strane rovna- jú, rovnosť platí.
+Ľavá strana:
+
+
+Pravá strana:
+
+
+Pretože 30 = 30, rovnosť platí.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Okrem druhej odmocniny poznáme aj iné odmocniny. Vysvetlíme si ešte tretiu odmocninu.
+Nasledujúcu úlohu a možno aj tretiu odmocninu už poznáte. Vyriešte tieto úlohy bez kalkulačky.
+
+Obraz Victora Vasarelyho
+20. Akú dĺžku hrany má maxi hracia kocka, ak jej objem je 8 dm3?
+Riešenie 20.	
+Úlohu môžeme počítať takto:	Ale aj takto:
+Ak označíme hranu kocky a, potom jej objem V počítame
+
+
+ako súčin V = a ∙ a ∙ a
+V = 8 dm3
+a ∙ a ∙ a = 8 dm3
+Súčin akých troch rovnakých čísel je 8?
+    2 ∙ 2 ∙ 2 = 8 ==> a = 2 dm Hrana kocky má dĺžku 2 dm.
+
+ako mocninu V = a3
+V = 8 dm3
+a3 = 8 dm3
+Tretia mocnina akého čísla je 8?
+           23 = 8 ==> a = 2 dm Hrana kocky má dĺžku 2 dm.
+
+Hracia kocka má hranu dĺžky 2 dm.
+Úlohu vieme riešiť aj pomocou odmocniny:
+V = a3	V = 8 dm3	a3 = 8	a =                     a = 2	lebo	23 = 2 ∙ 2 ∙ 2 = 8
+
+Pri riešení úlohy 20 sme použili vedomosti o tretej mocnine čísla a súčasne sme počítali aj tretiu odmocninu čísla.
+Tretia mocnina čísla je súčin troch rovnakých čísel. Tu zavedieme tretiu odmocninu len pre nezáporné čísla. Hovoríme, že tretia odmocnina z nezáporného čísla a je také nezáporné číslo b, ktorého tretia mocnina sa rovná a. Stručne matematicky zapísané:
+Platí:
+           	103 = 1 000	             	0,13 = 0,001
+             	23 = 8	            					        
+             	43 = 64	                	53 = 125
+1		
+
+
+
+
+Riešenie 22.	
+a)	= 0,05
+
+
+lebo 53 = 125
+
+lebo 1003 = 1 000 000
+
+
+alebo
+
+b)           lebo 0,63 = 0,216
+c)	lebo 0,43 = 0,064
+
+
+Riešenie 25.	
+Najprv vypočítame jednotlivé odmocniny a potom ich zoradíme od najmenšej po najväčšiu.
+
+Platí:	0,5 < 1,75 < 5 < 8
+Potom:
+
+
+
+  Vyskúšajte sa	
+V každej úlohe je len jedna z uvedených možností správna.
+Ak úlohy vyriešite správne, zostavíte z písmen zmysluplné slovo.
+1. Druhá odmocnina z čísla 144 sa rovná:
+
+ A – 72	B 12
+ C – 12	D 72
+2. Druhá odmocnina z čísla 0,64 sa rovná:
+ O 0,08	P – 8,0
+ R 0,8	S 0,4
+3.    sa rovná:
+ A                     B 
+ C                  D 
+4.    sa rovná:
+ P	    R 
+ S	    T	
+5. Tretia odmocnina z čísla 64 sa rovná:
+ H 2	I 4
+ J  – 2	K – 4
+6. Tretia odmocnina z čísla 0,027 sa rovná:
+ P 0,9	R 0,03
+ S 0,3	T 0,009
+7. 
+sa rovná:
+
+  I                        J  0,14
+ K                                   L  0,6
+8.      sa nerovná:
+ A                                    B 
+ C           D 
+9. Z daných nerovností je len jedna správna.
+ U                        V 
+W                                              Z
+10. Z uvedených viet je len jedna pravdivá.
+ A Neexistuje druhá odmocnina zo záporného čísla.
+ B Tretia odmocnina a druhá odmocnina z toho istého čísla sú rovnaké.
+ C Druhá odmocnina z nuly neexistuje.
+ D Tretia odmocnina z čísla 1 je 0,3.
+
+
+
+
+Druhá odmocninaTretia odmocninaAk a a 0, b0, takpráve vtedy, keď b2 = a.Ak a a 0,b0, takpráve vtedy, keďb3 =a.Napríklad:               lebo lebo
+               lebo92 = 81
+0,52 = 0,25
+Napríklad:               lebo lebo
+lebo23 = 8
+0,53 = 0,125
+
+Platí:
+Platí:
+Platí:
+
+b b 0
+Platí:
+
+b b 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Riešenie 1.	
+Rozbor:	Náčrt:
+RABA   c c 5 cm
+cBCB   a a 4 cm
+cACA   b b 3 cm
+
+
+Narysujeme úsečku AB s dĺžkou 5 cm.
+Potom zostrojíme bod C pomocou kružnicových oblúkov k1(B, 4 cm) a k2(A, 3 cm).
+Bod C je priesečníkom týchto oblúkov, čo zapíšeme
+pomocou znaku „p“ (prienik). Zápis  číta- me: C patrí do prieniku kružnicových oblúkov k1 a k2.
+Konštrukcia:
+1. AB; ;ABA   5 cm
+2. k ; k (B, 4 cm)
+1	1
+
+3. k2; k2(A, 3 cm)
+4. C; 
+5. 5 ABC
+A
+Diskusia:
+
+Riešenie 2.	
+Obsah štvorca so stranou a počítame:
+B	S = a · a	alebo	S = a2
+Obsah štvorcov potom bude:
+
+Úloha má v uvedenej časti roviny jedno riešenie. Zmeraná veľkosť uhlov v tomto trojuholníku je:
+Ú ABCA = 37=, , BACB = 53=, , BCAB = 90==
+Pretože uhol BCA má veľkosť 90mm čo je pravý uhol, tak trojuholník ABC je pravouhlý.
+
+S  = a2 = 42 = 16	S = b2 = 32 = 9
+S  = 16 cm2	S = 9 cm2
+S = c2 = 52 = 25
+S = 25 cm2
+Čo je zaujímavé na týchto štvorcoch?
+Súčet obsahov dvoch menších štvorcov sa rovná obsahu najväčšieho štvorca – platí rovnosť:
+
+S1 + S2 = S3
+
+Narysovali sme trojuholník so stranami dĺžky 3 cm, 4 cm, 5 cm. Vypočítali sme obsahy štvorcov so stranami 3 cm, 4 cm a 5 cm. Ako súvisí riešenie týchto úloh s Pytagorovou vetou?
+Vytvorme si obrázok zo zostrojeného trojuholníka a štvorcov.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A	B
+Pytagorova veta
+
+štvorec nad preponou
+
+Pozorne si prezrite nasledujúce obrázky.
+a
+b	c	b
+.
+a	a	b
+
+
+
+Vľavo je pravouhlý trojuholník s odvesnami a, b a preponou c. Vedľa sú dva zhodné štvorce so stranou a + b.        V každom štvorci sú umiestnené štyri dané pravouhlé trojuholníky (A, B, C, D), ale vždy iným spôsobom. V prvom tak, že zostanú ešte dva štvorce so stranami a, b a ich obsahy teda sú a2, b2. V druhom sa nachádza jeden štvorec so stranou c, ktorého obsah je c2. Pretože zhodné štvorce sú zmenšené vždy o rovnaký obsah (trojuholníky A, B, C, D), musí o zvyšku platiť: a2 + b2 = c2.
+Pre každý pravouhlý trojuholník platí Pytagorova rovnosť.
+
+
+
+Obrátená Pytagorova veta
+
+
+Riešenie 3.	
+Rozbor:	Náčrt:
+R  ACBA  		 909
+9BCB   a a   8 cm
+cACA   b b 15 cm
+Narysujeme úsečku AC, ,ACA   b b 15 cm. Potom zostrojíme uhol ACX, ,   ACXA  		 909.
+Bod B zostrojíme pomocou kružnicového oblúka k(C, 8 cm).
+Konštrukcia:	C
+1. AC; ;ACA   15 cm
+2. ACX; ; ACXA   90 
+3. k; k(C, 8 cm)
+4. B;
+5. 5 ABC
+
+
+
+
+
+
+
+k
+
+A	B
+Diskusia:
+Úloha má v uvedenej časti roviny jedno riešenie.
+Zmeraná strana c má dĺžku 17 cm.	X
+Trojuholník je pravouhlý s pravým uhlom pri vrchole C.
+Prepona je c (najdlhšia strana ležiaca oproti pravému uhlu), odvesny sú a a b.
+Pytagorova rovnosť je:
+c2 = a2 + b2
+Dosadíme do vzťahu dĺžky strán trojuholníka ABC:
+
+c2 = 172 = 289
+a2 + b2 = 82 + 152 = 64 + 225 = 289
+
+Rovnosť platí.
+
+
+Presvedčili sme sa, že pre trojuholník ABC, so stra- nami dĺžky 8 cm, 15 cm a 17 cm, Pytagorova rov- nosť platí.
+
+	
+
+Rozbor:	Náčrt:
+R LKML      
+ KLK   m m 5 cm
+ KMK   l l 12 cm Narysujeme úsečku KL,
+,KLK     cm.
+Potom zostrojíme uhol LKX,
+, LKXL   90 .
+Bod M zostrojíme pomocou kružnicového oblúka k, k(K, 12 cm).
+X
+Konštrukcia:
+1. KL; ;KLK   5 cm	k
+2.  LKX; ;   LKXL   909 3. k; k(K, 12 cm)
+4. M;
+5. 5 KLM
+
+Rozbor:	Náčrt:
+N DFED   60 
+ DFD   e e 6,5 cm
+ve e 2,8 cm
+
+
+
+Narysujeme úsečku DF, DDFD   6,5 cm. Potom zostrojíme uhol DFX, D DFXD   60 .
+Bod E zostrojíme pomocou priamky p rovnobežnej s úsečkou DF vo vzdialenosti 2,8 cm od nej,
+lebo ve e 2,8 cm.
+Konštrukcia:
+1. DF; ;DFD   6,5 cm
+2. DFX; ; DFXD   60 
+3. p; p pp DF, Dp, DFp       cm
+
+4. E;	X
+5. 5 DEF	 	E	
+
+K	L
+Diskusia:
+
+Úloha má v uvedenej časti roviny jedno riešenie.
+Zmeraná strana LM má dĺžku 13 cm.
+Trojuholník je pravouhlý, s pravým uhlom pri vrchole
+K. Prepona je úsečka LM, odvesny sú úsečky KL a
+KM.
+Pytagorova rovnosť je:
+jLML2    KMK2 + +KLK2
+Dosadíme do vzťahu dĺžky strán trojuholníka a zistíme, či platí rovnosť:
+
+
+
+.
+D	F
+Diskusia:
+Úloha má v uvedenej časti roviny jedno riešenie. Zmeraná strana DE má dĺžku 5,6 cm a strana FE má dĺžku 3,3 cm. Najdlhšiu stranu budeme považovať za preponu, kratšie strany za odvesny.
+
+LML2   132 = 169
+1KMK2 + +KLK2 = 122
+
+
++ 52
+
+
+= 144 + 25 = 169
+
+Rovnosť platí.
+
+Pytagorova rovnosť je:
+jDFD2    DED2 + +FEF2
+Dosadíme do vzťahu dĺžky strán trojuholníka a zistí-
+
+Presvedčili sme sa, že pre trojuholník KLM so stra- nami dĺžky 5 cm, 12 cm a 13 cm Pytagorova rovnosť platí.
+
+me, či platí rovnosť:
+mDFD2   6,52 = 42,25
+4DED2 + +FEF2 = 5,62 + 3,32 = 31,36 + 10,89 = 42,25
+                                Rovnosť platí.
+Presvedčili sme sa, že pre trojuholník DEF s dĺžkami strán 6,5 cm, 5,6 cm a 3,3 cm Pytagorova rovnosť platí.
+Záver:
+Podľa obrátenej Pytagorovej vety trojuholník DEF so stranami 6,5 cm, 5,6 cm a 3,3 cm je pravouhlý.
+
+
+
+
+	
+
+Rozbor:	Náčrt:
+RPRP   q q 7 cm
+vq = 4 cm
+= PRQP      
+
+
+
+
+
+Narysujeme úsečku PR, PPRP = 7 cm. Potom zostrojíme uhol PRX, P PRXP      .
+Bod Q zostrojíme pomocou priamky p rovnobežnej
+s úsečkou PR vo vzdialenosti 4 cm od nej, lebo vq = 4 cm.
+
+Rozbor:	Náčrt:
+RABA = c = 5 cm
+cBCB = a = 4 cm
+tc = 3 cm
+
+
+
+
+
+
+Narysujeme úsečku AB, AABA = 5 cm.
+Bod C je koncovým bodom ťažnice na stranu c, druhý koncový bod ťažnice je stred S strany AB.
+Bod C bude ležať na kružnicových oblúkoch k1(S, 3 cm) a k2(B, 4 cm), kde S je stred strany AB.
+
+Konštrukcia:	X	Q
+1. PR; ;PRP   7 cm
+2. PRX; ; PRXP      
+3. p; p pp PRP  p, PRP   4 cm
+4. Q;
+5. 5 PRQ	.
+P
+
+p	Konštrukcia:
+1. AB; ;ABA   5 cm	C	1
+2. S; S ; AB, AASA    SBS
+3. k1; k1(S, 3 cm)
+4. k2; k2(B, 4 cm)
+R	5. C;	k2
+
+
+
+Diskusia:
+Úloha má v uvedenej časti roviny jedno riešenie.
+Odmeraním zistíme, že strana RQ má dĺžku 5,5 cm a
+strana PQ má dĺžku 5 cm.
+Najdlhšiu stranu budeme považovať za preponu, kratšie strany za odvesny.
+Pytagorova rovnosť je:
+jPRP2    PQP2 + +RQR2
+Dosadíme do vzťahu dĺžky strán trojuholníka a pre- svedčíme sa, či platí rovnosť:
+dPRP2   72 = 49
+ PQP2 + +RQR2 = 52 + 5,52 = 25 + 30,25 = 55,25
+49 ≠ 55,25	Rovnosť neplatí.
+Záver:
+Zistili sme, že pre trojuholník PQR so stranami 7 cm, 5 cm a 5,5 cm Pytagorova rovnosť neplatí.
+6. 
+ ABC	A	S	B Diskusia:
+Úloha má v uvedenej časti roviny jedno riešenie.
+Zmeraná strana AC má dĺžku 4 cm. Aj strana BC
+má 4 cm.
+Presvedčíme sa, či pre tento trojuholník platí vzťah pre Pytagorovu vetu. Najdlhšiu stranu budeme považovať za preponu, kratšie strany za odvesny.
+Pytagorova rovnosť je:
+jABA2    ACA2 + +BCB2
+Dosadíme do vzťahu dĺžky strán trojuholníka a pre- svedčíme sa, či platí rovnosť:
+dABA2   52 = 25
+ ACA2 + +BCB2 = 42 + 42 = 16 + 16 = 32
+25 ≠ 32	Rovnosť neplatí.
+Záver:
+Zistili sme, že pre trojuholník ABC so stranami 4 cm, 4 cm a 5 cm Pytagorova rovnosť neplatí.
+
+
+
+
+
+Riešenie 10.	
+Pri riešení vychádzame z obrátenej Pytagorovej vety. a) a KLM, ,KLK   3 367 mm,  LML   34,56 dm,
+ KMK   482,5 cm
+Dĺžky strán sú v rôznych dĺžkových jednotkách. Všet- ky dĺžky vyjadríme v mm. Získame tak dĺžky vyjadre- né prirodzenými číslami – ľahšie sa s nimi počíta.
+DKL     3 367 mm
+mLML   3 456 mm
+mKMK   4 825 mm
+Utvoríme Pytagorovu rovnosť a zistíme, či po dosade- ní dĺžok strán platí.
+Najdlhšia strana bude prepona (KM), kratšie strany budú odvesny (LM a KL).
+)KMKK    KLKK    LMLL
+LKMKK   4 8252 = 23 280 625
+ KLKK    LMLL   11 336 689 + 11 943 936 = 23 280 625
+Rovnosť platí.
+
+Záver:
+Podľa obrátenej Pytagorovej vety
+trojuholník KLM je pravouhlý.
+b) b XYZ, x = 17, y = 14, z = 11
+Najdlhšia strana bude prepona (x), kratšie strany budú odvesny (y a z).
+Pytagorova rovnosť:
+x2 = y2 + z2
+Dosadíme do vzťahu dĺžky strán trojuholníka a zistíme, či platí rovnosť:
+x2 = 172 = 289
+y2 + z2 = 142 + 112 = 196 + 121 = 317
+289  ≠ 317	Rovnosť neplatí.
+
+Záver:
+Trojuholník XYZ nie je pravouhlý.
+
+
+
+
+
+
+Riešenie 12.	
+Pri riešení týchto úloh môžeme použiť odhad – intuí- ciu, ktorú získame prepočítaním veľkého počtu úloh.
+Nech je správne riešenie b).
+Použijeme obrátenú Pytagorovu vetu a overíme, či je možnosť b) správna. Preponou bude strana LM, od- vesnami budú strany KL a KM.
+Pytagorova rovnosť bude:
+bLML2 = =KLK2 + +KMK2
+Dosadíme do vzťahu dĺžky strán trojuholníka a zistíme, či platí rovnosť.
+rLML2 = 102 = 100
+ KLK2 + +KMK2 = 62 + 82 = 36 + 64 = 100
+100 = 100	Rovnosť platí.
+Zistili sme, že podľa obrátenej Pytagorovej vety je
+Z KLM pravouhlý. Riešením je možnosť b).
+Prečo sme vylúčili ako nesprávne možnosti a) a c)? Mocniny v a) vypočítame a vidíme, že
+152   122 + 112 lebo 225   265.
+Podobne v c) vypočítame 1302 + 1002,
+
+Riešenie 14.	
+Trojuholníky sú pravouhlé, takže na riešenie mô- žeme použiť Pytagorovu vetu. Najprv určíme, čo je prepona a čo sú odvesny.
+a)
+
+
+
+x
+Prepona leží oproti pravému uhlu – je to x. Počítame dĺžku prepony trojuholníka.
+Odvesny majú 12 a 15 dĺžkových jednotiek.
+Pytagorova rovnosť bude:
+
+
+Hľadáme číslo, ktoré má druhú mocni- nu 369 – použijeme preto
+druhú odmocninu.
+
+Výsledok zapíšeme s presnosťou
+na dve desatinné miesta: x = 19,20.
+
+Prepona x má dĺžku 19,20 dĺžkových jednotiek.
+b) Prepona leží oproti pravému uhlu
+– má 2,6 dĺžkových jednotiek.
+
+čo je menej ako 2152.
+
+1,8
+
+
+x
+
+Odvesny majú 1,8 dĺžkových jed- notiek a x dĺžkových jednotiek. Počítame dĺžku jednej z odve- sien trojuholníka.
+
+
+Pytagorova rovnosť bude: 2,62= 1,82 + x2
+6,76 = 3,24 + x2
+x2 = 6,76 – 3,24
+
+x2 = 3,52	 	
+
+
+x = 1,876 1...
+
+Hľadáme číslo, ktoré má druhú mocninu 3,52 – použijeme preto druhú odmocninu.
+Výsledok  zapíšeme  s presnosťou
+na dve desatinné miesta: x = 1,87.
+
+
+
+Odvesna x má dĺžku 1,87 dĺžkových jednotiek.
+
+
+
+
+15. Na obrázkoch sú pravouhlé trojuholníky. Vypočítaj dĺžku x označenej strany troju- holníka.
+Výsledok zapíš s presnosťou na dve desatinné miesta.
+a) b)	2
+45
+23
+
+Riešenie 16.	pokracˇovanie	
+Pytagorova rovnosť bude:
+bMNM2  =  =NON2 +  MOM2
+342 =	142 +  MOM2
+1 156 =	196   +  MOM2
+2MOM2 = 1 156 – 196
+
+
+x
+
+c)	26
+x
+
+x	4
+d)
+5,6
+
+MOM2 =	960
+
+=MOM  
+ MOM   30,983 8...
+
+Hľadáme číslo, ktoré má druhú mocninu 960 – použijeme preto druhú odmocninu.
+
+Výsledok zapíšeme s presnosťou na dve desatinné miesta, preto riešením je 30,98.
+
+x	2,1
+12
+
+Strana MO má dĺžku 30,98 cm.
+
+
+
+Riešenie 16.	
+Trojuholníky sú pravouhlé, preto na riešenie úloh po- užijeme Pytagorovu vetu. Určíme preponu a odvesny. Urobíme si náčrt trojuholníka.
+a) aPRS, ,PRP = 6 m, =RSR = 12 m, = PRSP = 90=
+Prepona leží oproti pravému uhlu, je to	S
+strana PS – jej dĺžku treba vypočítať. Odvesnami sú strany PR a RS.
+
+
+Pytagorova rovnosť bude:
+
+bPSP2 = =PRP2 + +RSR2
+r2 = 62	+ 122
+r2 = 36	+ 144
+
+
+r = ?
+
+
+
+P s = 6 m
+
+p = 12 m
+
+
+
+
+R
+
+r2 = 180  	
+
+
+r = 13,416 4...
+
+Hľadáme číslo, ktoré má druhú mocni- nu 180 – použijeme preto
+druhú odmocninu.
+
+Výsledok zapíšeme s presnosťou
+na dve desatinné miesta: r = 13,41.
+
+
+Strana PS má dĺžku 13,41 dĺžkových jednotiek.
+
+b) b MNO, ,MNM = 34 cm, =NON = 1,4 dm, = MONM = 90=
+O
+
+n = ?
+
+m = 1,4 dm = 14 cm
+
+
+M	o = 34 cm	N
+Prepona leží oproti pravému uhlu, je to strana MN,
+,MNM = 34 cm. Odvesny sú NO, ,NON = 1,4 dm a MO. Dĺžku odvesny MO máme vypočítať.
+
+Pytagorova veta a trojuholníky
+Pytagorova veta sa snáď najviac používa pri riešení  úloh s rôznymi trojuholníkmi. Ktorýkoľvek z nich sa dá výškou rozdeliť na pravouhlé trojuholníky.
+Najznámejšie úlohy sú tieto:
+21. Vypočítaj výšku rovnostranného trojuholní- ka so stranou dlhou 6 cm.
+Výsledok zapíš s presnosťou na dve desatinné miesta.
+
+Riešenie 21.	
+Riešenie úlohy začneme náčrtkom rovnostranného trojuholníka ABC a jeho výšky v.
+Keďže úsečka CS je kolmá na stranu AB trojuhol- níka ABC, vzniká pravouhlý trojuholník ASC, kde S je stred strany AB. Na riešenie úlohy môžeme použiť
+
+
+
+
+Riešenie 23.	
+Riešenie začneme náčrtkom. Načrtneme rovnoramen- ný trojuholník ABC so základňou AB a výškou na ňu.
+C
+
+Pytagorovu vetu.	C
+
+
+
+5 cm
+
+
+
+5 cm
+v
+
+6 cm	6 cm
+
+v
+
+·
+A	B
+
+
+·
+A
+3 cm	S
+
+
+
+B
+3 cm
+
+3 cm	S	3 cm
+
+
+Úsečka CS rozdelí rovnora-
+
+Úsečka CS rozdelí rovnostranný trojuholník na dva zhodné pravouhlé trojuholníky.
+Jeden z trojuholníkov znovu nakreslíme a určíme jeho
+
+menný trojuholník na dva	C
+zhodné pravouhlé trojuhol- níky, kde S je stred strany
+
+odvesny a preponu.	C
+
+
+6 cm
+
+AB. Jeden z trojuholníkov znovu nakreslíme a určíme jeho odvesny a preponu.
+Na riešenie použijeme
+Pytagorovu vetu.
+A
+
+v
+
+
+
+3 cm	S
+
+v
+
+·
+A	3 cm	S
+
+Preponou je úsečka AC, odvesnami sú úsečky AS a SC.
+Výška v je odvesnou SC pravouhlého trojuholníka.
+Pytagorova rovnosť bude:
+bACA2 = =ASA2 + +SCS2
+62 =  32	+  v2
+36 =   9	+   v2
+v2 =  36	– 9
+v2 = 27
+v =
+v = 5,196 1...
+Výsledok zapíšeme s presnosťou na dve desatinné miesta, preto riešením je v = 5,19.
+Výška v rovnostranného trojuholníka ABC
+má dĺžku 5,19 cm.
+
+Preponou je úsečka AC, odvesnami sú úsečky AS a SC.
+Výška v je odvesnou SC pravouhlého trojuholníka.
+Pytagorova rovnosť bude:
+bACA2 = =ASA2 + +SCS2
+52 =	32   +  v2
+25 =	9	+   v2
+v2 =  25	– 9
+v2 = 16
+v =  v = 4
+Výška v rovnoramenného trojuholníka ABC má dĺžku
+4 cm.
+
+Pytagorova veta a rovnobežníky
+Pri riešení viacerých úloh s rovnobežníkmi tiež používa- me Pytagorovu vetu. Čo robíme pri riešení úloh?
+Delíme rovnobežníky na pravouhlé trojuholníky – pokiaľ sa to dá.
+
+	
+
+Štvorec načrtneme a označíme jeho vrcholy, strany a uhlopriečku. Potom hľadáme na obrázku pravouhlý trojuholník. Keďže strany štvorca sú na seba kolmé, vzniká napr. pravouhlý trojuholník ABC a na riešenie úlohy môžeme použiť Pytagorovu vetu.
+
+Štvorec načrtneme a označíme jeho vrcholy a strany. Vyznačíme v ňom uhlopriečku e. Strany štvorca sú na seba kolmé, vzniká pravouhlý trojuholník a na riešenie úlohy môžeme použiť Pytagorovu vetu.
+D
+
+
+
+D	C
+
+e	 	uhlopriečka štvorca ABCD
+a = 5 cm
+
+·
+
+
+
+
+
+A	a	B
+
+
+uhlopriečka štvorca ABCD
+
+A	a = 5 cm	B
+
+V štvorci vyznačíme pravouhlý trojuholník ABC.
+
+Vo štvorci vyznačíme pravouhlý trojuholník ABC.	C
+Je vhodné nakresliť ho zvlášť.
+C
+a
+
+a
+A	a	B
+
+
+A	a	B
+Preponou tohto trojuholníka je uhlopriečka e = AC,
+odvesnami sú strany štvorca AB a BC.
+Pytagorova rovnosť bude:
+bACA2 = =ABA2 + +BCB2
+e2 =	52 + 52
+e2 = 50
+e = 
+e = 7,071 06...
+Výsledok zapíšeme s presnosťou na dve desatinné miesta, preto riešením je e = 7,07.
+Uhlopriečka e štvorca má dĺžku 7,07 cm.
+
+Preponou tohto trojuholníka je uhlopriečka e = AC,
+odvesnami sú strany štvorca AB a BC.
+Pytagorova rovnosť bude:
+bACA2 = =ABA2 + +BCB2
+72 =  a2	+	a2
+72 = 2 · a2
+a2 = 49 : 2
+a2 = 24,5
+a =
+a = 4,949 7...
+Výsledok zapíšeme s presnosťou na dve desatinné miesta, preto riešením je a = 4,94.
+Strana a štvorca má dĺžku 4,94 cm.
+
+
+
+	
+
+	
+
+Riešenie 29.	
+Načrtneme obdĺžnik a označíme jeho strany, vrcholy  a uhlopriečku. Aj v tomto prípade hľadáme pravouh- lý trojuholník. Keďže strany obdĺžnika sú na seba
+
+Riešenie 31.	
+Zmenšený obdĺžnik si načrtneme. Strany obdĺžnika sú na seba kolmé, vzniká pravouhlý trojuholník, napr. ABC a na riešenie úlohy použijeme Pytagorovu vetu.
+
+kolmé, vzniká pravouhlý trojuholník, napr. ABC a na	D	C
+riešenie úlohy môžeme použiť Pytagorovu vetu.
+D	C
+
+
+
+b = 3 cm
+e	 	uhlopriečka obdĺžnika
+ABCD
+
+
+uhlopriečka obdĺžnika
+ABCD
+
+·
+A	a = 4 cm	B
+
+
+A	a = 4,5 cm	B
+
+V obdĺžniku vyznačíme pravouhlý trojuholník ABC.
+C
+
+
+b = 3 cm
+
+V obdĺžniku vyznačíme pravouhlý trojuholník ABC.
+C
+
+
+
+b
+
+
+
+A	a = 4 cm	B
+
+Preponou tohto trojuholníka je uhlopriečka e = AC, odvesnami sú strany obdĺžnika AB a BC.
+Pytagorova rovnosť bude:
+bACA2 = =ABA2 + +BCB2
+e2 =	42  +	32
+e2 = 25
+e = 
+e = 5
+Uhlopriečka e obdĺžnika má dĺžku 5 cm.
+
+A       a = 4,5 cm	B
+Preponou tohto trojuholníka je uhlopriečka e = AC, odvesnami sú strany obdĺžnika AB a BC. Stranu AB sme si vybrali za stranu dĺžky 4,5 cm. Vypočítať teda máme dĺžku strany BC.
+Pytagorova rovnosť bude:
+bACA2 = =ABA2 + +BCB2
+6,52  =  4,52   +	b2
+42,25 = 20,25 +	b2
+b2 = 42,25 – 20,25
+b2 = 22
+b = 
+b = 4,690 4...
+Výsledok zapíšeme s presnosťou na dve desatinné miesta, preto riešením je 4,69.
+Druhá strana obdĺžnika má dĺžku 4,69 cm.
+
+
+	
+
+Pytagorova veta a lichobežníky
+Aj vo viacerých úlohách o lichobežníku môžeme použiť Pytagorovu vetu. Pomocou výšky lichobežníka získava- me pravouhlý trojuholník.
+
+	
+
+Lichobežník si najprv načrtneme. Vyznačíme v ňom výšku na základňu. Keďže výška lichobežníka leží na kolmici, vzniká pravouhlý trojuholník PT0T a na rie- šenie úlohy môžeme použiť Pytagorovu vetu.
+
+Načrtneme si lichobežník a jeho výšku. Vyznačíme    v ňom pravouhlý trojuholník PT0T a na riešenie úlo- hy použijeme Pytagorovu vetu.
+
+T
+
+t =
+
+
+
+P	T0
+
+s = 12 cm	S
+
+cm
+
+
+
+R
+p = 2 dm = 20 cm
+
+T
+
+
+
+P	T0
+
+s = 1,1 dm = 11 cm	S
+
+
+
+R
+p = 1,8 dm = 18 cm
+
+Určíme preponu a odvesny.
+Preponou trojuholníka PT T je úsečka PT, odvesnami
+
+Preponou trojuholníka PT0 T je úsečka PT – rameno lichobežníka, ktorého dĺžku máme vypočítať.
+
+sú úsečky PT
+
+0
+v (úsečka T T).
+
+Odvesnami sú úsečka PT0 a výška v (úsečka T0 T).
+
+0  a hľadaná výška	0
+Najprv vypočítame dĺžku odvesny PT0:
+T
+TPT00 = (20 – 12) : 2
+
+Najprv vypočítame dĺžku odvesny PT0:
+:PT P = (18 – 11) : 2	T
+T		
+
+PT00 = 8 : 2
+
+PT0 = 7 : 2
+=		
+
+PT00 = 4 cm
+
+
+v
+
+P   4 cm	T0
+
+PT0 = 3,5 cm
+
+
+v = 5 cm
+
+P 3,5 cm T0
+
+Pytagorova rovnosť bude:
+bPTP2 = =PT P2 + +T TT2
+
+Pytagorova rovnosť bude:
+bPTP2 = =PT P2 + +T TT2
+
+0	0	0	0
+
+92 =	42	+	v2
+81  = 16	+	v2
+v2 =  81	–	16
+v2 = 65
+v =
+v = 8,062 2...
+Výsledok zapíšeme s presnosťou na dve desatinné miesta, preto riešením je v = 8,06.
+Výška v lichobežníka má dĺžku 8,06 cm.
+
+t2  =  3,52 +	52
+t2 = 12,25 + 25
+t2 = 37,25
+t = 
+t = 6,103 2...
+Výsledok zapíšeme s presnosťou na dve desatinné miesta, preto riešením je t = 6,10.
+Ramená lichobežníka majú dĺžku 6,10 cm.
+
+
+	
+
+Pytagorova veta a kružnice
+A akože ináč, aj niektoré úlohy o kružnici a kruhu vyža- dujú na riešenie použitie Pytagorovej vety. Aj tu môže vzniknúť pravouhlý trojuholník.
+
+
+
+
+Načrtneme si kružnicu k so stredom S, polomerom r
+a jej tetivu AB.
+Keďže tetiva je kolmá na úsečku SC (polomer) kruž- nice, vzniká pravouhlý trojuholník a na riešenie úlo- hy môžeme použiť Pytagorovu vetu.
+Vzdialenosť tetivy AB od stredu kružnice S je
+jSB S = 12 cm, B je priesečník tetivy s úsečkou SC.
+
+
+38. Aká je dĺžka tetivy kružnice:
+a) s polomerom 6 cm, ak  je  tetiva  vzdialená od stredu kružnice 4 cm,
+b) s polomerom 1,28 dm, ak je tetiva vzdialená
+
+0	0	od stredu kružnice 10 cm,
+c) s priemerom 15 cm, ak je tetiva vzdialená od stredu kružnice 2,5 cm,
+d) s priemerom 7 cm, ak je tetiva vzdialená od stredu kružnice 32 mm?
+Výsledok zaokrúhli na dve desatinné miesta.
+
+C
+
+
+
+
+
+
+
+Vznikol pravouhlý trojuholník SB0B.
+B
+
+
+r = 3,14 dm = 31,4 cm	= x
+
+Načrtneme kružnicu k so stredom S a polomerom r a jej tetivu AB. Tetiva je kolmá na polomer kružnice, vzniká pravouhlý trojuholník a tak môžeme použiť Pytagorovu vetu.
+
+
+·
+S 12 cm B0
+Preponou trojuholníka SB B je úsečka SB – polomer
+
+kružnice. Odvesnami
+
+0
+sú úsečka
+
+BB0
+
+– polovica tetivy	k
+
+a úsečka SB0 – vzdialenosť tetivy od stredu kružnice.
+Pytagorova rovnosť bude:
+bSBS2 = =SB S2 + +BB B2
+
+0	0
+31,42 =   122	+	x2
+985,96 = 144	+	x2
+x2 = 985,96 – 144
+x2 = 841,96
+x =
+x = 29,016 5...
+
+
+Vznikol pravouhlý trojuholník SB0B.
+B
+
+r	rABA = 57 : 2 = 28,5
+
+Dĺžka x je polovica tetivy, preto:
+t = 2 · x = 2 · 29,016 5 = 58,033 58,03.
+Dĺžka tetivy je približne 58,03 cm.
+
+
+·
+S	20 mm B0
+
+
+
+pokracˇovanie
+
+Riešenie 39.    pokracˇovanie	
+Preponou trojuholníka je úsečka SB – polomer r kruž- nice, ktorý použijeme na výpočet priemeru kružnice:  d = 2 ∙ r. Odvesnami sú úsečka BB0 – polovica tetivy a úsečka SB0 – vzdialenosť tetivy od stredu kružnice.
+Pytagorova rovnosť bude:
+bSBS2 = =SB S2 + +BB B2
+0	0
+r2 =	202 +	28,52
+r2 =	400 + 812,25
+r2 = 1 212,25
+r = 
+r  = 34,817 3...
+
+Potom priemer d = 2 ∙ r = 2 ∙ 34,817 3... = 69,634 76...
+d 69,63 mm
+Priemer kružnice je približne 69,63 mm.
+
+
+
+Pytagorova veta a telesá
+Ukážeme si riešenie úloh, ktoré sa často vyskytujú v rôznych učebniciach.
+
+
+
+
+Riešenie 41.
+Riešenie úlohy začneme náčrtkom kocky. Keďže ste- ny kocky tvoria štvorce a stenová uhlopriečka je uhlo- priečkou štvorca, ľahko nájdeme pravouhlý trojuholník a na riešenie úlohy použijeme Pytagorovu vetu.
+
+
+
+Pytagorova rovnosť bude:
+bACA2  = =ABB2   + +BCB2
+e2 =   102   +   102
+e2 = 100	+ 100
+e2 = 200
+
+D	C
+
+e
+
+
+·
+A	a = 10 cm	B
+
+a = 10 cm
+uhlopriečka steny kocky je uhlopriečka e štvorca ABCD
+a = 10 cm
+
+e =
+e = 14,142 1...
+Výsledok zapíšeme s presnosťou na dve desatinné miesta, preto e = 14,14.
+Stenová uhlopriečka kocky má dĺžku 14,14 cm.
+
+
+Vo štvorci vyznačíme pravouhlý trojuholník ABC.
+C
+42. 
+Vypočítaj dĺžku stenovej uhlopriečky kocky:
+a) s hranou 2,7 dm
+b) s hranou 35 mm
+c) * s hranou a
+
+e
+
+
+A	10 cm
+
+10 cm
+
+·
+B
+
+Výsledok zapíš s presnosťou na dve desatinné miesta.
+
+
+Preponou tohto trojuholníka je uhlopriečka e = AC, odvesnami sú strany štvorca (hrany kocky) AB a BC.
+
+	
+
+Riešenie 43.	
+Hranol načrtneme.
+Jeho podstavy majú tvar štvorca a jeho 4 steny majú tvar rovnakých obdĺžnikov.
+Preto stačí vypočítať dĺžku len jednej stenovej uhlo- priečky.
+
+Riešenie 45.	
+Najprv kváder načrtneme, označíme jeho vrcholy, dané hrany a uhlopriečku, ktorej dĺžku máme vypočí- tať.
+Pretože podstavy a steny kvádra majú rôzne rozmery, budú mať tvar obdĺžnikov.
+
+H	G	To nám umožní pri riešení úlohy použiť Pytagorovu vetu.
+
+E	F
+
+7 cm
+
+e
+
+D	C
+a) 
+H
+
+
+E
+uhlopriečka steny hranola je uhlo- priečka e obdĺžnika ABFE
+
+G
+
+3 cm
+
+
+C
+
+5 cm
+·
+
+A	5 cm	B
+
+A	5 cm	B
+V obdĺžniku vyznačíme pravouhlý trojuholník ABF.
+Preponou tohto trojuholníka je uhlopriečka e = AF,
+
+Načrtli sme kváder so zadanými údajmi.
+Teraz v kvádri vyznačíme telesovú uhlopriečku BH
+ako stranu pravouhlého trojuholníka.
+
+odvesnami sú strany obdĺžnika AB a BF.	H	G
+Pytagorova rovnosť bude:
+bAFA2 = =ABA2 + +BFB2
+e2 =	52  +	72	E
+e2 = 25 + 49
+e2 =  74	C
+e =
+e = 8,602 3...
+Výsledok zapíšeme s presnosťou na dve desatinné	A	B
+miesta, preto e = 8,60.
+Stenová uhlopriečka hranola má dĺžku 8,60 cm.
+
+
+V pravouhlom trojuholníku BDH s pravým uhlom pri vrchole D, je telesová uhlopriečka BH jeho preponou a strany BD a DH sú jeho odvesnami.
+Pytagorova rovnosť v trojuholníku BDH je:
+jBHB2 = =BDB2 + +DHD2
+2BHB2 = =BDB2 + 32
+Dĺžku odvesny BD nepoznáme.
+Vieme však, že odvesna BD je uhlopriečkou podsta- vy kvádra, ktorá má tvar obdĺžnika. Uhlopriečka tento
+a	obdĺžnik delí na dva pravouhlé trojuholníky.
+V pravouhlom trojuholníku BAD s pravým uhlom pri vrchole A je BD prepona, AD, AB sú jeho odvesny.
+pokracˇovanie
+
+Riešenie 45.	pokracˇovanie	
+
+Pytagorova rovnosť v trojuholníku BAD
+BBDB2  = =ABA2  + +ADD2	D
+dosadíme do
+dBHB2  = =BDB2 +	32	.
+
+Pytagorova rovnosť v trojuholníku ABC
+AACC2  = =ABA2  + +BCB2
+dosadíme do
+dECC2  = =ACA2  +  252
+
+Potom:	A	B	C
+CBHB2  = =ABA2  + +ADD2 +  32
+2BHB2 =	52  +	42  + 32	.
+
+BHB2 = 25 + 16 + 9
+=BHB2 =  50
+5BHB = 
+
+A	B
+
+Potom:
+
+BHB = 7,071 0...
+
+ECC2  =  =ABA2  + +BCB2  +   252
+2ECC2  =	622  +   302  +   252
+
+Výsledok zapíšeme s presnosťou na dve desatinné miesta, takže ,BHB = 7,07 cm. Telesová uhlopriečka kvádra má dĺžku približne 7,07 cm.
+
+b) Načrtneme kváder s danými údajmi. Vyjadríme dĺžky jeho hrán v rovnakých jednotkách (cm).
+
+H	G
+
+E	F	0,25 m = 25 cm
+D	C
+30 cm
+A	6,2 dm = 62 cm	B
+
+
+V kvádri vyznačíme teraz telesovú uhlopriečku EC
+ako stranu pravouhlého trojuholníka.
+
+ECC2  = 3 844  + 900   + 625
++ECC2  = 5 369
+3ECE =
+=ECE = 73,273 4...
+
+Výsledok zapíšeme s presnosťou na dve desatinné miesta, takže ,ECE = 73,27 cm.
+Telesová uhlopriečka kvádra má dĺžku približne
+73,27 cm.
+
+46. Vypočítaj dĺžku telesovej uhlopriečky kvádra s hranami:
+a) 15 cm, 12 cm a 11 cm
+b) 3,7 dm, 52 cm a 0,36 m
+c) 5 dm, 7 cm a 45 mm
+d) 6,7 cm, 2 dm a 135 mm
+Výsledok zapíš s presnosťou na dve desatinné miesta.
+
+
+H	G
+
+E	F
+D	C
+.
+A	B
+
+
+V pravouhlom trojuholníku CAE s pravým uhlom pri vr- chole A, je telesová uhlopriečka EC jeho preponou a strany AC a AE sú jeho odvesnami.
+Pytagorova rovnosť v trojuholníku CAE je:
+jECE2 = =ACA2 + +AEA2
+2ECE2 = =ACA2 + 252
+Dĺžku odvesny AC nepoznáme.
+Vieme, že AC je uhlopriečkou podstavy kvádra, ktorú delí na dva pravouhlé trojuholníky.
+V pravouhlom trojuholníku ABC s pravým uhlom pri vrchole B je AC prepona a BC a AB odvesny.
+
+  Vyskúšajte sa	
+V každej úlohe je len jedna z uvedených možností správna.
+
+1.
+M Trojuholník so stranami 12 cm, 13 cm a 5 cm je pravouhlý.
+ N Trojuholník so stranami 5 cm, 4 cm a 3 cm nie je pravouhlý.
+ O  Trojuholník so stranami	,	a 1 je pravouhlý.
+ P Neexistuje rovnoramenný pravouhlý trojuholník.
+2. Strana c trojuholníka ABC s pravým uhlom pri vrchole B je:
+ E odvesna trojuholníka	F prepona trojuholníka
+3. V trojuholníku KLM s pravým uhlom pri vrchole K sa dá vzťah pre Pytagorovu vetu zapísať ako:
+ P   KLK2 = =LML2 +  KMK2	R  LML2  = =KLK2 +  KMK2	S  KMK2 = =KLK2 +  LML2
+4. V trojuholníku PQR s pravým uhlom pri vrchole R sú strany sPRP = 8 cm a =PQP = 10 cm. Tretia strana trojuholníka sa dá vypočítať zo vzťahu:
+ C             A                B          D 
+5. V štvorci so stranou 20 cm dlhou sa dĺžka uhlopriečky e vypočíta pomocou vzťahu:
+ K                  L	M	N 
+6. V obdĺžniku so stranami 4 cm a 3 cm dlhými sa dĺžka uhlopriečky f vypočíta pomocou vzťahu:
+A  f =                                      I   f 2 =	E   f 2 =	O f = 
+7. Ak má štvorec uhlopriečku e, potom pre výpočet jeho strany a platí vzťah:
+ E                    F                    G	H
+Ak úlohy vyriešite správne, získate odpoveď na otázku:
+Aká je v geometrii NAJČASTEJŠIA ČINNOSŤ?
+Nuž predsa...
+
+
+
+Riešenie 1.	
+Aby bolo riešenie čo najjednoduchšie, použijeme označenia vrcholov písmenami A, B, C a na označenie strán použijeme písmená a, b, c. Písmenom C označíme vrchol pri pravom uhle.
+
+a) B	b)
+
+B	c)	B
+
+
+
+a	a	a
+
+
+C	b	A	A
+
+b	C	C	b	A
+
+Preponou je strana c trojuholníka ABC, odvesnami sú strany a a b.
+Potom pre všetky trojuholníky platí Pytagorova rovnosť v tvare: c2 = a2 + b2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a)b)c)a15 cm?0,28 mb?2,5 dm0,73 mc21 cm8,7 dm?
+Riešenie 4.	
+Na riešenie úlohy použijeme Pytagorovu rovnosť, kde c je prepona a a, b sú odvesny pravouhlého trojuholníka
+ABC.
+a) a = 15 cm	c2 = a2 + b2	C
+c = 21 cm	212 = 152 + b2
+b = ?	441 = 225 + b2 b2 = 441 – 225
+b2 = 216
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a2,5 dm42 mm?3 m25 cm?b3,6 dm?74 cm?250 mm56 cmc?96 mm128 cm72 dm?9,2 m
+
+Riešenie 6.	
+Ako budeme úlohu riešiť? Načrtneme obidva trojuholníky a ich výšky. Potom dĺžky týchto výšok vypočítame. Nakoniec ich dáme do pomeru.
+
+Výpočet výšky trojuholníka ABC:
+Výška rozdelí rovnoramenný trojuholník na dva pravouhlé trojuholníky. S je stred strany AB. Preponou trojuholníka ASC je úsečka AC, odvesnami sú úsečky AS a SC.
+Výška v je odvesnou SC pravouhlého trojuholníka.
+
+
+
+
+5 cm
+
+C
+5 cm
+v 	výška
+trojuholníka
+
+Pytagorova rovnosť bude:
+bACA2 = =ASA2 + +SCS2
+52 =	42   +  v2
+25 =  16	+   v2
+v2 =  25	–  16
+v2 = 9
+v =
+v = 3
+Výška v trojuholníka ABC má dĺžku 3 cm.
+Výpočet výšky trojuholníka DEF je podobný:
+jDFD2 = =DSD2 + +SFS2
+52 =	32   +  v2
+25 =	9	+   v2
+v2 =  25	– 9
+v2 = 16
+v = 
+v = 4
+Výška v trojuholníka DEF má dĺžku 4 cm.
+
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+D
+3 cm
+
+
+
+4 cm
+
+
+
+
+
+
+
+
+F
+
+
+
+
+
+
+
+S
+
+·
+S
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3 cm
+
+
+
+4 cm
+
+B
+
+
+
+
+
+
+
+
+
+
+
+výška trojuholníka
+
+Teraz dáme výšky do pomeru v poradí, v akom boli trojuholníky uvedené v zadaní úlohy.
+Pomer výšok trojuholníkov je 3 : 4.
+
+
+
+
+
+
+Situáciu z úlohy si načrtneme. Pretože ploty sa stavajú kolmo na povrch cesty, rebrík je oň opretý, vzniká pravo- uhlý trojuholník ABC. Jeho preponou je rebrík (AB), odvesnami sú povrch cesty (AC) a plot (BC).
+Pytagorova rovnosť bude:	B
+BABA2 = =ACA2 + +BCB2
+32 =  ACA2 + 2,22
+9   = 9ACA2 + 4,84
+4ACA2 =   9	–  4,84
+9ACA2 = 4,16
+=ACA = 
+=ACA  = 2,039 6...	A	C
+Výsledok zaokrúhlime na dve desatinné miesta, takže rebrík bol umiestnený od plota vo vzdialenosti asi 2,04 m.
+
+10. Aký dlhý by mal byť rebrík, aby bol od múru vysokého 2,20 m z úlohy 9 vzdialený len 1,5 m?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Počítali sme takto:
+3 ∙ (– 2 + 4) + 5 = 5 ∙ 3 – 22
+3 ∙ 2 + 5 = 15 – 4
+6 + 5 = 11
+11 = 11
+
+Môžeme počítať aj takto:
+3 ∙ (– 2 + 4) + 5 = 5 ∙ 3 – 22
+
+ 
+ľavá strana	pravá strana
+Ľ = 3 ∙ (– 2 + 4) + 5 =
+= 3 ∙ 2 + 5 =
+= 6 + 5 =
+= 11
+
+P = 5 ∙ 3 – 22
+= 15 – 4
+= 11
+
+Ľ = P = 11
+
+Na obidvoch riešeniach vidieť, že rovnosť platí. Aký je rozdiel medzi týmito riešeniami? ... Porozmýšľajte.
+  2. Aké číslo môžeš doplniť do štvorčeka v zápise
+2 ∙ Q + 1 = – 12 + 3
+tak, aby platila rovnosť?
+
+
+
+Počítali sme takto:
+Vypočítali sme hodnotu výrazu
+– 12 + 3 = – 9.
+Potom sme hľadali číslo (väčšinou metódou pokus – omyl), ktoré po doplnení do štvorčeka
+vo výraze 2 ∙ Q + 1 dá hodnotu – 9.
+Nech je – 5 hľadané číslo. Potom
+2 ∙ (– 5) + 1 = – 10 + 1 = – 9
+Do štvorčeka môžeme doplniť číslo – 5.
+
+
+
+
+
+
+
+
+
+
+
+
+Platí 2 ∙
+
+Môžeme počítať aj takto:
+Namiesto štvorčeka napíšeme neznámu x. 2 ∙ x + 1 = – 12 + 3.
+Takýto zápis nazývame rovnicou, ktorú sme riešili metódou opačných operácií.
+2 ∙ x + 1 = – 9
+2 ∙ x = – 9 – 1
+2 ∙ x = – 10
+x = – 10 : 2
+x = – 5
+Neznáma x je číslo – 5.
++ 1 = – 12 + 3.
+
+Počítaním spamäti overíme správnosť riešenia úlohy.
+
+Urobíme skúšku správnosti riešenia úlohy, namiesto neznámej x dosadíme číslo – 5:
+Ľ = 2 ∙ (– 5) + 1 = – 10 + 1 = – 9
+
+Ľ = P
+P = – 12 + 3 = – 9
+
+
+
+
+
+
+
+
+66
+
+Riešiť rovnice metódou opačných operácií znamená:
+x + 1 = 5	Vidíme, že x = 4.	Platí  x = 5 – 1.
+
+súčet	rozdiel
+
+x – 3 = 9	Vidíme, že x = 12.	Platí x = 9 + 3.
+	
+rozdiel	súčet
+
+2 ∙ x = 16	Vidíme, že x = 8.	Platí x = 16 : 2.
+	
+súčin	podiel
+
+x : 10 = 9	Vidíme, že x = 90.	Platí x = 9 ∙ 10.
+	
+podiel	súčin
+
+Vidíme, že x = 100.	Platí x = 20 ∙ 5.
+
+Zápisy postupu riešenia rovníc sa používali rôzne.
+Je možné, že ste sa už o nich učili.
+Namiesto	sa používa aj
+tohto zápisu	tento zápis riešenia:
+x + 1 = 5	x + 1 = 5	/ – 1
+x = 5 – 1	x = 4
+x = 4
+x – 3 = 9	x – 3 = 9	/ + 3
+x = 9 + 3	x = 12
+x = 12
+2 ∙ x = 16	2 ∙ x = 16	/ : 2
+x = 16 : 2	x = 8
+x = 8
+x : 10 = 9	x : 10 = 9	/ ∙ 10
+x = 9 ∙ 10	x = 90
+x = 90
+
+
+podiel	súčin
+
+
+x = 20 ∙ 5	x = 100
+x = 100
+
+/ ∙ 5
+
+V zápisoch postupu riešenia rovníc sme použili ekviva- lentné úpravy rovníc. Ekvivalentné úpravy menia rov- nicu, ale nemenia korene pôvodnej rovnice. V úlohe 3 si ich ukážeme trochu inak.
+
+Riešenie 3.	
+
+a)	x – 12 = – 3	/ + 12
+x – 12 + 12 = – 3 + 12
+x = 9
+Ekvivalentná úprava zapísaná	znamená:
+K obom stranám rovnice môžeme pričítať ľubovoľ- né číslo.
+
+b)	x + 8 = 1	/ – 8
+x + 8 – 8 = 1 – 8
+x = – 7
+Ekvivalentná úprava zapísaná	znamená:
+Od oboch strán rovnice môžeme odčítať ľubovoľné číslo.
+
+c)	6 ∙ x = – 18	/ : 6
+(6 ∙ x) : 6 = – 18 : 6
+x = – 3
+Ekvivalentná úprava zapísaná	znamená: Obe strany rovnice môžeme vydeliť ľubovoľným čís- lom rôznym od 0.
+Iný zápis postupu riešenia:    6 ∙ x = – 18	/ : 6
+
+x = – 3
+d)	                          / ∙ 7
+  · 7 = 9 · 7
+x = 63
+Ekvivalentná úprava zapísaná	znamená: Obe strany rovnice môžeme vynásobiť ľubovoľným číslom rôznym od 0.
+
+
+Rovnice, ktoré sme riešili, obsahujú len prvú mocninu neznámej x. Neznáma sa nenachádza v menovateli, pod od- mocninou, ani v absolútnej hodnote, také rovnice nazývame lineárnymi rovnicami s neznámou x.
+
+
+Riešenie 6.  pokracˇovanie	
+b) 9 + 4 ∙ x – 3 = – 1 + 5
+4 ∙ x + 6 = 4	/ – 6
+4 ∙ x  = – 2	/ : 4
+x  = – 0,5
+Skúška:
+
+a) 4 ∙ x – 12 = 16	/ + 12
+4 ∙ x = 28	/ : 4
+x = 7
+Urobíme skúšku správnosti riešenia, namiesto nezná- mej x napíšeme vypočítané číslo 7:
+
+Ľ = 9 + 4 ∙ (– 0,5) – 3 = 9 – 2 – 3 = 4
+
+P = – 1 + 5 = 4
+Riešením rovnice je číslo –0,5.
+
+
+Ľ = P
+
+Ľ = 4 ∙ 7 – 12 = 28 – 12 = 16
+P = 16
+
+Ľ = P
+
+Koreňom rovnice 4 ∙ x – 12 = 16 je číslo 7. b)
+
+
+
+
+
+Urobíme skúšku správnosti riešenia, namiesto nezná- mej x napíšeme číslo –8:
+Ľ =
+
+c) 
+Všetky zlomky upravíme na spoločného menovateľa, číslo 6.
+
+P = –5
+Koreňom rovnice
+
+Ľ = P
+
+je číslo –8.
+
+
+
+
+
+Riešenie úlohy môže byť zapísané viacerými spôsobmi. Tu je ešte jeden:
+
+Od určitého riadka riešenia sú zápisy rovnaké.
+
+
+
+
+
+
+
+Pred použitím ekvivalentných úprav zjednodušíme výrazy na oboch stranách rovnice.
+a) 5 ∙ x + 7 = – 3 + 15
+5 ∙ x + 7 = 12	/ – 7
+5 ∙ x = 5	/ : 5
+x = 1
+
+Skúška:
+
+Ľ =
+
+
+
+P =
+
+
+
+
+
+
+Ľ = P
+
+Skúška:
+Ľ = 5 ∙ 1 + 7 = 5 + 7 = 12
+
+P = – 3 + 15 = 12
+Riešením rovnice je číslo 1.
+
+
+
+Ľ = P
+
+
+
+Riešením rovnice je číslo	.
+
+
+
+
+
+pokracˇovanie
+
+Riešenie 6.  pokracˇovanie	
+
+d) – 3,2 + 0,6 ∙ x = – 1 – 0,2
+– 3,2 + 0,6 ∙ x  = – 1,2	/ + 3,2
+0,6 ∙ x = 2	/ : 0,6
+
+
+
+Skúška:
+Ľ =
+
+Rovnicu – 3,2 + 0,6 ∙ x = – 1 – 0,2 môžeme riešiť aj inak. Upravíme ju tak, aby v jej zápise neboli desatinné čísla. Vynásobíme ju číslom desať.
+– 3,2 + 0,6 ∙ x = – 1 – 0,2
+– 3,2 + 0,6 ∙ x = – 1,2	/ ∙ 10
+– 32 + 6 ∙ x = – 12	/ + 32
+6 ∙ x = 20	/ : 6
+
+
+
+
+
+
+
+
+P =
+Riešením rovnice je zmiešané číslo	.
+
+Ľ = P
+
+
+
+	
+Doteraz sme riešili rovnice, ktorých pravá strana obsahovala len čísla alebo číselné výrazy. Teraz vyriešime rov- nice, ktorých pravá strana bude obsahovať lineárny výraz s neznámou, napríklad 1 – 4x, 3x – 3, – 4 – 3x.
+
+Riešenie 8.	
+Najprv roznásobíme zátvorky. Potom upravíme podľa potreby ľavú a pravú stranu rovnice. Na záver použije- me ekvivalentné úpravy.
+a) 2 · (x + 3) = 1 – 4x
+2x + 6 = 1 – 4x	/ – 6
+2x = – 5 – 4x	/ + 4x
+6x = – 5	/ : 6
+
+
+Skúška:
+
+Ľ =
+
+P = 
+Riešením rovnice je číslo	.
+
+
+
+
+Ľ = P
+
+
+
+pokracˇovanie
+
+Riešenie 8.  pokracˇovanie	
+b)	5x – 4 = 3 · (x – 1)
+5x – 4 = 3x – 3	/ + 4
+5x = 3x + 1	/ – 3x
+2x = 1	/ : 2
+x = 0,5
+
+Skúška:
+Ľ = 5 · 0,5 – 4 = 2,5 – 4 = – 1,5	 	
+P = 3 · (0,5 – 1) = 3 · (– 0,5) = – 1,5
+Riešením rovnice je číslo 0,5.
+c) – 3 · (0,2x + 1) = 2 – (1,6x + 1)
+
+
+Ľ = P
+
+
+
+Riešenie 10.	
+
+– 0,6x – 3 = 2 – 1,6x – 1	/ + 3
+– 0,6x = – 1,6x + 4	/ + 1,6x 1x = 4
+x = 4
+Skúška:
+Ľ = – 3 · (0,2 · 4 + 1) =
+= – 3 · (0,8 + 1) =
+= – 3 · 1,8 = – 5,4
+
+Najprv roznásobíme zátvorky. Potom upravíme podľa potreby ľavú a pravú stranu rovnice.
+Na záver použijeme ekvivalentné úpravy. a)	5x · (1 – x) – 3 = x · (2 – 5x)
+5x – 5x2 – 3 = 2x – 5x2	/ + 5x2
+5x – 3 = 2x	/ + 3
+5x = 2x + 3	/ – 2x
+
+P = 2 – (1,6 · 4 + 1) =
+= 2 – (6,4 + 1) =
+= 2 – 7,4 = – 5,4
+
+Ľ = P
+
+
+
+Skúška:
+
+3x = 3	/ : 3
+x = 1
+
+Riešením rovnice je číslo 4.
+d)  5 · (1,2 + x) – 4 · (0,5x – 1) = 0
+6 + 5x – 2x + 4 = 0
+3x + 10 = 0	/– 10
+3x = – 10	/ : 3
+
+Skúška:
+
+Ľ = 5 · 1 · (1 – 1) – 3 = 5 · 0 – 3 = 0 – 3 = – 3
+P = 1 · (2 – 5 · 1) = 1 · (2 – 5) = 1 · (– 3) = – 3
+Riešením rovnice je číslo 1.
+b)* (x – 1) · (x + 3) = x · (2 + x) x2 + 3x – x – 3 = 2x + x2
+x2 + 2x – 3 = 2x + x2	/ – x2
+2x – 3 = 2x	/ + 3
+2x = 2x + 3	/ – 2x
+0 0 3
+
+Ľ = P
+
+Pri riešení rovnice sme dostali nerovnosť 0 n 3, preto rovnica nemá riešenie – neexistuje koreň rovnice.
+
+
+
+
+
+
+
+
+
+Riešením rovnice je zmiešané číslo	.
+
+
+Riešenie 12.   pokracˇovanie	
+
+
+
+
+
+
+Najprv upravíme zlomky na spoločného menovateľa. Potom podľa potreby upravíme ľavú a pravú stranu rovnice. Na záver použijeme ekvivalentné úpravy.
+
+0 = 0
+Pri riešení rovnice sme dostali rovnosť 0 = 0, preto riešením rovnice môže byť ľubovoľné číslo. Táto rovnica má nekonečne veľa riešení.
+
+
+
+
+
+Skúška:
+
+
+
+
+Riešením rovnice je číslo – 4.
+
+
+
+Ľ = P
+
+
+
+
+
+
+Ak sa majú dva výrazy rovnať, znamená to, že riešime
+rovnicu:
+
+
+Skúška:
+
+
+
+
+
+
+
+
+Riešením rovnice je číslo – 6.
+
+= P
+.
+Skúšku správnosti riešenia urobíme, ak do daných výra- zov dosadíme hodnotu	a overíme, či sa rovnajú.
+pokracˇovanie
+
+Riešenie 14.   pokracˇovanie	
+
+Riešenie 16.   pokracˇovanie	
+
+Výraz sa rovná nule pre y = – 0,2.
+Skúšku správnosti riešenia urob samostatne.
+
+
+
+Dané dva výrazy sa rovnajú, ak u = – 1. Skúšku správnosti riešenia urob samostatne.
+
+
+
+
+
+
+
+
+
+
+Ak sa má výraz rovnať nule, znovu riešime rovnicu.
+
+
+Výraz sa rovná nule pre y = – 2.
+Skúšku správnosti riešenia urob samostatne.
+
+Pri riešení týchto úloh často používame odhad založe- ný na intuícii. Nech je riešením rovnice číslo – 9, mož- nosť D.
+Dosadíme číslo do ľavej strany rovnice a potom do pravej strany rovnice – akoby sme robili skúšku správnosti riešenia rovnice.
+Ľ = 2 · (x + 5) = 2 · (– 9 + 5) = 2 · (– 4) = – 8
+P = x – 4 = – 9 – 4 = – 13
+
+Pretože – 8 P – 13, tak Ľ   P a číslo – 9 (D) nie je rieše- ním rovnice.
+Nech je riešením rovnice číslo – 14, možnosť C. Dosadíme číslo do ľavej strany rovnice a potom do pravej strany rovnice.
+
+Ľ = 2 · (x + 5 ) = 2 · (– 14 + 5) = 2 · (– 9) = – 18
+P = x – 4 = – 14 – 4 = – 18
+
+Ľ = P
+
+
+Platí Ľ = P, číslo – 14, teda možnosť C je riešením rov- nice.
+
+
+
+  Vyskúšajte sa	
+
+V každej úlohe je len jedna z uvedených možností správna.
+
+1. Riešením rovnice	je číslo:
+
+8
+2. Riešením rovnice 0,5
+
+2
+
+– 0,5
+
+
+
+je číslo:
+
+4
+
+
+0,2
+
+– 8
+
+
+– 0,2
+
+3. Riešením rovnice 2 · (x – 3) – 1 = x – 2 je číslo:
+3	2	5	4
+4. Riešením rovnice 3x – 4 · (x + 1) = 1 – 6x je číslo:
+1	5	0	2
+
+5. Riešením rovnice	je:
+
+11	4	– 4	10
+
+6. Riešením rovnice	je:
+
+3	1,2	4,5	2
+
+7. Ktoré z uvedených čísel je riešením rovnice	?
+
+10	15	16	14
+
+8. Ktoré z uvedených čísel je riešením rovnice	?
+
+8	12	7,5	6
+
+9. Výrazy 0,3 · (b – 2,5),     sa rovnajú pre b rovnajúce sa:
+
+2,5	1
+
+– 0,25
+
+2,75
+
+10. Výraz 1,16 · p + 0,08 – 0,16 · (p – 2) sa rovná 0 pre p rovnajúce sa:
+0,40	4	– 4	– 0,40
+
+11. * Rovnica     má také isté riešenie ako rovnica:
+
+12. Riešením rovnice	je
+
+
+číslo menšie ako 2
+
+číslo väčšie ako 2
+
+číslo väčšie ako 5
+
+záporné číslo
+
+13. Riešenie väčšie ako 10 má rovnica:
+
+14. Z uvedených rovníc nemá riešenie rovnica:
+
+
+ Zapamätajte si	
+
+
+3.2 Jednoduché lineárne nerovnice
+
+
+Porovnávanie... robíme ho skoro stále. Som vyšší ako...?
+Je to ťažšie alebo ľahšie...? Stojí to viac alebo menej? Je to dlhšie ako...?
+V matematike porovnávame pomocou znakov nerovnosti alebo rovnosti.
+
+
+
+
+
+
+>	>	>
+
+
+ Čo sme sa už učili	
+
+Riešenie 1.	
+Počítali sme takto:	Môžeme počítať aj takto:
+
+Najmenšia hodnota	Najväčšia hodnota
+– 7	<	– 5	<	– 4	<	7
+Pri zoraďovaní hodnôt (porovnávaní) sa niekedy používa číselná os.
+
+– 7	– 5	– 4	0	7
+
+
+
+
+
+Počítali sme takto:
+Zisťovali sme, či je výsledok umocnenia kladný alebo záporný. Potom sme mocniny porovnali.
+Mocniteľ je nepárne číslo.
+
+Mohli sme počítať aj takto:
+Vypočítali sme mocniny pomocou súčinu. Na základe výsledkov sme mocniny porovnali.
+(– 5)3 = (– 5) ∙ (– 5) ∙ (– 5) = – 125
+
+(– 5)3
+
+
+Základ mocniny je záporné číslo.
+
+(– 4)2 = (– 4) ∙ (– 4) = 16
+– 125 < 16
+
+Mocnina (– 5)3 je záporné číslo.
+
+Mocniteľ je párne číslo.
+(– 4)2
+Základ mocniny je záporné číslo.
+
+Mocnina (– 4)2 je kladné číslo.
+
+Kladné číslo je vždy väčšie ako záporné.
+Platí (– 5)3 < (– 4)2.
+
+
+Platí (– 5)3 < (– 4)2.
+
+
+
+
+
+
+
+
+Riešenie 4.  pokracˇovanie	
+c) 1 – (– 1)4 Q 1 + (– 1)3
+Ľ = 1 – (– 1)4 = 1 – 1 = 0
+
+P = 1 + (– 1)3 = 1 – 1 = 0
+Platí 1 – (– 1)4 = 1 + (– 1)3.
+
+d)	Q
+
+0 = 0
+
+
+
+– 4,2 = – 4,2
+
+
+
+Platí	.
+
+
+
+
+
+
+Úlohu vyriešime tak, že najprv vypočítame hodnotu výrazu na ľavej strane, potom na pravej strane a nako- niec porovnáme výsledky:
+a) 5 · (– 2 + 1) Q 5 · (– 2) + 1
+
+Ľ = 5 · (– 2 + 1) = 5 · (– 1) = – 5
+P = 5 · (– 2) + 1 = – 10 + 1 = – 9
+Platí 5 · (– 2 + 1) > 5 · (– 2) + 1.
+b) 2,5 : 0,5 – 0,5  Q  (2,5 – 0,5) : 0,5
+Ľ = 2,5 : 0,5 – 0,5 = 5 – 0,5 = 4,5
+P = (2,5 – 0,5) : 0,5 = 2 : 0,5 = 4
+
+– 5 > – 9
+
+
+
+
+4,5 > 4
+
+Platí 2,5 : 0,5 – 0,5 > (2,5 – 0,5) : 0,5.
+
+
+
+
+              Počítali sme takto: Vypočítali sme hodnoty výrazov
+5 ∙ 3 = 15 a 30 – 8 = 22
+Dostali sme zápis 15 + Q < 22
+A potom sme hľadali číslo, väčšinou metódou pokus
+– omyl, ktoré môžeme dosadiť do štvorčeka tak, aby
+hodnota výrazu s ním bola menšia ako 22. Hľadané čísla sú celé kladné.
+Vidíme, že číslo 6 by mohlo vyhovovať.
+Platí: 15 + 6 = 21
+21 < 22
+Do štvorčeka môžeme doplniť číslo 6.
+Vidíme, že aj čísla 5, 4, 3, 2, 1 sú správnym riešením.
+            
+Môžeme počítať aj takto: Namiesto štvorčeka napíšeme neznámu x.
+5 ∙ 3 + x < 30 – 8
+Vypočítame súčin na ľavej strane a rozdiel na pravej strane nerovnice.
+15 + x < 22
+Riešime nerovnicu pomocou opačných operácií.
+15 + x < 22
+x < 22 – 15
+x < 7
+Pýtame sa: Ktoré celé kladné čísla sú menšie ako 7? Celé kladné čísla menšie ako 7 sú čísla: 1, 2, 3, 4, 5, 6.
+
+Overíme správnosť riešenia napríklad pre x = 1.
+
+Počítaním spamäti overíme správnosť riešenia úlohy. Dosadením čísla 7 zistíme, že preň nerovnosť už neplatí.
+
+Ľ = 5 ∙ 3 + 1 = 15 + 1 = 16
+P = 30 – 8 = 22
+
+Ľ < P
+
+Do štvorčeka môžeme doplniť čísla 1, 2, 3, 4, 5, 6 a nerovnosť platí.
+Aký je rozdiel medzi týmito riešeniami? Porozmýšľajte.
+
+
+
+
+a)	x + 4 < 10
+x < 10 – 4
+x < 6	Hľadáme celé kladné čísla menšie ako 6.
+Aj bez číselnej osi vieme povedať, že sú to čísla 1, 2, 3, 4, 5.
+
+Celé kladné čísla menšie ako 6.
+b)	x – 3 > – 7
+x > – 7 + 3
+x > – 4	Hľadáme celé záporné čísla väčšie ako – 4.
+Aj bez číselnej osi vieme povedať, že sú to čísla – 1, – 2, – 3.
+
+Celé záporné čísla väčšie ako – 4.	pokracˇovanie
+
+Riešenie 8.  pokracˇovanie	
+c)	2 ∙ x < 10
+x < 10 : 2
+x < 5	Hľadáme celé kladné čísla menšie ako 5.
+Aj bez číselnej osi vieme povedať, že sú to čísla 1, 2, 3, 4.
+
+
+
+
+d)	 x
+6
+
+
+> – 1
+
+Celé kladné čísla menšie ako 5.
+
+x > – 1 ∙ 6
+x  > – 6	Hľadáme celé záporné čísla väčšie ako – 6.
+Aj bez číselnej osi vieme povedať, že sú to čísla – 5, – 4, – 3, – 2, – 1.
+
+Celé záporné čísla väčšie ako – 6.
+
+
+
+
+Lineárne nerovnice riešime ekvivalentnými úpravami podobne ako lineárne rovnice ale s určitými výnimkami.
+K obom stranám nerovnice môžeme pričítať ľubovoľné číslo alebo lineárny výraz. Od oboch strán nerovnice môžeme odčítať ľubovoľné číslo alebo lineárny výraz.
+Obe strany nerovnice môžeme vydeliť ľubovoľným kladným alebo záporným číslom. Obe strany nerovnice môžeme vynásobiť ľubovoľným kladným alebo záporným číslom. Pripomeňme si.
+Písali sme:	Budeme písať:
+x + 3 < – 2	x + 3 < – 2	/ – 3
+x < – 2 – 3	x < – 5
+x < – 5
+x – 8 > – 10	x – 8 > – 10	/ + 8
+x > – 10 + 8	x > – 2
+x > – 2
+4 ∙ x < 20	4 ∙ x < 20	/ : 4
+x < 20 : 4	x < 5
+x < 5
+
+x  > – 2	 x
+5	5
+
+> – 2	/ ∙ 5
+
+x  > – 2 ∙ 5	x > – 10
+x > – 10
+
+
+Riešenie 10.	
+
+x < 2
+
+Riešením nerovnice sú všetky reálne čísla vyhovujúce nerovnici x < 2.
+Na číselnej osi máme vyznačiť tie čísla, ktoré sú menšie ako číslo 2. Reálnych čísel je nekonečne veľa, preto rie- šením je časť číselnej osi, ktorú vyznačíme nad číselnou osou od čísla 2 vľavo, teda v smere čísel menších ako 2,
+napríklad    , ...
+Pri čísle 2 dáme prázdny krúžok, ktorý znamená, že číslo 2 nie je riešením nerovnice.
+– 7	– 6  – 5	– 4  – 3	– 2	– 1	0	1	2	3	4	5	6	7
+
+Riešením nerovnice sú všetky reálne čísla menšie ako číslo 2.
+
+Správnosť riešenia úlohy si overíme tak, že dosadíme niekoľko hodnôt z riešení do oboch strán nerovnice a porov- náme ich.
+
+Na overenie vyberieme vhodné čísla z riešení, s ktorými sa jednoducho počíta. Nech je to číslo 0.	Nech je to číslo –2.
+Ľ = 2 · 0 + 4 = 0 + 4 = 4	Ľ = 2 · (–2) + 4 = – 4 + 4 = 0
+P = 8	P = 8
+Platí:  4 < 8, Ľ < P.	Platí: 0 < 8, Ľ < P.
+
+x > 3
+Na číselnej osi vyznačíme tie čísla, ktoré sú väčšie ako číslo 3.
+
+
+Čísla väčšie ako číslo 3 vyznačíme na číselnej osi od čísla 3 vpravo, teda v smere čísel väčších ako 3, napríklad Pri čísle 3 dáme prázdny krúžok, ktorý znamená, že číslo 3 nie je riešením nerovnice.
+
+– 7	– 6  – 5	– 4  – 3	– 2	– 1	0	1	2	3	4	5	6	7
+
+
+Riešením nerovnice sú všetky reálne čísla väčšie ako číslo 3.
+Na overenie vyberieme vhodné číslo z riešení, s ktorým sa jednoducho počíta, napr. 4.
+
+Ľ = 3 · 4 – 2 = 12 – 2 = 10
+P = 4 + 4 = 8
+
+Platí: 10 > 8, Ľ > P.
+
+
+
+
+
+
+
+
+pokracˇovanie
+
+Riešenie 10.   pokracˇovanie	
+
+x < – 4
+Na číselnej osi máme vyznačiť tie čísla, ktoré sú menšie ako číslo – 4.
+Čísla menšie ako – 4 vyznačíme na číselnej osi polpriamkou od čísla – 4 vľavo, teda v smere čísel menších ako
+– 4, napríklad ; ...
+Pri čísle – 4 dáme prázdny krúžok, ktorý znamená, že číslo – 4 nie je riešením nerovnice.
+
+– 7	– 6  – 5	– 4  – 3	– 2	– 1	0	1	2	3	4	5	6	7
+
+Riešením nerovnice sú všetky reálne čísla menšie ako číslo – 4. Na overenie vyberieme vhodné číslo z riešení, napr. – 6.
+Platí: 0 < 1, Ľ < P.
+
+
+x > – 5
+Na číselnej osi máme vyznačiť tie čísla, ktoré sú väčšie ako číslo – 5.
+Čísla väčšie ako číslo – 5 vyznačíme na číselnej osi polpriamkou od čísla – 5 vpravo, teda v smere čísel väčších ako – 5, napríklad ;...
+Pri čísle – 5 dáme prázdny krúžok, ktorý znamená, že číslo – 5 nie je riešením nerovnice.
+
+– 7	– 6  – 5	– 4  – 3	– 2	– 1	0	1	2	3	4	5	6	7
+
+Riešením nerovnice sú všetky reálne čísla väčšie ako číslo –5. Na overenie je výhodné vybrať si číslo 0.
+
+P = – 2
+Platí: – 1 > – 2, Ľ > P.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+teda v smere čísel menších ako 4, napríklad	; ...
+Riešením je aj číslo 4, preto pri čísle 4 dáme plný krúžok.
+– 7	– 6  – 5	– 4  – 3	– 2	– 1	0	1	2	3	4	5	6	7
+
+Riešením nerovnice sú všetky reálne čísla menšie alebo rovnajúce sa číslu 4. Na overenie vyberieme dve čísla:
+číslo 4 (pre ktoré platí rovnosť)
+číslo 3 (najväčšie celé číslo z riešení nerovnice menšie ako 4)
+Ľ (4) = 2 · 4 – 3 = 8 – 3 = 5	P (4) = 4 + 1 = 5
+Platí: 5 = 5, Ľ(4) = P(4), čo vyhovuje nerovnosti  Ľ ) P. Ľ (3) = 2 · 3 – 3 = 6 – 3 = 3	P (3) = 3 + 1 = 4
+Platí:  3 < 4,  Ľ(3) < P(3), čo vyhovuje nerovnosti Ľ o P.
+
+
+Na číselnej osi máme vyznačiť tie čísla, ktoré sú väčšie ako číslo – 1, alebo sa rovnajú číslu – 1.
+Čísla väčšie ako číslo – 1 vyznačíme nad číselnou osou polpriamkou od čísla – 1 vpravo, teda v smere čísel väč- ších ako – 1, napríklad ; ...
+Keďže riešením je aj číslo – 1, pri čísle – 1 dáme plný krúžok.
+
+
+– 7	– 6 – 5
+
+– 4  – 3	– 2	– 1
+
+0	1	2	3	4	5	6	7
+
+
+Riešením nerovnice sú všetky reálne čísla väčšie alebo rovnajúce sa číslu –1. Na overenie vyberieme dve čísla:
+číslo – 1 (pre ktoré platí rovnosť)
+číslo 0 (najmenšie celé číslo z riešení nerovnice väčšie ako –1)
+Ľ (– 1) =                            P (– 1) = – 0,6
+Platí: – 0,6 = – 0,6, Ľ (– 1) = P (– 1), čo vyhovuje nerovnosti Ľ ) P.
+Ľ (0) =                                                    P (0) = – 0,6
+Platí: – 0,2 > – 0,6, Ľ (0) > P (0), čo vyhovuje nerovnosti Ľ ) P.
+
+
+
+Riešenie 14.	
+Najprv roznásobíme zátvorky. Potom podľa potreby upravíme ľavú a pravú stranu nerovnice. Na záver použijeme ekvivalentné úpravy a vyznačíme riešenie na číselnej osi.
+a) 2 · (1 – x) ) 7 – x
+2 – 2x x 7 – x	/– 2
+– 2x x 5 – x	/ + x
+–x   5	/ · (– 1)
+x x – 5
+Pri násobení nerovnice záporným číslom sme zmenili znak nerovnosti na opačný. Prečo? Ukážeme si iné riešenie tejto nerovnice.
+2 · (1 – x) ) 7 – x
+2 – 2x x 7 – x	/ +2x
+2 2 7 + x	/ – 7
+– 5 – x
+Čo bude riešením nerovnice x x – 5 a čo bude riešením nerovnice – 5 – x? Pri oboch odpovedáme na otázku:
+Ktoré čísla sú väčšie ako číslo – 5, alebo sa rovnajú číslu – 5? Takže riešenie týchto nerovníc je rovnaké. Na číselnej osi vyznačíme čísla, ktoré sú väčšie ako číslo – 5, alebo sa rovnajú číslu – 5.
+
+
+– 7	– 6 – 5
+
+– 4  – 3	– 2	– 1
+
+0	1	2	3	4	5	6	7
+
+
+Riešením nerovnice sú všetky reálne čísla väčšie alebo rovnajúce sa číslu – 5. Na overenie vyberieme dve čísla:
+číslo – 5 (pre ktoré platí rovnosť)
+číslo – 4 (je najmenšie celé číslo z riešení nerovnice väčšie ako – 5)
+Ľ (– 5) =                           P (– 5) = 
+Platí: 12 = 12, Ľ (– 5) = P (– 5), čo vyhovuje nerovnosti Ľ ) P.
+Ľ (– 4) =                        P (– 4) = 
+Platí: 10 < 11, Ľ(– 4) < P(– 4), čo vyhovuje nerovnosti Ľ ) P.
+b) – 3 · (2x + 4) > – 8 – (x – 1)
+– 6x – 12 > – 8 – x + 1
+– 6x – 12 > – x – 7	/+ 12
+– 6x > – x + 5	/+ x
+– 5x > 5	/ : (– 5)
+x < – 1
+Pri delení nerovnice záporným číslom sme zmenili znak nerovnosti na opačný. Na číselnej osi vyznačíme čísla, ktoré sú menšie ako číslo – 1.
+
+
+– 7	– 6 – 5
+
+– 4  – 3	– 2	– 1
+
+0	1	2	3	4	5	6	7
+
+
+Riešením nerovnice sú všetky reálne čísla menšie ako – 1.
+Na overenie správnosti riešenia vyberieme napr. číslo – 2, najväčšie celé číslo z riešení nerovnice.
+
+Platí: 0 > – 5, Ľ > P.
+
+
+
+Riešenie 16.	
+Najprv upravíme zlomky na spoločného menovateľa. Potom podľa potreby upravíme ľavú a pravú stranu ne- rovnice. Na záver použijeme ekvivalentné úpravy a vyznačíme riešenie na číselnej osi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Na číselnej osi vyznačíme čísla, ktoré sú väčšie ako číslo    alebo sa rovnajú číslu  .
+
+Riešením nerovnice sú všetky reálne čísla väčšie alebo rovnajúce sa číslu	. Na overenie vyberieme dve čísla:
+číslo  (pre ktoré platí rovnosť)
+číslo 1 (je najmenšie celé číslo z riešení nerovnice)
+
+Platí:	,	=	, čo vyhovuje nerovnosti Ľ , P.
+
+
+
+
+
+
+
+
+Platí:	, Ľ (1) > P (1), čo vyhovuje nerovnosti Ľ ) P.
+
+
+pokracˇovanie
+
+Riešenie 16.   pokracˇovanie	
+
+x > 3
+
+Na číselnej osi vyznačíme čísla, ktoré sú väčšie ako číslo 3.
+
+
+
+– 7	– 6 – 5
+
+– 4  – 3	– 2	– 1
+
+0	1	2	3	4	5	6	7
+
+
+Riešením nerovnice sú všetky reálne čísla väčšie ako 3.
+Na overenie vyberieme napr. číslo 4, najmenšie celé číslo z riešení nerovnice.
+Platí:    , Ľ < P.
+
+
+Riešenie 18.	
+a) Ak má mať výraz hodnotu väčšiu ako 7, riešime nerovnicu	. Výraz na ľavej strane roznásobíme.
+4 · (a + 5) – 3a > 7
+4a + 20 – 3a > 7
+a + 20 > 7	/ – 20
+a > – 13
+
+a má byť celé záporné číslo väčšie ako – 13, takže riešením nerovnice sú čísla:
+– 12, – 11, – 10, – 9, – 8, – 7, – 6, – 5, – 4, – 3, – 2, – 1.
+
+Potom výraz    má hodnotu väčšiu ako 7 pre celé záporné čísla – 12, – 11, – 10, – 9, – 8, – 7, – 6, – 5,
+– 4, – 3, – 2, – 1.
+
+Overenie riešení tejto nerovnice urob samostatne.
+
+
+pokracˇovanie
+
+
+b) Ak má mať výraz hodnotu menšiu ako 7, riešime nerovnicu .
+
+
+0	1	2	3	4
+
+
+Pretože b má byť kladné celé číslo menšie ako 3,4, riešením sú čísla 1, 2, 3. Potom výraz  má hodnotu menšiu ako 7 pre b, ktoré sa môže rovnať 1, 2, 3. Overenie riešení tejto nerovnice urob samostatne.
+
+
+Riešenie 21.	
+Pri riešení týchto úloh často používame odhad alebo metódu pokus – omyl, alebo môžeme danú nerovnicu vyriešiť ekvivalentnými úpravami. Ukážeme si riešenie úlohy odhadom.
+V troch možnostiach sa opakuje číslo – 14, tak si vyberieme jednu z nich. Ak – 14 nebude riešením nerovnice, tak ani možnosť A, ani B, ani C nebude obsahovať riešenia nerovnice. Správna by mala byť možnosť D.
+Nech sú riešením nerovnice čísla – 14, – 15, – 16, možnosť A.
+Ďalej môžeme čísla dosadzovať do nerovnice a zisťovať, či získaná nerovnosť platí:
+
+
+
+Platí: – 18 = – 18, – 14 je riešením nerovnice.
+
+
+
+Nerovnosť platí, – 15 je riešením nerovnice.
+
+
+
+Nerovnosť platí, – 16 je riešením nerovnice.
+Možnosť A obsahuje čísla, z ktorých všetky sú riešením nerovnice.
+
+
+
+
+
+Najprv roznásobíme zátvorky. Potom podľa potreby upravíme ľavú a pravú stranu nerovnice. Na záver použijeme ekvivalentné úpravy a vyznačíme riešenie na číselnej osi.
+
+0 < 29
+Ekvivalentnými úpravami nerovnice    sme získali pravdivú nerovnosť 0 < 29. Preto môžeme povedať, že riešením tejto nerovnice je ľubovoľné reálne číslo.
+Riešenie na číselnej osi
+
+
+
+
+– 7	– 6 – 5
+
+– 4  – 3	– 2	– 1
+
+0	1	2	3	4	5	6	7
+
+Overenie správnosti riešenia nerovnice je tvoja ďalšia úloha.
+
+0 0 – 5
+Pri úpravách nerovnice    sme získali nepravdivú nerovnosť 0 0 – 5. Preto môžeme povedať, že nerovnica nemá riešenie.
+
+
+
+
+Najprv roznásobíme zátvorky. Potom upravíme ľavú a pravú stranu nerovnice. Na záver použijeme ekvivalentné úpravy.
+	
+pokracˇovanie
+
+Riešenie 25.   pokracˇovanie	
+/ · 6
+
+
+
+/ : (– 8)
+
+
+0	1	2	3	4	5	6	7
+
+
+
+
+Riešením nerovnice    majú byť celé kladné čísla, ktoré vyhovujú nerovnici  .
+Pretože nerovnici   vyhovujú čísla väčšie ako   , riešením nerovnice budú všetky celé kladné čísla, to znamená čísla 1, 2, 3, 4, 5, ….
+Je ich nekonečne veľa, preto vypisujeme len niekoľko prvých čísel a potom píšeme bodky.
+
+
+V každej úlohe je len jedna z uvedených možností správna.
+1. Jedno z čísel je riešením nerovnice 5x – 12 < 3. Nájdite ho.
+3	3,2
+
+2. Jedno z čísel je riešením nerovnice 2x + 3 > – 5. Nájdite ho.
+– 5,2	– 4	– 4,3
+
+3. Jedno z čísel je riešením nerovnice 5x + 2 + 3 + 4x. Nájdite ho.
+1,5	1	2
+
+4. Medzi riešenia nerovnice 2 · (x – 3) – 0 patrí číslo:
+3,1	5,8
+
+
+5. Medzi riešenia nerovnice – 4 · (x + 1) + 1 – 6x patrí číslo: 2
+
+
+
+0,3
+
+
+6. Ak je x celé kladné číslo, potom riešením nerovnice	je:
+
+5	1,6	1	2
+
+7. Ak je x záporné celé číslo, potom riešením nerovnice	je:
+
+5	– 4	– 6	– 5
+
+8. V ktorej z možností A až D sú všetky čísla riešením nerovnice	?
+
+6, 7, 8
+
+18, 19, 20
+
+15, 16, 17
+
+11, 16, 21
+
+
+9. V ktorej z možností A až D sú všetky čísla riešením nerovnice	?
+
+2, 1, 0
+
+3, 4, 5
+
+1, 2, 3
+
+2, 3, 4
+
+
+
+10. Výraz	je väčší ako 0 pre b: 0,5	B 0,4
+
+
+0,3
+
+
+0,6
+
+
+11. Výraz	je väčší ako výraz	pre x, ktoré spĺňa nerovnosť:
+
+x < 0
+
+x > 0,4
+
+x < 0,4
+
+x > 0
+
+
+
+12. Nerovnica      má také isté riešenie ako nerovnica:
+13. Ktoré x je súčasne riešením nerovnice x + 3 < 0 a nerovnice x + 6 + 0?
+– 3	– 5	0	4
+
+14. Ktoré x je súčasne riešením nerovnice	a nerovnice	?
+
+0	1	2	5
+
+
+
+  Zapamätajte si	
+
+  3.3 Jednoduché rovnice s neznámou v menovateli
+
+
+
+
+
+
+
+ =
+100
+100
+
+
+
+50
+100
+
+
+
+20
+100
+
+
+
+20
+100
+
+
+
+10
+100
+
+
+
+
+Čo je rovnica s neznámou v menovateli?
+V nasledujúcej kapitole predstavíme možnosti riešenia takýchto rovníc. Prvú úlohu pravdepodobne vyriešite.
+Ak nie pomocou vzorca, určite pomocou zdravého rozumu.
+
+
+Ukážeme si riešenie pomocou vzorca z fyziky. Trochu zjednodušene.
+Rýchlosť sa počíta podľa vzorca	, kde s je dráha v kilometroch (km), t je čas v hodinách (h). Potom:
+s = 120 km, t = 4,8 h, v = ? km/h
+Jurajova priemerná rýchlosť bola 25 km/h.
+
+
+
+
+
+Keďže t = x h, Juraj došiel ku kamarátovi za 1,5 hodiny.
+V úlohe sme riešili rovnicu    s neznámou v menovateli. Vykonáme skúšku správnosti riešenia rovnice.
+Ľ = 21,	P =	= 21 Platí: 21 = 21, Ľ = P, číslo 1,5 je riešením rovnice.
+
+
+
+
+Pri riešení predchádzajúcej úlohy sme dostali rovnicu, ktorá má neznámu x v menovateli zlomku	. Ako takéto rovnice vyriešime?
+Rovnicu tvaru   , kde d, e, f sú reálne čísla, ktorá obsahuje zlomok s neznámou x v menovateli riešime tak, že ju ekvivalantnými úpravami upravíme na lineárnu rovnicu tvaru: ax + b = c, kde a, b, c sú reálne čísla. Podmienka riešenia rovnice je, aby mal zlomok  zmysel.
+Zlomok	má zmysel, ak sa jeho menovateľ nerovná nule, teda x   – e.
+
+
+Vyriešme teraz niekoľko rovníc.
+Pri ich riešení môžeme použiť metódy,
+ktoré sme sa učili v predchádzajúcich kapitolách. Zopakujme si ekvivalentné úpravy rovníc.
+Dokonči vety:
+K obidvom stranám rovnice môžeme pričítať ... Od obidvoch strán rovnice môžeme odčítať ... Obidve strany rovnice môžeme vynásobiť ...
+Obidve strany rovnice môžeme vydeliť ...
+
+Projektová úloha
+Z úloh, ktoré počítate na fyzike, chémii, biológii, vyhľadajte tie, pri riešení ktorých riešite rovnicu s neznámou v menovateli. Dohodnite sa so spolu- žiakmi a porovnajte si výsledky svojho hľadania. Zdrojom informácií môže byť aj internet.
+
+
+
+
+a si myslím
+¡z e do   iet môeme doplni „èísla a výrazy“. Aký je tvoj názor?
+Zamysli sa nad tým.
+
+
+
+
+
+
+
+
+
+Riešenie 3.	
+
+Urobíme skúšku správnosti riešenia: Ľ = 7
+Ľ = P
+P =
+
+
+Koreň rovnice spĺňa podmienku pre neznámu x, 4 4 0, riešením rovnice je číslo 4.
+
+pokracˇovanie
+
+Riešenie 3.  pokracˇovanie	
+
+Urobíme skúšku správnosti riešenia:
+
+Ľ = – 3 P =
+
+Ľ = P
+
+Koreň rovnice spĺňa podmienku pre neznámu x, – 3 – 0, riešením rovnice je číslo – 3.
+Urobíme skúšku správnosti riešenia:
+
+Ľ = P = 1
+
+
+Ľ = P
+
+Koreň rovnice spĺňa podmienku pre neznámu x, 5 5 0, riešením rovnice je číslo 5.
+
+Urobíme skúšku správnosti riešenia: Ľ =
+P = 7
+
+
+
+Ľ = P
+
+Koreň rovnice spĺňa podmienku pre neznámu x,	, 0, riešením rovnice je číslo	.
+
+
+
+Riešenie 5.  pokracˇovanie	
+Skúška:
+Ľ = 3
+Ľ = P
+P =
+
+Aby zlomok     mal zmysel,
+menovateľ sa nesmie rovnať nule:	x – 1 – 0	/ + 1
+x x 1
+Keďže 4 4 1, riešením rovnice je číslo 4.
+
+
+
+
+
+
+
+
+
+Skúška:
+Ľ = – 2
+P = 
+Aby zlomok	mal zmysel,
+
+
+
+
+
+Ľ = P
+
+Skúška: Vyberieme pre ňu koreň zapísaný pomocou nepravého zlomku.
+
+menovateľ sa nesmie rovnať nule:	3 – x   0	/ + x
+3 3 x
+Keďže 7 7 3, riešením rovnice je číslo 7.
+
+
+
+
+
+
+
+
+
+Skúška:
+Ľ =  P = 4
+Ľ = P
+Aby zlomok     mal zmysel,
+menovateľ sa nesmie rovnať nule:	x + 2 + 0	/ – 2
+x x – 2
+Keďže – 0,75 – – 2, riešením rovnice je číslo – 0,75.
+
+Aby zlomok   mal zmysel,
+menovateľ sa nesmie rovnať nule:	x + 1+ 0	/ – 1
+x x – 1
+Keďže        – 1, riešením rovnice je číslo  .
+
+
+
+Riešenie 7.	
+
+pokracˇovanie
+
+Riešenie 7.  pokracˇovanie	
+Skúška:
+Ľ =
+
+
+P =
+
+Aby zlomok     mal zmysel, menovateľ sa nesmie rovnať nule:
+
+Ľ = P
+
+
+
+
+2x – 11 0	/ + 1
+2x x 1
+x x 0,5
+
+
+
+Riešenie 9.	
+Rovnice obsahujú zlomky s neznámou v menovateli,    a tak podmienkou riešenia je: menovateľ zlomku sa nesmie rovnať nule.
+
+Keďže 6,5 6 0,5, riešením rovnice je číslo 6,5.
+
+a)                 Menovateľ zlomku   je  x + 4.
+Potom:	x + 4 + 0   / – 4
+x x – 4
+
+Podmienkou riešenia rovnice je x x – 4.
+To znamená, že – 4 nemôže byť koreňom rovnice.
+
+b)       Menovateľ  zlomku    je 3 – 6x. Potom:	3 – 6x x 0 / – 3
+– 6x x – 3 / : (– 6)
+x x 0,5
+Podmienkou riešenia rovnice je x x 0,5.
+To znamená, že 0,5 nemôže byť koreňom rovnice.
+
+
+
+Skúška:
+Ľ =  P =
+
+
+
+Ľ = P
+Aby zlomok  mal zmysel, menovateľ sa nesmie rovnať nule:
+
+c)               Menovateľ zlomku   je 3x + 1. Potom:	3x + 1 + 0 / – 1
+3x x – 1 / : 3
+x x 
+Podmienkou riešenia rovnice je x x  .
+To znamená, že     nemôže byť koreňom rovnice.
+d)                Menovateľ zlomku    je x + 1.
+Potom:	x + 1 + 0 / – 1
+x x – 1
+Podmienkou riešenia rovnice je x x – 1.
+To znamená, že – 1 nemôže byť koreňom rovnice.
+
+
+
+
+
+Keďže	, riešením rovnice je číslo	.
+
+
+
+	
+
+
+
+	
+
+Pri riešení úloh tohto typu často používame odhad zalo- žený na intuícii – tipujeme.
+Nech je riešením rovnice číslo – 3, možnosť B. Dosadíme číslo do ľavej strany rovnice a potom do pravej strany rovnice, akoby sme robili skúšku správ- nosti riešenia rovnice.
+
+Na riešenie úlohy nepoužijeme tipovanie.
+Vytvoríme si rovnicu a vyriešime ju ekvivalentnými úpravami.
+
+
+
+
+
+
+
+      2, Ľ   P, číslo – 3, teda možnosť B nie je riešením rovnice.
+Nech je teraz riešením rovnice číslo 5, možnosť C. Dosadíme číslo do ľavej strany rovnice a potom do pravej strany rovnice – akoby sme robili skúšku správnosti riešenia rovnice.
+
+Aby zlomok	mal zmysel,
+menovateľ sa nesmie rovnať nule:	a – 5 – 0	/ + 5
+a a 5
+Keďže 0,5 0 5, riešením úlohy je a = 0,5, možnosť A.
+
+
+
+
+
+2 = 2, Ľ = P, číslo 5, teda možnosť C je riešením rovnice.
+
+
+
+
+Úlohu vyriešime pomocou rovnice.
+
+
+
+
+
+
+
+Aby zlomok	mal zmysel,
+menovateľ sa nesmie rovnať nule:	b – 1 – 0	/ + 1
+b b 1
+Keďže – 4 – 1, riešením úlohy je b = – 4, možnosť B.
+
+
+Pri riešení úloh z matematiky, pri učení ktoréhokoľvek učiva z rôznych predmetov, mnohí učitelia hovoria:
+„...opakovanie je matka múdrosti...“
+A náš učiteľ dejepisu stále hovoril:
+„...už starí Rimania hovorili...“
+Prečo sa asi tieto vetné spojenia používajú? Porozprávajte sa o tejto téme. Na hľadanie informácií využite internet, encyklopédie, výroky...
+
+
+
+Pri riešení úloh s klad- nými a zápornými celý- mi ¡císlami si spome¡n na ¡císelnú os.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Vyskúšajte sa	
+Pojmy z rovníc sa nachádzajú aj v iných učivách. Ak správne vyriešite úlohy v teste, získate odpoveď na hádanku:
+ČO MÁ STROM A NEMÁ ROVNICA?
+Pozor, písmená sú poprehadzované. Treba ich zoradiť v správnom poradí. V každej úlohe je len jedna z uvedených možností správna.
+
+1. Riešením rovnice    je číslo:
+2			                                                          3
+2. Koreňom rovnice	je číslo:
+2	5	– 3	8
+
+3. Podmienkou riešenia rovnice   je:
+
+4. V ktorej z možností je koreň rovnice	?
+
+– 5	– 0,4
+
+– 2,5
+
+– 5,5
+
+
+5. Pre akú hodnotu d sa výraz	rovná výrazu	?
+
+
+d = 3
+6. Rovnica  nemá riešenie
+
+d = – 3
+
+
+
+má riešenie pre x x  
+
+d = 13
+
+
+
+má koreň x = 0
+
+d = – 9
+
+
+
+má koreň x = – 2
+
+  Zapamätajte si	
+
+
+3.4 Vyjadrenie neznámej
+zo vzorca
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+autor obrázka René Magritte
+
+V tejto kapitole sa naučíme počítať viaceré známe úlohy z matematiky pomocou vzorcov, z ktorých vyjadríme neznámu – hľadaný údaj danej úlohy.
+
+
+
+
+
+
+Vyjadrenie neznámej zo vzorca znamená zapísať hľadaný – neznámy údaj pomocou známych údajov.
+
+š =
+neznámy údaj	známe údaje
+
+Na vyjadrenie neznámej zo vzorca môžeme použiť ekvivalentné úpravy rovníc. Skúšku správnosti riešenia vyko- náme dosadením známych a vypočítaných údajov do pôvodného vzorca.
+
+
+Pozrite si niekoľko úloh, ktoré riešili žiaci v roku 1935.
+Úlohy sú z učebnice Meroveda a rysovanie pre školy občianske autora Karola Buzeka, prekladateľa Jozefa Siváka,
+diel druhý, pravdepodobne z roku 1935.
+
+
+Riešenie 2.	
+
+a) Nech je daný štvorec ABCD so stranou a. o = 12,8 cm	a
+a = ? cm
+
+a	a
+b) 
+Nech je daný obdĺžnik ABCD so stranami a a b. o = 36,32 cm, a = 2 cm, b = ? cm
+Napíšeme vzorec na výpočet obvodu obdĺžnika:
+o = 2 · (a + b)
+Vyjadríme z neho neznámy údaj:
+
+
+a
+
+Napíšeme vzorec na výpočet obvodu štvorca:
+o = 4 · a
+Vyjadríme z neho neznámy údaj:
+
+a
+
+b	b
+
+a
+
+Dosadíme číselné hodnoty:
+
+
+Dĺžka druhej strany obdĺžnika je 16,16 cm.
+
+
+
+Dosadíme číselné hodnoty:
+
+Dĺžka strany štvorca a je 3,2 cm.
+
+
+pokracˇovanie
+
+
+
+c) Nech je daný rovnostranný trojuholník ABC
+so stranou a.
+d) 
+Nech je daný rovnoramenný lichobežník ABCD
+so základňami a a c a ramenami b = d.
+
+o = 16,74 mm
+a = ? mm
+
+o = 18,6 dm	c
+a = 7 dm
+c = 5 dm
+b = d = ? dm
+a
+
+
+Napíšeme vzorec na výpočet obvodu rovnostranné- ho trojuholníka: o = 3 · a
+Vyjadríme z neho neznámy údaj:
+
+Napíšeme vzorec na výpočet obvodu rovnoramenné- ho lichobežníka:
+o = a + b + c + d vzorec pre všeobecný lichobežník
+o = a + c + 2 · b	vzorec pre rovnoramenný
+lichobežník s ramenami b = d
+Vyjadríme z neho neznámy údaj:
+
+
+
+
+Dosadíme číselné hodnoty:	.
+Dĺžka strany rovnostranného trojuholníka je 5,58 mm.
+
+Dosadíme číselné hodnoty:   Dĺžka ramien rovnoramenného lichobežníka je 3,3 dm.
+
+Skúšky správnosti riešnia úloh a) až d) vykonaj samostatne.
+
+
+Riešenie 4.	
+
+a) Nech je daný štvorec ABCD so stranou a. S = 64 cm2,	a = ? cm
+Vzorec na výpočet obsahu štvorca: S = a2
+Vyjadrenie neznámeho údaja:
+S = a2
+
+Dosadenie číselných hodnôt:    Strana štvorca má dĺžku 8 cm.
+b) Nech je daný obdĺžnik ABCD so stranami a, b. S = 60 cm2,	a = 12 cm,	b = ? cm
+Vzorec na výpočet obsahu obdĺžnika: S = a · b
+Vyjadrenie neznámeho údaja:
+S = a · b	/ : a
+c) 
+Nech je daný pravouhlý trojuholník ABC
+s odvesnami a, b a preponou c.
+S = 24 dm2
+a = 6 dm
+b = ? dm	b
+Vzorec na výpočet obsahu pravouhlého trojuholníka:
+a
+
+
+Vyjadrenie neznámeho údaja:
+
+
+
+
+
+Dosadenie číselných hodnôt:
+
+Dosadenie číselných hodnôt:   Druhá odvesna pravouhlého trojuholníka
+
+Druhá strana obdĺžnika má dĺžku 5 cm.
+
+má dĺžku 8 dm.
+
+pokracˇovanie
+
+
+
+d) Nech je daný kosoštvorec ABCD so stranou a
+a výškou va (výška na stranu a).
+S = 3,2 m2
+va  = 0,8 m
+a = ? m
+Vzorec na výpočet
+obsahu kosoštvorca:	a
+S = a · va
+
+Vyjadrenie neznámeho údaja:
+
+
+Dosadenie číselných hodnôt:   Strana kosoštvorca má dĺžku 4 m.
+
+
+
+
+
+
+Riešenie 6.
+a) Daný je rovnoramenný lichobežník ABCD
+so základňami a a c a ramenami b = d. Vyjadríme neznámu a zo vzorca na výpočet obvodu rovnoramenného lichobežníka:
+        o = a + c + 2 · b	/– c – 2 · b o – c – 2 · b = a
+Neznáma a = o – c – 2 · b.
+Dosadíme číselné hodnoty do vyjadrenia neznámej
+a = o – c – 2 · b
+a = 35 – 12 – 2 · 5 = 35 – 12 – 10 = 13
+a = 13 cm
+Skúška správnosti:
+Do vzorca na výpočet obvodu rovnoramenného li- chobežníka dosadíme známe údaje:
+
+
+
+Neznáma c  .
+Dosadíme číselné hodnoty do vyjadrenej neznámej:
+
+c = 18,25 cm Skúška správnosti:
+
+o = a + c + 2 · b
+o = 13 + 12 + 2 · 5
+o = 35 cm,
+čo je údaj zo zadania
+
+a = 13 cm c = 12 cm b = 5 cm
+
+Do vzorca na výpočet obsahu lichobežníka dosadíme známe údaje:
+a = 10 cm
+v = 4 cm
+c = 18,25 cm
+
+Na výpočet neznámej a teda môžeme použiť vzorec:
+a = o – c – 2 · b
+
+b) Daný je lichobežník ABCD
+so základňami a a c a ramenami b a d. Vyjadríme neznámu c zo vzorca na výpočet obsahu lichobežníka:
+
+
+
+
+S = 56,5 cm2, čo je údaj zo zadania.
+
+Na výpočet neznámej c môžeme použiť vzorec:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Vyskúšajte sa	
+V každej úlohe je len jedna z uvedených možností správna.
+
+1. Strana a zo vzorca na výpočet obvodu obdĺžnika o = 2 · (a + b) je vyjadrená vzťahom:
+A	B                        C	D 
+2. Strana c zo vzorca na výpočet obvodu trojuholníka o = a + b + c je vyjadrená vzťahom:
+A  c = o + a + b	B  c = a – b – o	C  c = o – a – b	D c = a + b – o
+
+3. Strana a zo vzorca na výpočet obsahu obdĺžnika S = a · b je vyjadrená vzťahom:
+ A                             B	                          C	D
+4. Strana b zo vzorca na výpočet obsahu trojuholníka     je vyjadrená vzťahom:
+ A                         B                          C                    D 
+5. Výška v zo vzorca na výpočet obsahu S lichobežníka so základňami a, c, ramenami b, d je vyjadrená vzťahom:
+ A                 B                       C	D 
+6. Hrana b zo vzorca na výpočet objemu V kvádra s hranami a, b, c je vyjadrená vzťahom:
+
+ A                          B  b = V · a · c	C  b = V – a – c	D	b = V : (a · c)
+7. Polomer kruhu r zo vzorca na výpočet obvodu kruhu o =   · d (kde d je priemer kruhu) je vyjadrený vzťahom:
+A  r = o · (2·)	B  r = o : (2:)	C	D
+
+3.5 Riešenie slovných (kontextových) úloh,
+    ktoré sa dajú riešiť pomocou lineárnej rovnice alebo nerovnice
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Počítali sme takto:
+
+Počítali sme takto:
+123 · 3 = 369
+Pôvodné číslo bolo 369.
+Ale počítali sme aj takto:
+Označíme neznáme číslo pomocou x. Utvoríme rovnicu a vyriešime ju:
+
+77 – 17 = 60
+Pôvodné číslo bolo 60.
+Ale počítali sme aj takto:
+Označíme neznáme číslo pomocou x. Utvoríme rovnicu a vyriešime ju:
+
+x : 3 = 123
+x = 123 · 3
+x = 369
+Skúška: 369 : 3 = 123 Pôvodné číslo bolo 369.
+
+zmenšiť 3-násobne
+:
+
+
+x + 17 = 77
+x = 77 – 17
+x = 60
+Skúška: 60 + 17 = 77 Pôvodné číslo bolo 60.
+
+zväčšiť o
++
+
+
+
+
+
+Počítali sme takto:
+46 : 2 = 23
+Pôvodné číslo bolo 23.
+Ale počítali sme aj takto:
+Označíme neznáme číslo pomocou x. Utvoríme rovnicu a vyriešime ju:
+
+Počítali sme takto:
+65 + 15 = 80
+Pôvodné číslo bolo 80.
+Ale počítali sme aj takto:
+Označíme neznáme číslo pomocou x. Utvoríme rovnicu a vyriešime ju:
+
+x – 15 = 65
+x = 65 + 15
+x = 80
+Skúška: 80 – 15 = 65 Pôvodné číslo bolo 80.
+
+2 · x = 46
+x = 46 : 2
+x = 23
+Skúška: 2 · 23 = 46. Pôvodné číslo bolo 23.
+
+zväčšiť 2-násobne
+·
+
+
+
+
+
+
+
+ Prvý spôsob je jednoduchší, druhý
+je všeobecnejší.
+
+
+Riešenie 5.	
+
+Označíme neznáme číslo pomocou x. Utvoríme rovnicu a vyriešime ju.
+
+a) neznáme číslo zväčšené o 5 ... x + 5
+číslo, ktoré je dvakrát väčšie ako číslo pôvodné ... 2 · x x + 5 = 2 · x	/ –x
+5 = x
+x = 5
+Skúšku správnosti vykonáme tak, že vypočítané číslo
+dosadíme do textu zápisu úlohy (nie do rovnice):
+Neznáme číslo zväčšené o 5 je:
+5 + 5 = 10.
+Číslo, ktoré je dvakrát väčšie ako pôvodné číslo, je: 2 · 5 = 10.
+Platí rovnosť 10 = 10. Hľadané číslo je 5.
+
+b) neznáme číslo zmenšené o 10 ... x – 10 číslo, ktoré je polovicou pôvodného čísla ...
+x – 10 =                    / ∙ 2
+2x – 20 = x	/ + 20 – x x = 20
+Skúška:
+Neznáme číslo zmenšené o 10 je:
+20 – 10 = 10.
+Číslo, ktoré je polovicou pôvodného čísla, je:
+20 : 2 = 10.
+
+Platí rovnosť 10 = 10. Hľadané číslo je 20.
+c) 
+neznáme číslo zväčšené o 36 ... x + 36
+číslo, ktoré je štyrikrát väčšie ako číslo pôvodné ... 4 · x x + 36 = 4 · x	/ – x
+36 = 3x	/ : 3
+12 = x
+x = 12
+Skúška:
+Neznáme číslo zväčšené o 36 je:
+12 + 36 = 48.
+Číslo, ktoré je štyrikrát väčšie ako číslo pôvodné, je: 4 · 12 = 48.
+Platí rovnosť 48 = 48. Hľadané číslo je 12.
+d) polovica neznámeho čísla zmenšená o 8 ... x – 8
+2
+štvrtina neznámeho čísla zväčšená o 4 ... x + 4
+4
+
+
+
+
+
+
+Skúška:
+Polovica neznámeho čísla zmenšená o 8 je:
+48 : 2 – 8 = 24 – 8 = 16.
+Štvrtina neznámeho čísla zväčšená o 4 je:
+48 : 4 + 4 = 12 + 4 = 16.
+
+Platí rovnosť 16 = 16. Hľadané číslo je 48.
+
+
+
+
+
+
+
+
+
+
+Riešenie 6.	
+
+a) Vypočítame, koľko eur dostalo každé z dievčat.
+Na riešenie úlohy použijeme rovnicu s neznámou x. Evka	x
+Danka  .................. x + 6	spolu 84 €
+Zuzka	(x + 6) – 12
+Utvoríme rovnicu:
+x + (x + 6) + (x + 6) – 12 = 84
+3x = 84	/ : 3
+x = 28
+Skúška:
+Evka dostala	28 eur
+Danka dostala	28 + 6 = 34 eur
+Zuzka dostala	34 – 12 = 22 eur
+Spolu dostali 28 + 34 + 22 = 84 eur. Evka dostala 28 eur,
+Danka 34 eur,
+Zuzka 22 eur.
+Najviac dostala Danka, a to 34 €.
+b) 
+Vypočítame, koľko eur stál nákup každého z dievčat zvlášť. Aj teraz na riešenie úlohy použijeme rovnicu s neznámou x.
+Evka	x
+Danka  .................. 2 · x	spolu 36,80 eur
+Zuzka	3,60
+Utvoríme rovnicu:
+x + 2 · x + (x – 3,60) = 36,80
+4x – 3,60 = 36,80	/ + 3,60
+4x = 40,40	/ : 4
+x = 10,10
+Skúška:
+Evkin nákup stál	10,10 eur
+Dankin nákup stál	10,10 · 2 = 20,20 eur
+Zuzkin nákup stál	10,10 – 3,60 = 6,50 eur
+Spolu zaplatili za nákupy:
+10,10 + 20,20 + 6,50 = 36,80 eur.
+Evka za nákup zaplatila 10,10 €, Danka 20,20 € a Zuzka 6,50 €. Keby platili za svoje nákupy každá zvlášť, súpravu pier by žiadna z nich nedostala.
+
+
+
+Riešenie 7.	
+
+Zostavíme tabuľku. Pomocou údajov v nej zostavíme rovnicu a vyriešime ju.
+
+
+
+Pred 5 rokmi bola matka sedemkrát staršia ako dcé- ra, preto tvar rovnice bude:
+
+Skúška:
+Vek dcéry pred 5 rokmi bol:
+10 – 5 = 5
+Vek matky pred 5 rokmi bol:
+4 ∙ 10 – 5 = 35
+Vek matky je sedemkrát väčší ako vek dcéry: 35 : 5 = 7
+Matka má dnes 40 rokov a dcéra 10 rokov. Ďalšie dve hádanky vyrieš samostatne.
+
+
+
+
+
+
+
+a) Rýchlosť 4,5 km za hodinu znamená: za 60 minút prejdem 4 500 m
+za 1 minútu prejdem 4 500 : 60 = 75 m
+za 15 minút prejdem 75 · 15 = 1 125 m
+Za 15 minút prejdem trasu dlhú 1 125 m.
+b) za 20 minút prejde Jakub na bicykli 18 km za 1 minútu prejde 18 : 20 = 0,9 km
+za 60 minút prejde 0,9 · 60 = 54 km
+Jakub prejde 18 km za 20 minút priemernou rýchlosťou 54 km/h.
+c) Vypočítame pôvodnú rýchlosť auta podľa vzorca, ktorý poznáme z fyziky (v – rýchlosť, s – dráha, t – čas potrebný na prejdenie dráhy).
+
+
+
+Pôvodná rýchlosť auta je 60 km/h.
+
+Úlohu vyriešime pomocou rovnice. Použijeme znova poznatky z fyziky, kde sa na výpočet dráhy používa vzo- rec s = v · t.
+Ak chceme vypočítať čas kamarátky, musíme poznať aj môj čas, aj dráhu (km) a rýchlosť (km/h).
+Môj čas nepoznáme, preto ho označíme neznámou x. Kamarátka meškala, preto jej čas je kratší o pol hodi- ny x – 0,5.
+Dráha, ktorú prejdem za čas x (h) pri rýchlosti 6 km/h je 6 · x (km).
+Dráha, ktorú prejde kamarátka za čas x – 0,5 (h) pri rýchlosti 8 km/h, je 8 · (x – 0,5) (km).
+Naše dráhy sa majú rovnať, preto riešime rovnicu 6
+
+
+
+
+
+Skúška:
+Moja dráha za 2 hodiny je 6 · 2 = 12 km. Dráha kamarátky za 1,5 hodiny (mala 30 minút meškanie, čo je pol hodina) je 8 · 1,5 = 12 km. Dráhy sa rovnajú, riešenie je správne.
+
+Nová rýchlosť:
+
+Nová rýchlosť je 72 km/h.
+
+12 minút vyjadríme v hodinách:
+12 : 60 = 0,2
+12 minút je 0,2 hodiny
+
+Kamarátka ma dobehne za 1,5 hodiny.
+Niektorí z vás majú radi tabuľky.
+Ukážeme si tabuľku  vhodnú  na  zostavenie  rovnice k úlohe 9.
+
+Rozdiel rýchlostí je 72 – 60 = 12.
+Ak chce otec prísť na chatu o 12 minút skôr ako zvy- čajne, musí priemernú rýchlosť auta zvýšiť o 12 km/h.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+105
+
+
+
+
+Ak chceme vypočítať, o koľko hodín sa vlaky stretnú, znovu budeme uvažovať o dráhach. Ak sa vlaky majú stretnúť a
+idú oproti sebe, prejdú dráhy, ktoré sa spolu budú rovnať vzdialenosti oboch miest, t. j. 96 km. Dráhy vypočítame ako súčin času a rýchlosti vlakov (podľa vzorca s = v · t).
+Čas, ktorý oba vlaky pôjdu, nepoznáme. Označíme ho neznámou x.
+Keďže vlaky odišli z miest o tej istej hodine, čas, ktorý pôjdu, bude rovnaký. Dráha rýchlika	140 · x (km)
+Dráha osobného vlaku	60 · x (km)
+Vlaky idú oproti sebe a majú sa stretnúť, takže riešime rovnicu:
+140 · x + 60 · x = 96
+Riešením je x = 0,48 hodiny, čo je 0,48 · 60 minút = 28,8 minút. Skúška:
+Dráha rýchlika je 140 · 0,48 = 67,2 km. Dráha osobného vlaku je 60 · 0,48 = 28,8 km.
+Súčet dráh rýchlika a osobného vlaku je 67,2 + 28,8 = 96 km, čo je vzdialenosť medzi mestami A a B.
+Riešenie je správne, vlaky sa stretnú o 0,48 h, t. j. za 28,8 min. Ukážeme si tabuľku vhodnú na zostavenie rovnice k úlohe 11.
+
+čas trýchlosť vdráha s = v · trýchlikx140 km/h140 · xosobný vlakx60 km/h60 · xspolu96
+
+Znovu počítame dráhy. Vidíme, že súčet dráh oboch autobusov bude
+vzdialenosť medzi mestami Košice a Žilina, a to 269,2 km.
+Čas autobusu zo Žiliny označíme ako neznámu x. Čas autobusu z Košíc bude o 1,5 hodiny kratší, lebo autobus vyšiel z Košíc až o 8:30 h (zo Žiliny o 7:00 h). Na riešenie použijeme tabuľku.
+
+
+
+pokracˇovanie
+
+Riešenie 12.   pokracˇovanie	
+Súčet dráh nám umožní zostaviť rovnicu: 84 · x + 95 · (x – 1,5) = 269,2.
+Riešením rovnice je x = 2,3 hodiny, čo je 2 hodiny a 18 minút (0,3 · 60 minút). Vypočítali sme čas, za ktorý sa stretnú.
+Máme určiť, o ktorej hodine sa stretnú: keďže 2 hodiny a 18 minút je čas autobusu zo Žiliny, pričítame ho k hodine štartu autobusu zo Žiliny:
+7 hodín a 0 minút + 2 hodiny a 18 minút = 9 hodín a 18 minút
+Pri skúške správnosti riešenia úlohy vypočítame zároveň vzdialenosť od Košíc: Dráha autobusu zo Žiliny je 84 · 2,3 = 193,2 km.
+Dráha autobusu z Košíc je 95 · (2,3 – 1,5) = 95 · 0,8 = 76 km.
+Dráhy autobusov spolu sú 193,2 + 76 = 269,2 km, čo je vzdialenosť z Košíc do Žiliny. Takže riešenie úlohy je správne.
+Autobusy sa stretnú 76 km od Košíc o 9:18 h.
+
+
+
+
+V úlohách, v ktorých pracujú všetci spolu, väčšinou počítame, koľko práce urobia za 1 hodinu.
+Za 1 hodinu žiaci 9. ročníka zasadia    stromčekov. Žiaci 8. ročníka za 1 hodinu zasadia    stromčekov.
+Ak budú pracovať spolu, tak za 1 hodinu zasadia     +     stromčekov. Ak budú pracovať x hodín, zasadia stromčekov. Potom majú „urobenú celú prácu“, čo je 1 celá. Riešime teda rovnicu:  .
+
+Vyriešime zátvorku, zlomky upravíme na spoločného menovateľa.
+
+
+
+
+
+
+
+
+Riešením je   hodiny.
+Skúška:
+Deviataci zasadia za     hodiny     stromčekov. Ôsmaci zasadia za    hodiny     stromčekov. Spolu zasadia za	hodiny	celok = všetky stromčeky.
+
+
+
+
+Počet vriec nám pomôže určiť počet žiakov.
+Ak bolo päťkilových vriec x kusov, tak žiakov 6. ročníka bolo x.
+Trojkilových vriec bolo 30 – x kusov, takže žiakov 5. ročníka bolo 30 – x.
+V päťkilových bolo 5 · x kg gaštanov.
+V trojkilových bolo 3 · (30 – x) kg gaštanov.
+Spolu nazbierali 120 kg gaštanov, takže rovnica je: 5 · x + 3 · (30 – x) = 120
+
+
+Skúška:
+V päťkilových vreciach bolo 5 · 15 = 75 kg.
+V trojkilových vreciach bolo 3 · (30 – 15) = 45 kg.
+Spolu bolo vo vreciach (75 + 45) kg = 120 kg gaštanov.
+Riešenie je správne.
+Žiakov 6. ročníka bolo x, to znamená 15.
+Žiakov 5. ročníka bolo 30 – x = 30 – 15, to znamená 15.
+
+
+
+
+Prvú sobotu vyčistili jednu tretinu z trasy dlhej 12,6 km:
+  km, alebo počítame 12,6 : 3 = 4,2 km
+Zostalo potom vyčistiť 12,6 – 4,2 = 8,4 km. Druhú sobotu vyčistili tri štvrtiny z 8,4 km:
+  km, alebo počítame (8,4 : 4) ∙ 3 = 6,3 km
+Takže im ostalo vyčistiť: 12,6 – 4,2 – 6,3 = 2,1 km.
+Zelenej hliadke zostalo vyčistiť na tretiu marcovú sobotu 2,1 km
+turistickej trasy.
+
+
+Podobnú úlohu sme už riešili. V tabuľke vyjadríme množstvo práce, koľko urobí syn a koľko otec za hodinu.
+sám zaza 1 deň vykonáza x dní vykonáza x dní vykonajú spolusyn3 dni  práce  práce  práce
+Edo
+5 dní  práce  prácePoužijeme rovnicu  . Jej riešenie ponecháme na teba. Ak si riešil rovnicu správne, dostaneš   .
+Skúška:
+Syn za    dní vykoná     práce.
+Edo za    dní vykoná   práce. Spolu vykonajú za    dní    práce.
+Riešenie úlohy je správne.
+Dni vyjadríme v hodinách:    dňa =    dňa =    h = 15 h
+Spolu im to bude trvať 15 hodín.
+
+
+
+Úlohu budeme riešiť pomocou rovnice.
+Počet kartičiek je neznámy, použijeme neznámu x.
+1. kamarátovi dal tretinu	      zostali mu dve tretiny (zvyšok)
+2. kamarátovi dal polovicu zo zvyšku
+
+
+Zostalo mu 12 kartičiek.
+
+Celkový počet kartičiek je x, takže použijeme rovnicu	.
+
+
+
+
+pokracˇovanie
+
+
+Skúška:
+1. kamarátovi dal    kartičiek.
+2. kamarátovi dal    kartičiek. Rozdal teda 12 + 12 = 24 kartičiek.
+Spolu 12 + 12 + 12 = 36.
+Riešenie je správne. Jano rozdal 24 kartičiek.
+
+
+
+
+
+
+
+
+
+Riešenie 20.	
+Riešenie urobíme pomocou rovnice. Tú zostavíme pomocou tabuľky. Dokončenie riešenia a skúšku ponecháme vám.
+
+bicyklepočetcena za jeden kuscena za predané kusy1. druhx210 €210 · x2. druh12 – x350 €350 · (12 – x)spolu2 940
+Použijeme rovnicu 210 · x + 350 · (12 – x) = 2 940 Riešením je x = 9.
+Lacnejšieho druhu sa predalo 9 kusov, drahšieho 3 kusy. Objednať treba lacnejšie bicykle.
+
+
+
+
+
+
+Slovná úloha sa volá slovná asi preto, že obsahuje veľa slov.
+A to sa hovorí: „Hovoriť striebro, mlčať zlato.“
+
+Zisti, prečo sa niektoré úlohy volajú slovné. Hľadaj odpovede aj u svojich spolužiakov.
+
+
+
+
+22. VÝLET
+Na výlete v Bojniciach bolo 23 žiakov 9. ročníka z Ko- márna. S nimi išla triedna učiteľka a rodičia Kováčovci so svojimi dcérami – dvojičkami vo veku 5 rokov.
+Koľko eur zaplatili za celý výlet?
+• Pri dennom vstupe viac ako 20-člennej skupiny na Bojnický zámok má jedna dospelá osoba vstup zdar- ma. Okrem toho vybavili „rodinný lístok“ pre dve do- spelé osoby (muž a žena) a jedno dieťa v cene 11 eur. Ostalo zodpovedať otázku:
+„Koľko eur stálo vstupné?“
+• Zistili, že do Bojníc nemajú priame spojenie, ani au- tobusové, ani vlakové. Bude lepšie ísť autobusom zo súkromnej prepravnej firmy. Najkratšia vzdialenosť Komárno – Bojnice im vyšla 145 km.
+Z výletu – z prehliadky zámku chceli žiaci pre triednu učiteľku urobiť malý fotoalbum. K nákladom na výlet tre- ba ešte pripočítať použitie dvoch fotoaparátov.
+Okrem počtu  najazdených  kilometrov  musia  počítať s týmito výdavkami: parkovné, stojné, diéty pre vodiča, mýtne, resp. diaľničné poplatky. Záleží od konkrétnej jazdy, a tak sa na konečnej cene treba dohodnúť. Zá- kladný cenník, ktorý žiakom poslali, obsahoval len dva údaje: 0,45 €/1 km jazdy, 7 €/1 h stojné. Ostatné vý- davky im firma nebude účtovať. Už je možné vypočítať náklady na cestovné?
+Pozor: Všetci žiaci 9. ročníka majú 14 alebo 15 rokov.
+V Bojniciach strávili celkove 3 hodiny.
+
+
+Vstupné do expozícií – nočná prehliadka
+Dospelí	6,70 €
+Deti a mládež do dovŕšenia 18 rokov /
+len JÚL a august 	5,00 €
+
+Príplatky k vstupnému
+Za použitie fotoaparátu	2 €
+Za použitie videokamery	5 €
+Za lektorský výklad v cudzom jazyku
+okrem anglického a nemeckého za 1 výpravu	13,30 €
+
+Vstupné do expozícií – denné prehliadky
+Dospelí 1 osoba	5,70 €
+Deti od dovŕšenia 6 rokov do dovŕšenia 15 rokov	2,90 €
+Deti od dovŕšenia 3 rokov do dovŕšenia 6 rokov	0,70 €
+
+Na záver: Ak išli priemernou rýchlosťou 80 km/h, ako dlho trval celý výlet?
+Riešenie 22.	
+Vstupné:
+Žiaci	23 · 2,90 =	66,70 €
+Dospelí a deti	1 dospelý	bezplatne
+2 dospelí a 1 dieťa	11,00 €
+1 dieťa	0,70 €
+Fotoaparáty 2:	2 · 2,00 = 4,00 €
+Doprava:
+Jazda	145 · 2 · 0,45 = 130,5 €
+Stojné	3 · 7,00 = 21,00 €
+
+Spolu:	233,90
+Za výlet zaplatili 233,90 €.
+Celý výlet trval približne 7 hodín, lebo: (145 · 2) : 80 + 3 = 6,625
+Čas 6,625 h zaokrúhlime na 7 hodín.
+
+
+Riešenie 23.	
+a) Jurajove korčule stáli 45 €.
+Andrejove korčule stáli o polovicu viac ako Jurajove: 45 + 45 : 2 = 45 + 22,5 = 67,50 €.
+
+b) Spolu mali chlapci za korčule zaplatiť 45 + 67,5 = 112,50 €.
+Zľava:
+100 %	.... 112,50 €
+1 %	.... 112,50 : 100 = 1,125
+10 %	.... 1,125 ∙ 10 = 11,25
+Zľava by bola 11,25 €.
+Polovica pre každého by bola:
+11,25 : 2 = 5,625 €.
+
+Juraj
+100 %	... 45 €
+1 %	... 45 : 100 = 0,45 €
+5 %	... 0,45 ∙ 5 = 2,25 €
+Juraj by ušetril 2,25 €.
+Andrej
+100 %	... 67,50 €
+1 %	... 67,50 : 100 = 0,675 €
+10 %	... 0,675 ∙ 10 = 6,75 €
+Andrej by ušetril 6,75 €.
+Pretože polovica zo spoločného nákupu by bola 5,625 eur, pre Andreja by bol spoločný nákup nevýhodný.
+
+c) Rukavice
+100 %	... 8,70 €
+1 %	... 8,70 : 100 = 0,087
+95 %	... 0,087 ∙ 95 = 8,265 €
+Ak by Juraj kupoval korčule zvlášť, nemal by dostatok peňazí na rukavice:
+50 – 42,75 = 7,25 € < 8,265 €.
+Ako by to bolo s Andrejom, vypočítaj samostatne.
+
+  Vyskúšajte sa	
+V každej úlohe je len jedna z uvedených možností správna.
+
+1. Ak zväčšíme číslo o 30, dostaneme číslo, ktoré je štyrikrát väčšie ako pôvodné. Pôvodné číslo bolo:
+6	40	10	5
+2. Ak zmenšíme číslo o 15, dostaneme číslo trikrát menšie ako pôvodné. Pôvodné číslo bolo:
+
+7,5
+
+3,75
+
+45	22,5
+
+3. Erika má 126 €. Renáta má len tretinu z toho, čo Erika a Hanka o 12 € menej ako Renáta. Hanka potom má:
+
+30 €
+
+42 €
+
+12 €
+
+72 €
+
+4. Fero má kredit na mobil 27 € na 300 minút. Mobil požičal kamarátovi s tým, že mu zaplatí za pretelefonované minúty. Kamarát v stredu pretelefonoval 12 minút, vo štvrtok 6 minút, v piatok 15 minút. Kamarát má Ferovi za tieto tri dni zaplatiť:
+
+2,97 €
+
+3,66 €
+
+10,8 €
+
+13,5 €
+
+5. Pri akej rýchlosti prejdeme na korčuliach 15 km za 10 minút?
+
+150 km/h
+
+45 km/h
+
+90 km/h
+
+50 km/h
+
+6. Ak ideme rýchlosťou 4,5 km/h, koľko prejdeme za 20 minút?
+
+1,5 km
+
+3,5 km
+
+9 km
+
+45 km
+
+7. Táňa a Marta sa  stavili,  že  prídu  na  kolieskových  korčuliach  do  školy.  Táňa  trasu  z  domu  do  ško-  ly dlhú 2 700 m prešla za 18 minút, Marta trasu z domu do školy dlhú 3 600 m prešla tiež za 18 minút.        O koľko km/h mala Táňa menšiu rýchlosť ako Marta?
+
+3 km/h
+
+9 km/h
+
+12 km/h
+
+0,3 km/h
+
+8. Róbert požičal Adamovi zo svojich úspor tri štvrtiny, čo bolo 48 €. Róbertovi ešte ostalo:
+
+12 €
+
+64 €
+
+16 €
+
+24 €
+
+9. Obchodník musel dať jednu pätinu zisku do pokladne a zo zvyšku zisku jednu polovicu do banky. To, čo mu ostalo, použil na nákup nového tovaru. Ak bol zisk 1 200 €, ostalo mu:
+
+240 €
+
+480 €
+
+720 €
+
+600 €
+
+10. Mám 24,60 €. Na oslavu svojich narodenín chcem kúpiť dva druhy zákuskov. Veterníky stoja 1,80 €, dobošky 0,60 €. Každému hosťovi chcem dať obidva zákusky. Koľko hostí môžem pozvať?
+
+10 hostí
+
+11 hostí
+
+12 hostí
+
+13 hostí
+
+
+11. Ak sa má zlomok	rovnať číslu 0, potom n sa rovná:
+12	15	3	0
+12. Ak je 20 % z môjho vreckového 6,80 €, moje vreckové je:
+
+68 €
+
+13,60 €
+
+40,80 €
+
+34 €
+
+13. Ak mám dnes dvakrát toľko rokov, ako moja sestra pred 4 rokmi, tak mám dnes:
+4	8	12	16
+
+14. Jeden záhradník by pokosil záhradu za 4 hodiny. Druhý záhradník by ju pokosil za 3 h. Ak by kosili spolu, koľko by im to trvalo?
+12 h	h	7 h	h
+
+15. Susedia by naplnili bazén jedným prítokom vody za 3,5 h, druhým za 6,3 h. Za koľko hodín by susedia naplnili bazén, ak by boli obidva prítoky otvorené?
+
+4,9
+
+2,25
+
+1,4
+
+2,80
+
+Slovné úlohy riešené nerovnicami
+
+
+
+Vypíšme všetky možnosti, ktoré platia pre kamarátov.
+Juraj mohol byť na zájazde alebo 11 dní, alebo 12 dní, alebo 13 dní, alebo 14 dní.
+Tomáš mohol byť menej ako 16 dní, alebo 15 dní, alebo 14 dní, alebo 13 dní, alebo 12 dní, alebo 11 dní, alebo 10 dní... Dušan mohol byť na dovolenke alebo 9 dní, alebo 10 dní, alebo 11 dní.
+Podľa týchto údajov mohli byť na dovolenke s rodičmi všetci traja 11 dní.
+
+
+
+8910	11	12	13141516
+Tomáš (vyznačili sme len časť riešenia):
+
+Dušan:8910	11	12	131415168910	11	12	13141516
+
+
+
+
+
+
+
+
+
+
+Najprv čísla, ktoré sú riešením úlohy vypíšeme a potom utvoríme nerovnicu. Pri riešení úlohy používame znaky nerovnosti a neznámu x.
+a) Zadanie úlohy upravíme tak, aby sme mali menšie číslo zľava a väčšie sprava. Potom budeme hľadať všetky prirodzené čísla väčšie ako 7 a menšie ako 12. Sú to čísla 8, 9, 10, 11.
+Platí	7 < 8, 9, 10, 11 < 12
+7 <	x	< 12
+Nerovnica je 7 < x < 12, kde x je prirodzené číslo.
+b) Medzi číslami – 6 a 2 (vrátane týchto čísel) sú celé čísla – 6, – 5, – 4, – 3,– 2, – 1, 0, 1, 2.
+Platí	– 6 6 – 6, – 5, – 4, – 3, – 2, – 1, 0, 1, 2 1 2
+– 6 6	x	x 2
+Nerovnica je – 6 – x x 2, kde x je celé číslo.
+c) Medzi číslami – 7,2 a +4,6 sú celé čísla – 7, – 6, – 5, – 4, – 3, – 2, – 1, 0, +1, +2, +3, +4.
+Platí	– 7,2 < – 7, – 6, – 5, – 4, – 3, – 2, – 1, 0, 1, 2, 3, 4 < +4,6
+– 7,2 <	x	< +4,6
+Nerovnica je – 7,2 < x < +4,6, kde x je celé číslo.
+d) Také čísla neexistujú.
+Nerovnice sú dve	5,2 < x	a	x < 2,5.
+
+
+Najprv vypíšeme prirodzené čísla podľa úlohy menšie alebo väčšie ako uvedené čísla. Potom z nich vyberieme čísla podľa znakov deliteľnosti.
+a) Riešením sú čísla 10, 8, 6, 4, 2.
+b) Riešením sú čísla 12, 15, 18.
+c) Riešením sú čísla 36, 32, 28, 24, 20, 16, 12, 8, 4. Je ich 9.
+Úlohy sme mohli riešiť aj pomocou číselnej osi. Pomocou číselnej osi ich vyrieš samostatne.
+
+
+
+Ukážeme si riešenie úloh nerovnicami.
+a) Použijeme nerovnicu, v ktorej počet eur je vyjadrený neznámou x. x x 15 · 0,20
+x   3	Musím mať aspoň 3 €.
+b) Použijeme nerovnicu, v ktorej počet dvojeurových mincí je vyjadrený neznámou x.
+Počet musí byť prirodzené číslo. 2 · x x 6 · 1,20
+x   3,60	Musím mať aspoň 4 dvojeurové mince.
+c) Použijeme nerovnicu, v ktorej počet päťeurových bankoviek je vyjadrený neznámou x.
+Počet musí byť prirodzené číslo. 5 · x x 8 · 2,05
+x   3,28	Musím mať aspoň 4 päťeurové bankovky.
+
+  Vyskúšajte sa	
+V každej úlohe je len jedna z uvedených možností správna.
+1. Prirodzené číslo väčšie ako 8,5 a menšie ako 9,5 je:
+A  8	B  8,5	C  7,5	D 9
+2. Prirodzené číslo menšie alebo rovnajúce sa číslu 6,2 a väčšie ako    je:
+A  6	B  7	C  5	D 8
+3. Prirodzené číslo deliteľné číslom 3 a menšie ako 12 je:
+A  12	B  11	C  10	D 9
+4. Danka má menej pier ako Hanka, ktorá ich má 8. Má ich však viac ako Janka, ktorá ich má 5. Danka môže mať:
+A  8 pier	B  5 pier	C  7 pier	D 13 pier
+5. Filip má menej eur ako Dano, ktorý ich má menej ako 10. Má ich však viac ako Juraj, ktorý ich má viac ako 5. Filip môže mať:
+A  7 €	B  10 €	C  5 €	D 15 €
+6. Na zaplatenie 10 žemlí po 0,45 eur potrebujem aspoň:
+A  5 €	B  3 €	C  4 €	D 6 €
+7. Najmenej koľko dvojeurových mincí potrebujem na nákup 15 rožkov po 25 centov?
+A  3	B  4	C  5	D 2
+
+
+
+
+
+
+
+
+  4.1 Osová súmernosť, os súmernosti. Konštrukcia obrazu v osovej súmernosti
+
+Vystrihnite niekoľko pekných tvarov na odkazy.
+Vezmite hárok papiera, zložte ho na polovicu a potom vystrihnite tvar, aký sa vám páči. Tým, že papier preložíte na polovicu, získate pravidelný – súmerný tvar.
+Tu je niekoľko jednoduchých vzorov. Čiarkovaná čiara je na mieste, kde je papier preložený.
+
+
+O všetkých týchto tvaroch hovoríme, že sú osovo súmerné.
+Čiarkovaná čiara (zohnutie papiera na polovice) je os súmernosti vystrihnutých tvarov.
+
+Osovo súmerné sú aj niektoré slová alebo mená.
+Napríklad slovo HOD je osovo súmerné.	Meno OTO je osovo súmerné.
+
+HOD	OTO
+
+Osovo súmerný útvar sa skladá z dvoch zhodných častí oddelených priamkou – osou súmernosti. Ak takýto útvar vystrihneme a preložíme pozdĺž osi, zložené časti sa musia prekrývať.
+
+Os súmernosti označujeme zvyčajne o.
+Ak má útvar viacero osí súmernosti, označujeme ich napr. o1, o2, o3, ...
+
+
+
+
+
+
+
+
+obdĺžnik	rovnostranný	štvorec	kosodĺžnik trojuholník
+Riešenie 1.	
+Ak má byť útvar osovo súmerný, musí mať os súmernosti.
+Hľadáme priamku, ktorou sa dajú dané útvary rozdeliť na dve zhodné časti, ktoré sa prekrývajú. A tiež, či je viac takýchto spôsobov.
+
+
+o1	1
+obdĺžnik	rovnostranný	štvorec	kosodĺžnik trojuholník
+
+• Obdĺžnik je osovo súmerný, má dve osi súmernosti.
+• Rovnostranný trojuholník je osovo súmerný, má tri osi súmernosti.
+• Štvorec je osovo súmerný, má štyri osi súmernosti.
+• Kosodĺžnik nie je osovo súmerný. Dá sa síce rozdeliť na dva rovnaké kosodĺžniky, ale preložením podľa priamky p sa vzniknuté časti neprekryjú.
+
+
+
+
+
+
+
+
+
+
+
+
+Riešenie 2.	
+Úlohu môžeme vyriešiť tak, že útvary nakreslíme na výkres. Potom vystrihneme tie, ktoré sa dajú vystrihnúť. Pokúsime sa zložiť ich na polovice tak, aby sa prekrývali.
+Osovo súmerné sú:
+úsečka, priamka, rovnoramenný trojuholník, kosoštvorec, rovnoramenný lichobežník, kruh, kružnica.
+
+• Úsečka má dve osi súmernosti.
+• Priamka má nekončený počet osí súmernosti.
+• Rovnoramenný trojuholník má jednu os súmernosti.
+• 
+Kosoštvorec má dve osi súmernosti.
+• Rovnoramenný lichobežník má jednu os súmernosti.
+• Kruh a kružnica majú nekonečný počet osí súmernosti.
+
+Úloha sa dá riešiť aj jednoduchou úvahou, ak vieme presne opísať daný útvar a jeho vlastnosti.
+
+o1
+
+
+  3. Na obrázku sú kresby, ktoré pripomínajú kvety. Zisti, či sú osovo súmerné. Osi súmernosti nakresli.
+
+
+
+		
+Riešenie 4.	
+Úloha sa dá riešiť jednoduchou úvahou tak, že opíšeme z akých útvarov sa postavičky skladajú a potom presne
+opíšeme daný útvar a jeho vlastnosti. Všetky sú osovo súmerné.
+
+
+Ako narysovať útvar tak, aby bol osovo súmerný?
+Útvar je osovo súmerný podľa osi o, ak s každým bodom A obsahuje aj jeho obraz A'.
+
+Riešenie 6.	
+Riešenie úlohy je jednoduché. Zmeriame strany trojuholníkov a zostrojíme ich pomocou pravítka a kružidla. Potom pridáme k danému trojuholníku ten istý trojuholník. Môže vzniknúť viac riešení. Na obrázkoch sú ukážky.
+b)
+
+
+
+Riešenie 8.	
+Použijeme os súmernosti o, pravítko s ryskou a kružidlo. Označíme vrcholy hviezdičky A, B, C, D, E, F.
+Na druhej strane osi k nim nájdeme osovo súmernú dvojicu. Dvojicu ku každému bodu označíme pomocou čiarky:
+A´, B´, C´, D´, E´, F´.
+Použijeme kolmice na os súmernosti a kružnicové oblúky,
+aby sme zachovali vzdialenosti – dĺžky...
+Kružnicový oblúk má stred v priesečníku osi súmernosti	C
+a kolmice vedenej z vrcholu.
+Body A, B, C, D, E, F nazývame vzory.
+Body A´, B´, C´, D´, E´, F´ nazývame obrazy.
+Body B, B´; C, C´; D, D´ a E, E´ nazývame súmerne združené podľa osi súmernosti o, alebo len osovo súmerné.
+Body A ≡ A´ a F ≡ F´, ktoré ležia na osi o, nazývame samodružné,
+vzor a obraz splývajú, sú totožné.
+
+
+
+
+
+
+
+
+
+
+
+Narysujeme trojuholník ABC (vzor) pomocou pravítka a kružidla. Naznačíme os súmernosti – priamku AB.
+Zostrojíme obrazy bodov A, B, C
+v osovej súmernosti podľa priamky AB.
+Body A ≡ A´ a B ≡ B´ sú samodružné, platí, že vzor a obraz sú totožné.
+Obraz bodu C, bod C´ zostrojíme pomocou kolmice na os súmernosti a kružnicového oblúka, aby sme zachovali vzdialenosti.
+
+
+
+
+
+
+V osovej súmernosti je bod A´ obrazom vrcholu A, bod B´ obrazom vrcholu B a C´ je obrazom vrcholu C. Obraz A´B´C´ trojuholníka ABC obsahuje obrazy všetkých bodov trojuholníka ABC a žiadne iné.
+
+14.   Ktoré z arabských a rímskych číslic sú osovo súmerné?	
+
+
+
+
+
+o
+M	C
+
+B	U
+K	N
+H	G
+
+E	F
+D	I	P
+	
+A	R
+	
+
+
+vzorBCFKPRobraz
+
+
+
+
+
+4.2 Stredová súmernosť, stred súmernosti. Konštrukcia obrazu v stredovej súmernosti
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stredovo súmerné sú napríklad útvary ako úsečka, štvorec a obdĺžnik.
+
+Prečo?
+
+Majú stred súmernosti. Označme ho písmenom S. Čo o ňom platí?
+Platí:
+PASA = =SA´S, ,BSB = =SB´S, ,KSK = =SK´S, ,XSX = =SX´S,
+
+
+
+A S	A´
+
+
+
+
+
+Stredovo súmerné sú aj tieto útvary a ako vidíme, niektoré z nich môžu byť aj osovo súmerné.
+
+
+
+
+
+Ako zostrojíme stredovo súmerné útvary?
+
+
+
+Narysujeme úsečku AB. Vedľa nej zvolíme bod S.
+Z koncových bodov úsečky vedieme cez bod S priamky AS a BS.
+Nakoniec kružidlom nanesieme vzdialenosti AS a BS z bodu S na opačné strany, za bod S.
+
+
+Narysujeme N ABC a bod S, ktorý leží mimo neho. Postupne zostrojíme obrazy A´, B´, C´ bodov A, B, C, v stredovej súmernosti podľa stredu S.
+Trojuholník ABC sa zobrazil do trojuholníka A´B´C´.	B´
+Platí:   PASA = =SA´S	C	A´
+ABSB =  SB´S
+SCSC =  SC´S
+
+S
+
+C´
+A	B
+
+K	A
+
+M
+R	C
+
+B	H
+
+S
+U	F
+
+G
+Ó
+J	D
+Odpoveď:
+vzorBCGHJobraz
+Symetria a počítanie s číslami
+Tento zdvojený roháčik – doplňovačka je vlastne ukážkou osovej symetrie.
+Vypĺňa sa smerom zľava doprava – vodorovne. Vnútorná najhrubšia čiara nahradzuje desatinnú čiarku. Číslice jednotlivých výsledkov sa zapisujú do každého štvorčeka zvlášť.
+1. 0,5 + 0,6 =	2. 31,4 + 0,83 =	3. 104,39 + 92,301 =	4. 2 153,402 1 + 901,048 2 =
+
+
+
+
+
+
+4.
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Zapamätajte si	
+
+ Vyskúšajte sa – opakovanie	
+Na záver 1. časti učebnice uvádzame také úlohy, ako ste riešili v predchádzajúcich kapitolách.
+Z nich je 7 s výberom odpovede a 7 s krátkou odpoveďou, teda podobné, aké sa nachádzjú v testoch celoslovenské- ho testovania žiakov 9. ročníkov ZŠ.
+
+1. Ktorý z uvedených výrazov má hodnotu menšiu ako 100,001?
+A  6,3 . 103 + 5 . 101 – 5,9 . 102 – 0,08 . 100	B   0,25 . 104 – 0,3 . 103 + 1,2 . 100 – 6,1 . 102
+C   6 . 102 – 0,32 . 103 + 0,01 . 101 – 0,01 . 104	D   4,5 . 102 – 0,2 . 103 – 0,015 . 104  + 3 . 101
+2. Nech je x je reálne číslo. Potom riešenie nerovnice 5x – 3 – 2 . (x + 8) + 5 je znázornené na číselnej osi:
+ A
+
+
+
+ B
+
+
+
+ C
+
+
+
+ D
+
+
+3. Pre riešenie rovnice 2 · (3x – 4) – 3x = x – (3x – 2) platí:
+A  je to nepárne číslo	B je väčšie alebo sa rovná číslu 2
+C  je to číslo deliteľné 4	D je to záporné číslo
+
+4. Rovnica    má také isté riešenie ako rovnica:
+ A                                          B
+ C  	  D 
+
+5. Pre riešenie rovnice    platí:
+A  x = 6, x   2	B  x = 6, x   0,5	C  x = 6, x   –0,5	D x = 6, x x – 2
+
+6. VESMÍR
+Medzinárodná vesmírna stanica ISS obletí raz okolo Zeme za 92 minút. Približne koľko obletov vykoná ISS za deň? Výsledok zaokrúhlite na dve desatinné miesta.
+A  17,35	B 16,18	C 15,65	D 14,32
+
+7. RÝCHLOSŤ A ŠKOLA
+Juraj a jeho sestra chodia do tej istej školy po tej istej trase. Častokrát idú na kolieskových korčuliach.
+Juraj ide zvyčajne priemernou rýchlosťou 8 km/h, jeho sestra rýchlosťou 12 km/h. Vzdialenosť medzi školou a ich domom je 2 400 m. O koľko minút neskôr príde Juraj zo školy domov ako jeho sestra, ak vyrazia naraz?
+A  o 4 minúty	B  o 18 minút	C  o 12 minút	D o 6 minút
+
+
+8. RÝCHLOSŤ A ZÁHRADA
+Filip by malý záhradný bazén vyčistil sám za 4 hodiny. Spolu so sestrou by ho vyčistili za 3 hodiny. Za koľko hodín by Filipova sestra vyčistila bazén sama?
+
+9. ZÁHRADA
+Na obrázku je záhrada tvaru rovnoramenného lichobežníka s vyznačenými chodníkmi spájajúcimi protiľahlé strany. Chodníky majú byť široké 1 meter. Chcú ich vydláždiť zámkovou dlažbou.
+Vypočítajte, akú plochu treba vydláždiť. Výsledok zaokrúhlite na dve desatinné miesta.
+20 m
+40 m
+
+10. Zostrojte trojuholník ABC, ak je daná strana c = 4,5 cm, ťažnica na stranu c je tc = 3 cm a   ABCA = 606. Zmerajte stranu a, jej dĺžku uveďte v mm.
+
+11. Vypočítajte dĺžku ramena BC v pravouhlom lichobežníku ABCD, ak je dané:
+dABA = 12,5 cm, =CDC = 3,5 cm, =ADA = 6 cm, = DABD = 90=. Výsledok zaokrúhlite na dve desatinné miesta.
+12. Na jednej štvrtine pozemku je dom, na jednej tretine zvyšku pozemku je zeleninová záhrada. Zvyšok pozemku (140 m2) je pokrytý dlažbou. Aká je celková výmera pozemku?
+Výsledok zaokrúhlite na dve desatinné miesta a uveďte v m2.
+
+13. Dosaďte dané hodnoty do vzorca a  vypočítajte neznámu d:	,
+S = 12,3, a = 12, b = 35, c = 0,16, v = 0,5.
+
+14. HÁDALI SA TRAJA HRÁČI Jeden z nich povedal:
+„Ak ty máš viac ako 99 toliarov a ja mám menej ako 101 toliarov, tak máme rovnako.“
+Druhý povedal:
+„Ak ty máš menej ako 101 toliarov a tretí z nás má menej ako ty a viac ako ja, potom máme rovnako.“ Tretí sa spýtal: „Tak koľko toliarov máme spolu?“
+Zistite to.
+
+
+
+
+
+
+
+
+
+1 Mocniny a odmocniny, zápis veľkých čísel
+1.1 Druhá a tretia mocnina
+
+4. a) 121 cm2	b)  0,280 9 dm2	c) 91 204 mm2
+7. a) V = 729 cm3, S = 486 cm2	b) V = 0,001 728 dm3, S = 0,086 4 dm2	c) V = 15 625 mm3, S = 3 750 mm2
+11. a) 441; 22,09; 0,828 1;                            b) 2 025; 3,24; ; 
+14. a) 1 331; 0,343; 1,728;                                   b) – 0,064; –24,389;   ; 
+
+16. a) 0,33 > 0,092
+18.* a) 48
+19.b) 172 > (–21)3
+
+b) 0c) 5,13 > (–7,1)2
+
+c) 0,08d)
+
+d) a)
+b)a– 0,4– 0,3– 0,20,20,30,4a20,160,090,040,040,090,16a3– 0,064– 0,027– 0,0080,0080,0270,064
+c)a
+
+
+
+
+
+a2
+
+
+
+
+
+a3
+
+
+
+
+
+20. a) 144 = 122; 0,25 = 0,52;	; 6 400 = 802	b) 64 = 43;	; 0 = 03; –1 = (–1)3; 0,125 = 0,53
+
+21.*
+
+
+
+
+a3153618363– 20– 14– 12– 4– 2
+
+
+
+
+
+
+
+
+
+
+
+
+22.*
+a)                    b)             c) – (– 2)3 = 23	d) 
+Vyskúšajte sa
+Pravé priateľstvo je len jedno.
+1 P 2 R 3 A 4 V 5 É 6 J 7 E 8 D 9 N 10 O
+
+
+1.2 Mocniny s mocniteľom – prirodzeným číslom
+3. a) 154	b)  (– 0,7)5	c)                                                  d) 
+5.
+
+
+
+
+
+
+
+9. a) 2,73 > 0	b) (– 0,6)4 > 0	c)                                     d) 
+10. a) 34 = (– 3)4	b) (– 1,9)15 = –1,915	c)                        d) 
+11. a) – 200	b) 0,001	c)                                               d) 
+12. a)  – 41	b) 0	c)                                               d) 
+13. (– 2)4 · (– 3)3 = – 432	(– 0,02)2 · (– 0,1)4 = 0,000 000 04
+
+14. a)	b)
+
+
+c)
+
+Vyskúšajte sa
+1 A 2 B 3 B 4 D 5 C 6 B 7 D 8 A 9 A 10 B
+
+Počítanie s mocninami s prirodzeným mocniteľom – rozširujúce učivo
+23.* a)  75 = 16 807	b)  53 = 125	c)  316 = 43 046 721	d)
+25.** a)	b)	c)
+d) e)                                                           f)
+
+1.3 Mocniny čísla 10, predpony a ich súvis s mocninami
+
+2.
+1101001 00010 000100 0001 000 00010 000 000100 000 0001 000 000 0001001011021031041051061071081094. 1 002 304 =
+60 985 321 = 
+132 456 021 = 
+9 780 325 405 = 
+6. 6,731 =
+6,731 = 
+105,3 = 1 · 100 + 0 · 10 + 5 · 1 + 3 · 0,1
+105,3 = 1 · 102 + 0 · 101 + 5 · 100 + 3 · 10–1
+652,34 = 
+652,34 = 
+0,231 056 = 
+0,231 056 = 
+7. a)	26 =	b)	0,2 = 0 · 100 + 2 · 10–1
+547 =                                                           5,74 = 5 · 100 + 7 · 10–1 + 4 · 10–2
+8 509 =                                   20,921 = 2 · 101 + 0 · 100  + 9 · 10–1 + 2 · 10–2 + 1 · 10–3
+36 026 =               328,36 = 3 · 102 + 2 · 101  + 8 · 100  + 3 · 10–1 + 6 · 10–2
+8. a)  2,3 km = 2 300 m	b)	4,29 m = 42,9 dm	c) 6,8 dm = 68 cm
+0,5 km = 5 000 dm	0,8 m = 80 cm	0,8 dm = 80 mm
+0,025 km = 2 500 cm	0,05 m = 50 mm
+9. a) 2,3 km2 = 2 300 000 m2	b)  4,29 m2 = 429 dm2	c) 6,8 dm2 = 680 cm2
+0,5 km2 = 50 000 000 dm2	0,8 m2 = 8 000 cm2	0,8 dm2 = 8 000 mm2
+0,025 km2 = 250 000 000 cm2	0,05 m2 = 50 000 mm2
+d)   0,8 ha = 80 a	e)	45 a = 4 500 m2
+1,2 ha = 12 000 m2
+10. a) 4,29 m3 = 4 290 dm3	b)  6,8 dm3 = 6 800 cm3	c) 0,5 hl = 50 l	d) 4,1 l = 41 dl
+0,8 m3 = 800 000 cm3	0,8 dm3 = 800 000 mm3	2,5 hl = 2 500 dl	0,60 l = 600 ml
+0,05 m3 = 50 000 000 mm3	0,09 hl = 900 cl	0,003 l = 0,3 cl
+
+11. a) 420 m = 0,42 kmb)260 dm = 26 mc) 560 cm = 56 dm2 050 dm = 0,205 km
+310 256 cm = 3,102 56 km1 0260 cm = 102,6 m
+36 560 mm = 36,56 m3 075 mm = 30,75 dm12. a)  36 580 m2 = 0,036 58 km2	b) 30 250 dm2 = 302,5 m2
+4 500 200 dm2 = 0,045 002 km2	106 520 cm2 =10,652 m2
+389 560 280 cm2 = 0,038 956 028 0 km2	560 000 mm2 = 0,56 m2
+
+
+
+
+13.
+
+
+952 cm3 = 0,000 952 m3	650 280 mm3 = 0,650 28 dm3	56 000 dl = 56 hl
+7 450 mm3 = 0,000 007 45 m3	4 580 000 cl = 458 hl
+d)   320 dl = 32 l	e) 350 cl = 35 dl
+4 120 cl = 41,2 l	3 520 ml = 35,2 dl
+10 250 ml = 10,25 l
+
+14.
+a)
+2,65 m =
+= 2 650 mm256 cm =
+= 2 560 mm0,000 625 km =
+= 625 mm5,62 dm =
+= 562 mm526 mm0,652 dm =
+= 65,2 mm6,25 cm =
+= 62,5 mmGRAFITIb)
+3,65 m2 =
+= 3 650 000 mm235 600 cm2 =
+= 3 560 000 mm256,3 dm2 =
+= 563 000 mm253 600 mm20,000 356 a =
+= 35 600 mm2OBRAZc)
+0,785 m3 =
+785 000 cm38 750 cm35,87 dm3 =
+5 870 cm35,78 l = 5 780 cm30,007 58 hl =
+758 cm3STENA15. a)   Jeden meter je viac ako 50 cm.	Áno
+Jeden km je menej ako 1 500 m.	Áno
+10 dm je viac ako 1 000 cm.	Nie
+100 m2 je viac ako 100 dm2.	Áno
+
+b) 100 m2 je menej ako 100 dm.	Áno
+Jeden cm2 je menej ako 1 m2.	Áno
+10 000 dm2 je toľko ako 10 m2.	Nie
+100 000 mm2 je viac ako 100 cm2.	Áno
+
+c) Jeden liter je viac ako 1 dm3.	Nie 100 hl je 10 dm3.	Nie
+1 000 000 cm3  je menej ako 1 l.	Nie
+Jeden m3 je viac ako 10 litrov.	Áno
+
+
+1.4 Zápis veľkých a malých čísel v tvare a · 10n, kde 1 k a < 10, n n N
+2. 1 495 200 m = 1 495,2 km
+3. 100 000 = 105, 1 000 000 = 106, 10 000 000 = 107, 100 000 000 = 108
+5. a)
+b) 
+c) 
+d) 
+10. a) 9 000 000; 40 000 000; 1 000 000 000 000; 8
+b) 65; 73 000; 80 000; 1 900 000
+c) 51 400 000; 3 230 000 000 000; 28 100 000 000; 328 000 000 000
+d) 31 530 000; 215 378 000 000; 258 170 000 000; 32 552 300 000 000
+12.  a) 7 930	d) 15 049
+b) 6 115	e)   128 256,5
+c) 1 206,2	f)    –36 206,1
+13.** B (– 1,6 · 105 – 2,04 · 107) · 102 < A (1,6 · 103 – 2,04 · 105) · 102 < C (0,1 · 101) · (1,012 ·107)
+14.** A (– 9,086 · 104 + 7,041 · 103) : 102 = B (– 0,908 6 · 105 + 0,704 1 · 104) : 102 = C (– 9,086 · 102 + 7,041 · 101) : 100
+Vyskúšajte sa
+1 A 2 C 3 B 4 A 5 B 6 C 7 A 8 B 9 D 10 D
+
+1.5 Počítanie s veľkými a malými číslami, zaokrúhľovanie a odhad výsledku
+
+2. a) Presne: 333 938 743. Odhad: na milióny 334 000 000. Rozdiel: 61 257
+b) Presne: 595 810 944. Odhad: na milióny 596 000 000. Rozdiel: 189 056
+c) Presne: 1,894 291. Odhad: na desatiny 1,9. Rozdiel: 0,005 709
+d) Presne: 2,395 537 398. Odhad: na stotiny 2,40. Rozdiel: 0,004 462 602
+4. a) Presne: 2 763 978 718. Odhad: 2 800 000 000. Rozdiel: 36 021 282
+b) Presne: 4 101 767 596. Odhad: 4 000 000 000. Rozdiel: 101 767 596
+c) Presne: 0,259 1. Odhad: 0,259 1. Rozdiel: 0
+d) Presne: 0,109 800 243. Odhad: 0,1. Rozdiel: 0,009 800 243
+e) Presne: 0,000 269. Odhad: 0,000 269. Rozdiel: 0
+6. a) Presne: 3 900. Odhad: na desiatky 3 300. Rozdiel: 600
+b) Presne: 85 690. Odhad: na desiatky 90 200. Rozdiel: 4 510
+c) Presne: 4,423 2. Odhad: na jednotky 5. Rozdiel: 0,576 8
+d) Presne: 100,52. Odhad: na jednotky 108. Rozdiel: 7,48
+8. a)	–	–
+Presne: 7,1. Odhad: na desiatky 6,5. Rozdiel: 0,61.
+b) –	–
+Presne: 82,520 83. Odhad: na desiatky 79,2. Rozdiel: 3,320 83
+c) Presne: 4,588 6 ... Odhad: na jednotky 4. Rozdiel: 0,588 6 ...
+d) Presne: 2,950 57... Odhad: na desiaťtisíciny 2,888 88.	Rozdiel: 0,061 69
+e) Presne: 6,155 17... Odhad: 6.  Rozdiel: 0,155 17...
+10. Na gymnáziách:     alebo 
+Na stredných odborných školách:     alebo 
+11. I. Radičová: 
+12. a) Škoda Octavia:                   VW Golf:                   b) KIA: 
+1.6 Druhá a tretia odmocnina
+4. a) 12 dm	b) 25 mm	c) 11 m	d) 50 cm	e) 70 m
+6. a) 1 m	b) 2,83 dm (zaokrúhlené na stotiny)	c) 10 cm
+d) približne 2,54 mm	e) 5 m
+8. a) 6, 8, 13, 14, 30, 50, 400	b) 0,3; 0,2; 0,5; 0,8; 0,11; 0,15	c)                      d) 0,4; 0,2; 1; 
+9. a)  0; 1; 10; 100; 1 000	b) 0,1; 0,01; 0,001 c) 
+
+11.a) 4b) – 0,1c) – 0,28d)e)13.A = 0,314.
+
+
+
+17.a) Ánob) Niec) Nied) Niee) Nie19.a) Ánob) Niec) Nie21. a) 9 cm	b) 0,3 dm	c)    m
+23. a) 1; 100; 0,01; 0	b) 0,9; 0,5; 0,07; 0,03	c)
+
+26. a)	b)	c)                d) 
+e)                           f)                                          g)	h)
+Vyskúšajte sa
+1 B 2 R 3 A 4 T 5 I 6 S 7 L 8 A 9 V 10 A
+
+
+2 Pytagorova veta
+2.1 Pytagorova veta – odvodenie a použitie v jednoduchých úlohách
+
+9.
+
+a) Konštrukcia:
+1. AB; ;ABA = 4 cm
+2. BAX; ; BAXB      
+3. k; k(B, 7 cm)
+4. C;
+5. 5 ABC
+Dĺžka strany AC je podľa konštrukcie 7 cm. Pytagorova veta v trojuholníku neplatí.
+
+c) Konštrukcia:
+1. AB; ;ABA = 6 cm
+2. ABX; ; ABXA = 30=
+3. p; p pp AB, ,p, ABA = 4 cm
+4. C;
+5. 5 ABC
+b) 
+Konštrukcia:
+1. AC;  ;ACA = 6 cm	  
+2. S; ;SCS = =ASA, S S AC
+3. k1; k1(C, 4 cm)
+4. k2; k2(S, 5 cm)
+5. B; B B (k1 1 k2)
+6. 6 ABC
+Dĺžka strany AB je podľa konštrukcie 4,5 cm. Pytagorova veta v trojuholníku neplatí.
+
+Dĺžka strany BC je podľa konštrukcie 6 cm, dĺžka strany AC je 4 cm. Pytagorova veta v trojuholníku neplatí.
+11. a)  Je pravouhlý:  172 = 82  + 152.	b) Je pravouhlý: 1,32 = 1,22 + 0,52.
+c)  Je pravouhlý:  132 = 122 + 52.	d) Nie je pravouhlý: 1 3002   1202 + 502.
+13. b) b PRS
+15. a) x     38,67	b) x     4,47	c) x     28,63	d) x 5,19
+17.  a) c    12,68 cm	b) f = 0,5 dm	c) cKMK = 80 mm	d) z 31,30 dm
+18.** a)                                            b)    , 
+19. *	B 
+20. *	B 
+Pytagorova veta a trojuholníky
+22. a) v     91,80 mm	b) v     0,19 dm	c)* 
+24. a) v     33,05 mm	b) v     8,29 cm	c)* 
+Pytagorova veta a rovnobežníky
+26.  a) e    10,18 dm	b) e     79,19 mm	c)*
+28.  a) a    3,39 dm	b) a     22,62 mm	c)*
+30.  a) e    4,56 dm	b) e     59,03 mm	c)* 
+32. a) b = 21 dm	b) b     60,47 mm	c)*
+
+Pytagorova veta a lichobežníky
+34. a) v = 4 cmb) v 3,7 cmc) v 28,72 mm36. a) Rameno má dĺžkub) Rameno má dĺžkuc) Rameno má dĺžku5 cm.približne 3,9 cm.približne 19,52 mm.
+Pytagorova veta a kružnice
+38. a) Dĺžka tetivy je približne 8,94 cm.	b) Dĺžka tetivy je približne 15,97 cm.
+c) Dĺžka tetivy je približne 14,14 cm.	d) Dĺžka tetivy je približne 28,35 mm.
+40. a) r = 5 cm	b) r     2,42 dm	c) r     17,69 cm	d) r 4,38 cm
+Pytagorova veta a telesá
+42.  a) e    3,81 dm	b) e     49,49 mm	c)*
+44.  a) e    40,80 cm	b) e     72,11 mm	c)*                                  d) 
+46.  a) f    22,13 cm	b) f     73,27 cm	c) f     506,87 mm	d) f 250,42 mm
+Vyskúšajte sa
+1 M	2 E	3 R	4 A	5 N	6 I	7 E
+Aká je v geometrii najčastejšia činnosť? Nuž predsa MERANIE.
+
+
+2.2 Použitie Pytagorovej vety pri riešení praktických úloh
+
+2. a)	, e je uhlopriečka štvorca, a je strana štvorca
+b)   , e je uhlopriečka obdĺžnika, a a b sú strany obdĺžnika
+c)   , v je výška lichobežníka, a a c sú základne lichobežníka, d je rameno lichobežníka
+3. * a)	, e je uhlopriečka bočnej steny kocky, a je hrana kocky
+b)   , f je telesová uhlopriečka kocky, b je hrana kocky
+5.
+a2,5 dm42 mm104,44 cm3 m25 cm918,29 cmb3,6 dm86,32 mm74 cm65,45 dm250 mm56 cmc4,38 dm96 mm128 cm72 dm353,55 mm9,2 m7.** a) aASA = 45 cm,	cSDS = 105 cm,	 BSB =  SCS = 30 cm,
+ ABA =  ACA     54,08 cm	5BDB =  CDC     109,20 cm	C
+
+b) v 22,91 m
+
+
+B
+
+8.**	Dĺžka chodníkov v parku je približne 1 298 m. Plochy jednotlivých častí sú rovnaké 9 000 m2.
+Cestu si skrátime chodníkom B takmer o 111 m.
+10. Približne 2,66 m.
+11. Približne 3,12 m.
+
+3 Riešenie lineárnych rovníc a nerovníc
+3.1 Jednoduché lineárne rovnice riešené pomocou ekvivalentných úprav
+5. a) x = 5	b) x = –3	c) x = 16	d) x = – 9
+7. a) x = –2	b) x = – 1,75	c) x = 23,8	d) x =
+9. a) x = 1	b) x = 0,5	c) x = – 1	d) x = – 6,25
+11.* a) x = – 1	b) x = – 0,2	c) x = 2,5	d) x = 0,25
+13. a) x = – 15,5	b) x =                               c) x = 0,5	d)* x = – 4,25
+e)* ľubovoľné (reálne) číslo	f)* ľubovoľné (reálne) číslo
+15. a)                                    b) w = 1	c) w = 3	d) 
+17. a)                                    b) m = 0,7	c) m = 7	d) m = – 1,5
+Vyskúšajte sa
+1 A 2 B 3 C 4 A 5 A 6 B 7 C 8 D 9 B 10 D 11* D 12 B 13 C 14 A
+
+3.2 Jednoduché lineárne nerovnice
+3. a)	b)	c) 
+d)                                        e)	f) 
+5. a)	b)
+c)                    d) 
+7. a) 1, 2, 3, ... , 20, 21	b) 8, 9, 10, 11, ...	c) 1	d) 9, 10, 11, 12, ...
+9. a) 1, 2	b) – 1	c) 1, 2, 3, 4	d) – 9, – 8, – 7, – 6, – 5, – 4, – 3, – 2, – 1
+11. a) x < 2	b) x > 3	c) x < –25	d) x > 6
+13. a) x x – 3	b) x   1	c) x x – 4	d) x x 9
+15. a) – 6   x	b) x   2	c) – 3 < x	d) 3 > x
+17. a)* x   2	b)* x x 0,5	c)**                            d)** x < – 42
+19. a) b > – 0,4, pre všetky kladné celé čísla	b)   , pre číslo 1
+c) c > – 2, pre číslo – 1	d) c > – 2,5, pre čísla – 2 a – 1
+20. a) pre y < – 2	b) pre z < – 2,8	c) pre m < – 1,7	d) pre n < – 1,5
+22. D
+24.* a) 3 3 –2, pre všetky reálne čísla	b) 0 0 0, pre všetky reálne čísla
+26.* x < – 2, riešením sú všetky celé záporné čísla, okrem – 2 a – 1, teda – 3, – 4, – 5,...
+Vyskúšajte sa
+1 C 2 A 3 B 4 C 5 B 6 C 7 B 8 A 9 A 10 D 11 B 12 D 13 B 14 C
+
+3.3 Jednoduché rovnice s neznámou v menovateli
+4. x x 0
+a) x = 8	b) x = –3	c) x = 4	d) x = – 1,2
+
+
+
+
+
+	
+
+14.* C
+
+
+
+
+Čo má strom a nemá rovnica? KONÁRE.
+
+3.4 Vyjadrenie neznámej zo vzorca
+3. a)   , a = 3,14 cm	b)   , b = 45 cm
+c)   , a = 21,4 mm	d)   , b = d = 13,3 dm
+5. a)	, a = 12 cm	b)   , b = 12 cm
+c)*   , b = 14 dm, c     16,12 dm	d)    , a = 1,8 m
+7. a)   , a = 43 dm	b)   , b = 12 m	c)   , b = 14 cm
+d)    , a = 14,5 mm	e)   , b = 50 cm	f)   , a = 18,25 cm
+8. a)   , r = 4,5 cm	b)   , d = 1 dm
+9.  a)    , r = 3 dm	b)   , d = 2 cm
+Vyskúšajte sa
+1 B   2 C   3 A	4 B 5 B 6 D 7 B
+
+3.5 Riešenie slovných (kontextových) úloh, ktoré sa dajú riešiť pomocou lineárnej rovnice alebo nerovnice
+7. Druhá hádanka: dnes má syn 12 rokov (otec má 42 rokov).	Tretia hádanka: o 12 rokov.
+10.  Rovnica:	, o 2,5 hodiny.
+17. a) Rovnica:   , za   hodiny.	b) Rovnica:   , za 15 hodín.
+19.  Rovnica:   , 24 eur.
+21. Dievčat je 8, chlapcov je 12.
+Vyskúšajte sa
+1 C 2 D 3 A 4 A 5 C 6 A 7 A 8 C 9 B 10 A 11 C 12 D 13 A 14 B 15 B
+
+Vyskúšajte sa
+1 D 2 A 3 D 4 C 5 A 6 D 7 B
+
+4 Súmernosť v rovine
+4.1 Osová súmernosť, os súmernosti. Konštrukcia obrazu v osovej súmernosti
+3. os súmernosti je priamka o
+
+
+
+
+
+
+
+
+5. Príklady riešení:
+
+nie je osovo súmerná
+
+
+
+
+
+7. Príklady riešení:
+a)
+
+
+
+
+
+9. Príklady riešení:
+
+RYSUJEME TROJUHOLNÍK 1
+
+11.
+
+RYSUJEME TROJUHOLNÍK 2
+
+13.	a)
+B 
+k1
+
+b)
+1 B´
+
+
+
+
+k2
+2
+
+C k3	k3	C´
+
+A	A´
+o
+
+HLAVOLAM
+vzorBCFKPRobrazUMENIA
+
+
+17.
+
+k2
+
+
+
+
+
+
+
+
+
+
+
+
+k2
+
+
+
+
+
+
+18.
+
+19.*	a)	b)	c)	d)
+C	C´
+B´
+D´	B
+C
+A´
+o	A
+C´	D
+
+g) nie sú osovo súmerné
+
+
+
+
+
+
+4.2 Stredová súmernosť, stred súmernosti. Konštrukcia obrazu v stredovej súmernosti
+2.
+
+
+A	S	A´
+
+
+
+
+
+
+3.	a)
+
+
+
+
+b)
+
+
+c)
+
+
+A ≡ B	B ≡ A´
+
+
+RYSUJEME TROJUHOLNÍK 3
+
+7. a)
+k2
+C
+
+b)
+k1	B´
+k2
+
+A´
+
+k3	C
+
+k1
+A´
+
+
+
+
+B ≡ S ≡ B´
+
+A	k2
+k1	C´
+2
+B´
+c)
+k3
+
+S
+k1
+A
+B
+k2
+k3	C´
+
+A´
+k1
+
+C
+
+S	C´
+k3
+
+
+
+
+8. Odpoveď:
+
+A	k2
+k1	B
+
+vzorBCGHJobrazFÓRUM
+10.
+
+
+
+
+
+
+
+
+12.*	a)	b)	K
+
+
+c)	d)
+
+
+
+A
+
+
+
+
+C
+C KLM nie je obrazom o ABC v stredovej súmernosti
+
+e)	f)	g)
+A	C	B´
+k´
+S
+k
+
+B
+
+
+13.**
+
+C´	A´
+
+
+
+
+C´´
+
+
+
+
+D´´
+
+
+kružnica l nie je obrazom kružnice k v stredovej súmernosti
+
+
+
+B´ ≡ B´´	A´ ≡ A´´
+
+
+
+D
+k	C ≡ S ≡ C´	D´
+
+A	B
+
+Vyskúšajte sa – opakovanie
+1 D 2 B 3 B 4 A 5 C 6 C7 D8. 12 h	9. 22,36 m2	10.3,4 mm11. 10,82 cm12.280 m213. d 0,4814. 300
+
+
+
+
+
+
+
+
+
+
+Vážení učitelia!
+    lavnou myšlienkou pri tvorbe učebnice Matematika pre 9. ročník základnej školy a 4. ročník osem- ročného gymnázia, jej obsahového a formálneho spra- covania bolo poskytnúť žiakovi výklad učiva v procese, ako sa tvoria základné pojmy, hľadajú vzťahy medzi javmi, odhaľujú zákonitosti v matematických vedách. Nosnou je zásada neposkytovať žiakovi hotové po- znatky, ale priviesť ho na základe predchádzajúceho poznania k novým vedomostiam, k získaniu kompe-
+tencií uvádzaných v štátnom vzdelávacom programe.
+
+   Pri tvorbe návrhu učebnice, vzhľadom na vekové oso- bitosti cieľovej skupiny žiakov:
+1. sme uprednostili priame oslovenie (tykanie) pri zada- niach úloh – učebnica je učebná pomôcka pre žiaka,
+2. text učebnice – obsah učiva je členený na prvky procesu získavania nových kompetencií (tvorivý chaos),
+3. využili sme rôzne grafické prvky na prepojenie na seba nadväzujúcich častí,
+4. v úvodnej časti tematického celku zdôrazňujeme ve- domosti a zručnosti (kompetencie), ktoré by už žiaci mali vedieť,
+5. na poskytnutie spätnej väzby sme zaradili súbory úloh s výberom odpovede,
+6. na rozvoj tímovej práce žiakov poslúžia aj projektové úlohy,
+7. na motiváciu a aktivizáciu žiaka v procese učenia  sme zvolili stručné a vecné spracovanie textu fareb- ne a tvarovo odlíšené, motivačné texty s historickými poznámkami alebo zaujímavosťami z iných vedných disciplín, problémové úlohy na prepojenie vedomostí z rôznych oblastí bežného života, prípadne medzi- predmetových vzťahov.
+
+   Kompetencie, ktoré má žiak získať pri výučbe ma- tematiky, sú uvádzané z pohľadu oblasti Matematika a práca s informáciami – a to upozornením na využitie IKT pri riešení viacerých úloh.
+   V učebnici sme zjednotili problémy, cvičenia, príklady pod jediný pojem úlohy – všetky úlohy sú riešené alebo neriešené, s funkciou uviesť, precvičiť alebo upevniť pre- berané učivo.
+   Pre nadobudnutie kľúčových kompetencií uvá- dzaných v ŠVP sú v texte aj otázky vedúce k uvažovaniu mimo matematiky, ako aj kontextové úlohy, ktoré sú mo- tiváciou na riešenie úloh bežného typu (tým sa snažíme plniť ciele prierezových tematík ŠVP, ako sú globálna výchova, environmentálna výchova, regionálna výchova, multikultúrna výchova...).
+   Názvy jednotlivých kapitol a podkapitol spravidla korešpondujú s názvami tém v Štátnom vzdeláva- com programe. Chceme tým umožniť začínajúcim učite- ľom ľahšiu orientáciu v učebnici a zjednodušenie pláno- vania činnosti počas školského roka (tvorba tematického výchovno-vzdelávacieho plánu).
+
+
+
+Obsah učiva v 1. časti je spracovaný do kapitol:
+   Mocniny a odmocniny – v tejto kapitole ako prvé uvá- dzame druhú a tretiu mocninu a mocninu s prirodzeným mocniteľom. Ako rozširujúce učivo nasledujú číselné ope- rácie s mocninami s prirodzeným mocniteľom. Toto učivo je spracované stručne a je vhodné zaradiť ho do vyučova- nia podľa úrovne matematických schopností žiakov v trie- de. Potom sú uvedené mocniny čísla 10, úlohy na počí- tanie s malými a veľkými číslami a ich vyjadrenie v tvare a · 10n (pre 1( a < 10, n n N) a nakoniec sú definované druhá a tretia odmocnina. Vzhľadom na praktické vyu- žitie mocnín a odmocnín sme zaradili ako druhú kapitolu Pytagorovu vetu.
+   Odvodenie Pytagorovej vety sme spojili s kon- štrukčnými úlohami trojuholníkov, aby si žiaci zopakovali aj základné prvky trojuholníka a mali možnosť skonštruovať si pravouhlý trojuholník. Úlohou žiakov v konštrukčných úlohách je aj meranie strán v trojuholníkoch a následné overovanie, či takýto trojuholník môže byť pravouhlý alebo nie. Týmito úlohami sme chceli pripraviť žiaka na riešenie úloh s verifikovaním tvrdenia. Pri konštrukciách trojuhol- níkov a následných meraniach sú akceptovateľné určité odchýlky vyplývajúce z chyby merania.
+   V kapitole o odvodení Pytagorovej vety sa nachá- dzajú aj úlohy na praktické použitie tejto vety. Žiaci v nich počítajú dĺžky výšok v  trojuholníkoch,  uhlopriečok v štvoruholníkoch, výšok v lichobežníkoch, dĺžky tetív kružníc, telesových a stenových uhlopriečok   v kockách a hranoloch a pod. Považujeme tieto vý- počty za také dôležité v príprave žiaka na strednú školu, že sme ich vyňali spomedzi aplikovaných úloh a zaradili k odvodeniu Pytagorovej vety.
+   V druhej podkapitole sa nachádzajú úlohy na pou- žitie Pytagorovej vety v úlohách z bežného života. Obsahovo sú zamerané na možné skúsenosti žiaka
+2. stupňa ZŠ.
+   Tretia kapitola obsahuje definovanie lineárnej rov- nice a nerovnice s neznámou x. Preto vo všetkých úlohách, v ktorých sa uvedené rovnice a nerovnice rie- šia, je neznáma x. Iné  neznáme sme volili v úlohách,   v ktorých žiaci riešia výrazy a majú hľadať ich hodnoty. Tým sme chceli vytvoriť úvod k téme vyjadrenie nezná- mej zo vzorca.
+   Na riešenie lineárnych rovníc a nerovníc odporúčame niekoľko zápisov postupu riešenia tak, ako sa s nimi môžeme v školách bežne stretnúť. Uvedomujeme si, že učiteľ a žiak si z nich vyberie ten, ktorý najviac vyhovuje jeho stratégiám učenia.
+   Jednoduché rovnice s neznámou v menovateli sú definované tak, aby sme videli ich aplikáciu v podkapitole vyjadrenie neznámej zo vzorca. Vzhľadom na odporú- čaný štandard kompetencií žiaka v ŠVP v predmete mate- matika sme nedefinovali lomený výraz, ale vychádzali sme z definovania zlomku ako časti celku, ktorá vzni- ká delením. Je na rozhodnutí učiteľa, či ako rozširujúce
+
+
+
+
+
+
+
+
+učivo zadefinuje lomený  výraz a jednoduché rovnice s neznámou v menovateli rozšíri aj o zložitejšie rovnice.
+   Slovné úlohy, ktoré má žiak riešiť v tejto kapitole, sú zostavené od najjednoduchších až po kontextové úlo- hy. Preto používame rôzne spôsoby a metódy riešenia. Reagovali sme v nich na predchádzajúce skúsenosti žia- ka a možné stratégie riešenia tohto typu úloh.
+   Posledná je kapitola Súmernosť v rovine. Zaradili sme ju do prvého polroka preto, aby bolo čo najrovno- mernejšie pokryté učivo z aritmetiky, algebry a ge- ometrie. Jej spracovanie je jednoduché, nenáročné, vy- žadujúce základné zručnosti na konštruovanie obrazov jednoduchých geometrických rovinných útvarov.
+   Jednotlivé kapitoly sme spracovali tak, aby žiak videl správne riešenia úloh a pokiaľ to bolo možné, rôznymi spôsobmi. Ak žiak nerieši úlohy správne, je úlohou uči- teľa, aby ho upozornil na tento fakt a usmernil ho.
+   Spravidla sa za vyriešenou úlohou nachádzajú ne- riešené úlohy podobného typu na precvičenie učiva. Týchto úloh sme sa snažili zaradiť čo najväčšie množ- stvo.
+   Pri niektorých riešených úlohách sú uvedené pomôc- ky – sú to stručné pripomenutia vedomostí a zručností, ktoré by mal žiak ovládať z predchádzajúcich ročníkov.
+   V zadaniach niektorých úloh sú zdôraznené dôležité údaje potrebné k riešeniu úlohy. Mysleli sme tým na žia- kov so špecifickými poruchami učenia, pre ktorých je to prínosné v procese učenia.
+   Úlohy sme gradovali od najjednoduchších po nároč- nejšie. Väčšinou sú to úlohy otvorené, s ktorými sa žiaci stretávajú aj v rámci celoslovenských meraní matematic- kých kompetencií.
+   Problémové a projektové úlohy sme zaradili s cie- ľom podporiť bádanie žiakov aj v oblastiach iných ved- ných disciplín, v ktorých matematika má aj nemá svoje miesto. Riešenia týchto úloh vo výsledkoch preto neuvá- dzame. Čiastočne sa návody k nim nachádzajú v závere kapitoly v zhrnutí Zapamätajte si.
+   
+Odporúčame učiteľom riešiť so žiakmi tie úlohy, ktoré zodpovedajú schopnostiam a nadobudnutým kompeten- ciám žiakov. Odporúčame tiež pri riešení úloh vybrať také stratégie, ktoré žiakom umožnia získať nové vedomosti a zručnosti čo najvhodnejším spôsobom.
+   Motivačných textov a historických poznámok je   v texte zaradených pomerne málo. Výber týchto textov súvisel s plnením cieľov prierezových tém, ktoré sa rea- lizujú v rámci ŠkVP.
+   V závere niektorých podkapitol sa nachádzajú úlohy s výberom odpovede Vyskúšajte sa. Majú žiakovi po- môcť overiť si základné vedomosti a zručnosti z daného obsahu učiva. Úlohy v nich zaradené sú preto jednodu- ché a ich počet nie je veľký. Zároveň majú pomôcť žia- kom pri príprave na prijímacie skúšky a rôzne merania realizované štátnymi inštitúciami.
+   Za nimi sú v niektorých podkapitolách stručné po- známky k vedomostiam, ktoré by žiak mal získať po ab- solvovaní daného tematického celku – Zapamätajte si. Žiak ich môže využiť aj v svojom individuálnom štúdiu.
+Do druhej časti učebnice zaradíme tematické celky:
+• Grafické znázorňovanie závislostí
+• Podobnosť trojuholníkov
+• Štatistika
+• Niektoré ďalšie telesá, ich objem a povrch
+   Dúfame, že sa táto učebnica stane dobrou pomôckou pre vás a uľahčí vám prípravu na vyučovanie.
+
+
+
+Autorka
+
+
+
+Por. č.Meno a priezviskoŠkolský rokStav učebnicezačiatok šk. rokakoniec šk. roka
+
+
+
+
+
+
+
+
+
+
+
+
+RNDr. Viera Kolbaská
+matematika
+pre 9. ročník základnej školy
+a 4. ročník gymnázia s osemročným štúdiom
+1. časť
+
+
+
+
+
+Zodpovedná redaktorka RNDr. Jana Belasová Technická redaktorka Ivana Bronišová Výtvarná redaktorka Mgr. Ľubica Suchalová
+Grafický dizajn a obálka Ing. Zsolt Urbán
+Ilustroval Bystrík Vančo
+
+Vyšlo vo vydavateľstve Slovenské pedagogické nakladateľstvo – Mladé letá, s. r. o., Sasinkova 5, 811 08 Bratislava
+
+
+Vytlačila Slovenská Grafia, a. s., Bratislava
+
+
+
+
+ISBN 978-80-10-02291-5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

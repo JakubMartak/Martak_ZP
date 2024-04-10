@@ -1,0 +1,4319 @@
+﻿ÚVOD
+
+
+Čomu ľudia nerozumejú, z toho si robia posmech. Preto existuje toľko bonmotov o šta- tistike. Na úvod sme si pripravili zopár najznámejších. Sú vhodné najmä pre tých, ktorí štatistike rozumieť nechcú a potrebujú nejaký pekný citát ako výhovorku. Pre tých ostat- ných je určená táto učebnica.
+
+
+
+
+O tomto výroku sa dodnes vedú spory, kto slávny ho vlastne povedal. Existuje ešte jeden podobný:
+
+
+Výrok pripisovaný WINSTONOVI CHURCHILLOVI, s veľkou pravdepodobnosťou ho však do obehu uviedla nacistická propaganda.
+
+STEPHEN LEACOCK
+Jeden z problémov pri používaní štatistických metód je správne pochopiť, čo vlastne „ho- voria“ čísla, ktoré dostaneme po dosadení do rôznych štatistických vzorcov. Matematika totiž – hoci si to možno mnohí myslia – nie je súbor vzorcov, do ktorých sa dosadzuje. Oveľa bližšie k pravde je tvrdenie, že matematika je cesta k týmto vzorcom spojená so schopnosťou rozhodnúť, kedy, čo a prečo do vzorca dosadiť a čo znamená výsledok, ktorý sme tým dosadením dostali.
+Takýto pohľad na matematiku ovplyvnil aj podobu tejto učebnice. Na niekoľkých desiat- kach strán sa stretnete iba s tromi vzorcami – pozri tabuľku, zvyšok textu učebnice vypĺňa naša snaha ukázať, čo vyjadrujú, ako sa na ne prišlo a čo pomocou nich možno zistiť.
+
+
+n pk(1 – p)n – k
+kpravdepodobnosť, že pri n-násobnom opakovaní pokusu, v ktorom pravdepodobnosť úspechu je p (pokusom môže byť napr. hod mincou, pričom úspech je padnutie znaku, vtedy p = 0,5) dosiahneme presne k úspechov (teda znak padne k-krát)(np – 2 np(1 – p), np + 2 np(1 – p) )interval, v ktorom sa nachádza počet úspechov,  ktorý  prakticky iste dosiahneme pri n-násobnom opakovaní pokusu, v ktorom pravdepodobnosť úspechu je pp = k     1 
+n	nčíslo 1 určuje presnosť, s akou vieme zistiť pravdepodobnosť úspe-
+n
+chu p v jednoduchom pokuse, ak sme pri n opakovaniach tohto poku- su dosiahli presne k úspechov
+6
+
+ÚVOD
+
+
+Ako vidno, vzorce nie sú zložité – iste nie zložitejšie ako vzorec na výpočet koreňov kvad-
+
+ratickej rovnice x
+
+= – b b b2 – 4ac – a dosadiť napr. do výrazu p = k   1 hodnoty k,
+
+1, 2	2a	n	n
+n tiež nevyžaduje nejaké mimoriadne úsilie. Rovnako jednoducho sa dajú vymyslieť aj úlohy na precvičenie tohto vzťahu („z 1 200 náhodne vybraných dospelých občanov SR 214 odpovedalo, že nesúhlasí s povinnou školskou dochádzkou; ako presne vieme zistiť podiel takýchto občanov v celej dospelej populácii?“ a pod.). Preto ich vymýšľanie – alebo ešte radšej hľadanie vhodných námetov napr. v dennej tlači – prenecháme na vás. My sa namiesto precvičovania vzorcov sústredíme na cestu vedúcu k ich pochopeniu. Chceme, aby ste si ju prešli spolu s nami (nepožadujeme, aby ste ju boli schopní samo- statne zopakovať, ale jednotlivé kroky by ste mali zvládnuť sami). Nepredstavujeme si to však tak, že prečítate zopár strán v učebnici, alebo si vypočujete výklad v škole. Aby naša spoločná práca mala zmysel, vyžaduje to vašu aktívnu spoluprácu – tou bude rieše- nie úloh. Na to, aby ste pochopili, čo naše tri vzorce „hovoria“, totiž stačí vyriešiť zopár príkladov, ktoré by ste mali vedieť vypočítať.
+Na túto učebnicu sa teda môžete pozerať ako na zbierku úloh, ktorými si precvičujete poznatky a zručnosti, ktoré ste mali získať v predchádzajúcich ročníkoch (výpočet prav- depodobnosti, dosadenie do vzorca, použitie tabuľkového kalkulátora, odhad chyby pri- bližného čísla a pod.). Učebnica však má pridanú hodnotu – je zostavená tak, aby ju bolo možné využiť pri vysvetlení niektorých základných štatistických myšlienok. Stručne po- vedané: vy budete počítať a my vám vysvetlíme, čo z toho vyplýva. Oboznámite sa tak s niekoľkými úvahami, ktoré sa nachádzajú v základoch štatistiky. Veríme, že vďaka ich pochopeniu bude štatistika pre vás zrozumiteľnejšia.
+V texte učebnice sa pri hľadaní pravdepodobností sústreďujeme na výpočet teoretickej hodnoty. Naliehavo však odporúčame všade, kde je to možné, doplniť výpočet aj expe- rimentovaním. Experiment je dôležitý most medzi teoretickými úvahami a realitou, na ktorý by sa pri vyučovaní nemalo zabúdať.
+Začali sme citátmi, preto – kvôli symetrii – citátmi tento úvod aj skončíme:
+
+FREDERICK MOSTELLER, jeden z významných štatistikov 20. storočia
+
+HUBERT MORSE BLALOCK, JR., sociológ známy svojimi prácami o štatistických metódach výskumu
+
+
+
+Je mojou milou povinnosťou poďakovať všetkým, ktorí prispeli k výslednej podobe tejto učebnice: lektorkám PaedDr. Ivete Kohanovej, PhD. a Mgr. Jane Fraasovej, ktoré upozornili na viaceré nedostatky pôvodného rukopisu, PaedDr. Jánovi Žabkovi za sústavnú morálnu podporu, môjmu otcovi prof. RNDr. Ing. Lubomírovi Kubáčkovi, DrSc., Dr.h.c., za trpezlivosť pri nekonečných konzultáciách, ktoré mi ochotne poskytol a všetkým ďalším nemenovaným, bez ktorých by som nikdy nedokázal rukopis dokončiť.
+
+Autor
+
+7
+
+JE TÁ MINCA FALOŠNÁ?
+
+
+1 JE TÁ MINCA FALOŠNÁ?
+
+
+
+
+
+
+
+
+„Pekne o tom hovorí Winwood Reade,“ povedal Holmes.
+„Tvrdí, že jednotlivec síce je neriešiteľná záhada, ale v množstve sa z neho stáva matematická istota. Človek napríklad nikdy nemôže predvídať, čo urobí jednotlivec, ale môže presne uhádnuť, ako sa zachová určité množstvo priemerných ľudí.
+Jedinci sa navzájom líšia, ale percentá sa nemenia. Štatistiky to dokazujú.“
+ARTHUR CONAN DOYLE: Podpis štyroch
+
+
+V tejto kapitole sa vrátime k úvahám o pravdepodobnosti. V predchádzajúcich ročníkoch sme pravdepodobnosť opisovali ako ideálnu relatívnu početnosť (pripo- menieme si to v článku 1.1). Takýto opis je v súlade s našimi skúsenosťami: napr. formulácia pravdepodobnosť, že pri hode mincou padne znak je ½ vyjadruje naše očakávanie, že pri veľkom počte hodov približne v polovici z nich padne znak. Neočakávame, že to bude presne polovica z celkového počtu hodov, očakávame však, že relatívna početnosť znakov (teda podiel počet znakov : počet pokusov) sa od ½ nebude veľmi líšiť.
+
+Hlavná náplň tejto kapitoly súvisí so slovami nebude sa veľmi líšiť z predchádzajú- cej vety. Bude nás zaujímať, ako veľké odchýlky od ideálnej hodnoty ½ ešte možno pokladať za normálne a ktoré už nie. Asi sa zhodneme na tom, že ak pri desiatich hodoch mincou nepadne znak ani raz, vzbudí  to  naše podozrenie, že  minca nie  je  v poriadku – teda, že pravdepodobnosť padnutia znaku v jej prípade nie je ½. Otáz- kou je, či je takéto podozrenie namieste aj vtedy, keď nám z desiatich pokusov padol znak iba raz alebo dvakrát. Aby sme mohli podobné otázky zodpovedať, potrebujeme zistiť, ako pravdepodobné sú jednotlivé výsledky pri veľkom počte hodov – napr. ako pravdepodobné je, že pri 1 000 hodoch mincou padne znak 429-krát. Hľadanie odpovede nás privedie k  Pascalovmu  trojuholníku –  trojuholníkovej tabuľke čísel   s viacerými zaujímavými vlastnosťami, k bernoulliovským pokusom – nazvaným podľa švajčiarskeho matematika Jacoba Bernoulliho (1654 – 1705) a k binomickému rozdeleniu pravdepodobnosti.
+
+
+1.1 Pravdepodobnosť ako ideálna relatívna početnosť
+
+Ak šanca, že sa niečo pokazí, je 1 : 1, tak sa to pokazí v 9 prípadoch z 10.
+
+Výsledok hodu mincou – teda to, či padne číslo alebo znak – nevieme odhadnúť vo- pred. Predpokladáme však, že pri štandardnej minci je jedna aj druhá možnosť rovnako pravdepodobná, t. j. že pri veľkom počte pokusov v ideálnom prípade v polovici týchto pokusov padne znak (a v zvyšnej polovici číslo).
+
+8
+
+
+JE TÁ MINCA FALOŠNÁ?
+
+
+Pripomíname základné pojmy:
+HROMADNÝ NÁHODNÝ DEJ (tiež náhodný pokus alebo iba pokus) = dej, ktorého výsledok nie je vopred jedno- značne určený (nemožno ho vopred jednoznačne predpovedať) a ktorý sa vyskytuje hromadne (napr. životnosť veľkého počtu rovnakých žiaroviek) alebo opakovane (napr. žrebovanie čísel v lotérii).
+NÁHODNÁ UDALOSŤ (náhodný jav) = jeden z možných výsledkov náhodného pokusu
+RELATÍVNA POČETNOSŤ náhodnej udalosti (v danej skupine pokusov) je podiel
+počet pokusov, v ktorých nastala sledovaná udalosť celkový počet pokusov
+
+To vyjadrujeme formuláciou pravdepodobnosť, že padne znak, je jedna polovica. Pripo- meňme, že hodnotu pravdepodobnosti vyjadrujeme
+
+
+v našom prípadeako číslo ležiace medzi 0 a 1pravdepodobnosť, že padne znak, je 1
+2
+pravdepodobnosť, že padne znak, je 0,5ako počet percentpravdepodobnosť, že padne znak, je 50 %
+V skutočnosti ideálny prípad nenastáva často. Ak hodíme veľakrát mincou a budeme sledovať, koľkokrát padne znak, spravidla sa skutočná relatívna početnosť tejto náhodnej udalosti (padnutia znaku) bude od čísla ½ odlišovať. Teda znak len zriedkakedy padne presne v polovici z celkového počtu pokusov. Očakávame však, že s rastúcim počtom hodov sa rozdiel medzi skutočnou relatívnou početnosťou a ideálnou hodnotou ½ bude stále zmenšovať.
+
+
+POZOR, ZO ZMENŠOVANIA ROZDIELU MEDZI RELATÍVNOU POČETNOSŤOU A ČÍSLOM 1
+
+
+NEVYPLÝVA, ŽE SA MUSÍ ZMENŠOVAŤ AJ ROZDIEL MEDZI
+
+POČTOM POKUSOV, V KTORÝCH PADOL ZNAK (NAZVIME ICH PRIAZNIVÉ) A POČTOM TÝCH, V KTORÝCH PADLO  ČÍSLO (NEPRIAZNIVÉ).   AK NAPR. ZNAK PADNE
+• PRI 100 HODOCH 52-KRÁT, JE RELATÍVNA POČETNOSŤ 0,52 A ROZDIEL MEDZI POČTOM PRIAZNIVÝCH A NEPRIAZNIVÝCH VÝSLEDKOV JE
+52 – 48 = 4
+• PRI 1 000 HODOCH 510-KRÁT, JE RELATÍVNA POČETNOSŤ 0,51 A ROZDIEL MEDZI POČTOM PRIAZNIVÝCH A NEPRIAZNIVÝCH VÝSLEDKOV
+510 – 490 = 20. TEDA ODCHÝLKA RELATÍVNEJ POČETNOSTI OD IDEÁLNEJ HODNOTY 1 JE MENŠIA AKO V PREDCHÁDZAJÚCOM PRÍPADE,
+HOCI ROZDIEL MEDZI POČTOM PRIAZNIVÝCH A NEPRIAZNIVÝCH HODOV JE VÄČŠÍ.
+
+Inak povedané: očakávame, že pri veľmi veľkom počte hodov sa bude relatívna početnosť
+1
+veľmi málo líšiť od čísla 2.
+Predstavou ideálneho prípadu si môžeme pomôcť aj pre iné hodnoty pravdepodobnosti. Formuláciu pravdepodobnosť náhodnej udalosti je p % alebo pravdepodobnosť náhod- nej udalosti je p môžeme interpretovať: v ideálnom prípade nastane táto udalosť v p %
+100
+z veľkého počtu pokusov.
+vd
+m	(a
+v
+Pravdepodobnosť teda môžeme chápať ako ideálnu relatívnu početnosť. Predpokladáme, že so zväčšujúcim sa počtom pokusov sa bude skutočná relatívna početnosť stále menej odlišovať od ideálnej hodnoty – pravdepodobnosti. Na predstave ideálneho prípadu budú založené viaceré výpočty pravdepodobnosti v nasledujúcich odsekoch.
+
+JE TÁ MINCA FALOŠNÁ?
+
+1.2 Ako pravdepodobné sú jednotlivé výsledky?
+Vráťme sa k otázke z úvodu. Chceme diskutovať o tom, aký počet výsledkov padol znak pri veľkom počte hodov mincou ešte je a aký už nie je normálny. Preto potrebujeme zistiť, ako pravdepodobné sú jednotlivé možnosti. Ukážeme dva spôsoby riešenia tejto otázky. Prvý nás privedie k číselnej tabuľke, ktorá sa označuje ako Pascalov trojuholník, z druhého zistíme, že hodnoty v tejto tabuľke sú vlastne kombinačné čísla.
+
+
+PRVÉ RIEŠENIE
+(POSTUPNE ZVÄČŠUJEME POČET OPAKOVANÍ POKUSU)
+
+Úvahy urobíme pre 10 hodov mincou, ktoré sme spomenuli v úvode. Budú nás zaují- mať pravdepodobnosti 11 náhodných udalostí, ktoré môžu byť výsledkami tohto pokusu: znak nepadol ani raz, znak padol 1-krát, znak padol 2-krát, ..., znak padol 10-krát.
+
+Postupne budeme počítať pravdepodobnosti pre výsledky po 2 hodoch, 3 hodoch atď.  a dúfať, že vo výpočtoch sa objaví nejaká zákonitosť, ktorá nám pomôže nájsť odpoveď aj pre iné počty hodov.
+
+TENTO PRÍSTUP JE V MATEMATIKE DOSŤ ČASTÝ: AK NEVIETE VYRIEŠIŤ
+KOMPLIKOVANÚ ÚLOHU, SKÚSTE
+ZAČAŤ RIEŠENÍM PODOBNÝCH,
+
+ALE JEDNODUCHŠÍCH ÚLOH.
+1. 
+a) Aká je pravdepodobnosť, že pri 2 hodoch mincou padne znak 0-krát (práve 1-krát, 2-krát)?
+b) Aká je pravdepodobnosť jednotlivých možností pri 3 a 4 hodoch mincou?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10
+
+JE TÁ MINCA FALOŠNÁ?
+
+
+To znamená, že v ideálnom prípade:
+
+z pokusov,v ktorých v 1. hode padlo čísloz pokusov, v ktorých v 1. hode padol znakpadne v 2. hodepadne v 2. hodev polovici prípadov (teda v štvrtine z celkového počtu pokusov) číslo  v polovici prípadov znak  v polovici prípadov číslo  v polovici prípadov znak1 pokusov
+41 pokusov
+41 pokusov
+41 pokusov
+4
+Pozrime sa teraz na počet znakov, ktoré padli v prvých dvoch hodoch. Ak v 2. hode padlo
+• číslo, tak sa celkový počet znakov od predchádzajúceho pokusu nezmenil
+(v tabuľke to znázorňujeme zápisom + 0),
+• znak, tak sa celkový počet znakov od predchádzajúceho pokusu zväčšil o 1 (znázorňujeme to zápisom + 1).
+
++ 0+ 1+ 0+ 1
+Preto v jednotlivých prípadoch znak padol celkom
+
+0-krát
+(ani v jednom hode)   1-krát (iba v 2. hode)   1-krát (iba v 1. hode)2-krát
+(v obidvoch hodoch)
+a výsledok po 2 hodoch bude
+
+
+
+
+
+Teda v ideálnom prípade v 2 hodoch padne znak
+• 0-krát v 1 prípadov (teda pravdepodobnosť, že pri dvoch hodoch min-
+
+
+DOPLŇTE CHÝBAJÚCI TEXT V DRUHEJ A TRETEJ ODRÁŽKE.
+
+4	 1
+cou nepadne znak ani raz, je 4 , t. j. 0,25 alebo 25 %),
+• 1-krát v 2 , t. j. v 1 prípadov (teda  pravdepodobnosť, že	),
+4	2
+• 2-krát v  1 prípadov (teda	).
+4
+
+Naše úvahy súvisia s pojmami podmienená pravdepodobnosť a nezávislé udalosti. Pravdepodobnosti, ktoré sme počítali na tejto strane (pozri tiež tretí riadok v tab. 1 na s. 12, nad riadkom po 2. hode), sú podmienené, napr. v červenej bunke vľavo je to pravdepodobnosť, že v 2. hode padne číslo, za predpokladu, že v 1. hode padlo číslo, v nasledujúcej modrej bunke je to pravdepodobnosť, že v 2. hode padne znak, za predpokladu, že v 1. hode padlo číslo. Pri úvahách o týchto pravdepodobnostiach sa na dva za sebou nasledujúce hody min- cou pozeráme ako na dvojicu náhodných pokusov, v ktorej výsledky druhého pokusu (druhý hod mincou) sú nezávislé od výsledkov prvého pokusu (prvý hod mincou) – v súvislosti s nezávislosťou pri hodoch mincou si spomeňte na heslo Minca nemá pamäť . Podobne sa možno pozerať aj na tri a viac hodov mincou.
+
+  11	
+
+
+
+
+
+Pripomeňme, že podobnými úvahami, aké sme použili pri určení pravdepodobností na s. 11, sme v učebnici pre 2. ročník zdôvodnili pravidlo na výpočet pravdepodobnosti v prípade nezávislých udalostí: pravdepodob- nosť, že v jednom z dvojice pokusov nastane udalosť A a v druhom udalosť B, je súčin pravdepodobností p(A) a p(B). Napríklad pravdepodobnosť, že v prvých dvoch hodoch nepadol znak (= udalosť A) a v treťom padne
+znak (= udalosť B), je 1 · 1 = 1 . Skontrolujte, že výsledky uvedené v tab. 1 sú v súlade s týmto pravidlom.
+4	2	8
+
+b) Ak v týchto úvahách budeme pokračovať, dostaneme pre počet znakov po 3 a 4 hodoch výsledky, ktoré znázorňuje spodná časť tab. 1 (v jej hornej časti sa opaku- jú úvahy pre 1. a 2. hod).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tab. 1
+Pravdepodobnosť padnutia znakov po 1., 2., 3., a 4. hode.
+
+po 1.
+hode
+
+
+
+
+
+po 2.
+hode
+
+
+
+
+
+po 3.
+hode
+
+
+
+
+
+po 4.
+hode
+
+
+
+
+
+12
+
+JE TÁ MINCA FALOŠNÁ?
+
+
+Naznačme úvahy pre 3. hod (pozri v tab. 1 riadok, ktorý je pod riadkom po 2. hode).
+
+
+V ideálnom prípade v 3. hode
+
+
+z tých pokusov, v ktorých v prvých dvoch hodoch nepadol ani jeden znak (tie tvoria 1 z celkového
+4
+počtu pokusov), padne
+
+z tých pokusov, v ktorých v prvých dvoch hodoch padol znak iba raz
+(tie tvoria 2 z celkového počtu
+4
+pokusov), padne
+
+z tých pokusov, v ktorých v prvých dvoch hodoch padli 2 znaky
+(tie tvoria 1 z celkového počtu
+4
+pokusov), padne
+
+
+
+po 2.
+hode
+
+
+v polovici prípadov
+číslo (to je  1 z 1
+ 
+a v polovici prípadov znak
+
+v polovici prípadov
+číslo (to je  1 z 1
+ 
+a v polovici prípadov znak
+
+v polovici
+prípadov číslo
+ 
+a v polovici prípadov znak
+
+2	4	(to je tiež 1
+
+2	4	(to sú tiež 2
+
+1	(to je tiež 1
+
+z celkového počtu
+pokusov, teda 1
+8
+z celkového počtu pokusov), v týchto prípadoch padlo po 3 hodoch celkom
+0 znakov
+
+8
+z celkového počtu pokusov), v týchto prípadoch padol po 3 hodoch celkom
+1 znak
+
+z celkového počtu
+pokusov, teda 2
+8
+z celkového počtu pokusov), v týchto prípadoch padol po 3 hodoch
+celkom 1 znak
+
+8
+z celkového počtu pokusov), v týchto prípadoch padli po 3 hodoch celkom
+2 znaky
+
+(to je
+8
+z celkového počtu pokusov), v týchto prípadoch padli po 3 hodoch celkom
+2 znaky
+
+8
+z celkového počtu
+pokusov), v týchto prípadoch padli po 3 hodoch celkom
+3 znaky
+
+
+
+
+Preto po 3 hodoch padne (pozri riadok po 3. hode v tab. 1)
+• 0 znakov v 1 z celkového počtu pokusov,
+8
+• 1 znak v 1 + 2 , t. j. v 3 z celkového počtu pokusov,
+8	8	8
+• 2 znaky v 2 + 1 = 3 z celkového počtu pokusov,
+8	8	8
+• 3 znaky v 1 z celkového počtu pokusov.
+8
+
+
+
+
+
+
+
+
+
+
+
+
+13
+
+JE TÁ MINCA FALOŠNÁ?
+
+
+PASCALOV TROJUHOLNÍK
+
+Všimnime si teraz čísla v bielych riadkoch tab. 1 na s. 12, teda jednotlivé pravdepo- dobnosti. Vedome sme ich zapísali tak, aby všetky zlomky v jednom riadku mali rovna- kého menovateľa (tým je v 1. riadku číslo 2, v druhom číslo 4 = 22, v treťom číslo 8 = 23, v štvrtom číslo 16 = 24, pozri tab. 2).
+
+
+1. hod
+
+2. hod
+
+3. hod
+
+4. hod
+
+Tab. 2
+Jednotlivé pravdepodobnosti z tab. 1.
+
+
+ÚLOHA
+
+4. Aký je súčet čísel v jednotlivých riadkoch tab. 2? Výsledok možno zdôvodniť jednoduchými úvahami o celku (ktorý predstavujú všetky pokusy) a jeho častiach, urobte to! Potom svoje zdôvodnenie vyjadrite v reči pravdepodobnosti.
+
+
+Úlohou 4 si tiež pripomíname jednoduché vlastnosti pravdepodobnosti, ktoré možno zdôvodniť úvahami o sú- bore všetkých pokusov a jeho častiach:
+• pravdepodobnosť istej udalosti je 1 (istá udalosť nastane pri každom pokuse),
+• ak A, B sú dva výsledky náhodného pokusu s pravdepodobnosťami p(A), p(B), ktoré nemôžu nastať súčasne, tak pravdepodobnosť, že nastane A alebo B, je p(A alebo B) = p(A) + p(B) (pripomeňte si v diskusii zdôvod- nenie tejto vlastnosti).
+
+Teraz nás budú zaujímať iba čitatele zlomkov z tab. 2, uvádzame ich v tab. 3.
+
+
+1. hod
+2. hod
+3. hod
+4. hod
+
+Tab. 3
+Čitatele zlomkov z tab. 2.
+
+
+ÚLOHA
+5. Aký je súčet čísel v jednotlivých riadkoch tab. 3? Výsledok možno odvodiť z vý- sledku úlohy 4, urobte to.
+14
+
+JE TÁ MINCA FALOŠNÁ?
+
+
+Súčtová vlastnosť
+
+Ak ste správne vyriešili úlohu 3 na s. 13, iste ste objavili dôležitú vlastnosť čísel z tab. 3:
+
+
+• na pravom aj ľavom kraji každého riadka je číslo 1,
+• každé vnútorné číslo v nasledujúcom riadku je súčet dvoch čísel nad ním z predchádzajúceho riadka.
+
+11
+11 + 1 =
+2
+1
+11 + 2 =
+32 + 1 =
+3
+1
+11 + 3 =
+43 + 3 =
+63 + 1 =
+4
+1Súčtová vlastnosť čísel z tab. 3.
+
+
+
+
+1. hod
+
+2. hod
+
+3. hod
+
+4. hod
+
+
+
+
+
+
+
+
+Kvôli väčšej prehľadnosti sa tab. 3 väčšinou zapisuje v trojuholníkovom tvare (z neho je hneď zrejmé, súčtom ktorých dvojíc susedných čísel dostávame hodnoty v nasledujúcom riadku). Táto tabuľka sa nazýva Pascalov trojuholník na počesť Blaise Pascala, ktorý venoval číselnému trojuholníku celú knihu Traité du triangle arithmétique (1654). V jej druhej časti opisuje použitie aritmetického trojuholníka pri riešení pravdepodobnost- ných úloh, predovšetkým slávnej úlohy o rozdelení výhry, ktorá stála pri zrode modernej teórie pravdepodobnosti (hovorili sme o nej v 2. ročníku).
+
+BLAISE PASCAL
+(1623 – 1662)
+VYNIKAJÚCI FRANCÚZSKY MATEMATIK A FILOZOF
+
+
+riadok
+1.112.1213.13314.146415.151010516.16152015617.1721353521718.18285670562881atď.Pascalov trojuholník
+
+
+
+
+
+15
+
+
+
+Postup z úlohy 1 funguje aj pre iné pravdepodobnosti ako 1
+2
+V nasledujúcej úlohe zistíme, že s číslami z tab. 3 – teda z Pascalovho trojuholníka – sa
+stretneme nielen pri hodoch mincou.
+
+ÚLOHA
+9. Úvahy, ktoré sme používali pri vyplňovaní tab. 1 na s. 12, použi- te na riešenie nasledujúcej úlohy: Ako pravdepodobné je, že pri 4 hodoch hracou kockou padne šestka 0-krát, 1-krát, 2-krát, 3-krát, 4-krát ?
+Jednotlivé pravdepodobnosti v tabuľke píšte v tvare súčinu mocnín
+čísel 1  a 5 , teda napr. 3 ·   5  2· 1 . Skontrolujte, že pri takomto zá-
+6	6	 6 	6
+pise sa vo výsledkoch objavia čísla z prvých štyroch riadkov Pasca- lovho trojuholníka.
+
+
+Ak ste správne vyriešili úlohu 9, dostali ste v poslednom riadku tabuľky tieto výsledky (červeno sme zvýraznili čísla zo 4. riadka Pascalovho trojuholníka):
+
+
+pravdepodobnosť, že v 4 hodoch hracou kockou padne práve0 šestiek
+1 ·  5 4
+6
+6 48,23 %1 šestka
+4 ·  5 3·  1
+6	6
+6 38,58 %2 šestky
+6 ·  5 2·  1 2
+6	6
+6 11,57 %3 šestky
+4 · 5 · 1 3
+6	 6 
+ 1,54 %4 šestky
+1 ·  1 4
+6
+6 0,08 %Tab. 4
+
+Veríme, že pri riešení úlohy 9 ste objavili zákonitosť, ktorá vám umožní vyplniť ďal- šie riadky tabuľky prakticky automaticky. Preverte si to v úlohe 10. (Ak si zistenou zákonitosťou nie ste istí, skúste vyplniť ešte niekoľko ďalších riadkov tabuľky z úlo- hy 9. Veríme, že pravidlo objavíte skôr, ako by  ste sa  pri takomto vypĺňaní dostali až do 12. riadka.)
+
+ÚLOHA
+
+10. Aká je pravdepodobnosť, že pri 12 hodoch hracou kockou
+a) padnú práve 2 šestky,
+b) padne práve 10 šestiek?
+
+
+DRUHÉ RIEŠENIE (POMOCOU KOMBINAČNÝCH ČÍSEL)
+
+Z úloh v predchádzajúcom článku vidno, aký význam majú čísla z Pascalovho troj- uholníka pri výpočte pravdepodobností. Doteraz sme pri hľadaní týchto čísel využívali ich súčtovú vlastnosť (pozri s. 15). Pomocou nej síce dokážeme nájsť ľubovoľný prvok Pascalovho trojuholníka, je to však zdĺhavé (ak nás zaujímajú napr. prvky 50. riadka, musíme vyplniť všetkých predchádzajúcich 49 riadkov). V tomto odseku ukážeme, že jednotlivé čísla tohto trojuholníka vieme nájsť aj iným spôsobom – sú to totiž kombinač- né čísla, na výpočet ktorých existuje jednoduchý vzorec.
+16
+
+JE TÁ MINCA FALOŠNÁ?
+
+
+
+Kombinačné číslo
+
+
+
+ k 
+
+je počet k-prvkových kombinácií z n prvkov, teda počet možností, ako z n rôznych objek-
+
+tov vybrať skupinu obsahujúcu k objektov. Na výpočet kombinačného čísla platí vzťah
+
+
+
+ k 
+
+ k 
+
+= 	n!	, ktorý možno zapísať aj v tvare
+(n – k)! k!
+k činiteľov
+= n · (n – 1) · ... · (n – k + 1)
+k · (k – 1) · ... · 1
+k činiteľov
+
+napr.
+
+12 = 12! = 12 · 11 · 10 · 9 · 8 · 7 · 6 · 5 · 4 · 3 · 2 · 1 = 12 · 11 · 10 .
+
+ 3 	9! 3!	(9 · 8 · 7 · 6 · 5 · 4 · 3 · 2 · 1) · (3 · 2 · 1)	3 · 2 · 1
+(Pripomeňte si odvodenie tohto vzorca, napr. pomocou vzťahu medzi počtom k-prvkových variácií a kombinácií.)
+
+O tom, že prvky Pascalovho trojuholníka sú kombinačné čísla, sa možno presvedčiť viacerými spôsobmi. My toto tvrdenie dokážeme vlastne mimochodom: budeme hľadať iný postup riešenia úlohy 9 a pritom objavíme vzťah medzi Pascalovým trojuholníkom a kombinačnými číslami. Ukážme si tento postup najprv na jednom konkrétnom čísle: V riešení úlohy 9 sme zistili, že pri 4 hodoch hracou kockou padnú práve 2 šestky s prav-
+
+depodobnosťou 6 ·
+
+5 2·
+6
+
+1 2 (pozri tab. 4). Z riešenia úloh 11 až 13 vyplynie, že číslo
+6
+
+6 je kombinačné číslo
+4 
+. Podobné úvahy budú platiť aj pre ostatné čísla v Pascalovom
+2
+
+trojuholníku, uvedieme ich po vyriešení úloh 14 až 16.
+
+
+
+
+
+
+
+5 všetkých pokusov
+6
+5	5
+6 · 6 všetkých pokusov
+5 · 5 · 1 všetkých pokusov
+6	6	6
+
+Pravdepodobnosť, že pri hode hracou kockou padne šestka, je 1 . Pravdepodobnosť, že šestka nepadne,
+
+je 5 . Takéto dve pravdepodobnosti sa nazývajú navzájom
+
+6
+vé. Pripomeňme jednoduchý poznatok:
+
+6	doplnko
+ak p je pravdepodobnosť, že nastane nejaká náhodná udalosť, tak pravdepodobnosť, že táto náhodná udalosť
+nenastane, je 1 – p. (Pripomeňte si zdôvodnenie tohto tvrdenia napr. úvahami o ideálnych pokusoch.)
+
+17
+
+
+
+b) Riešenie úlohy 11 b) je podobné, postup sme znázornili na obr. 2. Vidno z neho, že aj v tomto prípade sa hľadaná pravdepodobnosť (že pri štyroch hodoch kockou
+
+padne šestka iba v 2. a 3. hode) rovná
+
+1 2·
+6
+
+5 2.
+6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ÚLOHY
+
+12. Uveďte všetky zvyšné možnosti, ako môžu pri 4 hodoch kockou padnúť práve 2 šestky.
+13. Pre každú možnosť z riešenia úlohy 12 vypočítajte pravdepodob- nosť, že táto možnosť nastane.
+
+
+Vo výsledku sa objavuje kombinačné číslo
+Z riešenia úloh 11 až 13 vyplýva: Existuje celkom 6 rôznych možností, ako môžu padnúť práve 2 šestky pri štyroch hodoch hracou kockou:
+        v 1. a 2. hode, v 1. a 3., v 1. a 4., v 2. a 3. , v 2. a 4., v 3. a 4. hode,	(*) to ste zistili v úlohe 12.
+
+Pravdepodobnosť každej z týchto možností je
+
+1 2·
+6
+5 
+2, to ste mali zistiť v úlohe 13.
+6
+
+Pravdepodobnosť, že v štyroch hodoch kockou padne šestka práve dvakrát, je súčtom
+
+týchto 6 rovnakých pravdepodobností, preto jej hodnota je 6 ·
+
+1 2·
+6
+
+5 2.
+6
+
+Ako vidíme, dostali sme rovnaký výsledok ako v tab. 4 na s. 16. To samozrejme nie je nič prekvapujúce (podivné by bolo, keby sme dvomi spôsobmi výpočtu tej istej pravde- podobnosti dostali dva rôzne výsledky). Zaujímavé pre nás je, ako sme v tomto druhom postupe prišli k číslu 6: šesť bol počet všetkých možností, ako zo 4 hodov vybrať tie   2, v ktorých padne šestka – pozri riadok označený (*). Bol to teda počet 2-prvkových kombinácií zo 4 prvkov (prvkami boli čísla 1, 2, 3, 4, ktoré označovali poradové číslo
+
+hodu). To znamená, že hodnotu 6 sme našli ako kombinačné číslo
+
+4 , preto výslednú
+2
+
+pravdepodobnosť môžeme zapísať ako
+d
+
+ 2  ·
+
+1 2·
+6
+
+5 2.
+6
+
+rá	 2 
+· 
+ 6 
+
+ 6 
+
+4 – 2
+.
+
+
+Úvahy, ktoré sme v úlohách 11 až 13 urobili pre konkrétnu pravdepodobnosť úspechu
+
+p = 1
+6
+
+(úspechom je padnutie šestky), konkrétny počet pokusov n = 4 (pokusom je hod
+
+kockou) a konkrétny počet úspechov k = 2, môžeme použiť aj pre iné hodnoty n, k a p.
+
+
+JE TÁ MINCA FALOŠNÁ?
+
+
+Vyskúšame si to v nasledujúcich úlohách (opakovanie uvedených úvah je tiež príleži- tosťou na ich lepšie pochopenie). V prvých dvoch zostaneme pri hádzaní kockou, teda
+ponecháme hodnotu p = 1 :
+6
+• v úlohe 14 zapíšeme pomocou kombinačných čísel ďalšie dva z možných výsledkov
+pri hode 4 kockami – 1 šestka a 3 šestky (zvyšné dva prípady – 4 šestky a 0 šestiek prídu na rad v úlohách 16 a 17), zmeníme teda počet úspechov k, ale ponecháme počet pokusov n = 4 ,
+• v úlohe 15 zmeníme počet pokusov n aj počet úspechov k.
+Neskôr – v úlohách 18 a 19 zmeníme aj hodnotu pravdepodobnosti p.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+p	 k 
+· 
+ 6 
+
+
+
+ 6 
+
+n – k
+.
+
+
+
+
+
+
+JE TÁ MINCA FALOŠNÁ?
+
+
+
+PASCALOV TROJUHOLNÍK A KOMBINAČNÉ ČÍSLA
+
+Teraz sa môžeme vrátiť k vzťahu medzi Pascalovým trojuholníkom a kombinačnými číslami, ktorý sme naznačili v úvode tejto časti na s. 16. V tab. 5 porovnávame dve riešenia tej istej úlohy – nájsť pravdepodobnosti, že pri 4 hodoch kockou padne práve 0 šestiek, 1 šestka, 2 šestky, 3 šestky, 4 šestky:
+• Výsledky v dolnom riadku tab. 5 sme našli pri riešení úloh 11 až 14 a 16 na s. 17 – 19.
+• Výsledky uvedené o riadok vyššie sme našli v úlohe 9 (pozri tab. 4 na s. 16). Pripomeňme ešte, že čísla 1, 4, 6, 4, 1 v tomto riadku sú čísla v štvrtom riadku Pascalovho trojuholníka.
+
+
+pravdepodobnosť, že v 4 hodoch hracou kockou padne práve0 šestiek
+1 ·  5 4
+61 šestka
+4 ·  5 3·  1
+6	62 šestky
+6 ·  5 2·  1 2
+6	63 šestky
+4 · 5 · 1 3
+6	 6 4 šestky
+1 ·  1 4
+6 4  ·  5 3·  1
+1	6	6 4  ·  5 2·  1 2
+2	6	6 4  ·  5  ·  1 3
+3	6	6 4  ·  1 4
+4	6Tab. 5
+
+Z porovnania posledných dvoch riadkov tabuľky 5 vidno, že čísla 4, 6, 4 a 1 sa zhodujú s kombinančnými číslami
+
+ 1 
+
+ 2 
+
+ 3  a
+
+4 . Zostáva ešte číslo 1 na začiatku horného riadka: aby sme aj to mohli zapísať v tvare kombinač-
+4
+
+ného čísla, dohodneme sa, že symbol
+
+ 0 
+
+bude označovať číslo 1.
+
+Dohoda o zavedení symbolu
+n
+
+
+
+ 0 
+
+nie je až taká formálna, ako by sa na prvý pohľad mohlo zdať. Kombinačné
+
+číslo k je počet všetkých možností, ako z n rôznych prvkov vybrať skupinu obsahujúcu k prvkov. Podľa tohto
+
+opisu by číslo
+
+ 0 
+
+malo vyjadrovať počet možností, ako zo 4 rôznych prvkov vybrať 0 prvkov. Ak sa nad tým
+
+zamyslíme, tak uznáme, že sa to dá práve jedným spôsobom: všetky 4 prvky necháme na mieste. To je v súlade s ďalším poznatkom o kombinačných číslach: Každým výberom k-prvkovej skupiny z n prvkov je jednoznačne určená (n – k)-prvková skupina tých prvkov, ktoré sme nevybrali. Preto počet všetkých k-prvkových sku-
+pín musí byť rovnaký ako počet všetkých (n – k)-prvkových skupín. Zapísané pomocou kombinačných čísel:
+
+n  =	n
+
+. Opticky to znamená, že n-tý riadok Pascalovho trojuholníka je súmerný podľa stredu (skontroluj
+
+k	 n – k 	n	n
+
+-te to). Dohoda 0 = 1 zachováva túto súmernosť, pretože ako vieme, platí n = 1.
+Vďaka tejto dohode môžeme povedať, že štvrtý riadok Pascalovho trojuholníka tvoria kombinačné čísla
+
+
+
+4 , 4 , 4 ,
+
+4	4	0  1  2
+3 a  4 . Rovnaké úvahy možno použiť pre ľubovoľný riadok v Pascalovom trojuholníku. Ak sa dohodneme, že prvú
+
+jednotku v n-tom riadku označíme symbolom
+
+n , tak n-tý riadok Pascalovho trojuholníka tvoria kombinačné čísla
+0
+
+Dohoda:	n	= 1
+0
+
+ 0  ,
+
+ 1  ,
+
+
+ 2 
+
+, ...,
+
+ n – 2,
+
+ n – 1,
+
+
+n
+
+
+Aby sme na výpočet týchto nových kombinačných čísel
+
+
+
+0
+
+
+mohli používať pôvodný vzorec
+
+
+
+ k 
+
+= 	n!	,
+(n – k)! k!
+
+musíme sa ešte dohodnúť, že symbol 0!, ktorý sa v tomto vzorci pre k = 0 vyskytne, budeme chápať ako číslo 1.
+
+Túto dohodu potrebujeme aj pri použití uvedeného vzorca na výpočet kombinačného čísla
+20
+
+n , skontrolujte to!
+n
+
+
+
+Dohoda:	0! = 1
+
+Zvyčajne používaná podoba Pascalovho trojuholníka má aj nultý riadok, v ktorom je jedna jednotka (nasle- duje prvý riadok s číslami 1, 1, druhý s číslami 1, 2, 1 atď.). Túto jednotku môžeme – v súlade so vzorcom
+
+ k 
+
+= 	n!	a s dohodou, že 0! = 1 – zapísať ako kombinačné číslo
+(n – k)! k!
+
+
+
+0
+
+(skontrolujte to).
+
+
+
+
+
+
+
+
+
+
+„Pascalov“ trojuholník bol známy dávno pred Pascalom v Číne, Indii, Perzii aj Európe. Na obrázku je jeho vyobrazenie z r. 1407 v jednom z vydaní knihy Jordana de Nemore,
+európskeho matematika z 13. storočia.
+Za pozornosť stoja pre nás dnes nezvyčajné tvary arabských číslic.
+
+To, že jednotlivé hodnoty v Pascalovom trojuholníku vyjadrujú počty kombinácií, bolo známe indickým matematikom už v 9. storočí. Nasledujúci kombinatorický dôkaz súčtovej vlastnosti Pascalovho trojuhol- níka však pochádza od Pascala.
+
+Všetky (k + 1)-prvkové kombinácie z n + 1 prvkov – ktorých počet je
+
+n + 1
+k + 1
+– 
+možno rozložiť na dve skupiny:
+
+• Prvá obsahuje tie kombinácie, v ktorých sa vyskytuje nejaký vopred určený prvok. Týchto kombinácií je
+n , pretože k určenému prvku treba ešte pridať ďalších k prvkov (tie vyberáme celkovo z n prvkov, medzi
+k
+ktorými zvolený prvok už nie je), aby sme dostali celkom k + 1 prvkov.
+
+• Druhá obsahuje kombinácie, ktoré tento daný prvok neobsahujú, tých je
+
+ k + 1
+
+, pretože všetkých k + 1
+
+prvkov treba vybrať spomedzi n prvkov, medzi ktorými nie je zvolený prvok.
+
+Preto musí platiť
+
+n + 1
+k + 1
+
+= k +
+
+k + 1 .
+
+Čísla v Pascalovom trojuholníku majú ešte ďalšiu dôležitú vlastnosť. Ak sa pozrieme na pravé strany nasle- dujúcich rovností – dostali sme ich roznásobením výrazov na ich ľavej strane – zistíme, že koeﬁcienty, ktoré sme vyznačili červeno, tvoria jednotlivé riadky Pascalovho trojuholníka:
+(a + b)2 = 1 · a2 + 2 · ab + 1 · b2
+(a + b)3 = 1 · a3 + 3 · a2b + 3 · ab2 + 1 · b3
+(a + b)4 = 1 · a4 + 4 · a3b + 6 · a2b2 + 4 · ab3 + 1 · b4
+Čísla 1, 2, 1 predstavujú druhý riadok Pascalovho trojuholníka, čísla 1, 3, 3, 1 jeho tretí riadok, čísla 1, 4, 6, 4, 1 štvrtý riadok. Tento poznatok platí pre každé prirodzené číslo n: ak chceme zapísať výraz (a + b)n  v roznásobenom tvare, použijeme ako koeﬁcienty čísla z n-tého riadka Pascalovho trojuholníka. Napríklad jeho ôsmy riadok tvoria čísla
+1	8	28	56	70	56	28	8	1
+a výraz (a + b)8 má po roznásobení podobu
+    (a + b)8 = 1 · a8 + 8 · a7b + 28 · a6b2 + 56 · a5b3 + 70 · a4b4 + 56 · a3b5 + 28 · a2b6 + 8 · ab7 + 1 · b8
+(všimnite si, že mocniny premennej a klesajú postupne od 8 k 0, naopak mocniny premennej b rastú od    0 po 8).
+ 21	
+
+JE TÁ MINCA FALOŠNÁ?
+
+
+BERNOULLIOVSKÉ POKUSY
+A BINOMICKÉ ROZDELENIE PRAVDEPODOBNOSTI
+
+Opakované hody mincou alebo hracou kockou, pri ktorých nás zaujíma počet úspechov (v našich príkladoch je úspechom v prípade mince padnutie znaku, v prípade kocky padnutie šestky) sú typické príklady bernoulliovských pokusov. Vo všeobecnosti ber- noulliovským pokusom nazývame viacnásobné opakovanie jednoduchého pokusu, pri- čom v jednoduchom pokuse nás zaujíma iba jeden z jeho možných výsledkov, ktorý označujeme ako úspech (v príklade s hracou kockou nás z rôznych možných výsledkov, napr. padne trojka, padne párne číslo, nepadne štvorka a pod., zaujímal výsledok padne šestka, tento výsledok sme preto označili ako úspech).
+
+
+
+
+
+
+JACOB BERNOULLI
+
+V predchádzajúcich úlohách sme sa obmedzili na padnutie šestky pri hode kockou – teda na náhodný pokus, v ktorom pravdepodobnosť úspechu je p =  1  . Rovnaké úvahy však
+6
+môžeme urobiť pre náhodný pokus s ľubovoľnou inou pravdepodobnosťou úspechu p.
+Vyskúšame si to v úlohe 18. Predtým dokončíme rozbor všetkých možných výsledkov pri opakovanom hode kockou.
+
+(1654 – 1705)
+SA PRAVDEPODOBNOSŤOU
+
+V úlohe 16 sme overili, že vzorec
+
+k  ·
+
+1 k·
+6
+
+5 n – k možno použiť na zápis pravdepodob-
+6
+
+POČTU ÚSPECHOV PRI VIACNÁSOBNOM OPAKOVANÍ POKUSU ZAOBERAL V SVOJOM DIELE ARS CONJECTANDI
+(UMENIE USUDZOVAŤ). PRÁCA
+
+nosti jednej z extrémnych možností – vo všetkých hodoch padne šestka. Teraz nás bude zaujímať druhý extrém – šestka nepadne ani raz.
+
+ÚLOHY
+
+NADVÄZUJÚCA NA VÝSLEDKY ĎALŠÍCH VÝZNAČNÝCH
+17. 
+V článku o Pascalovom trojuholníku na s. 20 sme sa dohodli, že symbol
+
+
+0
+
+bude
+
+MATEMATIKOV, KTORÍ STÁLI PRI ZRODE TEÓRIE
+PRAVDEPODOBNOSTI (HUYGENS,
+PASCAL, FERMAT) VYŠLA
+
+označovať číslo 1. Skontrolujte, že vďaka tejto dohode možno pravdepodobnosť, že
+a) v 4 hodoch kockou nepadne ani jedna šestka,
+b) v n hodoch kockou nepadne ani jedna šestka zapísať v tvare
+
+V R. 1713, OSEM ROKOV PO
+BERNOULLIHO SMRTI.
+
+k  ·
+
+1 k·
+6
+
+5 n – k.
+6
+
+ZMYSEL TÝCHTO OTÁZOK SME VYSVETLILI V POZNÁMKE PRI ÚLOHE 16 NA S. 19: CHCEME SKONTROLOVAŤ, ČI VŠETKY PRAVDEPODOBNOSTI
+– AJ TIE, KTORÉ MOŽNO ZAPÍSAŤ JEDNODUCHŠÍM SPÔSOBOM – MOŽNO VYJADRIŤ JEDNÝM A TÝM ISTÝM VZORCOM.
+
+18. V diskusii si ujasnite, že rovnako ako v úlohách 11 až 17 môžeme uvažovať aj o výsledkoch opakovania náhodného pokusu, v ktorom pravdepodobnosť úspe- chu je napr. p = 0,237. Riešte pre túto pravdepodobnosť p úlohy podobné pred- chádzajúcim: aká je pravdepodobnosť, že
+a) zo 4 pokusov budú úspešné práve 2, b) z 10 pokusov bude úspešných práve 7,
+c) z n pokusov bude úspešných práve k, d) z 20 pokusov bude úspešných 20,
+e) z 8 pokusov nebude úspešný	f) z n pokusov nebude úspešný ani jeden,		ani jeden.
+Výsledky zapíšte pomocou kombinačných čísel, hodnoty v úlohách a), b), d), e) vypočítajte na kalkulačke.
+
+
+Urnový model s vrátením
+Pokus s pravdepodobnosťou p = 0,237 možno znázorniť pomocou tzv. urnového mode- lu. V urne je veľký počet guliek, z nich 23,7 % je červených, ostatné sú čierne (v urne je napr. 237 červených a 1 000 – 237 = 763 čiernych guliek).
+Jednoduchý pokus je vybratie jednej guľky.
+
+
+JE TÁ MINCA FALOŠNÁ?
+
+
+Ak chceme pokus opakovať, musíme vybratú guľku do urny vrátiť, aby sa pravdepodobnosť úspechu pri ďalšom pokuse nezmenila. Kvôli vráteniu guľky sa tento urnový model označuje ako model s vrátením (v poslednej kapitole sa stretneme aj s urnovými modelmi bez vrátenia).
+Podobne si možno predstavovať aj pokusy s inou pravdepodobnosťou úspechu p.
+
+
+
+ÚLOHA
+
+19. Zapíšte pravdepodobnosti z úlohy 7 na s. 15 pomocou kombinačných čísel. Zapísa- né pravdepodobnosti vypočítajte a hodnoty porovnajte s výsledkami úlohy 7.
+
+
+Úvahy, ktoré sme používali pri riešení úloh 11 až 19, sú stručne zhrnuté v nasledujúcej tabuľke – v prvom a druhom stĺpci pre porovnanie (a väčšiu názornosť) pre hod kockou, v treťom stĺpci vo všeobecnej podobe.
+
+
+Hod kockou – pravdepodobnosť, 1
+že pri jednom hode padne šestka, je 6      Pokus, v ktorom pravdepodobnosť úspechu je ppravdepodobnosť, že pri 4 hodoch kockou padnú práve 2 šestkypravdepodobnosť, že pri n hodoch kockou padne práve k šestiekpravdepodobnosť, že pri n opakovaniach pokusu bude práve k pokusov úspešnýchExistuje celkom 4 možností,
+2
+v ktorých dvoch zo štyroch hodov
+padne šestka.Existuje celkom n možností,
+k
+v ktorých k z n hodov padne
+šestka.Existuje celkom n možností, ktorých k
+k
+z n pokusov bude úspešných.Pravdepodobnosť každej z týchto možností je
+ 1 2· 1 –  1 4 – 2
+6	6Pravdepodobnosť každej z týchto možností je
+ 1 k· 1 –  1 n – k
+6	6Pravdepodobnosť každej z týchto mož- ností je
+pk · (1 – p)n – kHľadaná pravdepodobnosť je súčet týchto 4 rovnakých možností,
+2
+preto sa rovná
+4 ·  1 2· 1 –  1 4 – 2.
+2	6	6Hľadaná pravdepodobnosť je súčet týchto n rovnakých možností,
+k
+preto sa rovná
+n ·  1 k· 1 –  1 n – k.
+k	6	6Hľadaná pravdepodobnosť je súčet
+týchto n rovnakých možností, preto sa rovná k
+n · pk · (1 – p)n – k.
+k
+
+Vyplýva z nich dôležitý poznatok, ktorý využijeme v našich nasledujúcich úvahách:
+k
+
+
+n   · pk · (1 – p)n – k.	(*)
+
+v	ob
+p
+
+k
+
+JE TÁ MINCA FALOŠNÁ?
+
+
+Ak budeme 250-krát opakovať pokus, v ktorom pravdepodobnosť úspechu je p = 0,4, bude mať vzorec (*) tvar
+
+250
+k
+
+· 0,4k · 0,6250 – k.	(**)
+
+
+Napríklad 250-krát za sebou vytiahneme guľku z urny, ktorá obsahuje 40 % červených a 60 % čiernych guliek, zistíme farbu vytiahnutej guľky a guľku vrátime do urny. Tento zložený náhodný pokus (vytvorený 250-násobným opakovaním jednoduchého pokusu, ktorým je vytiahnutie 1 guľky) môže mať 251 rôznych výsledkov – náhodných udalostí: žiadna vytiahnutá guľka nebola červená, práve 1 vytiahnutá guľka bola červená, práve 2 vytiahnuté guľky boli červené, ..., práve 249 vytiahnutých guliek bolo červených, všetky vytiahnuté guľky boli červené.
+
+
+Ak do tohto vzorca dosadíme niektoré z čísel k = 0, 1, 2, ..., 250 , dostaneme pravde- podobnosť, že pri 250 opakovaniach dosiahneme úspech práve k-krát. Na vzorec (**) sa teda môžeme pozerať ako na predpis funkcie, ktorá možným výsledkom náhodné- ho pokusu (tie sú v tomto prípade opísané hodnotami k = 0, 1, 2, ..., 250) priraďuje ich pravdepodobnosti. Takéto funkcie sa v matematike nazývajú rozdelenie pravde- podobnosti. Predpis rozdelenia pravdepodobnosti (**) sme dostali tak, že v (*) sme zvolili konkrétne hodnoty n = 250 a p = 0,4. Každé rozdelenie pravdepodobnosti,
+
+ktoré takouto konkrétnou voľbou n a p dostaneme z predpisu
+
+
+ k 
+· 
+pk · (1 – p)n – k, sa
+
+nazýva binomické. Teda pre každú konkrétnu dvojicu n a p (kde n je nejaké priro-
+dzené číslo a p niektorá hodnota medzi 0 a 1) dostaneme jedno konkrétne binomické rozdelenie. Hodnoty n a p sa nazývajú parametre tohto rozdelenia. Napríklad rozde- lenie určené vzorcom (**) je binomické rozdelenie pravdepodobnosti s parametrami n = 250, p = 0,4.
+
+
+1.3 Ako to bolo s falošnou mincou
+Teraz sa môžeme vrátiť k otázke, ktorú sme vyslovili v úvode tejto kapitoly. Ak hádžeme 10-krát mincou, očakávame, že počet znakov, ktoré padnú, sa bude pohy- bovať okolo 5. Je nám pritom jasné, že nemusí padnúť presne 5 znakov. Ak sa napr. počet padnutých znakov od ideálnej hodnoty 5 odchýli nanajvýš o o  1  (teda padne 4, 5 alebo 6 znakov), pokladáme to za normálne. Otázka je, aká veľká odchýlka od ideálnej hodnoty 5 už nie je normálna. Inak povedané: aká veľká odchýlka by už mala vzbudiť naše podozrenie, že minca je falošná (teda pravdepodobnosť padnutia znaku na nej nie je 0,5)?
+
+o
+do
+
+
+KTORÉ ODCHÝLKY OD IDEÁLNEHO VÝSLEDKU SÚ PRI 10 HODOCH PRAKTICKY NEMOŽNÉ?
+
+ÚLOHA
+
+20. Pomocou tabuľkového kalkulátora
+a) vytvorte tabuľku, v ktorej pre každú z hodnôt k = 0, 1, ..., 10 vypočítate prav- depodobnosť, že pri 10 hodoch štandardnou mincou padne znak práve k-krát,
+24
+
+
+
+b) potom v ďalšom stĺpci tabuľky vyjadrite v percentách pravdepodob- nosti z bodu a),
+c) zostrojte graf, znázorňujúci pre jednotlivé hodnoty k = 0, 1, ..., 10 prí- slušnú pravdepodobnosť (v %).
+Vytvorenú tabuľku použijeme ešte v úlohách 21, 26.
+
+
+Z článku 1.2 vieme, že pravdepodobnosť, že pri 10 hodoch mincou padne práve k zna-
+
+kov, je
+
+
+ k 
+· 
+0,5k · (1 – 0,5)10 – k, čo je to isté ako
+
+
+ k 
+· 
+0,510 (skontrolujte, že obidva
+
+vzorce sú správne).
+V tabuľkovom kalkulátore máme teda naprogramovať výpočet hodnôt funkcie
+
+
+ k 
+· 
+0,510 pre k = 0, 1, 2, ..., 10.
+
+Možný postup výpočtu sme znázornili na obrázku: Do bunky A1 vložíme hodnotu 0, do bunky A2 vzorec  =A1 + 1  a rozšírime ho na bunky A3 až A11. Do bunky B1 vložíme
+vzorec	a rozšírime ho na bunky B2 až B11. Do bunky C1 vložíme vzo-
+rec = 100 · B1 a rozšírime ho na bunky C2 až C11.
+Hodnoty pravdepodobnosti z buniek C1 až C11 nájdete nad jednotlivými bodmi grafu na obr.  4 (s. 27). Skontrolujte, či sa zhodujú s vašimi výsledkami (porovnajte ich tiež  s pravdepodobnosťami z riešenia úlohy 8 na s. 15).
+
+ABC10=  10  · 0,510
+A1= 100 · B12= A1 + 1
+ vzorec rozšírime na bunky B2 – B11
+ vzorec rozšírime na bunky C2 – C113
+vzorec rozšírime na bunky
+A3 – A114...1011
+
+
+
+
+
+25
+
+JE TÁ MINCA FALOŠNÁ?
+
+
+že pri 10 hodoch mincou padne 3 až 7 znakov, pozri vyznačený riadok v tab. 6) sme našli ako súčet pravdepodobností, že padne práve 3, práve 4, práve 5, práve 6 a práve 7 znakov:
+11,718 75 + 20,507 812 5 + 24,609 375 + 20,507 812 5 + 11,718 75 = 89,062 5,
+teda v tabuľke z úlohy 20 sme sčítali pravdepodobnosti zodpovedajúce hodnotám
+k = 3 až k = 7.
+
+všetky možnosti
+
+0	1	2	3	4	5	6	7	8	9	10
+
+udalosť
+„padne 3 – 7 znakov”
+
+0	1	2	3	4	5	6	7	8	9	10
+
+
+doplnková udalosť
+Obr. 3
+Pomocou ideálnych pokusov pripomeňme vzťah pravdepodobnosti a doplnkovej pravdepodobnosti:
+3 – 7 znakov padne v ideálnom prípade v 89,0625 %
+z veľkého počtu pokusov (jeden pokus = 10 hodov mincou).
+V zvyšných pokusoch – tých je 100 – 89,0625 = 10,937 5 percent – táto možnosť nenastane, teda padne iný počet znakov ako 3 – 7.
+Preto pravdepodobnosť doplnkovej udalosti (padne iný počet znakov ako 3 – 7) je 10,937 5 %.
+
+
+Doplnková pravdepodobnosť je v tomto prípade 100 – 89,062 5 = 10,937 5 (%).
+Doplnková pravdepodobnosť je pravdepo- dobnosť toho, že nenastane daná možnosť. V našom prípade je to teda pravdepodob- nosť, že pri 10 hodoch mincou bude počet znakov 0, 1, 2, 8, 9 alebo 10, t. j. odchýlka od ideálneho počtu 5 znakov bude väčšia ako m 2.
+
+
+
+pravdepodobnosť, že pri
+10 hodoch mincou padne%   doplnková pravdepodobnosť  = pravdepodobnosť, že odchýlka od ideálnej hodnoty 5 bude väčšia ako4 až 6 znakov65,62534,375 13 až 7 znakov89,062 510,937 5 22 až 8 znakov97,851 562 52,148 437 5 31 až 9 znakov99,804 687 50,195 312 5 4Tab. 6
+
+
+Všimnime si posledný riadok tab. 6. Pravdepodobnosť, že pri 10 hodoch štandardnou mincou padne 1 – 9 znakov, je 99,804 687 5 %. Udalosť s takouto pravdepodobnosťou
+– tak málo sa líšiacu od 100 % – už môžeme pokladať za prakticky istú. Je teda prakticky isté, že pri 10 hodoch štandardnou mincou bude počet znakov medzi 1 a 9. Inak pove- dané, je prakticky nemožné, aby pri 10 hodoch takouto mincou padlo 0 alebo 10 znakov (t. j. odchýlka väčšia ako ( 4 od ideálneho stavu 5 znakov je prakticky nemožná).
+
+MOŽNOSŤ PRI 10 HODOCH MINCOU PADNE 0 ALEBO 10 ZNAKOV JE DOPLNKOVÁ K MOŽNOSTI PADNE 1 AŽ 9 ZNAKOV, JEJ PRAVDEPODOBNOSŤ
+(V %) JE PRETO 100 – PRAVDEPODOBNOSŤ MOŽNOSTI PADNE 1 AŽ 9 ZNAKOV, T. J.
+100 – 99,804 687 5 = 0,195 312 5 (POČÍTALI SME JU V TREŤOM STĹPCI TAB. 6), TEDA PRIBLIŽNE 0, 2 %.
+
+Ak pri 10 hodoch mincou padne 0 znakov, nastala situácia, ktorá je v prípade štandardnej mince prakticky nemožná (odchýlka od ideálnej hodnoty 5 je väčšia ako š 4). Môžeme preto odôvodnene predpokladať, že naša minca je falošná (teda pravdepodobnosť padnu-
+
+JE TÁ MINCA FALOŠNÁ?
+
+
+
+tia znaku na nej nie je 0,5). Rovnako môžeme uva- žovať, ak pri 10 hodoch mincou padlo 10 znakov.
+
+
+Rozdelenie pravdepodobností počtu znakov pri 10 hodoch mincou
+
+1	d
+e
+n	25
+t	a
+d	20
+e	15
+š
+10
+
+5
+
+0
+0	1	2	3	4	5	6	7	8	9	10
+celkový počet
+
+65,625 %
+
+89,062 5 %
+
+97,851 562 5 %
+
+99,804 687 5 %
+Obr. 4
+
+znakov
+
+Graf binomického rozdelenia pravdepodobnosti pre n = 10, p = 0,5. Pod svorkami sú uvedené pravdepodobnosti, že pri 10 hodoch mincou padne 4 – 6, 3 – 7, 2 – 8, 1 – 9 znakov.
+
+
+
+SCHÉMA DÔKAZU NEPRAVDIVOSTI TVRDENIA ANAŠE ÚVAHY PRED ÚLOHOU 22KEBY PLATILO A,KEBY PLATILO A (TEDA MINCA JE ŠTANDARDNÁ),TAK ISTE (TEDA SO 100%-NOU PRAVDEPODOBNOSŤOU) NASTANE B.TAK SKORO ISTE (TEDA S PRAVDEPODOBNOSŤOU MÁLO SA LÍŠIACOU OD 100 %) NASTANE B (Z 10 HODOV PADNE ZNAK 1- AŽ 9-KRÁT).AK B NENASTALO, ODVODZUJEME Z TOHO, ŽE A NEMÔŽE BYŤ PRAVDIVÉ.AK B NENASTALO (TEDA ZNAK PADOL 0 ALEBO 10-KRÁT), MÔŽEME ODÔVODNENE PREDPOKLADAŤ, ŽE A NEBOLO PRAVDIVÉ
+(MINCA TEDA NIE JE ŠTANDARDNÁ).
+
+Keby pri 10 hodoch mincou padlo napr. 8 znakov, odchýlka od ideálnej hodnoty je väč- šia ako   2. Pravdepodobnosť takejto odchýlky je 100 – 89,062 5 = 10,937 5 (%), pozri vyznačený riadok v tab. 6. Táto pravdepodobnosť je príliš veľká na to, aby sme ju mohli pokladať za zanedbateľnú. Preto 8 znakov z 10 pokusov nie je pre nás dostatočný dôvod na to, aby sme mincu mohli považovať za falošnú.
+
+
+
+V úvahe pred úlohou 22 sme za prakticky istú pokladali udalosť, ktorej pravdepodobnosť bola približne 99,8 %. Spravidla sa pri takýchto úvahách za prakticky isté pokladajú buď udalosti, ktorých pravdepodobnosť je väčšia ako 99 %, alebo – oveľa častejšie –
+
+
+
+
+
+
+
+Dohoda: ti
+ky
+
+udalosti, ktorých pravdepodobnosť je väčšia ako 95 %. V našich ďalších úvahách budeme používať hodnotu 95 %. To znamená, že pravdepodobnosti menšie ako 5 % budeme už pokladať za zanedbateľné a udalosti, ktoré nastanú s pravdepodobnosťou menšou ako  5 %, za prakticky nemožné (toto si dobre rozmyslite).
+
+ou v osťo
+
+
+
+
+
+AKO TO BUDE PRI INÝCH POČTOCH HODOV MINCOU
+
+
+
+
+
+
+
+
+pravdepodobnosť
+> 95 %
+
+
+pravdepodobnosť
+< 2,5 %
+
+
+pravdepodobnosť
+< 2,5 %
+
+
+
+
+
+a) Postup, ktorý sme doteraz používali pri hľadaní najväčšej
+
+Obr. 5
+
+
+
+b) Hľadáme čo najdlhší „úsek pravdepodobností“
+
+„ešte normálnej“ odchýlky od ideálnej hodnoty (napr. v úlohe 24) bol: sčítali sme „úseky pravdepodobností“ zodpovedajúcich postupne odchýlke nanajvýš s 1, nanajvýš , 2 atď. (pozri obr. 4) a zistili sme, kedy vypočítaný súčet pravdepodobností prvýkrát prevýši hodnotu 95 %. Ak je počet pokusov (teda číslo n) veľmi veľký, je tento postup
+– aj na tabuľkovom kalkulátore – zdĺhavý a je rozumné nahradiť ho postupom znázorneným na obr. b).
+
+začínajúci na ľavom konci všetkých možností (teda pravdepodobnosťou, že padne 0 znakov) tak, aby jeho súčet bol ešte menší ako 2,5 %. Podobne hľadáme čo najdlhší úsek s celkovou pravdepodobnosťou menšou ako 2,5 % na pravom konci všetkých možností. Overte si správnosť tohto postupu najprv na obr. 4.
+
+
+
+28
+
+
+
+
+
+
+RIEŠENIE
+
+Výsledné grafy sú na obr. 6 až 8 na s. 30. V prípade 50 hodov najdlhší ľavý úsek         s pravdepodobnosťou ešte menšou ako 2,5 % je úsek od k = 0 po k = 17. Súčet prav- depodobností v tomto úseku – teda pravdepodobnosť, že pri 50 hodoch padne 0 – 17 znakov – je 1,64 ... % (súčet pravdepodobností pre hodnoty k = 0 až k = 18 je už  3,24... %). Najdlhší pravý úsek s pravdepodobnosťou ešte menšou ako 2,5 % je od      k = 33 po k = 50. Preto pravdepodobnosť, že padne nanajvýš 17 alebo aspoň 33 zna- kov,  je menšia ako 5 %, alebo – to isté inými slovami – pravdepodobnosť, že padne  18 – 32 znakov, je väčšia ako 95 %.
+Teda: je prakticky isté, že pri 50 hodoch štandardnou mincou padne 18 – 32 znakov, t. j. odchýlka od ideálnej hodnoty (ktorá je v tomto prípade 25 znakov) bude nanajvýš   7.
+Rovnakým postupom zistíme, že
+
+pri 200 hodoch (ideálna hodnota je 100 znakov)	pri 1 000 hodoch (ideálna hodnota je 500 znakov)
+je prakticky isté, že padne
+86 – 114 znakov	469 – 531 znakov
+t. j. odchýlka od ideálnej hodnoty je
+nanajvýš n 14	nanajvýš 1 31
+
+(súčet pravdepodobností v úseku k = 0 až k = 85 je 2,001... %, kým súčet pre k = 0 až k = 86
+je už 2,798... %).
+
+(súčet pravdepodobností v úseku k = 0 až k = 468 je 2,31... %, kým súčet pre k = 0 až k = 469
+je už 2,68... %).
+
+
+
+Ak teda napr. pri 200 hodoch mincou bude počet padnutých znakov mimo intervalu  86 až 114 znakov, možno odôvodnene predpokladať, že minca nie je štandardná. Keby pri 200 hodoch mincou padlo napr. 89 znakov, nebol by to dostatočný dôvod na tvrdenie, že minca nie je štandardná.
+
+Poznámka.
+Slovné spojenia prakticky istý a odôvodnene predpokladať by ste v odbornej literatúre hľadali márne. Zvolili sme ich v snahe o čo najväčšiu názornosť. Štatistik by tvrdenia  z predchádzajúceho odseku sformuloval takto:
+• pri 200 hodoch mincou sa počet znakov nachádza mimo intervalu 86 – 114, preto
+hypotézu minca je štandardná zamietame na hladine významnosti 5 %,
+• pri 200 hodoch mincou padlo 89 znakov, preto hypotézu minca je štandardná neza- mietame na hladine významnosti 5 %.
+29
+
+JE TÁ MINCA FALOŠNÁ?
+
+
+
+
+  Rozdelenie pravdepodobností počtu padnutých znakov pri 50 hodoch mincou
+12
+
+10
+
+
+
+
+OBRÁZOK MÔŽE VZBUDIŤ DOJEM, ŽE PRE k MENŠIE AKO 10
+ALEBO VÄČŠIE AKO 40 SÚ UŽ HODNOTY PRAVDEPODOBNOSTI NULOVÉ, NIE JE TO VŠAK PRAVDA. V SKUTOČNOSTI ZNÁZORNENÉ HODNOTY POSTUPNE RASTÚ OD
+
+8
+P(0) = 100 ·
+
+
+ 0 
+
+· 0,550 = 8,881 784 ... · 10–16 %
+
+6	(TEDA NULA, DESATINNÁ ČIARKA, ZA ŇOU 15 NÚL A AŽ POTOM
+NASLEDUJE PRVÁ NENULOVÁ ČÍSLICA 8) AŽ PO
+4	NAJVÄČŠIU HODNOTU
+
+P(25) = 100 ·
+2
+
+
+ 25 
+· 
+0,550 = 11,227 517 ... %,
+
+
+0
+0	5	10	15	20	25	30	35	40	45	50
+celkový počet padnutých znakov v 50 hodoch mincou
+Obr. 6
+Binomické rozdelenie pravdepodobnosti pre n = 50 a p = 0,5.
+
+A POTOM ZASA KLESAJÚ AŽ PO
+P(50) = 8,881 784 ... · 10–16 %.
+ROVNAKÁ POZNÁMKA SA VZŤAHUJE AJ NA GRAFY Z OBR. 7 A 8. (ČINITEĽ 100, KTORÝ SME VO VZORCOCH PRE P(0) A P(25) UVIEDLI AKO PRVÝ V PORADÍ, JE TAM PRETO, LEBO PRAVDEPODOBNOSTI VYJADRUJEME V PERCENTÁCH.)
+
+
+
+
+Rozdelenie pravdepodobností počtu znakov pri 200 hodoch mincou
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+0	20	40	60	80	100 120 140 160 180 200
+celkový počet znakov v 200 hodoch
+Obr. 7
+Binomické rozdelenie pravdepodobnosti pre n = 200 a p = 0,5.
+
+
+
+Galton a quincunx (Galtonova doska)
+Galton navrhol zariadenie znázorňujúce, ako opakovaním náhodného pokusu vzniká binomické rozdelenie pravdepodobnosti (pozri obrázok). Ide o dosku s niekoľkými radmi kolíkov. Tie sú rozmiestnené tak, aby guľka spustená zhora mala pri náraze do ľubovoľného kolíka rovnakú pravdepodobnosť pokračovať vpravo alebo vľavo od neho. Každý náraz guľky je teda náhodný pokus s pravdepodobnosťou úspechu ½ a počet radov kolíkov zodpovedá počtu opakovaní tohto pokusu. Po prejdení celej trasy guľka spadne do jedného   z priečinkov umiestnených pod doskou. Ich šírka je zvolená tak, aby v nich guľky ležali jedna na druhej. Vďaka tomu zodpovedá výška guliek v jednotlivých priečinkoch počtu guliek, ktoré do priečinka spadli.
+
+30
+
+JE TÁ MINCA FALOŠNÁ?
+
+
+Ak je počet spustených guliek dostatočne veľký, budú výšky guliek v jednotlivých priečinkoch vytvárať pri- bližný histogram binomického rozdelenia pravdepo- dobnosti. Na internete možno nájsť množstvo simulácií tohto zariadenia, oveľa  lepšie však je  vyskúšať si  ho   v skutočnosti, nie iba virtuálne.
+
+
+Názov quincunx označuje päť predmetov usporiadaných tak, ako sú usporiadané bodky v čísle 5 na hracej kocke. Túto podobu vytvára aj pätica susedných kolíkov Galtonovej dosky:
+jeden v strede, dva v rade nad ním a dva v rade pod ním.	Schéma quincunxu (Galtonovej dosky).
+
+
+PRECHOD K RELATÍVNYM POČETNOSTIAM
+
+
+Ak sa pozrieme na obr. 4, 6, 7 a 8, všimneme si, že so zväčšovaním celkového počtu pokusov z n = 10 (obr. 4) cez n = 50, 200 (obr. 6, 7) až po n = 1 000 (obr. 8) sa grafy „zu- žujú“ (vidíte to aj vy?). Podobné pozorovanie o „zužovaní“ platí aj pre interval, v ktorom ležia výsledky,  ktoré ešte pokladáme za normálne (pozri riešenie úlohy 25 na s. 29):    2 – 8 znakov pri 10 hodoch, 18 – 32 pri 50 hodoch, 86 – 114 pri 200 hodoch, 469 – 531
+pri 1 000 hodoch. Pre porovnanie:
+• na obr. 4 interval 2 – 8 predstavuje 6 = 0,6 dĺžky intervalu 0 – 10,
+10	 62 
+na obr. 8 interval 469 – 531 predstavuje už iba	= 0,062 dĺžky intervalu 0 – 1 000,
+teda skoro 10-krát menšiu časť ako na obr. 4.
+Úvahy o „zužovaní“ budú názornejšie, ak v grafoch nahradíme na vodorovnej osi abso- lútnu početnosť relatívnou (t. j. podielom počet znakov , tento postup sme znázornili na
+počet pokusov
+obr. 9). Teda namiesto počtu padnutých znakov uvedieme, akú časť z celkového počtu pokusov tvoria tie pokusy, v ktorých padol znak (napr. v grafe na obr. 7 na vodorovnej
+
+
+
+
+
+
+
+SIR  FRANCIS GALTON
+(1822 – 1911),
+    VÝZNAČNÝ ANGLICKÝ UČENEC, ZASLÚŽIL SA O ROZVOJ VIACERÝCH VEDNÝCH DISCIPLÍN (NAPR. PSYCHOLÓGIE, ŠTATISTIKY
+     ALEBO METEOROLÓGIE). SVOJIMI VÝSKUMAMI POLOŽIL, OKREM INÉHO, ZÁKLAD PRE
+
+osi hodnotu 140 nahradí hodnota  140
+200
+
+= 0,7, ideálny počet znakov vo všetkých štyroch
+
+POUŽÍVANIE ODTLAČKOV PRSTOV
+V KRIMINALISTIKE.
+
+
+12
+
+10
+
+8
+
+6
+
+4
+
+2
+
+0
+0	5	10	15	20	25	30	35	40	45	50	absolútna početnosť
+0	0,1	0,2	0,3	0,4	0,5	0,6	0,7	0,8	0,9	1	relatívna početnosť
+Obr. 9
+Graf rozdelenia pravdepodobnosti absolútnych početností z obr. 6 prerábame na graf rozdelenia
+pravdepodobností relatívnych početností: na vodorovnej osi hodnotu „počet znakov“ nahrádzame hodnotou
+počet znakov , v tomto prípade je to počet znakov .
+počet pokusov	50	31
+
+JE TÁ MINCA FALOŠNÁ?
+
+
+grafoch nahradí hodnota 0,5, rozmyslite si to, až potom čítajte ďalej). Dosiahneme tak, že vo všetkých grafoch budú na vodorovnej osi čísla z intervalu od 0 do 1. Vďaka tomu môžeme takto získané grafy rozdelenia pravdepodobností relatívnych početností ľahko porovnávať.
+
+ÚLOHA
+
+26. Vráťte sa k tabuľkám, ktoré ste pomocou tabuľkového kalkulátora vytvorili v úlo- hách 20 a 25.
+a) Vytvorte pomocou nich grafy rozdelenia pravdepodobností (pre 10, 50, 200   a 1 000 hodov mincou), v ktorých na vodorovnej osi bude relatívna početnosť počtu znakov. (Teda: doplňte do tabuľky stĺpec relatívna početnosť a potom zostrojte graf, ktorý znázorní závislosť medzi stĺpcami relatívna početnosť    a pravdepodobnosť v %.)
+b) Pre každý z týchto štyroch prípadov (10, 50, 200 a 1000 hodov mincou) opíšte výsledok, ktorý pokladáme za prakticky istý, pomocou relatívnych početností.
+
+
+
+RIEŠENIE
+
+Na obr. 10 sme všetky štyri grafy nakreslili do jedného obrázka. Intervaly prakticky istých výsledkov vyjadrené pomocou relatívnych početností uvádzame v tabuľke na
+s. 33 aj pod obr. 10 (absolútne početnosti v intervaloch 2 – 8, 18 – 32, 86 – 114,  469 – 531 sme prepočítali na relatívne, teda vydelili sme ich celkovým počtom po- kusov, napr. intervalu absolútnych početností 86 – 114 pri 200 pokusoch zodpovedá
+
+interval relatívnych početností 86 
+200
+
+– 114 , t. j. 0,43 – 0,57).
+200
+
+
+
+
+
+25
+
+20
+
+15
+
+10
+
+5
+
+
+0
+0,469 – 0,531
+0,43 – 0,57
+0,36 – 0,64
+0,2 – 0,8
+Obr. 10
+
+
+
+1
+relatívna početnosť padnutých znakov
+
+Porovnanie rozdelenia pravdepodobností z obr. 4, 6, 7 a 8 – na vodorovnej osi je relatívna početnosť počtu znakov. Farebné šípky znázorňujú interval, v ktorom pri danom počte pokusov prakticky iste leží relatívna početnosť znakov.
+Všimnite si, že s rastúcim počtom pokusov (od n = 10 cez n = 50 a n = 200 po n = 1 000) sa krajné body tohto intervalu stále menej líšia od ideálnej relatívnej početnosti 0,5 (teda 50 %).
+
+32
+
+JE TÁ MINCA FALOŠNÁ?
+
+
+
+
+pri 10 hodochpri 50 hodochpri 200 hodochpri 1 000 hodochštandardnou mincou je prakticky isté, že relatívna početnosť znakov bude v rozmedzí0,2 – 0,80,36 – 0,640,43 – 0,570,469 – 0,531teda v percentách20 – 80 %36 – 64 %43 – 57 %46,9 – 53,1 %
+
+Pokladáme teda napr. za prakticky isté, že pri 200 hodoch štandardnou mincou padne znak v 43 – 57 percentách hodov. Pri relatívnej početnosti menšej ako 43 % alebo väčšej ako 57 % by sme už mohli odôvodnene predpokladať, že minca nie je štandardná (teda pravdepodobnosť padnutia znaku na nej nie je 0,5).
+
+
+HĽADÁME PRAKTICKY ISTÉ VÝSLEDKY
+
+Doteraz sme uvažovali o hádzaní mincou, teda o pokuse s pravdepodobnosťou p = 0,5. V nasledujúcich úlohách si podobné úvahy vyskúšame pre pokusy s inou pravdepodob- nosťou úspechu.
+
+Koľko správnych odpovedí sa dá „natipovať“ v teste?
+Test sa skladá z 30 otázok s výberom odpovede – v každej otázke si možno vybrať jednu zo 4 odpovedí, pričom iba jedna z nich je správna. Zaujíma nás, koľko správnych odpo- vedí by sme dosiahli, keby sme v každej otázke vybrali jednu zo 4 ponúkaných možností úplne náhodne. Takáto náhodná odpoveď nie je nič iné ako pokus s pravdepodobnosťou úspechu p = 0,25 (prečo?) a náhodné odpovedanie na 30 otázok je 30-násobné opakova- nie tohto pokusu (ujasnite si to v diskusii).
+
+
+27. a) Pomocou tabuľkového kalkulátora zostavte tabuľku rozdelenia pravdepodobností počtu správnych odpovedí. Zistite, aký počet správnych odpovedí možno pokla- dať za prakticky istý u študenta, ktorý na všetkých 30 otázok v teste odpovedal náhodne (použite postup opísaný na obr. 5 b na s. 28).
+b) Ako sa zmení odpoveď, ak test bude mať 75 otázok (každú opäť s výberom zo 4 možností)?
+
+Na základe výsledkov diskutujte o tom, aký počet správnych odpovedí by ste stanovili za minimálnu hranicu na úspešné absolvovanie testu. (Predpokladáme, že jediné kritérium na hodnotenie testu je počet správ- nych odpovedí, teda žiak pri hodnotení nie je napr. penalizovaný za po- čet nezodpovedaných alebo zle zodpovedaných otázok).
+
+
+Koľko šestiek by malo padnúť pri hode hracou kockou?
+
+
+GRAFY ROZDELENÍ PRAVDEPODOBNOSTÍ SÚVISIACICH S RIEŠENÍM ÚLOHY 27 SÚ
+NA OBR. 11, S. 34.
+
+
+
+28. Zaujíma nás, aký počet šestiek možno pokladať za prakticky istý pri a) n = 60, b) n = 120, c) n = 600
+hodoch štandardnou hracou kockou.
+33
+
+
+
+Pre uvedené počty hodov
+• zostrojte pomocou tabuľkového kalkulátora tabuľku, v ktorej vypočítate prav- depodobnosť každého z možných výsledkov padne 0 šestiek, padne 1 šestka,
+..., padne n šestiek,
+• zostrojte graf rozdelenia pravdepodobností pre absolútnu aj pre relatívnu početnosť šestiek (v prvom budú na vodorovnej osi hodnoty k = 0, 1, 2, ..., n,
+v druhom relatívne početnosti 0, 1 , 2 , ..., 1),
+n	n
+•
+pomocou postupu znázorneného na obr. 5 b) na s. 28 zistite, aký počet šestiek možno pri danom počte hodov pokladať za prakticky istý. Tento výsledok vy- jadrite aj pomocou relatívnych početností.
+
+
+
+Rozdelenie pravdepodobností počtu správnych odpovedí
+18
+16
+14
+12
+10
+8
+6
+4
+2
+0
+0	5	10	15	20	25	30
+a)	počet  správnych odpovedí
+(z celkového počtu 30)
+
+
+
+
+12
+
+10
+
+8
+
+6
+
+4
+
+2
+
+0
+   b) Obr. 11
+
+Rozdelenie pravdepodobností počtu správnych odpovedí
+
+
+
+
+
+
+
+
+
+
+0	5 10 15 20 25 30 35 40 45 50 55 60 65 70 75
+počet správnych odpovedí (z celkového počtu 75)
+
+Graf binomického rozdelenia pre p = 0,25 a a) n = 30, b) n = 75.
+Zelenou sme vyznačili hodnoty nad intervalom, do ktorého prakticky iste padne počet správnych odpovedí pri náhodnom tipovaní.
+
+14
+
+
+12
+
+10
+
+8
+
+6
+
+4
+
+2
+
+0
+0	 1 
+6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 12
+
+
+Keby sme v každom z týchto troch grafov nahradili na vodorovnej osi relatívne početnosti absolútnymi (je to opačný postup k postupu znázornenému na obr. 9, hodnotu 1 na vodorovnej osi by v zelenom grafe nahradilo číslo 60, v modrom 120
+a v čiernom 600), dostali by sme grafy binomického rozdelenia pravdepodobnosti
+s parametrami
+1	n = 60 a p =  1 ,
+6
+n = 120 a p =  1 ,
+6
+
+Rozdelenie pravdepodobností relatívnych početností šestiek pri 60, 120 a 600 hodoch štandardnou hracou kockou. Farebné šípky označujú interval, v ktorom sa prakticky iste bude nachádzať relatívna početnosť šestiek pri danom počte hodov.
+34
+
+n = 600 a p = 1 .
+6
+
+
+
+
+
+3. Po 5. hode:
+
+0 znakov1 znak2 znaky3 znaky4 znaky5 znakov1
+
+325
+
+3210
+
+3210
+
+325
+
+321
+
+32
+
+
+Po 6. hode:
+
+Tab. 7
+
+
+0 znakov1 znak2 znaky3 znaky4 znaky5 znakov6 znakov1
+
+646
+
+6415
+
+6420
+
+6415
+
+646
+
+641
+
+64
+Tab. 8
+
+Napríklad pravdepodobnosť, že pri 6 hodoch mincou padne znak práve dvakrát, je 15 = 0,234 375, t. j. približne 23,44 %
+64
+(3. stĺpec v tab. 8). Pravdepodobnosť, že pri 5 hodoch padne znak práve 3-krát, je 10 = 0,312 5, t. j. 31,25 %
+(4. stĺpec v tab. 7).	32
+4. Súčet čísel v každom riadku je 1.
+
+Zdôvodnenie„v reči počtu pokusov“„v reči pravdepodobnosti“V každom kroku rozdeľujeme celok (predstavujúci všetky pokusy) na časti, ktoré sa navzájom neprekrývajú (napr. pri úvahách o 2. hode sú to 3 časti: „pokusy, v ktorých   v prvých 2 hodoch nepadol ani 1 znak“, „pokusy, v kto- rých v prvých 2 hodoch padol práve 1 znak“, „pokusy,   v ktorých v prvých 2 hodoch padli 2 znaky“).V každom riadku uvažujeme o náhodných udalostiach (napr.  pri úvahách o 2. hode sú to 3 náhodné udalosti:    v prvých 2 hodoch nepadol ani 1 znak, v prvých 2 hodoch padol práve 1 znak, v prvých 2 hodoch padli 2 znaky), ktorých súhrn je istá udalosť (pri úvahách o 2. hode je to udalosť v prvých 2 hodoch padne 0, alebo 1, alebo 2 zna- ky), pričom žiadne dve z týchto náhodných udalostí ne- môžu nastať súčasne.Čísla v príslušnom riadku tabuľky 2 určujú, akú časť celku (teda všetkých pokusov) tvoria tieto časti.Čísla v príslušnom riadku tabuľky sú pravdepodobnosti týchto náhodných udalostí. Ak označíme náhodné udalos- ti v n-tom riadku A0 (v prvých n hodoch padlo 0 znakov),
+A1 (v prvých n hodoch padol 1 znak), A2, ..., An, tak
+čísla v n-tom riadku sú hodnoty
+p (A0), p(A1), ..., p(An)	(*)Vieme, že
+• časti sa navzájom neprekrývajú
+
+
+• a spolu tvoria celý celok (každý pokus patrí práve do jednej časti),
+preto sa súčet čísel v riadku rovná 1.Vieme, že
+• žiadne dve z udalostí A0, A1, A2, ..., An nemôžu nastať súčasne, preto
+p(A0 alebo A1 ... alebo An) =
+= p(A0) + p(A1) + ... + p(An)	(**)
+• A0 alebo A1 alebo ... alebo An (po n hodoch padne 0,
+alebo 1, alebo 2, ..., alebo n znakov) je istá udalosť,
+preto
+p(A0   alebo A1 ... alebo An) = 1	(***)
+Z (*), (**) a (***) vyplýva, že súčet čísel v n-tom riadku je 1.5. V prvom riadku 2, v druhom 4 (t. j. 22), v treťom 8 (t. j. 23), v štvrtom 16 (t. j. 24), vo všeobecnosti v n-tom riadku to bude 2n. Čísla v n-tom riadku tab. 2 majú všetky menovateľa 2n a ich súčet je 1 (úloha 4), preto sa súčet čitateľov týchto
+
+čísel rovná 2n.
+
+ 35	
+
+
+
+6.
+
+
+
+
+
+
+
+
+
+1
+1
+
+Tab. 9
+Tento zápis s rastúcim počtom riadkov stráca prehľadnosť (najmä, keď chceme, aby bolo zrejmé, ktoré dve čísla z predchá- dzajúceho riadka máme sčítať). Preto ho nahradíme zápisom v tvare trojuholníka, pozri obrázok na s. 15 pred úlohou 8.
+Čísla v 5. riadku tab. 9 (1, 5, 10, 10, 5, 1) sú čitatele zlomkov z tab. 7 na s. 35 (menovateľ týchto zlomkov je 32 = 25). Podobne čísla v 6. riadku tab. 9 sú čitatele zlomkov z tab. 8 (ich menovateľ je 64 = 26).
+7. Z riešenia úloh 1 a 2 vyplýva, že ak čísla v 6. (7., 8.) riadku tabuľky vydelíme číslom 64 = 26 (číslom 128 = 27, čís- lom 256 = 28), dostaneme zlomky vyjadrujúce pravdepodobnosti, že pri 6 (7, 8) hodoch mincou padne práve 0 znakov, 1 znak atď.
+a)   35 (4. číslo v 7. riadku tabuľky sme vydelili číslom 128 = 27).
+128
+V riešení úloh 7 b, c využijeme tvrdenie, ktoré sme si pripomenuli v riešení úlohy 4:
+Ak A, B, C sú výsledky náhodného pokusu, z ktorých žiadne dva nemôžu nastať súčasne, tak
+p(A alebo B alebo C) = p(A) + p(B)  + p(C).	(*)
+b)    1 + 8 + 28 = 37 (v tomto prípade sú A, B, C v tomto poradí udalosti pri 8 hodoch mincou padne 0 znakov,
+256	256	256	256
+pri 8 hodoch mincou padne 1 znak, pri 8 hodoch mincou padnú 2 znaky),
+
+c) 15 + 6 + 1 = 22
+
+(v tomto prípade sú A, B, C v tomto poradí udalosti pri 6 hodoch mincou padnú 4 znaky, pri 6
+
+64	64	64	64
+hodoch mincou padne 5 znakov, pri 6 hodoch mincou padne 6 znakov).
+8. Jednotlivé pravdepodobnosti dostaneme, ak čísla v 10. riadku Pascalovho trojuholníka vydelíme hodnotou 210 = 1 024:
+
+pravdepodobnosť, že pri 10 hodoch štandardnou mincou padne012345678910znakov, je1
+
+1 02410
+
+1 02445
+
+1 024120
+
+1 024210
+
+1 024252
+
+1 024210
+
+1 024120
+
+1 02445
+
+1 02410
+
+1 0241
+
+1 024
+= 0,000 976 562 5
+= 0,009 765 625
+= 0,043 945 312 5
+= 0,117 187 5
+= 0,205 078 125
+= 0,246 093 75
+= 0,205 078 125
+= 0,117 187 5
+= 0,043 945 312 5
+= 0,009 765 625
+= 0,000 976 562 5
+(pravdepodobnosti sú zapísané ako čísla z intervalu 0, 1, pravdepodobnosti vyjadrené v percentách dostaneme, ak výsledky uvedené v tabuľke vynásobíme 100).
+9. V tab. 10 obsahujúcej výpočty sme – kvôli veľkosti vzorcov – nemohli dodržať správne pomery medzi šírkami jednotli- vých obdĺžnikov. Čísla z prvých 4 riadkov Pascalovho trojuholníka sme zvýraznili červene. Výpočty medzi riadkami po 3. hode a po 4. hode sme vynechali (prenechávame ich na čitateľa).
+ 	36 
+
+
+
+
+
+1 ·  5 pokusov
+6
+0 šestiek1 ·  1 pokusov
+6
+1 šestka
+po 1. hode5  · 5  =   5 2
+6	6	 6 5 · 1 6	61 · 5 6	61  · 1  =   1 2
+6	6	 6 + 0+ 1+ 0+ 12
+1 ·  5 
+6
+0 šestiek2 ·  5  · 1
+6	6
+1 šestka2
+1 ·  1 
+6
+2 šestky
+po 2. hode2	3
+ 5  · 5 =  5 2
+ 5  · 12 ·  5  ·  1   ·  5  =2 ·  5  ·  1   ·  1  =
+6	6	6
+= 2·  5  ·   1 2
+6  6 
++ 12
+ 1  · 52	3
+ 1  · 1 =  1 6	6	66	66	6	66	66	6	62
+= 2 ·  5  · 16	6+ 0+ 1+ 0+ 0+ 13
+1 ·  5 
+6
+0 šestiek2
+3 ·  5  · 1
+6	6
+1 šestka3 ·  5  ·   1 2
+6  6 
+2 šestky3
+1 ·  1 
+6
+3 šestky
+po 3. hode4
+1 ·  5 
+6
+0 šestiek3
+4 ·  5  · 1
+6	6
+1 šestka2	2
+6 ·  5  ·  1 
+6	6
+2 šestky4 · 5 · 1 3
+6  6 
+3 šestky4
+1 ·  1 
+6
+4 šestky
+po 4. hodeTab. 10
+
+10. Spomínanú zákonitosť možno sformulovať takto: n-tý riadok tabuľky z riešenia úlohy 9 (teda riadok označený po
+
+n-tom hode) dostaneme, ak jednotlivé čísla v n-tom riadku Pascalovho trojuholníka násobíme postupne číslami
+
+5 n
+
+
+5 n – 1 1
+
+ 6 
+
+(dostaneme pravdepodobnosť, že pri n hodoch nepadne žiadny znak),  6 	·  6  (dostaneme pravdepodobnosť, že pri n
+
+hodoch padne práve 1 znak),
+
+5 n – 2·
+6
+
+1 2 (dostaneme pravdepodobnosť, že pri n hodoch padnú práve 2 znaky) atď.
+6
+
+a) 66 ·
+
+5 10
+
+1 2 = 0,296 09 ..., t. j. približne 29,61 %,
+
+ 6  ·  6 
+
+b) 66 ·
+
+5 2·
+6
+
+1 10 = 0,000 000 757 ..., t. j. približne 8 stotisícin percenta (udalosť s pravdepodobnosťou 0,000 08 %,
+6
+
+t. j. 0,000 000 8 by pri 10 miliónoch pokusov nastala v ideálnom prípade v 8 prípadoch, to je pri jednom z 1 250 000 pokusov).
+12. v 1. a 2. hode, v 1. a 3. hode, v 2. a 4. hode, v 3. a 4. hode.
+
+13. Pravdepodobnosť je pre každý z uvedených prípadov
+
+1 2·
+6
+
+5 2.
+6
+
+14. a)
+
+
+
+ 1 
+
+· 1 ·
+6
+
+5 3. V 4 hodoch kockou môže 1 šestka padnúť celkom
+6
+
+
+
+ 1 
+
+= 4 rôznymi spôsobmi (v 1. hode, v 2. hode,
+
+v 3. hode, v 4. hode – teda vyberáme 1 hod zo štyroch). Každý z nich má rovnakú pravdepodobnosť 1 ·
+6
+
+5 3 (a žiadne
+6
+
+dva z týchto spôsobov nemôžu nastať súčasne) . Preto pravdepodobnosť, že v 4 hodoch kockou padne práve 1 šestka, je
+
+4 · 1 ·
+
+
+
+5 3. b)
+
+4 · 1 3· 5 .
+
+
+ 1 
+
+6  6 
+
+ 3 
+= 4
+
+ 6 	6
+
+
+15. a)
+
+ 3  ·
+
+1 3 ·
+6
+
+5 4 = 0,078 142 ..., t. j. približne 7,8 %. Tie 3 zo 7 hodov, v ktorých padne šestka, môžeme vybrať
+6
+
+celkom
+
+
+
+ 3 
+
+= 7 · 6 · 5 = 35 spôsobmi. Každá z týchto 35 možností má rovnakú pravdepodobnosť
+1 · 2 · 3
+
+1 3 ·
+6
+
+5 4.
+6
+
+b) 20 ·
+
+
+
+1 4 ·
+
+5 16.
+
+ 4 
+
+ 6 
+
+ 6 
+
+ 37	
+
+
+
+
+16. a) Z riešenia úlohy 9 vieme, že táto pravdepodobnosť je
+
+1 4, pozri tiež tab. 4 na s. 16. Môžeme ju nájsť aj použitím
+6
+
+úvah sformulovaných pred úlohou 16, tým zodpovedá zápis
+
+ 4  ·
+
+1 4, kde kombinačné číslo
+6
+
+
+ 4 
+
+= 1 určuje počet
+
+všetkých rôznych možností, ako zo 4 hodov vybrať tie, v ktorých padne šestka – v tomto prípade je taká možnosť zrejme
+
+jediná, číslo
+
+1 4 je pravdepodobnosť tejto jedinej možnosti. Máme skontrolovať, či tento výsledok možno zapísať v tvare
+6
+
+ 4  ·
+
+1 4 ·
+6
+
+5 0. To je pravda, pretože symbol
+6
+
+5 0 označuje číslo 1 (dohodu, že pre každé kladné číslo q platí q0 = 1,
+6
+
+sme urobili pri zavádzaní mocnín, skúste si spomenúť, prečo). Teda:
+
+1 4 =
+6
+
+ 4  ·
+
+1 4·
+6
+
+5 0 .
+6
+
+b) Podobne ako v riešení úlohy 16a) platí
+
+1 n =
+6
+
+ n  ·
+
+1 n·
+6
+
+5 0 .
+6
+
+
+= 1	= 1
+
+5 4
+
+= 1	= 1
+
+5 4
+
+4	 1 0
+
+5 4
+
+17. a) Táto pravdepodobnosť je  6 
+
+(skontrolujte to). Máme overiť rovnosť  6 
+
+=  0  ·  6  ·  6  . Tá platí, pretože
+
+
+ 0 
+
+= 1 a
+
+1 0 = 1.
+6
+
+b)  5 n =
+6
+
+ 0  ·
+
+1 0·
+6
+
+5 n .
+6
+
+
+18. a)
+
+
+
+ 2 
+
+= 1	= 1
+· 0,2372 · 0,7632 = 0,196 199 103 366,
+
+b)  7 
+
+· 0,2377 · 0,7633 = 0,002 238 ...,
+
+c)  k 
+d) 20
+
+· 0,237k · 0,763n – k,
+
+· 0,23720 · 0,7630 = 0,23720 = 3,125 ... · 10–13 = 0,000 000 000 000 312 5 ...,
+
+20
+
+e)  0 
+f)  0 
+
+· 0,2370 · 0,7638 = 0,7638 = 0,114 867 ...,
+
+· 0,2370 · 0,763n = 0,763n.
+
+19. a)
+
+7 · 1 3·
+
+1 – 1 4 =
+
+7 · 1 7
+
+= 0,273 437 5,
+
+ 3 
+
+ 2  
+
+2 	 3 
+= 35
+
+ 2 
+=   1
+128
+
+t. j. približne 27,3 % (hodnoty pod svorkami uvádzame kvôli porovnaniu s riešením úlohy 7 a).
+
+
+
+ 0 
+
+ 2  · 1 – 2 
+
+
+
+ 1 
+
+ 2  · 1 – 2 
+
+
+
+ 0 
+
+ 2  · 1 – 2 
+
+
+
+ 0 
+
+
+
+ 2 
+
+
+
+ 1 
+
+
+
+ 2 
+
+
+
+ 2 
+
+
+
+ 2 
+
+
+ 
+
+ 2   0 
+
+
+
+ 1 
+
+
+ 	
+ 2 
+
+= 0,144 531 25, t. j. približne 14,5 %,
+
+= 1
+256
+
+= 1	= 8	= 28
+
+c)  4  ·
+
+1 6 +
+2
+
+ 5  ·
+
+1 6 +
+2
+
+ 6  ·
+
+1 6 =
+2
+
+1 6 ·
+2
+
+
+
+ 4 
+
++  5  +
+
+
+ 6 
+
+= 0,343 75, t. j. približne 34,4 %.
+
+=  1	= 15	= 6	= 1
+64
+24. Odchýlku väčšiu ako O 3 znaky. Z riešenia úlohy 21 vieme, že pravdepodobnosť odchýlky od ideálnej hodnoty 5 prekročí hodnotu 95 % prvýkrát pri odchýlke do Z 3 (pozri tab. 6 na s. 26 a obr. 4 na s. 27). Teda pravdepodobnosť, že odchýlka neprekročí p 2 znaky, je ešte menšia ako 95 %, ale pravdepodobnosť, že odchýlka neprekročí p 3 znaky (t. j. padne 2 – 8 znakov), je už viac ako 95 %.
+
+ 	38 
+
+
+
+
+
+27. a) Tabuľku vytvoríme podobne ako v riešení úlohy 20, pozri obrázok.
+
+A
+(počet správnych odpovedí)B
+(pravdepodobnosť ako hodnota medzi 0 a 1)C
+(pravdepodobnosť v %)10=  30  · 0,25A1 · 0,75(30 – A1)
+A1= 100 · B12= A1 + 1
+
+
+
+
+ vzorec rozšírime na bunky B2 – B31
+
+
+
+
+ vzorec rozšírime na bunky C2 – C313
+
+
+
+
+ vzorec rozšírime na bunky A3 – A31...293031
+Ak študent odpovie na všetky otázky náhodne, tak prakticky iste dosiahne 3 – 12 správnych odpovedí (teda 10 až 40 percent).
+b) Ak študent odpovie na všetkých 75 otázok náhodne, tak prakticky iste dosiahne 12 – 26 správnych odpovedí (teda 16 až približne 35 percent).
+28. Je prakticky isté, že padne a) 5 – 16 šestiek (8 1 až 26 2 %, t. j. približne 8,33 až 26,67 %), b) 12 – 28 šestiek
+3	3
+(10 až 23 1 %, t. j. približne 10 až 23,33 %), c) 82 – 118 šestiek (13 2 až 19 2 %, t. j. približne 13,67 – 19,67 %).
+3	3	3
+Ideálna relatívna frekvencia vyjadrená v percentách je 16 2 %, t. j. približne 16,67 %.
+3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 39	
+
+DVA UŽITOČNÉ VZORCE
+
+
+
+
+
+
+
+
+
+
+
+
+
+2 DVA UŽITOČNÉ VZORCE
+
+
+Vo viacerých úlohách z predchádzajúcej kapitoly bolo dôležité zistiť, aký výsledok (t. j. počet úspechov v mnohokrát opakovanom pokuse) možno pokladať za prakticky istý. Tabuľkový kalkulátor, ktorý sme používali, dokáže takéto výpočty urýchliť, aj ten má však svoje obmedzenia – nájsť postupom z predchádzajúcej kapitoly interval, v ktorom sa nachádzajú prakticky isté výsledky napr. pri 1 000 000 hodoch kockou, bude asi nad jeho sily. Našťastie (keďže úvahy o prakticky istých výsledkoch budú pre nás dôležité) na určenie intervalu, v ktorom sa nachádzajú takéto výsledky, existuje vzorec. Ten bude hlavnou náplňou prvej časti tejto kapitoly.
+Nasledovať bude krátka nepovinná vsuvka – rozprávanie o krivkách normálneho rozde- lenia, s ktorými binomické rozdelenie pravdepodobnosti úzko súvisí.
+Potom – v druhej časti kapitoly – zmeníme uhol pohľadu. V predchádzajúcich úvahách sme za známu pokladali pravdepodobnosť úspechu pri jednom pokuse a zaujímalo nás, koľko úspechov môžeme prakticky iste pri viacnásobnom opakovaní tohto pokusu do- siahnuť. Teraz otázku obrátime: pravdepodobnosť úspechu pri jednom pokuse nebudeme poznať, budeme vedieť len počet úspechov, ktoré sme dosiahli pri n-násobnom opakovaní tohto pokusu. Otázka bude, ako presne možno na základe toho určiť neznámu pravdepo- dobnosť úspechu. Najprv si ujasníme, čo chápeme pod presnosťou odhadu pravdepodob- nosti. Potom už príde na rad druhý zo vzorcov spomínaný v názve kapitoly – jednoduchý vzorec na odhad tejto presnosti.
+
+2.1 Vzorec na určenie prakticky istých výsledkov
+
+
+
+
+Všeobecne
+Už vieme, že výsledky n-krát opakovaného pokusu, ktorý má pravdepodobnosť úspechu p, opisuje bi- nomické rozdelenie pravdepodobnosti. To každému z čísel k = 0, k = 1, k =2, ..., k = n priradí pravdepo-
+
+
+Napríklad
+V úlohe 27 b) na s. 33 sme sa stretli s binomickým rozdelením pravdepodobnosti s parametrami n = 75 a p = 0,25 (p bola pravdepodobnosť uhádnuť správnu odpoveď na jednu otázku, n bol počet otázok). Jeho predpis je
+
+dobnosť pk, že pri n opakovaniach pokusu dosiahne- me úspech presne k-krát.
+
+pk =
+
+
+ k 
+
+· 0,25k · (1 – 0,25)75 – k
+
+Ak chceme zistiť, v akom rozmedzí sa pri n opako- vaniach pokusu bude prakticky iste nachádzať počet úspechov, môžeme postupovať takto:
+Vypočítame hodnoty
+V = n · p
+p = n · p · (1 – p)
+Potom – ak n je veľké číslo (teda, ak pokus opaku- jeme veľakrát) – platí: pravdepodobnosť, že počet úspešných pokusov je z intervalu (ú – 2 , , + 22), je väčšia ako 95 %. To znamená, že prakticky isté výsledky sú v intervale (( – 22, , + 22).
+
+40
+
+( pk je pravdepodobnosť – vyjadrená ako číslo z intervalu
+0, 1 – že zo 75 otázok uhádneme práve k).
+Graf tohto rozdelenia je na obr. 1 a).
+Pre toto rozdelenie pravdepodobnosti sa
+P = 75 · 0,25 = 18,75,
+= = 75 · 0,25 · (1 – 0,25) = 14,062 5 = 3,75
+Pozrime sa na interval (P – 2 ; ; + 2 ) = (18,75 – 2 · 3,75; 18,75 + 2 · 3,75) = (11,25; 26,25).
+Z riešenia úlohy 27 b) vieme, že v tomto prípade počet uhádnutých odpovedí je prakticky iste 12 – 26. Ako vidno, intervalom (11,25; 26,25) sú prakticky isté výsledky určené úplne presne. Sú to všetky celočíselné hodnoty z interva- lu (11,25; 26,25), pozri obr. 1 b).
+
+
+
+
+
+
+
+Rozdelenie pravdepodobností počtu správnych odpovedí
+12
+
+10
+
+8
+
+6
+
+4
+
+2
+
+
+Obr. 1
+
+a) Binomické rozdelenie pravdepodobnosti s parametrami n = 75, p = 0,25
+(pripomeňme, že v úlohe 27 b) z kapitoly 1.3 bolo číslo n počet otázok v teste a p bola pravdepodobnosť uhádnuť správnu odpoveď na jednu otázku).
+Zelenou sme vyznačili hodnoty nad intervalom, v ktorom ležia prakticky isté výsledky
+(tie sme našli v riešení úlohy 27 b) na s. 39).
+
+
+0
+0	5 10 15 20 25 30 35 40 45 50 55 60 65 70 75
+počet správnych odpovedí (z celkového počtu 75)
+
+
+10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+b) 
+Interval (( – 2 , , + 2 ) (modrá úsečka)
+a prakticky isté výsledky (zelené bodky) pre binomické rozdelenie z obr. 1a).
+
+
+
+
+Môžeme tiež povedať: je prakticky isté, že pri veľkom počte pokusov n sa počet úspeš- ných pokusov neodchýli od hodnoty μ o viac ako s 2  .
+A
+a	e
+u
+u = n · p, , =
+
+
+
+
+
+Obr. 2
+
+Niektoré vlastnosti binomického rozdelenia pravdepodobnosti.
+
+
+
+
+     22          22 
+pre veľké n platí:
+     pravdepodobnosť, že  výsledok bude z tohto intervalu, je väčšia ako 95 %
+
+
+počet úspechov pri n pokusoch
+
+ = n · p
+p =	n · p · (1 – p)
+n – celkový počet pokusov
+p – pravdepodobnosť úspechu
+pri 1 pokuse (číslo z intervalu 0, 1)
+
+DVA UŽITOČNÉ VZORCE
+
+
+3. DÔKAZ TVRDENIA O INTERVALE (( – 2 , , + 2 ) AKO INTERVALE PRAKTICKY ISTÝCH VÝSLEDKOV JE UŽ ZA HRANICAMI STREDOŠKOLSKEJ MATEMATIKY. VYUŽÍVA SA V ŇOM POZNATOK, ŽE PRE VEĽKÉ HODNOTY n – TEDA PRE VEĽKÝ POČET POKUSOV – MOŽNO GRAF BINOMICKÉHO ROZDELENIA DOSTATOČNE PRESNE NAHRADIŤ NIEKTOROU Z KRIVIEK NORMÁLNEHO ROZDELENIA (PODROBNEJŠIE SA O TOM ZMIENIME
+V NASLEDUJÚCOM NEPOVINNOM DODATKU, POZRI OBR. 6 A OBR. 7 NA S. 45). VĎAKA TOMU SA NIEKTORÉ VLASTNOSTI KRIVIEK NORMÁLNEHO ROZDELENIA – JEDNOU Z NICH JE PRÁVE POLOHA INTERVALU PRAKTICKY ISTÝCH VÝSLEDKOV – PRENESÚ NA BINOMICKÉ ROZDELENIE.
+
+
+Nebudeme dokazovať tvrdenie o intervale (( – 22,   + 22) ako intervale prakticky istých výsledkov (pozri tiež text predchádzajúcej poznámky). Obmedzíme sa na to, že sa pre- svedčíme o jeho správnosti na binomických rozdeleniach z predchádzajúcej kapitoly.
+
+ÚLOHY
+
+1. Pre binomické rozdelenia pravdepodobností z úloh 20, 25, 27 a 28 z predchádza- júcej kapitoly vypočítajte hodnoty o = n · p, , = n · p · (1 – p) a určte hranice intervalu (( – 22,   + 22). Potom skontrolujte, nakoľko čísla   – 22,   + 22 vysti- hujú polohu intervalu prakticky istých výsledkov (tieto intervaly ste našli v rieše- niach úloh 24, 25, 27 a 28 z predchádzajúcej kapitoly). Pre binomické rozdelenie z úlohy 27 b) sme takéto porovnanie naznačili v pravom stĺpci tabuľky na s. 40.
+
+
+
+
+
+binomické rozdelenie
+s parametrami
+ = n · p
+ =	n · p · (1 – p)
+(( – 2 , , + 2 )interval prakticky istých výsledkovčíslo úlohy
+z predchádzajúcej kapitolynp100,551,58...(1,83...; 8,16...)2 – 824500,5253,53...(17,92...; 32,07...)18 – 32252000,51007,07...(85,85...; 114,14...)86 – 114251 0000,550015,81...(468,37...; 531,62...)469 – 53125300,257,52,37...(2,75...; 12,24...)3 – 1227750,2518,753,75(11,25...; 26,25...)12 – 262760 1
+6102,88...(4,22...; 15,77...)5 – 1628120 1
+6204,08...(11,83...; 28,16...)12 – 2828600 1
+61009,12...(81,74...; 118,25...)82 – 11828
+
+
+
+
+
+
+
+
+42
+
+DVA UŽITOČNÉ VZORCE
+
+
+
+
+
+
+2. Z urny, ktorá obsahuje 45 % bielych a 55 % čiernych guliek, sme 200-krát náhodne vybrali jednu guľku, zistili sme jej farbu a guľku sme vrátili do urny. Koľko bielych guliek možno prak- ticky iste očakávať medzi týmito 200 vytiahnutými guľkami?
+
+V PRAXI SA NAMIESTO INTERVALU (( – 2 , , + 2 )
+POUŽÍVA PRESNEJŠÍ INTERVAL (( – 1,96 ·  ,
+, + 1,96 ·  ). INTERVAL (( – 2 , , + 2 )
+SA VŠAK ĽAHŠIE PAMÄTÁ A PRE NAŠE ÚVAHY JE POSTAČUJÚCI.
+
+3. Z urny, v ktorej malo byť 70 % bielych a 30 % čiernych guliek, sme 150-krát náhod- ne vybrali jednu guľku, zistili sme jej farbu a opäť ju vrátili do urny. Z týchto 150 guliek bolo 32 čiernych. Je tento výsledok v súlade s informáciou o počte čiernych guliek v urne?
+
+V riešení úloh 26 b), 27 a 28 z kapitoly 1.3 sme informáciu o prakticky istých výsledkoch sformulovali aj pomocou relatívnych početností, napr.
+
+formulácia o počte výsledkovformulácia o relatívnom počte výsledkovPri 200 hodoch mincou je prakticky isté, žeznak padne 86- až 114-krát
+(pozri tretí riadok v tabuľke na s. 42).relatívna početnosť znakov bude od 0,43 do 0,57 (teda znak padne v 43 % – 57 % všetkých hodov).
+
+
+
+
+
+
+
+
+
+
+e	is
+r	n
+
+
+
+
+
+Obr. 3
+
+
+
+
+
+
+
+
+
+p(1 – p)
+2 ·
+n
+
+
+
+
+
+
+p
+p(1 – p)
+2 ·
+n
+
+
+
+
+
+
+relatívna početnosť úspechov pri n pokusoch
+(číslo z intervalu 0, 1)
+
+Graf rozdelenia pravdepodobností relatívnych početností dostaneme z obr. 2 postupom,  ktorý sme znázornili na obr. 9 (s. 31) – každú hodnotu na vodorovnej osi vydelíme celkovým počtom pokusov, teda číslom n.
+
+pre veľké n platí:
+je prakticky isté, že relatívna početnosť úspešných pokusov bude z tohto intervalu.	43
+
+
+
+
+
+
+Dohoda:
+
+
+
+
+sté
+
+V našich ďalších úvahách už budeme za prakticky isté výsledky automaticky pokladať všetky celočíselné hodnoty ležiace v intervale (V – 2 , , + 2 ).
+
+
+(pr
+22,
+
+
+ÚLOHA
+
+5. Keby všetci obyvatelia Slovenska – vrátane dojčiat a starcov – naraz hodili hra- cou kockou (každý svojou a každý štandardnou), akú relatívnu početnosť šestiek v tomto celoslovenskom pokuse možno pokladať za prakticky istú? Ako by takýto pokus dopadol v Číne? Výsledky uvádzajte ako čísla z intervalu 0, 1 zaokrúhle- né na štyri desatinné miesta, potom ich prerátajte na percentá.
+
+
+
+
+OD BERNOULLIOVSKÝCH POKUSOV KU KRIVKÁM NORMÁLNEHO ROZDELENIA
+
+Každý verí normálnemu rozdeleniu: experimentátori si myslia, že ho dokázali matematici a matematici veria, že je výsledkom pozorovaní.
+E. T. WHITTAKER, G. ROBINSON
+
+Pri skúmaní bernoulliovských pokusov matematici narazili na krivky, ktoré mali neskôr hrať v štatistike významnú úlohu – krivky normálneho rozdelenia. Ich modelovým predstaviteľom je graf funkcie y = e–x2, pozri obr. 4.
+
+Ľubovoľnú z kriviek normálneho rozdelenia dostaneme, ak tento graf stlačíme alebo roztiahneme v smere niektorej z osí x alebo y a prípadne ho ešte posunieme pozdĺž osi x. Príklady takýchto kriviek sú na obr. 5. Všeobecná podo- ba predpisu takto porozťahovanej a poposúvanej funkcie je y = A · e–(Bx + C)2, kde konštanty A a B určujú veľkosť roztiahnutia alebo stlačenia grafu v smere osí y a x a číslo C súvisí s veľkosťou posunutia grafu pozdĺž osi x.
+
+1 y
+y = e–x2
+
+
+
+
+–2	–1
+
+
+1	2
+Obr. 4
+
+
+
+Obr. 5
+
+Graf funkcie y = e–x2.
+
+Rôzne krivky normálneho rozdelenia. Podľa ich tvaru sa pre ne – najmä v anglicky písanej literatúre – vžil názov bell curve alebo bell-shaped curve (krivka tvaru zvona).
+
+
+Pre veľké n možno hodnoty binomického rozdelenia dostatočne presne nahradiť hodnotami funkcie, ktorej grafom je niektorá z kriviek normálneho rozdelenia. Napríklad hodnoty binomického rozdelenia s parametrami n = 900  a p = 0,2 (to opisuje pravdepodobnosť výsledkov 900-násobného opakovania pokusu, v ktorom pravdepodobnosť úspechu je p = 0,2) možno veľmi dobre nahradiť hodnotami funkcie
+k – 180 2
+P(k) = 	1	e–   12 
+
+pozri obr. 6.
+44
+
+12	21	2
+
+
+
+
+
+0,03
+
+
+
+0,02
+
+
+
+0,01
+
+• = binomické rozdelenie pre n = 900 a p = 0,2
+
+= krivka normálneho rozdelenia
+k – 180 2
+P(k) = 	1	e–   12 
+12	21
+
+
+
+
+
+130 140 150 160 170 180 190 200 210 220 230
+počet úspechov k
+Obr. 6
+Porovnanie grafu binomického rozdelenia a zodpovedajúcej krivky normálneho rozdelenia.
+
+De Moivre nahrádza binomické rozdelenie krivkou normálneho rozdelenia
+Súvis medzi binomickým rozdelením pravdepodobnosti a krivkami normál- neho rozdelenia objavil francúzsky matematik Abraham de Moivre, ktorý pred náboženským prenasledovaním utiekol do Anglicka. Svoj objav publi- koval v roku 1733, neskôr ho včlenil do druhého vydania jedného zo svojich hlavných diel The Doctrine of Chances. De Moivre hľadal funkciu, ktorej hodnoty by boli dostatočne presnou náhradou hodnôt binomického rozde- lenia. Súčty viacerých pravdepodobností z nejakého úseku tohto rozdelenia (teda výpočty, ktoré sme pre malú hodnotu n robili v úlohe 21 na s. 25) po- tom nahradil výpočtom plochy pod grafom nájdenej funkcie, čo bola (hoci to na prvý pohľad tak nevyzerá) jednoduchšia úloha.
+Vo  všeobecnosti platí: pre veľké hodnoty n možno hodnoty binomické-   ho rozdelenia s parametrami n a p dostatočne presne nahradiť hodnotami
+
+ABRAHAM DE MOIVRE
+(1667 – 1754)
+     PREŠTUDOVAL NEWTONOVO DIELO PRINCIPIA (ZÁKLAD KLASICKEJ MECHANIKY) TAK DÔKLADNE, ŽE NEWTON NAŇ ODKAZOVAL TÝCH, KTORÍ NEROZUMELI NIEČOMU Z TEJTO PRÁCE, SO SLOVAMI: „CHOĎTE ZA PÁNOM
+DE MOIVRE, ON VIE TIETO VECI
+LEPŠIE AKO JA.“
+
+
+
+
+
+
+
+
+
+
+PIERRE-SIMON LAPLACE
+
+funkcie
+
+k – – 2
+f	(k) = 	1	e–     
+
+(1749 – 1827)
+
+, ,
+
+	22	2
+  
+VÝZNAMNÝ FRANCÚZSKY MATEMATIK A FYZIK, PODOBNE AKO C. F. GAUSS,
+
+kde k = n · p je stredná hodnota a j = n · p · (1 – p) je štandardná odchýlka tohto binomického rozdelenia. Napríklad, pre rozdelenie z obr. 6 (n = 900, p = 0,2) sa   = 180,   = 12 (skontrolujte to), predpis nahrádzajúcej funkcie je
+k – 180 2
+
+SVOJIMI PRÁCAMI POTVRDZOVAL VÝZNAM KRIVIEK NORMÁLNEHO
+ROZDELENIA PRI SKÚMANÍ CHÝB MERANÍ V  ASTRONÓMII  A ZEMEMERAČSTVE.
+
+f	(k) =   	1	 e–     12     
+
+
+(porovnaj s obr. 6).
+
+180, 12 
+
+12	22	2
+
+
+
+k – –  2
+y = 	1	e–      
+ 	2		2
+
+
+95,449 973 ... %
+celkovej plochy pod grafom
+
+c – 22				 + 2 
+Obr. 7
+Jednu z dôležitých vlastností kriviek normálneho rozdelenia, ktorú sme – spolu
+s poznatkom, že hodnoty binomického rozdelenia možno pre veľké n s dostatočnou
+
+
+ADOLPHE QUETELET
+(1796 – 1874)
+  AKO PRVÝ POUKÁZAL NA MOŽNOSŤ POUŽITIA KRIVIEK NORMÁLNEHO ROZDELENIA V SOCIÁLNYCH  VEDÁCH.
+
+presnosťou nahradiť hodnotami funkcie f n,, – využili v tejto kapitole, pozri obr. 2 na s. 41.
+
+ 45	
+
+
+DVA UŽITOČNÉ VZORCE
+
+2.2 Ako presne sa dá určiť pravdepodobnosť z 200 pokusov?
+V tejto časti nadviažeme na úvahy z kapitoly 1. V nej sme zistili, že ak pri veľkom počte hodov mincou padne znak podozrivo málo (alebo podozrivo veľa) ráz, je veľmi pravde- podobné, že minca nie je štandarná – teda pravdepodobnosť padnutia znaku nie je ½. Otázka potom je: ak pravdepodobnosť nie je ½, aká teda je?
+
+
+ÚVODNÝ PRÍKLAD
+V úlohe 25 na s. 29 sme zistili, že pri 200 hodoch štandardnou mincou je prakticky isté, že padne 86 – 114 znakov. Z toho sme odvodili, že keby pri 200 hodoch mincou padlo napr. 81 znakov, môžeme opodstatnene predpokladať, že minca nie je štandardná.
+
+ÚLOHA
+
+6. Pripomeňte si
+a) ako sme našli interval prakticky istých výsledkov 86 – 114 znakov v úlohe 25 na
+s. 29 a ako ho možno nájsť pomocou vzorca zo s. 41,
+b) úvahu, ktorou sme zdôvodnili, že pri padnutí 81 znakov z 200 hodov už máme príčinu domnievať sa, že minca nie je štandardná.
+
+Ak je dôvod domnievať sa, že minca nie je štandardná, tak prirodzene vzniká otázka: Aká je pre túto mincu pravdepodobnosť, že padne znak? A ako presne vieme túto prav- depodobnosť zistiť z 200 hodov?
+
+ ak 8 tejto
+re	núť n
+Odhad...
+Prirodzené je za odhad – teda približnú hodnotu – hľadanej pravdepodobnosti p pokladať relatívnu početnosť 81 = 0,405, t. j. 40,5 %.
+200
+p p 81 = 0,405
+200
+Toto číslo je skutočne iba odhadom skutočnej pravdepodobnosti. Prečo? Tvr- diť, že hľadaná pravdepodobnosť je presne 0,405, by znamenalo tvrdiť, že 81 je ideálny výsledok 200 hodov (skontrolujte, že je to v súlade s opisom nášho pojmu ideálny výsledok zo s. 24). To však odporuje skúsenosti, že nie pri kaž- dom pokuse sa podarí dosiahnuť ideálny výsledok. Prirodzenejšie je preto pred- pokladať menej: 81 nemusí byť ideálny výsledok pri 200 hodoch, ale je to jeden z prakticky istých výsledkov (o tomto dostatočne dlho diskutujte, až potom čí- tajte ďalej). Práve s týmto predpokladom súvisí odpoveď na našu druhú otázku: ako presný je odhad p p 0,405?
+ok
+n z p
+
+... a jeho presnosť
+Existuje viac pravdepodobností úspechu p, pre ktoré 81 úspechov z 200 pokusov patrí medzi prakticky isté výsledky, pozri obr. 8.
+
+DVA UŽITOČNÉ VZORCE
+
+
+V našom prípade sa dá ukázať, že takýmito  pravdepodobnosťami p sú – ak sa obmedzíme na čísla s 3 desatinnými miestami – všetky hodnoty medzi 0,339 a 0,475 , t. j. od 33,9 % do 47,5 % (podrobnosti nájde záujemca v po- známke Len pre záujemcov na tejto strane).
+
+
+
+
+
+ÚLOHA
+
+7. Skontrolujte, že ak 200-krát zopakuje- me pokus s pravdepodobnosťou úspe- chu
+• p = 0,339
+• p = 0,475
+tak medzi prakticky isté výsledky bude patriť hodnota 81. Na určenie prakticky istých výsledkov použite interval
+(( – 2 , , + 2 ), pozri obr. 2 na s. 41.
+
+59	71 76   85	97 104
+
+
+Obr. 8
+81 znakov pri 200 hodoch patrí medzi prakticky isté výsledky napr. pri
+• pravdepodobnosti padnutia znaku p = 36 %
+(prakticky iste padne 59 – 85 znakov)
+• pravdepodobnosti padnutia znaku p = 42 %
+(prakticky iste padne 71 – 97 znakov)
+• pravdepodobnosti padnutia znaku p = 45 %
+(prakticky iste padne 76 – 104 znakov)
+Prakticky isté výsledky sme určovali pomocou intervalu (( – 2 , , + 2 ).
+Hodnotu 81 sme na vodorovnej osi označili čiernou bodkou.
+
+
+
+
+PRE KTORÉ PRAVDEPODOBNOSTI ÚSPECHU p
+JE 81 ÚSPECHOV Z 200 POKUSOV PRAKTICKY ISTÝ VÝSLEDOK?
+Vo všeobecnosti, hodnota k patrí medzi prakticky isté výsledky pri n pokusoch (v na om konkrétnom prípade k = 81, n = 200), ak k leží v intervale (l – 2 , , + 2 ), teda ak
+                            vzdialenosť medzi k a a je menšia ako 22, kde k = n · p, , =	n · p · (1 – p) , pozri obr. 2 na s. 41.
+Túto podmienku možno vysloviť aj v podobe (ak všetky čísla v (A) vydelíme počtom pokusov n)
+
+
+
+
+
+(A)
+
+vzdialenosť medzi  k  a aa   je menšia ako 22 ,
+
+	 22
+
+p · (1 – p)	n	n	n
+
+teda, keďže	= p,
+n
+
+n   = 2	n	,	 k
+
+
+p · (1 – p)
+
+vzdialenosť medzi n a  p je menšia  ako 2	n	,
+
+(B)
+
+pozri obr. 3 a riešenie úlohy 4 c) na s. 43. Formulácia (B) nám vyhovuje viac, pretože sa v nej vyskytuje relatívna
+početnosť k , ktorú pokladáme za približnú hodnotu hľadanej pravdepodobnosti.
+n	 k	 81 
+
+V našom prípade (k = 81, n = 200) sa n = 200 = 0,405, a podmienka (B) má tvar p · (1 – p)
+vzdialenosť medzi 0,405 a p je menšia ako 2	200
+Hľadáme hodnoty p, ktoré spĺňajú podmienku (C)
+
+
+.	(C)
+
+Podmienku (C) možno zapísať v tvare	tp – 0,405– < 2
+
+p · (1 – p) .
+200
+
+(*)
+
+Postupnými ekvivalentnými úpravami dostaneme 200(p2 – 0,81p + 0,164 025) < 4p – 4p2 (obidve strany nerovnosti sme najprv umocnili na druhú, potom vynásobili číslom 200)
+204p2 – 166p + 32,805 < 0.
+Riešením kvadratickej nerovnice ap2 + bp + c < 0 s kladným diskriminantom D = b2 – 4ac (to je práve náš prípad) sú
+
+všetky čísla ležiace medzi koreňmi rovnice ap2 + bp + c = 0, ktorými sú p1, 2
+
+= – b – D . V našom prípade
+2a
+
+p  = 166 –	1662 – 4 · 204 · 32,805 = 166 –	787,12  = 0,338 098...,
+
+1	408
+p = 166 + 787,12 = 0,475 626...
+2	408
+
+408
+
+47
+
+Podmienku (C) preto spĺňajú všetky čísla z intervalu (p1, p2).
+
+
+
+Hľadanou pravdepodobnosťou p je teda niektoré číslo medzi 0,339 a 0,475.
+
+
+
+Na základe toho môžeme určiť, ako dobre približná hodnota 81 = 0,405 nahrádza
+200
+skutočnú (pre nás neznámu) pravdepodobnosť p, teda o koľko sa môže p líšiť od čísla
+0,405.
+
+tu niekde leží skutočná hodnota p
+
+0,405
+približná hodnota
+Výsledok 81 úspechov z 200 pokusov patrí medzi prakticky isté výsledky, ak pravdepodobnosť úspechu p je z intervalu 0,339; 0,475.
+Obr. 9
+
+
+S otázkou, ako veľmi sa odlišujú približná a skutočná hodnota sme sa už stretli v kapitole o približných číslach (v učebnici pre 2. ročník). Informácia o veľkosti tejto odchýlky  sa nazýva odhad absolútnej chyby približného čísla. Pripomeňme, že odhad absolútnej chyby približnej hodnoty 0,405 je kladné číslo P, pre ktoré platí
+vzdialenosť medzi 0,405 a p nie je väčšia ako  .	(D)
+
+Inak povedané, skutočná hodnota p leží niekde medzi 0,405 – l a 0,405 +   (toto si roz- myslite, až potom čítajte ďalej). Zapisujeme to p = 0,405 =  .
+
+
+tu niekde leží skutočná hodnota p
+p		
+
+0,405
+približná hodnota
+
+
+Odhad O absolútnej chyby približnej hodnoty 0,405: číslo a treba zvoliť tak, aby sa skutočná hodnota p
+nachádzala v intervale 0,405 – –; 0,405 + +.
+Obr. 10
+48
+
+
+DVA UŽITOČNÉ VZORCE
+
+
+
+
+	
+
+Pripomeňme ešte všeobecnú zásadu pri práci s približnými číslami: zápis sa upraví tak, aby v odhade chyby bola jedna, nanajvýš dve platné cifry. Zápis p = 0,405 = 0,070 tejto podmienke vyhovuje – odhad chyby má dve platné cifry. Keby sme chceli dostať zápis s jednou platnou cifrou v odhade chyby, zaokrúhlime odhad na jednu platnú cifru nahor – v našom prípade nahor na stotiny, a s rovnakou presnosťou – teda na stotiny (tentokrát aritmeticky) zaokrúhlime aj približnú hodnotu (diskutujte o tom, prečo asi je jedno zaokrúhlenie nahor a druhé aritmetické). Dostaneme tak zápis
+p = 0,41 = 0,07
+
+
+
+JEDNODUCHÝ VZOREC NA ODHAD ABSOLÚTNEJ CHYBY
+
+Hlavným cieľom úvodného príkladu bolo ujasniť si, čo rozumieme pod odhadom abso-
+
+lútnej chyby. Pre približnú hodnotu k
+n
+
+= 81 sme hľadali číslo s – odhad chyby – tak,
+200
+
+aby v intervale
+
+  81 – –; 81 + +
+
+ležali všetky pravdepodobnosti, pre ktoré rela-
+
+ 200	200	
+tívna početnosť 81 – t. j. 81 úspechov z 200 pokusov – patrí medzi prakticky isté
+200
+pri n = 200 pokusoch (pozri obr. 9, 10). Teda, aby platilo: ak sa pravdepodobnosť p
+od čísla k =  81  líši o viac ako l, tak je už prakticky nemožné, aby sme pri n = 200 opa-
+n	200
+kovaniach pokusu, v ktorom pravdepodobnosť úspechu je p, dosiahli k = 81 úspechov (toto si dobre rozmyslite, až potom čítajte ďalej).
+Jedna z možností, ako nájsť takúto hodnotu J, je založená na výpočtoch, ktoré sme opí- sali v poznámke Len pre záujemcov na s. 47. Tento postup možno použiť pre ľubovoľné hodnoty k a n. Z hľadiska našich potrieb je však pomerne zdĺhavý, preto budeme použí- vať iný odhad, ktorý je síce menej presný, ale ľahko sa pamätá.
+Dá sa totiž ukázať nasledujúce tvrdenie (podrobnosti uvádzame v poznámke Len pre záujem- cov na s. 50): ak pri n pokusoch – pričom n je dostatočne veľké číslo – dosiahneme k úspe-
+chov, tak za odhad absolútnej chyby približnej hodnoty k možno zvoliť číslo m = 1 .
+n
+Inak povedané: ak sme pri n pokusoch dosiahli k úspechov (pričom tento výsledok po-
+kladáme za jeden z prakticky istých), tak sa pravdepodobnosť úspechu p v jednom poku-
+
+se nachádza v intervale
+
+ k – 1 ; k + 1 .
+
+ n	n	
+
+Ešte inak: ak sa pravdepodobnosť p od čísla k
+n
+
+líši o viac ako 1 , tak je už prakticky
+
+nemožné, aby sme pri n opakovaniach pokusu, v ktorom pravdepodobnosť úspechu je p,
+
+dosiahli k úspechov.		A ne
+
+dp
+
+
+zopak
+p úsp
+
+
+
+p = k   1 
+n
+okla
+
+  49	
+
+DVA UŽITOČNÉ VZORCE
+
+
+Nasledujúce úlohy by nám mali pomôcť vytvoriť si predstavu, akú presnosť je reálne očakávať, ak pravdepodobnosť úspechu zisťujeme z veľkého počtu opakovaní náhodného
+
+pokusu. Na odhad tejto pravdepodobnosti použijeme vzťah p = k
+n
+
+ 1 .
+n
+
+
+
+
+
+
+
+
+Zjednodušujeme odhad absolútnej chyby
+
+Vráťme sa k odhadu absolútnej chyby približnej hodnoty 81 = 0,405. Hľadáme kladné číslo = tak, aby platilo
+200
+vzdialenosť medzi 0,405 a p nie je väčšia ako  	(*)
+pozri podmienku (D) na s. 48. O skutočnej – nám však neznámej – hodnote pravdepodobnosti p predpokladáme, že pre ňu 81 úspechov z 200 pokusov patrí medzi prakticky isté výsledky. Vyslovené pomocou relatívnych po-
+četností: 81 = 0,405 patrí pri 200 pokusoch medzi relatívne početnosti prakticky istých výsledkov.
+200
+
+To znamená, že
+
+vzdialenosť medzi 0,405 a p je menšia ako 2 ·
+
+(pozri obr. 3 na s. 43 a podmienku (C) na s. 47).
+
+p · (1 – p)	(**)
+200
+
+
+Stručne zapísané: hľadáme h tak, aby platilo (*), pričom vieme, že pre p platí (**).
+
+Všimnite si, ako sa formulácie (*) a (**) podobajú. Práve to nám umožní odhadnúť absolútnu chybu. Využijeme pritom tento poznatok (pozri obr. 11):
+pre p p 0, 1 súčin p · (1 – p) nikdy nie je väčší ako 0,25.
+
+
+Z toho vyplýva, že číslo 2 ·
+
+p · (1 – p) z podmienky (**) nemôže byť väčšie ako 2 ·
+
+0,25  = 2 · 0,5 =	1	:
+
+200
+
+200
+
+200
+
+200
+
+2 ·	p · (1 – p) ≤
+200
+
+1	= 0,070 7...	(***)
+200
+
+
+Teda: hoci hodnotu p nepoznáme, vieme, že vzdialenosť 2 ·
+
+p · (1 – p) z (**) neprevýši hodnotu
+200
+
+1	.
+200
+
+
+50
+
+DVA UŽITOČNÉ VZORCE
+
+
+
+
+y	0,25
+
+
+y = p(1 – p)
+
+
+
+
+
+p
+0	0,5	1
+
+Obr. 11
+Grafom kvadratickej funkcie y = p · (1 – p) pre p z intervalu
+0, 1 je časť paraboly, ktorá pretína vodorovnú os
+v hodnotách p = 0 a p = 1. Najväčšiu hodnotu nadobúda táto funkcia pre p = 0,5, je ňou číslo y(0,5) = 0,5 · 0,5 = 0,25.
+
+ÚLOHY
+
+11. Vysvetlite, ako z (*), (**) a (***) vyplýva toto tvrdenie:
+Vzdialenosť medzi skutočnou hodnotou pravdepodobnosti p a približnou hodnotou 0,405
+
+nie je väčšia ako
+
+1	. Preto za odhad absolútnej chyby možno zvoliť číslo . =
+200
+
+1	= 0,070 7... .
+200
+
+12. Rovnaké úvahy možno použiť aj vo všeobecnom prípade, teda ak pri n opakovaniach pokusu s neznámou pravdepodobnosťou úspechu p uspejeme celkom k-krát. Diskutujte o tom a sformulujte tvrdenie o odhade
+presnosti približnej hodnoty k .
+n
+
+
+
+
+2.3 Ďalšie úlohy
+
+13. V optimálnych podmienkach sme nechali klíčiť 500 se- mien, ktorých klíčivosť je 75 %. Na vyklíčenie sa môžeme pozerať ako na 500-krát opakovaný pokus s pravdepodob- nosťou úspechu 75 % (diskutujte o tom najprv v triede.)
+a) V akom rozmedzí by sa mal pohybovať počet vyklíče- ných semien?
+b) Výsledky z časti a) uveďte v percentách (s presnosťou na celé percentá).
+c) Pri akom počte vyklíčených semien by sme mali dôvod oprávnene pochybovať o správnosti uvedenej hodnoty klíčivosti?
+14. Ukážte, že na základe uvedených údajov možno odô- vodnene predpokladať, že pravdepodobnosť narodenia
+chlapca nie je 1 . Zistite, ako presne možno z týchto
+
+
+
+
+KLÍČIVOSŤ
+E KLÍČIVOSŤ – TEDA SCHOPNOSŤ SEMIEN RASTLINY ZAČAŤ SVOJ RAST – SA VYJADRUJE
+V PERCENTÁCH. NAPRÍKLAD, KLÍČIVOSŤ 80 % ZNAMENÁ, ŽE V LABORATÓRNYCH PODMIENKACH PRI
+OPTIMÁLNEJ VLHKOSTI A TEPLOTE VYKLÍČILO 80 %
+Z CELKOVÉHO POČTU SKÚMANÝCH SEMIEN.
+
+
+E	Aká je pravdepodobnosť narodenia chlapca?
+V roku 2011 sa v SR
+
+2
+údajov odhadnúť pravdepodobnosť narodenia chlapca.
+
+narodilo 60 813 živých novorodencov. Domino- valo mužské pohlavie,
+chlapcov sa narodilo 31 114. Vyplýva to z údajov, ktoré poskytol Štatistický úrad.
+
+
+
+51
+
+
+DVA UŽITOČNÉ VZORCE
+
+
+TESTOVANIE LIEKOV
+JEDNOU Z HLAVNÝCH ÚLOH PRI TESTOVANÍ LIEKOV JE PREUKÁZAŤ, ŽE LIEK SKUTOČNE ÚČINKUJE. OPÍŠME
+STRUČNE JEDEN Z NAJJEDNODUCHŠÍCH POUŽÍVANÝCH POSTUPOV. VYBERIEME DVE SKUPINY CHORÝCH. PRVEJ SKUPINE PODÁME LIEK A ZISTÍME, V KOĽKÝCH PRÍPADOCH LIEK ZAÚČINKOVAL. DRUHEJ SKUPINE PODÁME NEŠKODNÚ LÁTBU – PLACEBO – A TIEŽ ZISTÍME, V KOĽKÝCH PRÍPADOCH SA STAV ZLEPŠIL. PACIENTOV DO OBIDVOCH SKUPÍN VYBERÁME NÁHODNE A NIKTO Z NICH NEVIE, ČI DOSTAL
+SKUTOČNÝ LIEK ALEBO PLACEBO.
+NA PODANIE LIEKU AJ PODANIE PLACEBA SA MÔŽEME POZERAŤ AKO NA NÁHODNÝ POKUS. V OBIDVOCH PRÍPADOCH NÁS ZAUJÍMA PRAVDEPODOBNOSŤ ÚSPECHU (TÝM JE ZLEPŠENIE PACIENTOVHO STAVU).
+AK MÁME LIEK POVAŽOVAŤ  ZA ÚČINNÝ, MUSÍ BYŤ  PRAVDEPODOBNOSŤ ÚSPECHU PRVÉHO POKUSU  (ZLEPŠENIE
+NASTALO PO PODANÍ LIEKU) VÄČŠIA AKO DRUHÉHO (ZLEPŠENIE NASTALO SAMOVOĽNE, BEZ PODANIA LIEKU).
+
+
+V TABUĽKE UVÁDZAME VÝSLEDKY TESTOVANÍ DVOCH LIEKOV NA BOLESTI SPÔSOBENÉ DIABETICKOU NEUROPATIOU:
+
+PRVÝ LIEKDRUHÝ LIEKPOČET ZLEPŠENÍ   / POČET PACIENTOV, KTORÍ DOSTALI LIEK
+105/144
+81/165POČET ZLEPŠENÍ   / POČET PACIENTOV, KTORÍ DOSTALI PLACEBO
+180/260
+73/205
+
+ÚLOHA
+
+15. a) Pre obidva lieky nájdite interval, v ktorom leží pravde- podobnosť, že zlepšenie nastane po podaní lieku a in- terval pre pravdepodobnosť, že zlepšenie nastane bez podania lieku. Na základe toho rozhodnite, či testovaný liek možno pokladať za účinný.
+b) Aký by musel byť v prípade prvého z uvedených lie- kov počet samovoľných zlepšení stavu, aby sme prvý liek nemohli na základe opísaného postupu pokladať za účinný?
+
+
+
+
+DVA UŽITOČNÉ VZORCE – VÝSLEDKY
+
+
+
+2. 76 – 104 bielych guliek; v tomto prípade sa n = 200, p = 0,45, = = 200 · 0,45 = 90,   = (( – 2 ; ; + 2 ) = (75,92...; 104,07...).
+
+= 7,03...,
+
+3. Spomedzi 150 vytiahnutých guliek by malo byť prakticky iste 34 – 56 čiernych. Hodnota 32 leží mimo tohto intervalu, môžeme preto odôvodnene predpokladať, že údaj o počte čiernych guliek nebol správny. (V tomto prípade sa n = 150,
+p = 0,3, = = 150 · 0,3 = 45,   =	= 5,61..., (  – 2 ; ; + 2 ) = (33,7...; 56,2...).)
+4. a) 86 = 0,43 (t. j. 43 %), 114 = 0,57 (t. j. 57 %), vo všeobecnosti
+200	200
+relatívna početnosť = absolútna početnosť v tomto prípade absolútna početnosť ,
+
+celkový počet pokusov 
+relatívna početnosť v % = absolútna početnosť · 100.
+celkový počet pokusov
+
+200	
+
+b) Ak absolútna početnosť k leží medzi číslami l – 2  a   + 2 , tak relatívna početnosť k leží medzi číslami    – 22
+
+a aa + 22, pritom
+n	n	nn  =  np = p,	22 = 2 ·	n ·
+
+
+= 2 ·
+
+
+p (1 – p)
+,
+
+n	n	n
+
+n	n	n
+
+n	n
+= 1 
+
+(pri úprave	n = 1 sme využili, že kladné číslo n možno zapísať v tvare n =
+n
+· 
+n , preto	n =
+n
+
+= 1 ),
+
+t. j.	tt – 22 = p – 2 ·
+
+p (1 – p) ,	,, + 22 = p + 2 ·
+
+p (1 – p) .
+
+n	n	n	n	n	n
+Teda: ak je n veľké číslo, tak relatívna početnosť úspechov v n pokusoch leží prakticky iste medzi
+
+
+ 	52 
+
+p – 2 ·
+
+a p + 2 ·
+
+p (1 – p) .	c) (o menej ako) ( 2 ·
+
+p (1 – p) .
+
+n	n
+
+
+
+
+
+
+
+5. Podľa obr. 3 relatívna početnosť šestiek leží prakticky iste v intervale
+
+1 – 2 ·
+6
+
+,	1  + 2 ·	.
+6
+
+Za n sme dosadili n = 5 404 555 (počet obyvateľov SR k 31. 3. 2012), resp. n = 1 347 350 000 (odhad počtu obyvateľov
+Číny k 31. 12. 2011). Výsledky po zaokrúhlení: SR (0,166 3; 0,167 0), t. j. 16,63 % až 16,70 %, Čína (0,166 6; 0,166 7), t. j. 16,66 % až 16,67 %.
+7. Pre p = 0,339 je pravý krajný bod intervalu (( – 22;   + 22) číslo   + 22 = np + 2 np(1 – p) = 200 · 0,339 +
++ 2 200 · 0,339 · 0,661 = 81,188..., preto hodnota 81 leží v tomto intervale. Pre p = 0,475 je ľavý krajný bod intervalu (= – 2 , , + 2 ) číslo ) – 2  = np – 2 np(1 – p) = 200 · 0,475 – 2 200 · 0,475 · 0,525 = 80,875... .
+8. Väčší z rozdielov 0,475 – 0,405 a 0,405 – 0,339 má hodnotu 0,070, teda žiadne číslo z intervalu 0,339; 0,475, v kto- rom leží neznáma skutočná hodnota p, sa od 0,405 nelíši o viac ako , 0,070. Preto možno za odhad absolútnej chyby približnej hodnoty 0,405 zvoliť i = 0,070.
+
+9. S presnosťou  
+nych bodov).
+
+= = 1 (teda – ak pravdepodobnosť vyjadrujeme v percentách – je to presnosť ( 10 percentuál-
+10
+
+10. a) Chyba približnej hodnoty p je nanajvýš 1 , ak je pravdepodobnosť číslo z intervalu 0, 1. Ak pravdepodobnosť
+
+vyjadríme v percentách, bude chyba tejto hodnoty nanajvýš 100 · počet pokusov mal byť 40 000 a viac.
+
+  1 . Rovnosť
+
+100
+
+
+
+= 0,5 platí pre n = 40 000. Preto by
+
+b) Aspoň 4 milióny-krát. Chyba približnej hodnoty vyjadrenej v percentách by mala byť nanajvýš 0,05.
+
+Rovnosť 100 = 0,05 platí pre n =
+
+100
+
+2
+= 4 000 000.	c) Aspoň 400 000 000-krát.
+
+0,05
+12. Môžeme použiť rovnakú schému uvažovania ako v poznámke Len pre záujemcov na s. 50:
+• hľadáme h tak, aby platilo
+vzdialenosť medzi približnou hodnotou k a skutočnou pravdepodobnosťou p nie je väčšia ako a,
+pritom	n
+• pre každé p, ktoré by mohlo byť skutočnou hodnotou pravdepodobnosti, platí
+vzdialenosť medzi  k  a p je menšia ako 2 ·
+n
+(pretože podľa nášho predpokladu patrí k medzi relatívne početnosti prakticky istých výsledkov pri n pokusoch,
+pozri obr. 3 na s. 43)	n
+• súčin p · (1 – p) nie je väčší ako 0,25, teda platia nerovnosti	≤	= 0,5 a
+2 ·	≤ 2 · 0,5 = 1 .
+Preto vzdialenosť medzi k a každým p, ktoré by mohlo byť skutočnou hodnotou pravdepodobnosti, je menšia ako 1 .
+n
+Z toho vyplýva, že za Z možno zvoliť číslo 1 .
+13. a) 356 – 394 (t. j. 375 3 24) semien. V tomto prípade sa n = 500, p = 0,75, = = 500 · 0,75 = 375,
+  =	500 · 0,75 · 0,25= 9,682... , za prakticky isté výsledky (počet vyklíčených semien) možno pokladať celé čísla    z intervalu (z – 2 , , + 2 ) = (355,63...; 394,36...).
+b) 71 – 79 % (t. j. 75 7 4 %), pretože 355,63... = 0,711..., 394,36... = 0,788... .
+500	500
+c) Ak počet vyklíčených semien nebude v rozmedzí 356 – 394 semien (pozri výsledok časti a) tejto úlohy).
+14. Na údaj o počte narodených chlapcov sa môžeme pozerať ako na výsledok náhodného pokusu, v ktorom pravdepo- dobnosť úspechu (v tomto prípade narodenia chlapca) je p, pričom pokus sme opakovali 60 813-krát.
+Keby pravdepodobnosť bola p = 0,5, tak pre n = 60 813 sa = = np = 60 813 · 0,5 = 30 406,5,
+22 = 2 · np(1 – p) = 2 · 60 813 · 0,5 · 0,5  = 246,602... a za prakticky isté výsledky (počet narodených chlapcov)  možno pokladať celé čísla z intervalu (( – 22,   + 22) = (30 159,897...; 30 653,102...). Hodnota 31 114 leží mimo tohto intervalu, preto možno odôvodnene predpokladať, že neplatí p = 0,5.
+
+ 53	
+
+
+
+
+Pravdepodobnosť narodenia chlapca je
+p =  31 114
+60 813
+
+
+1	= 0,511 6... = 0,004 055... = 0,512   0,005
+
+(približnú hodnotu pravdepodobnosti aj odhad chyby sme zaokrúhlili tak, ako je to opísané za úlohou 8 na s. 49).
+15. a) prvý liek: Liek možno pokladať za účinný, pretože
+• pravdepodobnosť, že zlepšenie nastane po podaní lieku, je
+
+105  
+144
+
+, teda aspoň 105 –
+144
+
+ 0,646,
+
+• pravdepodobnosť, že zlepšenie nastane bez podania lieku, je
+
+
+
+druhý liek:
+
+  81  
+165
+
+, teda nanajvýš 81 +
+165
+
+ 0,569 .
+
+Liek možno pokladať za účinný:
+• pravdepodobnosť, že zlepšenie nastane po podaní lieku:
+
+180  
+260
+
+, teda aspoň 180 –
+260
+
+ 0,630,
+
+• pravdepodobnosť, že zlepšenie nastane bez podania lieku:
+
+  73  
+205
+
+, teda nanajvýš 73 +
+205
+
+ 0,426.
+
+b) Viac ako 93. Ak počet samovoľných zlepšení je x, tak pravdepodobnosť, že zlepšenie nastalo bez podania lieku, je
+
+  x  
+165
+
+, teda nanajvýš x +
+165
+
+. Ak je táto hodnota väčšia ako 105 –
+144
+
+ 0,646 (dolný odhad pravdepo-
+
+dobnosti, že zlepšenie nastalo po podaní lieku z časti a) tejto úlohy), nemôžeme liek na základe tohto postupu pokladať
+
+za účinný. Rovnosť x +
+165
+
+= 105 –
+144
+
+nastane pre x =165 ·
+
+105 –
+144
+
+–	 = 93,7... .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 	54 
+
+
+
+
+3 Pars pro toto –
+
+Pars pro toto – KEĎ ČASŤ ZASTUPUJE CELOK
+
+KEĎ ČASŤ ZASTUPUJE CELOK
+
+
+
+
+
+Štatistika tvrdí, že jeden zo štyroch ľudí je duševne chorý.
+Tak sa pozri na troch svojich priateľov: ak sú oni v poriadku, tak si to ty.
+
+S prieskumom verejnej mienky – napr. pred voľbami – sa už asi stretol každý z nás. Hlavná myšlienka je jednoduchá: namiesto toho, aby sme sa pýtali všetkých ľudí, vy- berieme vhodnú menšiu skupinu a zistíme názory iba v nej. Matematicky vyjadrené: namiesto celého základného súboru vyberieme vhodný výberový súbor a pracujeme iba s ním. V tomto prípade vhodný je taký, o ktorom máme dôvod predpokladať, že sa správa podobne ako celý základný súbor.
+
+Otázka je, ako nájsť takýto vhodný výberový súbor. V tejto kapitole ukážeme, že jednou z možností je náhodný výber – zo základného súboru náhodne vyberieme primerane veľkú skupinu prvkov, pričom spôsob vyberania je zvolený tak, aby každý prvok základ- ného súboru mal rovnakú šancu byť vybratý.
+e v
+oru m
+
+
+
+
+
+
+
+
+
+
+
+v urne je 5 miliónov guliektie predstavujú populáciu Slovenska (o ktorej kvôli jednoduchosti predpokladáme, že je presne 5-miliónová)z nich časť je bielabiele guľky predstavujú ľudí s krvnou skupinou Aostatné sú čierneto sú ľudia s inými krvnými skupinami
+
+
+
+
+
+
+m
+
+
+Zdravý rozum napovedá dve veci:
+
+
+ stím ch g
+
+• na jednej strane je dosť málo pravdepodobné, že relatívna početnosť bielych guliek vo vybraných 1 250 guľkách (nech je to p percent) bude presne rovnaká ako ich relatívna početnosť v urne,
+• na druhej strane však neočakávame, že odchýlka čísla p od skutočnej relatívnej po-
+četnosti bielych guliek v urne bude príliš veľká.
+
+
+
+Či zdravý rozum napovedá správne, o tom sa presvedčíme v nasledujúcich častiach tejto kapitoly.
+
+3.2 Je jedno, či guľky vyberáme naraz alebo postupne
+Sled našich úvah bude podobný ako v predchádzajúcich kapitolách. Začneme jedno- duchšou úlohou. Budeme predpokladať, že poznáme zastúpenie – teda relatívnu počet- nosť – bielych guliek v urne (nech je to napr. 40 %) a bude nás zaujímať, ako môže do- padnúť výber 1 250 guliek z tejto urny, t. j. ako pravdepodobné je, že z 1 250 vybraných guliek bude práve
+• 0 bielych,  • 1 biela  • 2 biele,  ...,  • 1 249 bielych,  • 1 250 bielych	(*)
+5
+je	hod
+
+
+Výpočet týchto pravdepodobností je pomerne jednoduchý, ak predpokladáme, že 1 250 guliek vyberieme z urny naraz. Na tento výpočet sa pozrieme v prvom riešení úlohy 1. V druhom riešení tejto úlohy zistíme, že rovnaký výsledok dostaneme aj vtedy, keď predpokladáme, že 1 250 guliek vyberáme postupne jednu po druhej.S URNOVÝMI MODELMI SME SA UŽ STRETLI V POZNÁMKE PRI ÚLOHE 18 NA S. 22. V NEJ SME AVIZOVALI, ŽE O KTORÝCH SME HOVORILI V 1. KAPITOLE – SA STRETNEME AJ S URNOVÝMI MODELMI BEZ VRÁTENIA. VYBERANIE 1 250 GULIEK JEDNU PO DRUHEJ JE PRÍKLADOM URNOVÉHO MODELU BEZ VRÁTENIA.OKREMMODELOVSVRÁTENÍM –
+Aby sme nemuseli pracovať s veľmi veľkými číslami (2 milióny bielych guliek, 3 milióny čiernych, 1 250 vybraných guliek), použijeme vo výpočtoch menšie hodnoty. Myšlienka výpočtu sa tým nijak nezmení.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pripomíname:
+Laplaceovu schému používame, ak výsledky náhodného pokusu možno opísať pomocou možností, ktoré sú rov- nako pravdepodobné (rozmyslite si, čo sú tieto rovnako pravdepodobné možnosti v našom prípade). Ak týchto
+možností je celkom n, každá z nich nastane v ideálnom prípade v  1  (jednej n-tine) z celkového počtu pokusov.
+n
+ 	56 
+
+Pars pro toto – KEĎ ČASŤ ZASTUPUJE CELOK
+
+
+
+Ak z týchto n možností je k priaznivých pre jav, ktorého pravdepodobnosť hľadáme, tak priaznivé možnosti
+
+predstavujú k
+n
+
+(ká entín) z celkového počtu pokusov. Preto pravdepodobnosť je k , teda
+n
+počet priaznivých možností
+počet všetkých možností
+
+
+Začnime počtom všetkých možností. Štyri guľky z 500 – teda štyri rôzne čísla z čísel
+
+1 až 500 – možno vybrať celkom
+
+500
+4
+
+spôsobmi (toto si rozmyslite).
+
+Nájsť počet všetkých priaznivých možností znamená, vypočítať počet všetkých štvoríc navzájom rôznych čísel, pre ktoré platí: dve čísla sú od 1 do 200, zvyšné dve čísla sú od
+
+201 do 500. Dve rôzne čísla z čísel 1 až 200 (teda dve biele guľky) môžeme vybrať
+
+200
+2
+
+spôsobmi, dve rôzne čísla z 300 čísel od 201 do 500 (dve čierne guľky)
+
+300
+2
+
+spôsobmi.
+
+Pritom každý výber bielych guliek môžeme skombinovať s ľubovoľným výberom čier- nych guliek, pozri tab. 1 (nečítajte ďalej, kým si to nerozmyslíte). Preto celkový počet možností, ako vybrať štvoricu čísel požadovaných vlastnostostí – teda počet všetkých
+
+priaznivých možností – je
+
+200
+2
+· 
+300 .
+2
+
+
+možnosti výberu dvoch rôznych čísel spomedzi čísel 1 – 200 (dvoch bielych guliek)
+
+
+
+201,202
+
+201,203
+
+201,204
+M
+
+201,500
+
+202,203
+
+202,204
+M
+
+202,500
+M
+
+499,500
+
+1,2
+1,2
+201,202
+1,2
+201,203
+1,2
+201,204
+M
+1,2
+201,500
+1,2
+202,203
+1,2
+202,204
+M
+1,2
+202,500
+M
+1,2
+499,500
+
+1,3
+1,3
+201,202
+1,3
+201,203
+1,3
+201,204
+M
+1,3
+201,500
+1,3
+202,203
+1,3
+202,204
+M
+1,3
+202,500
+M
+1,3
+499,500
+
+...
+
+...
+
+...
+
+...
+
+
+...
+
+...
+
+...
+
+
+...
+
+
+...
+
+1,200
+1,200
+201,202
+1,200
+201,203
+1,200
+201,204
+M
+1,200
+201,500
+1,200
+202,203
+1,200
+202,204
+M
+1,200
+202,500
+M
+1,200
+499,500
+
+2,3
+2,3
+201,202
+2,3
+201,203
+2,3
+201,204
+M
+2,3
+201,500
+2,3
+202,203
+2,3
+202,204
+M
+2,3
+202,500
+M
+2,3
+499,500
+
+2,4
+2,4
+201,202
+2,4
+201,203
+2,4
+201,204
+M
+2,4
+201,500
+2,4
+202,203
+2,4
+202,204
+M
+2,4
+202,500
+M
+2,4
+499,500
+
+...
+
+...
+
+...
+
+...
+
+
+...
+
+...
+
+...
+
+
+...
+
+
+...
+
+2,200
+2,200
+201,202
+2,200
+201,203
+2,200
+201,204
+M
+2,200
+201,500
+2,200
+202,203
+2,200
+202,204
+M
+2,200
+202,500
+M
+2,200
+499,500
+
+...
+
+...
+
+...
+
+...
+
+
+...
+
+...
+
+...
+
+
+...
+
+
+...
+
+199,200
+199,200
+201,202
+199,200
+201,203
+199,200
+201,204
+M
+199,200
+201,500
+199,200
+202,203
+199,200
+202,204
+M
+199,200
+202,500
+M
+199,200
+499,500
+
+
+Tab. 1
+V hornom riadku sú všetky možnosti výberu dvoch bielych guliek, v ľavom stĺpci všetky možnosti výberu dvoch čiernych guliek (viete zistiť, podľa akého pravidla sme tieto možnosti zoraďovali?). Každá bunka v hrubo orámovanej tabuľke
+predstavuje jednu priaznivú možnosť.
+Celkový počet buniek je počet stĺpcov (= počet výberu bielych guliek, ten je 200 = 19 900) × počet riadkov
+2
+
+(= počet výberov čiernych guliek, ten je 300 = 44 850), t. j.
+
+200 · 300
+
+ 2 
+
+ 2   2 
+57
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pripomeňme, že ide o 4-prvkové variácie z 500 prvkov a že výpočet ich počtu sa zakladá na opakovanom pou- žití kombinatorického pravidla súčinu:
+• na prvom mieste môže byť ľubovoľný z 500 prvkov,
+• akokoľvek zvolíme prvok na 1. mieste, vždy máme 499 možností výberu prvku na druhom mieste, teda pre výber prvku na 1. a 2. mieste máme celkom 500 · 499 možností,
+• pre každú z týchto 500 · 499 možností máme 498 možností výberu prvku na 3. mieste ... (zvyšok zdôvodnenia už prenechávame vám).
+
+Priaznivé možnosti sú tie usporiadané štvorice, v ktorých na dvoch miestach sú čísla od 1 do 200 a na zvyšných dvoch čísla od 201 do 500. Všetky priaznivé možnosti môžeme rozdeliť na skupiny podľa toho, na ktorom mieste v nich stoja čísla od 1 do 200:
+na 1. a 2. mieste, na 1. a 3. mieste, na 1. a 4. mieste,
+na 2. a 3. mieste, na 2. a 4. mieste, na 3. a 4. mieste	(*)
+Každá priaznivá možnosť patrí iba do jednej z týchto skupín (skontrolujte to), preto počet všetkých priaznivých možností je súčet prvkov jednotlivých skupín.
+
+V koľkých prípadoch vytiahneme bielu guľku iba ako prvú a štvrtú?
+Vypočítajme na ukážku počet tých priaznivých možností, v ktorých sú čísla od 1 do 200 na prvom a štvrtom mieste (vo výpočte opäť použijeme kombinatorické pravidlo súčinu):
+• na prvom mieste môže byť ktorékoľvek z čísel 1 – 200, to je 200 možností,
+• na druhom mieste môže byť ktorékoľvek z 300 čísel 201 – 500, preto počet mož- ností výberu dvoch prvých čísel je 200 · 300,
+• pre každú z týchto 200 · 300 možností máme na výber 299 čísel na treťom mieste (všetky čísla 201 – 500 okrem čísla, ktoré sme vybrali na druhé miesto), preto  počet možností výberu prvých troch čísel je 200 · 300 · 299,
+• pre každú z týchto 200 · 300 · 299 možností máme na výber 199 čísel na štvr-
+té miesto (ktorékoľvek z čísel 1 – 200 okrem čísla, ktoré sme vybrali na prvé miesto).
+Preto celkový počet možností je 200 · 300 · 299 · 199.
+
+Výsledná pravdepodobnosť
+Rovnaký výsledok – len s iným poradím činiteľov 200, 300, 299, 199 – by sme do- stali pre každú zo 6 skupín uvedených v (*), rozmyslite si to. Preto počet všetkých
+
+Pars pro toto – KEĎ ČASŤ ZASTUPUJE CELOK
+
+
+
+
+1	2	3
+
+
+...
+
+
+200
+
+
+
+...
+
+...
+
+...	...
+
+
+
+
+
+...	...	...
+
+
+Obr. 1
+Číslo na prvom mieste je modré, na druhom mieste červené, na treťom mieste zelené
+(štvrté miesto už kvôli prehľadnosti obrázku neznázorňujeme, z rovnakého dôvodu sme výber čísla na treťom mieste naznačili len pre možnosti, v ktorých je na prvom mieste číslo 1).
+
+priaznivých možností je 6 · 200 · 300 · 299 · 199. Všimnime si ešte, že číslo 6 bol počet všetkých možností, ako vybrať zo 4 miest tie 2, na ktorých sú čísla od 1 do 200. Teda 6
+
+bol počet všetkých 2-prvkových kombinácií zo 4 prvkov: 6 =
+Hľadaná pravdepodobnosť je podľa Laplaceovej schémy
+
+2 .
+
+ 6 · 200 · 199 · 300 · 299 ,  t. j. 4 ·  200 · 199 · 300 · 299.	(P2)
+Dostali sme rovnaký výsledok ako v prvom riešení
+Nie je ťažké skontrolovať, že sme dostali rovnaký výsledok ako v prvom riešení (v kto- rom sme guľky vyberali naraz) – stačí trochu inak zapísať zlomok v (P1)
+
+200 · 199 · 300 · 299
+     2 · 1	2 · 1	=
+500 · 499 · 498 · 497
+4 · 3 · 2 · 1
+   1 · 1 
+
+   1 1 
+2 · 1    2 · 1
+1
+4 · 3 · 2 · 1
+
+
+200 · 199 · 300 · 299
+500 · 499 · 498 · 497
+
+a vhodne upraviť výraz
+
+2 · 1    2 · 1
+1
+4 · 3 · 2 · 1
+
+   1 · 1 
+
+
+4 · 3 · 2 · 1
+
+4!	4
+
+2 · 1    2 · 1
+1
+4 · 3 · 2 · 1
+
+= (2 · 1) · (2 · 1)  = (2!) · (2!)  = 2
+
+(skontrolujte, že z týchto úvah už vyplýva, že (P1) a (P2) sú rovnaké hodnoty).
+
+
+
+
+
+
+
+
+
+
+
+
+59
+
+Pars pro toto – KEĎ ČASŤ ZASTUPUJE CELOK
+
+
+NA CHVÍĽU SA VRÁTIME K PÔVODNÝM VEĽKÝM ČÍSLAM Z OTÁZKY O KRVNÝCH SKUPINÁCH, POTOM SKÚSIME ZAPÍSAŤ VÝSLEDOK VO VŠEOBECNOM PRÍPADE.
+ÚLOHY
+
+3. V urne je 5 miliónov guliek: 2 milióny bielych a 3 milióny čiernych. Zapíšte po- mocou kombinančných čísel pravdepodobnosť, že z 1 250 vybraných guliek bude práve
+a) 490 bielych,
+b) k bielych (k je niektoré z čísel 0, 1, 2, ..., 1 250).
+
+
+
+VÝSLEDKOM ÚLOHY 3 a) JE ČÍSLO
+
+2 000 000
+490
+· 
+3 000 000
+760
+
+
+. KOMBINAČNÉ ČÍSLA V ČITATELI AJ MENOVATELI TOHTO ZLOMKU
+
+5 000 000
+1 250
+SÚ OBROVSKÉ, VÝPOČET HODNOTY TOHTO PODIELU POSTUPOM VYPOČÍTAME HODNOTU ČITATEĽA, POTOM MENOVATEĽA A VYDELÍME ICH NA TABUĽKOVOM KALKULÁTORE JE PRAKTICKY NEMOŽNÝ. AK BY SME CHCELI UVEDENÚ PRAVDEPODOBNOSŤ VYPOČÍTAŤ, MUSÍME ZVOLIŤ INÝ POSTUP. VÝSLEDOK NAPÍŠEME TAK AKO (P2) V RIEŠENÍ ÚLOHY 1:
+B = 490 činiteľov	C = 1 250 – 490 = 760 činiteľov
+
+1 250
+· 
+2 000 000
+· 
+1 999 999
+
+· 1 999 998 · ... · 1 999 511 · 3 000 000
+
+· 2 999 999 · ... · 2 999 241 
+
+(*)
+
+ 490 
+
+5 000 000
+
+4 999 999
+
+4 999 998
+
+4 999 511
+
+4 999 510
+
+4 999 509
+
+4 998 750
+
+A AKO SÚČIN ZAPÍŠEME AJ KOMBINAČNÉ ČÍSLO
+
+
+1 250
+
+
+A = 490 činiteľov
+
+= 1 250 · 1 249 · ... · 762 · 761
+
+ 490 
+
+
+490	489	2	1
+
+POTOM NA TABUĽKOVOM KALKULÁTORE NAPROGRAMUJEME VÝPOČET SÚČINU V PORADÍ:
+PRVÝ ČINITEĽ Z A × PRVÝ ČINITEĽ Z B × PRVÝ ČINITEĽ Z C ×
+× DRUHÝ ČINITEĽ Z A × DRUHÝ ČINITEĽ Z B × DRUHÝ ČINITEĽ Z C × ... ×
+× 490-TY ČINITEĽ Z A × 490-TY ČINITEĽ Z B × 490-TY ČINITEĽ Z C ×
+× 491-VÝ ČINTEĽ Z C × 492-HÝ ČINITEĽ Z C × ... × 760-TY ČINITEĽ Z C
+PODSTATNÉ JE, ŽE POČAS VÝPOČTU NIKDY NEPOČÍTAME S PRÍLIŠ VEĽKÝMI ČÍSLAMI (KTORÉ BY MOHLI BYŤ PRE KALKULÁTOR PROBLÉMOM). DOSIAHNEME TO VĎAKA TOMU, ŽE VEĽKÉ ČINITELE ZO SÚČINU A „POPREKLADÁME“ MALÝMI HODNOTAMI ZO SÚČINOV B A C.
+
+4. Z urny, v ktorej je A bielych a B čiernych guliek (iné guľky tam už nie sú), vyberá- me n guliek. Zapíšte pravdepodobnosť, že práve k z vybraných guliek je bielych.
+
+
+3.3 Pomôžu nám bernoulliovské pokusy
+V riešení úlohy 1 sme zistili, že výsledky (P1) a (P2) sú rovnaké (pre ďalšie prípady sme to overili v riešení úlohy 2). To znamená, že hľadaná pravdepodobnosť nezávisí od toho, či guľky vyberáme naraz – výsledok (P1) alebo postupne – výsledok (P2).
+
+URNOVÝ MODEL BEZ VRÁTENIA ...
+Druhý – postupný – spôsob vyberania nás zaujíma preto, že od neho vedie cesta k zjed- nodušeniu výpočtov aj celého riešenia. Tento postup sa označuje ako urnový model bez vrátenia: z urny obsahujúcej biele a čierne guľky vyberieme guľku, zistíme jej farbu, ale guľku do urny už nevrátime. Potom vyberieme ďalšiu guľku atď. Celkovo takto vyberie- me n guliek, zaujíma nás, koľko z nich je bielych.
+
+... A URNOVÝ MODEL S VRÁTENÍM ...
+S vyberaním guliek z urny sme sa už stretli pri bernoulliovských pokusoch (stručne si ich pripomeňte, potom čítajte ďalej). Tie možno opísať ako urnový model s vrátením.
+
+Pars pro toto – KEĎ ČASŤ ZASTUPUJE CELOK
+V ňom – na rozdiel od modelu bez vrátenia – vybranú guľku po zistení jej farby vrátime do urny, a až potom vyberáme ďalšiu guľku.
+
+... DÁVAJÚ ZA ISTÝCH PREDPOKLADOV PRAKTICKY ROVNAKÉ VÝSLEDKY
+Tento rozdiel – či guľku do urny vrátime alebo nevrátime – sa prejaví na pravdepodob- nosti vybratia bielej guľky. Platí totiž
+pravdepodobnosť, že z urny vyberieme bielu guľku = relatívna početnosť bielych guliek v urne
+(toto si dobre rozmyslite).
+Čo z toho vyplýva? Pri bernoulliovských pokusoch – teda pri urnovom modeli s vráte- ním – sa relatívna početnosť bielych guliek v urne nemení, preto pravdepodobnosť vybrať z urny bielu guľku (t. j. pravdepodobnosť úspechu) je pri každom výbere rovnaká.
+Pri urnovom modeli bez vrátenia – ktorý nás zaujíma v tejto kapitole – sa relatívna po- četnosť bielych guliek v urne mení v každom kroku, teda s každou vybranou guľkou sa mení aj pravdepodobnosť výberu bielej guľky v nasledujúcom kroku.
+AK Z URNY OBSAHUJÚCEJ 200 BIELYCH A 300 ČIERNYCH GULIEK VYBERIEME POSTUPNE BIELU, ČIERNU, ČIERNU A BIELU GUĽKU
+(TÚTO MOŽNOSŤ SME OPISOVALI V RIEŠENÍ ÚLOHY 1), TAK
+• V PRVOM ŤAHU JE PRAVDEPODOBNOSŤ VYBRATIA BIELEJ GUĽKY 200 (V URNE JE 500 GULIEK, Z TOHO 200 BIELYCH),
+• 199	500
+V DRUHOM ŤAHU JE TÁTO PRAVDEPODOBNOSŤ 499 (PO VYBRATÍ 1 BIELEJ GUĽKY V PRVOM ŤAHU ZOSTANE V URNE 499 GULIEK, Z TOHO
+199 BIELYCH),
+• V TREŤOM ŤAHU TO JE 199 (PO VYBRATÍ 1 BIELEJ A 1 ČIERNEJ GUĽKY ZOSTANE V URNE 498 GULIEK, Z TOHO 199 BIELYCH),
+498	199
+• A NAPOKON V ŠTVRTOM ŤAHU JE TÁTO PRAVDEPODOBNOSŤ 497 (PREČO?).
+UVEDENÉ ŠTYRI PRAVDEPODOBNOSTI SÚ SKUTOČNE RÔZNE, VŠIMNITE SI VŠAK, ŽE VŠETKY SA LEN VEĽMI MÁLO LÍŠIA
+200
+OD HODNOTY 500 = 0,4, T. J. OD POČIATOČNEJ RELATÍVNEJ POČETNOSTI BIELYCH GULIEK V URNE.
+Ak je počet vyberaných guliek v porovnaní s počtom guliek v urne veľmi malý, je veľmi malá aj zmena početnosti bielych guliek. V takom prípade je pravdepodobnosť vybrať bielu guľku prakticky rovnaká pri každom výbere. Preto sa nedopustíme veľkej chyby, ak túto pravdepodobnosť budeme pokladať – tak ako v bernoulliovských pokusoch – za nemennú, jej hodnotou p bude počiatočná relatívna početnosť bielych guliek v urne (ne- čítajte ďalej, kým si to nerozmyslíte).
+
+
+napríkladNa výber n guliek z urny sa potom môžeme pozerať ako na n-násobné opakovanie pokusu, v ktorom pravdepo- dobnosť úspechu – vybratia bielej guľky – je p.
+Inými slovami: urnový model bez vrátenia môžeme nahradiť urnovým modelom s vrátením
+(teda bernoulliovským pokusom).Vo výpočtoch z úloh 1 a 2 sa nedopustíme veľkej chyby, ak budeme predpokladať, že
+z urny vyberáme postupne 4 guľky, pričom pravdepodobnosť vybrať bielu guľku je v každom z týchto 4 krokov rovnaká
+(v našom prípade 0,4, t. j. 40 %).
+
+ÚLOHA
+
+5. Vyťahovanie 4 guliek z urny, v ktorej je 500 guliek (200 bielych a 300 čiernych) nahraďte zodpovedajúcim bernoulliovským pokusom. Vypočítajte pravdepodobnosti pre jednotlivé počty úspechov v tomto bernoulliovskom pokuse. Výsledky porovnaj- te s pravdepodobnosťami, ktoré sme vypočítali v úlohách 1 a 2.
+
+SKONTROLUJME UVEDENÚ ÚVAHU NA VÝSLEDKOCH ÚLOH 1 A 2.
+
+
+61
+
+
+
+
+o ep
+
+Preto:
+
+
+liek
+naké
+
+
+napríkladak je v základnom súbore veľký počet guliek, z toho p % bielych,ak je v základnom súbore 5 miliónov guliek, z toho 40 % bielych,tak pravdepodobnosť, že z n vybraných guliek (bez vrátenia) bude práve k bielych, je približnetak pravdepodobnosť, že z 1 250 vybraných guliek (bez vrátenia) bude práve 490 bielych, je približnen ·   p  k · 1 –   p  n – k
+k	100	1001 250 · 0,4490 · 0,6760
+490
+
+3.4 Odpoveď na otázku z úvodu
+V predchádzajúcom článku sme videli, že urnové modely bez vrátenia môžeme, ak je počet vyberaných guliek veľmi malý v porovnaní s počtom všetkých guliek v urne, na- hradiť modelmi s vrátením (teda bernoulliovskými pokusmi). To nám umožňuje využiť výsledky, ku ktorým sme dospeli v predchádzajúcich kapitolách. Vďaka tomu teraz mô- žeme zodpovedať otázku z úvodu (úloha 8 b). Zaradili sme pred ňu ešte niekoľko otázok, ktorých riešenie rovnako využíva poznatky o bernoulliovských pokusoch.
+
+PRED RIEŠENÍM ÚLOHY 7 ODPORÚČAME NAJPRV PRIPOMENÚŤ SI ZÁKLADNÉ VLASTNOSTI BINOMICKÉHO ROZDELENIA PRAVDEPODOBNOSTI ZNÁZORNENÉ NA OBR. 2 A 3 NA S. 41 A 43. PODOBNE PRED RIEŠENÍM ÚLOHY 8 JE ROZUMNÉ VRÁTIŤ SA K TEXTU NA S. 49, V KTOROM UVÁDZAME JEDNODUCHÝ VZŤAH
+NA URČENIE PRESNOSTI, S AKOU VIEME Z VEĽKÉHO POČTU
+PRAVDEPODOBNOSŤ ÚSPECHU V TOMTO POKUSE.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sa e
+
+
+kla
+
+
+eriem ch gu
+431
+p = 1 250  
+jede
+
+
+
+
+= 0,34 = 0,03
+
+
+
+
+
+
+
+
+2. a)
+
+300
+4
+500
+
+
+= 0,128 560 891..., to môžeme – aby mal náš zápis rovnakú štruktúru ako ostatné výsledky –
+
+ 4 
+
+200 · 300
+
+  0      4 	 300 · 299 · 298 · 297 
+zapísať v podobe	(pripomeňme dohodu, podľa ktorej sa 200 = 1),	, aj tento zápis
+
+500
+4
+
+0	500 · 499 · 498 · 497
+
+môžeme – kvôli jeho zjednoteniu s ostatnými výsledkami – písať v tvare  4 ·   300 · 299 · 298 · 297  .
+
+200 · 300
+
+
+200 · 300 · 299 · 298
+
+0
+200 · 300
+
+500 · 499 · 498 · 497
+200 · 199 · 198 · 300
+
+b) 1
+
+3
+500
+4
+
+= 4 ·
+1
+
+
+500 · 499 · 498 · 497
+
+= 0,346 291 963..., c)
+
+3	1
+500
+4
+
+= 4 ·
+3
+
+
+500 · 499 · 498 · 497
+
+= 0,153 134 564...,
+
+200 · 300
+
+
+200 · 199 · 198 · 197
+
+d)	4	0	=  4 ·
+
+=  0,025  139  590...,  na  použitie  kombinačných  čísel  300 =  1  a  4 =  1
+
+500
+4
+
+
+4	500 · 499 · 498 · 497	0	4
+
+sa vzťahuje rovnaká poznámka ako v riešení úlohy 2 a).
+	490	  	760	
+
+	k	  1 250 – k 
+
+2 000 00 · 3 000 000
+3. a)	(pravdepodobnosť je približne 0,019 6, t. j. približne 1,96 %). b)
+
+2 000 000 · 3 000 000
+.
+
+5 000 000
+1 250
+
+5 000 000
+1 250
+
+A  ·	B
+4.	.
+     n  
+A + B
+5. Pravdepodobnosť úspechu v zodpovedajúcom bernoulliovskom pokuse je p = 200 = 0,4.
+500
+
+pravdepodobnosť,
+že zo 4 vytiahnutých guliekurnový model s vrátením (bernoulliovské pokusy)urnový model bez vrátenia (riešenia úloh 1 a 2)je 0 bielych0,64  = 0,129 6	  0,1300,128 56 ... 0 0,129je práve 1 biela4 · 0,4 · 0,63 = 0,345 6   0,346
+10,346 29 ... 0 0,346sú práve 2 biele4 · 0,42 · 0,62 = 0,345 6   0,346
+20,346 87 ... 0 0,347sú práve 3 biele4 · 0,43 · 0,6 = 0,153 6   0,154
+30,153 13 ... 0 0,153sú práve 4 biele0,44 = 0,025 6	  0,0260,025 13 ... 0 0,025
+ 63	
+
+
+
+6. b) V zápise (*) každý zo 490 činiteľov v súčine B má hodnotu približne 0,4 a každý zo 760 činiteľov v súčine C má hodnotu približne 0,6 (porovnaj tiež s poznámkou pred úlohou 5 na s. 61).
+7. Na výber 1 250 guliek sa môžeme pozerať ako na 1 250-násobné opakovanie pokusu, v ktorom pravdepodobnosť úspechu je p = 0,4.
+a) Počet úspešných pokusov – teda počet bielych guliek – prakticky iste leží v intervale (( – 22,   + 22), kde   = n · p =
+= 1 250 · 0,4 = 500,   =	n · p(1 – p)  =	1 250 · 0,4 · 0,6 =	300, pozri obr. 2 na s. 41,   – 22 = 465,358...,
+4 + 2  = 534,641... , preto počet vytiahnutých bielych guliek bude prakticky isto medzi 466 a 534.
+b) Očakávanú relatívnu početnosť môžeme
+• vypočítať z výsledku v časti a): bude to medzi 466 = 0,372 8 a 534 = 0,427 2,
+1 250	1 250
+• alebo použiť odhad z obr. 3 na s. 43 – relatívna početnosť bielych guliek sa prakticky isto od hodnoty p = 0,4
+
+líši o menej ako l 2 ·
+
+= = 2 ·
+
+= 0,027 7... .
+
+8. a) Keby početnosť bielych guliek v urne bola 40 %, tak 431 bielych z 1250 vybraných guliek nepatrí medzi prakticky isté výsledky, vieme to z riešenia úlohy 7a). Odchýlka výsledku 431 od očakávanej ideálnej hodnoty 1 250 · 0,4 = 500 je teda tak veľká, že už ju pokladáme za prakticky nemožnú. Preto môžeme odôvodnene predpokladať, že relatívna po- četnosť bielych guliek v urne nie je 40 %.
+b) Relatívna početnosť bielych guliek v urne sa rovná pravdepodobnosti úspechu v zodpovedajúcom bernoulliovskom pokuse. Prirodzené je za približnú hodnotu tejto pravdepodobnosti – teda za približnú hodnotu relatívnej početnosti
+bielych guliek v urne – považovať relatívnu početnosť vo výbere, teda číslo 431 = 0,344 8. Z textu na s. 49 vieme,
+1 250
+že skutočná hodnota hľadanej početnosti (za predpokladu, že výsledok 431 bielych z 1250 vybratých guliek pokladáme
+za prakticky istý) je
+
+  431  
+1 250
+
+= 0,344 8 = 0,028 284... = 0,34   0,03
+
+teda medzi 31 % a 37 % (približnú hodnotu pravdepodobnosti aj odhad chyby sme zaokrúhlili tak, ako je to opísané za úlohou 8 na s. 49).
+c) Nezmení, odpoveď závisí iba od počtu vyberaných guliek, ktorý zodpovedá počtu opakovaní v príslušných bernoul- liovských pokusoch.
+d) 10 000 alebo viacej. Chceme, aby platilo 1 ≤ 0,01. Rovnosť 1 = 0,01, t. j. 1 = 1 nastáva pre n = 1002 = 10 000.
+100

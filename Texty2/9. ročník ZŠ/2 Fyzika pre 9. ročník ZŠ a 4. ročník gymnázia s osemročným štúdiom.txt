@@ -1,0 +1,3783 @@
+﻿6	I. MAGNETICKÉ A ELEKTRICKÉ VLASTNOSTI LÁTOK
+
+
+Čo sa budeme učiť
+   V tomto školskom roku budeme skúmať elektrické a magnetické vlastnosti látok a tiež javy súvisiace s elektrickým prúdom v tuhých, kvapalných a plynných látkach.
+   Najstaršie správy o elektrických javoch zanechal grécky filozof Thales Miletský v 6. storočí pred n. l. Pri trení jantáru, čo je skamenená prírodná živica, z ktorej sa zhotovujú ozdobné predmety, možno pozoro- vať priťahovanie drobných teliesok.
+   Nástroj z jantáru bol súčasťou zariadenia na pradenie ľanu. Keď pri práci dochádzalo k treniu, priťahoval k sebe drobné úlomky zo slamy či ľanových vláken, zatiaľ čo samotné ľanové vlákna sa navzájom od seba odpudzovali. Tieto dávne pozorovania zanechali svoju stopu v podobe slova elektrón, tak sa totiž po grécky nazýva jantár.
+   Neskôr, okolo r. 1600, anglický lekár William Gilbert (čítaj Gilbrt) opísal tento jav znovu, a tým dal podnet ku skúmaniu elektrických javov.
+Gréci tiež pozorovali, že niektoré prírodné „kamene“, napr. minerál mag-
+
+jantár
+
+netit, priťahujú železné predmety.
+To boli začiatky vedy o elektrických a magnetických javoch. Neskôr sa
+
+zistilo tzv. Oerstedovým pokusom (1820), že tieto dva javy spolu súvisia. Dán Hans Christian Oersted (Örsted) pozoroval, že elektrický prúd prechá- dzajúci vodičom vychyľuje magnetku kompasu. Tento historický pokus je uvedený aj v učebnici. Novou oblasťou vedeckého skúmania – elektromag- netizmom – sa zaoberajú vedci vo viacerých krajinách a je základom mno- hých technických vynálezov.
+
+   Úvodné dva jednoduché pokusy súvisia s obsahom fyziky, spracovaným v učebnici. Zrealizujte ich a zamyslite sa nad ich priebehom.
+
+Pokus 1
+   Pozorujte a vysvetlite správanie sa guľôčky z alobalu, zavesenej na niti, ak k nej približujeme zelektrizované pravítko. (Pracujte v skupinách.)
+
+Pomôcky:
+alobal s rozmermi 6 × 2 cm, dlhé pravítko z plastu, niť s dĺžkou 30 – 35 cm, nožnice, stojan (kadička), drevená ceruzka, papierová vreckovka
+
+Postup:
+a) Z vystrihnutého alobalu s rozmermi približne 6 × 2 cm urobte guľôčku a pripevnite na ňu niť.
+b) Na druhom konci urobte z nite slučku tak, aby bolo možné guľôčku zavesiť na ceruzku.
+c) Pripevnite ceruzku na stojan (alebo ju polož na vyššiu kadičku) tak, aby guľôčka voľne visela.
+d) Papierovou vreckovkou trite pravítko a priblížte ho ku guľôčke.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 1 Pomôcky na experiment s guľôčkou a zelektrizovaným pravítkom
+
+I. MAGNETICKÉ A ELEKTRICKÉ VLASTNOSTI LÁTOK	7
+
+
+Odpovedz:
+1. Ako sa správala guľôčka, keď si sa k nej priblížil so zelektrizovaným pravítkom?
+2. Pri pozorovaní ste zaznamenali len jeden jav, alebo ich bolo viac?
+3. Aké je tvoje vysvetlenie pri každom z pozorovaní?
+
+Pokus 2
+Z plochej batérie a žiarovky zostroj elektrický obvod tak, aby žiarovka svietila.
+
+Pomôcky:
+batéria (4,5 V), malá žiarovka
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 2 Pomôcky na experiment s batériou a žiarovkou
+
+Odpovedz:
+1. Opíš, ako je potrebné priložiť žiarovku k svorkám batérie, aby svietila?
+2. Nakresli svoju predstavu prechodu elektrického prúdu žiarovkou.
+3. Čo je príčinou toho, že sa žiarovka rozsvieti, keď ju správne priložíme k batérii?
+
+   Pokiaľ si pri opise pokusu s guľôčkou použil termíny, ako elektrický náboj, príťažlivá či odpudivá sila, tvoje vysvetlenie zo skúsenosti bolo veľmi blízke odbornému vysvetleniu.
+   Druhý pokus, rozsvietenie žiarovky a vysvetlenie jej svietenia, môže byť pre niekoho veľmi jednodu- chý, ale sú aj dospelí ľudia, ktorí nedokážu správne priložiť žiarovku k batérii. Dôkladné vysvetlenie si vyžaduje aspoň základné poznatky o elektrickom obvode a o konštrukcii žiarovky a batérie.
+
+8
+
+I. MAGNETICKÉ A ELEKTRICKÉ VLASTNOSTI LÁTOK
+
+
+
+
+Magnetické vlastnosti látok
+   Magnety a magnetické materiály majú v našom živote široké uplatnenie. Využívajú sa v elektronic- kom priemysle (napr. počítačové disky, magnetický pruh na platobných kartách), ktorý by bez poznania vlastností magnetických materiálov neexistoval. Určite ste sa už stretli s kompasom, buzolou či obyčaj- ným prichytávaním vecí pomocou magnetu. V škole možno používate magnetickú tabuľu.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Veľmi často sa v praxi využívajú elektromagnety. Príkladom sú magnetické vlaky či lekárske zaria- denie na odhaľovanie skrytých chorôb v organizme metódou, ktorá sa nazýva magnetická rezonancia (MR) a ďalšie. Tieto zariadenia sú založené na novších fyzikálnych poznatkoch, ktoré vysvetľujú jav mag- netizmu.
+
+
+1.1 Skúmame magnetické vlastnosti látok
+   V staroveku slúžil minerál magnetit (inak nazývaný aj magnetovec) len na zábavu, na priťahovanie niektorých vecí z kovových materiálov. Magnetovec je prírodný magnet. Dnes dokážeme vyrobiť umelé magnety (z ocele alebo špeciálnych zliatin) aj elektromagnety, o ktorých sa dozviete viac v kapitole Elektrický prúd.
+
+   V nasledujúcej úlohe budete mať možnosť preskúmať vlastnosti tyčového magnetu. Školská pomôc- ka – tyčový magnet – má obyčajne sfarbený jeden koniec – pól magnetu – červenou farbou a druhý koniec (druhý pól) modrou farbou.
+
+I. MAGNETICKÉ A ELEKTRICKÉ VLASTNOSTI LÁTOK	9
+
+Pokus
+Na základe pokusov opíšte vzájomné správanie sa dvoch tyčových magnetov. Charakterizujte vlastnosti tyčového magnetu a jeho správanie sa k predmetom z rôznych látok. (Pracujte v sku- pinách.)
+
+Pomôcky:
+2 tyčové magnety, drobné oceľové klinčeky (oceľové piliny, magnetky či drobné predmety) a ďalšie pomôcky na splnenie úlohy podľa vlastného návrhu
+
+Námety na ďalšie pomôcky:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Postup:
+a) Navrhnite a zrealizujte pokusy s dvoma tyčovými magnetmi tak, aby ste dokázali odpovedať na otázky v úlohe.
+b) Zrealizujte experimenty s drobnými oceľovými predmetmi a magnetom.
+c) Navrhnite experimenty, z ktorých by vyplynuli závery pre správanie sa magnetu k predmetom z rôznych látok.
+d) Prezentujte výsledky svojich zistení spolu s pokusmi pred triedou a vytvorte spoločný zoznam vlastností magnetu.
+
+Odpovedz:
+1. Ako sa k sebe správajú dva rôznofarebné konce – nesúhlasné póly magnetov?
+2. Ako sa k sebe správajú dva konce magnetov rovnakej farby – súhlasné póly?
+3. Správajú sa póly magnetu a stredná časť magnetu pri prichytávaní drobných oceľových klinčekov, či iných drobných predmetov rovnako?
+4. Predmety z akých látok magnet priťahuje a z akých látok nepriťahuje?
+5. V akých prostrediach sa prejavuje pôsobenie magnetu?
+
+   Cieľom predchádzajúcej úlohy bolo dokázať pomerne známe vlastnosti tyčového magnetu. Pokusmi ste sa mohli presvedčiť, že medzi magnetom a predmetmi zo železa, ocele (tiež niklu, kobaltu) pôsobí magnetická sila. Látky, z ktorých sú telesá na ktoré magnet pôsobí silou, označujeme spoločným ná- zvom feromagnetické látky.
+   Viditeľne sa magnetická sila neprejaví (je veľmi slabá), ak sú v okolí magnetu telesá z látok, ako sú plasty, papier, drevo či hliník, ale aj meď, cín a mosadz.
+   Ak ste pri pokusoch priblížili tyčový magnet ku klinčekom (oceľovým sponkám na spisy), mohli ste pozorovať, že sa ich najviac prichytilo na póloch magnetu, kde sa silové účinky prejavujú najvýraznejšie. V strede magnetu sa neprichytil žiadny klinček. Túto časť magnetu nazývame neutrálne pásmo.
+
+10	I. MAGNETICKÉ A ELEKTRICKÉ VLASTNOSTI LÁTOK
+
+
+
+
+
+Obr. 3 Prichytávanie oceľových klinčekov na tyčový magnet
+
+   Tyčový magnet má dva rôzne póly. Môžeme sa o tom presvedčiť, keď položíme magnet na ceruzky a k pólu červenej farby, priblížime pól druhého magnetu, ktorý má modrú farbu. Zistíme, že magnety sa navzájom priťahujú (obr. 4a).
+   Ak sa priblížime k magnetu na ceruzkách magnetom s pólom rovnakej farby, magnety sa navzájom odpudzujú (obr. 4b).
+
+Obr. 4 Tyčový magnet má rôzne póly
+
+Póly magnetu pôsobia na seba magnetickou silou.
+   Na školských magnetoch je jeden pól obyčajne zvýraznený červenou farbou, nazýva sa severný pól a označuje sa písmenom N (z anglického North). Druhý južný pól, ktorý sa označuje písmenom S (South).
+   Približované magnety pôsobia na seba už z určitej vzdialenosti, ešte skôr, než sa začnú navzájom dotýkať. Rovnako sa správajú k magnetu aj telesá z feromagnetických látok. Pôsobenie magnetickej sily bez vzájomného dotyku sprostredkúva magnetické pole, ktoré je v okolí magnetov. S približovaním magnetov sa pôsobenie magnetickej sily prejaví intenzívnejšie a naopak, so vzďaľovaním magnetov táto sila slabne.
+   Urobme pokus, pri ktorom rozdelíme na kusy tyčový magnet, podobne, ako lámeme kriedu. Po roz- delení magnetu by sme mohli očakávať, že od seba oddelíme póly magnetu. Na naše prekvapenie sa tak nestane. Nestane sa tak ani vtedy, keď rozdelíme magnet na veľmi malé časti, či dokonca na jednotlivé molekuly alebo atómy. Každý zlomok magnetu má svoj severný a južný pól.
+
+I. MAGNETICKÉ A ELEKTRICKÉ VLASTNOSTI LÁTOK	11
+S	N
+S	N	S	N	S	N	S	N
+Obr. 5 Po rozdelení magnetu sa každá časť stane samostatným magnetom so severným a južným pólom
+   Každý magnet je vytvorený veľkým počtom malých magnetov. Tieto si zachovávajú v magnete rov- nakú orientáciu magnetických pólov, ktoré sú usporiadané jedným smerom. Pri rozdelení magnetu sa ich orientácia nezmení, a preto majú oddelené časti magnetu oba póly.
+
+Rieš ÚLOHY
+1. Urob pokus:
+Porovnaj silové pôsobenie dvoch tyčových magnetov, ktoré sú obrátené k sebe raz nesúhlasnými a raz súhlasnými pólmi.
+
+Pomôcky:
+dva tyčové magnety, stojan, držiak, väčšie množstvo drobných oceľo- vých klinčekov (oceľových sponiek na spisy)
+
+Postup:
+a) Prilož k sebe dva tyčové magnety nesúhlasnými pólmi a do ich blíz- kosti umiestni väčšie množstvo oceľových klinčekov (sponiek na spi- sy). Daj ich do blízkosti nesúhlasných pólov magnetov.
+b) Spočítaj koľko klinčekov magnet pritiahol.
+c) Prilož k sebe dva tyčové magnety súhlasnými pólmi a do ich blízkosti umiestni väčšie množstvo oceľových klinčekov (sponiek na spisy). Daj ich do blízkosti súhlasných pólov magnetov.
+d) Spočítaj klinčeky pritiahnuté k magnetom.
+
+Odpovedz:
+1. Porovnaj a opíš výsledky pokusov s dvoma tyčovými magnetmi.
+2. Zovšeobecni výsledky pokusu.
+
+2. Zisti, na čo sa v elektronickom priemysle využívajú magnetické vlastnosti látok.
+
+3. Tvojou úlohou je zmerať veľkosť sily, ktorou sú k sebe priťahované dva tyčové magnety s nesú- hlasnými pólmi. Navrhni pomôcky a zrealizuj meranie.
+
+
+1.2 Ako si vyrobiť magnet
+   Predmety z ocele, ako sú klince, kľúče, rôzne náradie, sú bežne nemagnetické. Po ich vložení do silné- ho magnetického poľa zistíme, že sa zmagnetizovali a správajú sa ako tyčový magnet.
+
+12	I. MAGNETICKÉ A ELEKTRICKÉ VLASTNOSTI LÁTOK
+
+
+   Rozlišujeme dočasné a trvalé magnety. Ak sú predmety z tzv. magneticky mäkkej ocele, po odstránení magnetu, teda magnetického poľa, predmety prestá- vajú byť magnetmi. Hovoríme o dočasných magnetoch. Trvalý magnet vytvoríme len ak zmagnetizujeme predmet z magneticky tvrdej ocele.
+   Čo sa deje v látke, ktorá sa stane magnetom? Pred vložením predmetu do mag- netického poľa sú v látke „malé magnety“ neusporiadané a účinky blízkych sever- ných a južných pólov sa navzájom zrušia (obr. 6a). Po vložení predmetu do mag- netického poľa sa malé magnety usporiadajú tak, ako je to znázornené na obr. 6b.
+
+
+
+
+
+
+
+
+
+a	b
+Obr. 6 Vysvetlenie vzniku magnetu
+
+   Po usporiadaní malých magnetov v látke sa účinok severných a južných pólov v strede ruší a preja- vuje sa len na koncoch telesa.
+
+Úloha
+Rozhodni, ktorý z predmetov je z magneticky tvrdej a ktorý z magneticky mäkkej ocele.
+
+Pomôcky:
+oceľová skrutka s dĺžkou 6 – 7 cm, ihla na šitie s dĺžkou 6 – 7 cm, tyčový magnet, drobné klinčeky (oceľové sponky na spisy)
+
+Postup:
+Navrhni postup a vyhodnotenie pokusu.
+
+Opíšeme pokus, ktorý nám umožňuje bližšie charakterizovať magnetické pole.
+   Na stôl umiestnime tyčový magnet (obr. 7a) a na magnet položíme väčšiu sklenenú doštičku. Na do- štičku nasypeme hrubšie oceľové piliny. Každá čiastočka – pilina sa stane magnetom.
+   Na doštičke sa piliny usporiadajú tak, ako je to znázornené na obr. 7a. Sústava čiar, ktorá sa vytvorila z pilín, znázorňuje silové pôsobenie v magnetickom poli.
+
+
+
+
+
+
+a	b	c
+Obr. 7 Model indukčných čiar magnetického poľa – usporiadanie oceľových pilín
+
+   Čiary vytvorené reťazcami pilín sa nazývajú indukčné čiary magnetického poľa. Podobne si zná- zorníme pomocou pilín silové pôsobenie pri priblížení nesúhlasných pólov magnetu (obr. 7b). Indukčné čiary magnetického poľa sú orientované tak, akoby vychádzali z jedného pólu magnetu a vstupovali do druhého pólu.
+   Pri priblížení súhlasných pólov magnetu (obr. 7c) indukčné čiary magnetického poľa znázorňujú od- pudzovanie magnetov.
+
+I. MAGNETICKÉ A ELEKTRICKÉ VLASTNOSTI LÁTOK	13
+   Indukčné čiary magnetického poľa možno zobraziť krivkami, kto- ré znázorňujú smer pôsobenia magnetickej sily v magnetickom po- li. Indukčné čiary magnetického poľa sú orientované tak, že mimo magnetu vychádzajú zo severného pólu a vstupujú do južného pólu. Vnútri magnetu sú indukčné čiary orientované od južného pólu k se- vernému pólu. Indukčná čiara je uzavretá krivka.
+Fotografie pokusu z obr. 7 si znázorníme pomocou čiar (obr. 8 a, b, c).
+
+
+
+
+
+
+a	b	c
+Obr. 8 Znázornenie indukčných čiar magnetického poľa
+
+   Na obr. 7 a 8 je znázornenie indukčných čiar či už pomocou pilín alebo kresbou plošne. Magnetické pole však obklopuje magnet v celom priestore okolo neho a nemá ostré ohraničenie.
+
+
+
+Rieš ÚLOHY
+1. Na obrázkoch je znázornené zmagnetizovanie oceľového klinca. Vysvetli, čo obrázky a, b, c znázorňujú z hľadiska vnútornej štruktúry klinca?
+
+
+
+
+
+a	b	c
+
+2. Máš dve rovnako veľké oceľové tyče. Jedna z nich je zmagnetizovaná. Navrhni niekoľko spôsobov ako by si určil zmagnetizovanú tyč?
+
+3. Na nasledujúcom obrázku sú v priereze znázornené póly tyčo- vého magnetu a magnet v tvare podkovy.
+a) Prekresli alebo skopíruj si obrázky a znázorni indukčnými čiarami magnetického poľa smer pôsobenia magnetickej sily v ich okolí.
+b) Aký je rozdiel medzi plošným znázornením indukčných čiar magnetického poľa a reálnym pôsobením magnetickej sily v okolí magnetov?
+4. Máš zmagnetizovanú oceľovú ihlu. Po vložení do ohňa sa zohre- je až do žerava.
+
+ 	S			N	
+
+a) Vyslov hypotézu, či zostane po vychladnutí ihla magnetickou. Zdôvodni svoju hypotézu.
+b) Zisti, čo znamená Curieho teplota pre feromagnetické látky.
+
+14	I. MAGNETICKÉ A ELEKTRICKÉ VLASTNOSTI LÁTOK
+
+
+1.3 Zem ako magnet
+   Zem je obrovský magnet. Magnetické pole okolo Zeme možno znázorniť ako pole obrovského tyčo- vého magnetu, ktorý prechádza stredom planéty. Siaha do vzdialenosti mnoho tisíc až stotisíc kilomet- rov. V magnetickom poli Zeme pôsobí magnetická sila.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 9 Magnetické pole Zeme, vyznačenie pólov
+
+   Jadro Zeme je vytvorené prevažne z roztaveného železa a niklu a magnetické pole v ňom vytvárajú elektrické prúdy. Treba však povedať, že presné vysvetlenie magnetizmu Zeme zatiaľ nepoznáme.
+Južný pól zemského magnetického poľa sa nachádza v oblasti Arktídy, v blízkosti severného geografic- kého pólu.
+
+
+   Na severnej pologuli vchádzajú pomyselné indukčné čia- ry zemského magnetického poľa do Zeme. Naopak na južnej pologuli vychádzajú indukčné čiary zo Zeme približne v ob- lasti Antarktídy z miesta, ktoré označujeme ako severný mag- netický pól.
+   Magnetické a zemepisné póly sa nenachádzajú na tom istom mieste, je to znázornené aj na obr. 9. Spojnica medzi magnetickými pólmi Zeme – M v súčasnosti zviera s osou otáčania Zeme – R uhol približne 12 stupňov.
+   Na určovanie svetových strán sa bežne používa kompas.
+Jeho hlavnou súčasťou je magnetka (voľne sa otáčajúca
+okolo zvislej osi) a uhlová stupnica, prípadne smerová ružica. Podobným zariadením je buzola, kto- rá má na viac zariadenie na určovanie azimutu. Určovanie severo-južného smeru pomocou kompasu a buzoly je nepresné kvôli rozdielnej polohe magnetických a zemepisných pólov. V dnešnej dobe nie je orientácia závislá od použitia týchto zariadení. Poloha kdekoľvek na zemskom povrchu sa najrýchlejšie určuje pomocou satelitného systému GPS, ktorý prijíma signály z 24 satelitov obiehajúcich okolo Zeme.
+   Overiť magnetické pole Zeme možno aj jednoduchými pomôckami, o čom sa môžete presvedčiť realizáciou nasledujúceho pokusu.
+
+Pokus 1
+   Jednoduchými pomôckami overte princíp a podmienky určovania severo–južného smeru na zemskom povrchu. (Pracujte v skupine.)
+
+I. MAGNETICKÉ A ELEKTRICKÉ VLASTNOSTI LÁTOK	15
+
+
+Pomôcky:
+ihla na šitie s dĺžkou 6 – 7 cm, tyčový magnet, magnetka, prípadne iné pomôcky podľa vlastného uváženia
+
+Námety na realizáciu pokusu:
+
+
+
+
+
+
+
+
+
+
+Postup:
+a) Dohodnite sa v skupine na riešení experimentálneho problému.
+b) Dokážte, že vaše zariadenie neurčuje správne severo-južný smer, ak sa priblížite k radiátoru či inému kovovému zariadeniu v triede.
+c) Prezentujte svoje riešenie aj s vysvetlením pred triedou.
+
+Odpovedz:
+1. Ktoré vedomosti o fyzikálnych javoch si využil pri riešení experimentálneho problému?
+2. Ako si vysvetľuješ skutočnosť, že kompas či buzolu nemožno použiť na určovanie svetových strán pri oceľových zariadeniach ?
+
+   Ako je uvedené vyššie, magnetka je dôležitou súčasťou kompasu či buzoly a častou pomôckou v školských súpravách pre fyziku. Ide vlastne o malý magnet zhotovený z tvrdej ocele v tvare kosoštvor- ca. Magnetka je položená na ostrom hrote, aby sa mohla voľne otáčať. Pomocou nej môžeme určiť smer pôsobenia magnetickej sily tak, ako je to ukázané na tyčovom magnete (obr. 10).
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 10 Určovanie smeru pôsobenia magnetickej sily magnetkou
+
+   Podľa vedeckých výskumov sa predpokladá, že magnetické pole Zeme existovalo už pred 3,9 miliar- dami rokov. Magnetické pole Zeme sa tiahne tisíce kilometrov do vesmíru.
+
+Obr. 11 Deformované magnetické pole Zeme vplyvom slnečného vetra
+
+16	I. MAGNETICKÉ A ELEKTRICKÉ VLASTNOSTI LÁTOK
+
+
+   Toto pole je neustále vystavené tlaku, ktorý spôsobuje slnečný vietor. Slnečný vietor sa prevažne skladá z kladne nabitých protónov a záporne nabitých elektrónov, ktoré sú vyvrhované Slnkom. Pre zdravie človeka sú tieto častice nebezpečné a magnetické pole Zeme im zabraňuje preniknúť do bio- sféry.
+   Vďaka tlaku, ktorý je vyvíjaný na magnetické pole, dochádza k jeho deformácii. Na strane Zeme bliž- šej k Slnku je pole stlačené a na odvrátenej strane od Slnka je predĺžené, pričom zasahuje ďaleko do medziplanetárneho priestoru (až 600 000 km).
+
+
+Rieš ÚLOHY
+1. Porovnaj magnetické pole Zeme s magnetickým poľom tyčového magnetu. Urči spoločné a rozdiel- ne znaky medzi magnetom v zemskom jadre a ty- čovým magnetom, ktorý je pomôckou v škole.
+Na riešenie úlohy zisti ďalšie informácie o magnete v zemskom jadre a jeho premagnetovávaní.
+
+2. Zisti informácie:
+a) Kto sa pokúšal v minulosti o určenie polohy severného magnetického pólu?
+b) Sú aj iné planéty, okrem Zeme, ktoré majú magnetické pole?
+c) Kedy a kto začal ako prvý určovať svetové strany pomocou magnetu – kompasu.
+
+3. Na obrázku je znázornená zemeguľa a naznačené sú miesta pre zakreslenie polohy magnetky.
+a) Prekresli si, skopíruj obrázok a znázorni doň rotačnú os a magnetickú os Zeme.
+b) Znázorni do obrázka zemepisné a magnetické póly.
+c) Zakresli priebeh indukčných čiar magnetického poľa v okolí Zeme.
+d) Vo vyznačených krúžkoch zakresli malou šípkou magnetky. Koniec čiary so šípkou nech je severným pólom magnetky.
+
+
+I. MAGNETICKÉ A ELEKTRICKÉ VLASTNOSTI LÁTOK	17
+
+
+Elektrické vlastnosti látok
+   Pri obliekaní pulóvra z umelých vlákien môžeme pozorovať, že sa nám zelektrizovali vlasy, podob- ne, ako niekedy pri česaní. Ak sú vlasy mokré, tento jav nepozorujeme. Pulóver zhotovený z bavlny obyčajne vlasy neelektrizuje. Zelektrizovanie vlasov závisí od materiálu pulóvra a tiež od vlhkosti vlasov či okolitého vzduchu.
+   V úvode učebnice je opísané pozorovanie zelektrizovaného jantáru trením, ktorý priťahuje drobné úlom- ky ľanových vlákien, a to dalo podnet na skúmanie elektrických javov.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Zelektrizovanie telies možno dosiahnuť viacerými spôsobmi. Vysvetlenie tohto stavu telies je potreb- né hľadať v samotnej štruktúre látky, v elektrických vlastnostiach látky.
+   Rovnako ako magnetické aj elektrické vlastnosti látok dokážeme využiť. Príkladom je zhotovovanie kópií na kopírovacom stroji či striekanie, napr. automobilov farbou. Karoséria aj kvapôčky farby sú opač- ne zelektrizované. Takouto technológiou dochádza ku kvalitnejšiemu a šetrnejšiemu farbeniu.
+
+1.4 Skúmame elektrické vlastnosti látok. Elektrický náboj
+   Bežne dochádza aj k nežiaducemu zelektrizovaniu telies trením. Už boli uvedené situácie so šatami z umelých vláken, suchými vlasmi a hrebeňom, ba stav zelektrizovania možno zazname-
+nať aj na snehových vločkách v snehovej búrke, kde dochádza k treniu medzi padajúcimi vločkami a vzduchom. Vyskytli sa prípady, keď zelektrizovanie spôsobilo požiar.
+   V nasledujúcom pokuse budete mať možnosť preskúmať elektrické vlastnosti vybra- ných látok. Za základ pre skúmanie a opis elektrických vlastností látok by mohli slúžiť dva zelektrizované pásiky z polyetylénového vrecúška.
+
+Pokus
+   Na základe pokusov opíšte vzájomné správanie sa dvoch zelektrizovaných predmetov z tej istej látky. Charakterizujte správanie sa zelektrizovaného polyetylénového pásika k predme- tom z rôznych látok. (Pracujte v skupinách.)
+
+Pomôcky:
+2 polyetylénové pásiky, drobné kúsky papiera, hrebeň, dve dlhé pravítka, 2 nafúkané balóny, guľôč- ka z polystyrénu zavesená na niti, guľôčka z alobalu zavesená na niti, papierová vreckovka a ďalšie pomôcky na splnenie úlohy podľa vlastného návrhu
+
+18	I. MAGNETICKÉ A ELEKTRICKÉ VLASTNOSTI LÁTOK
+
+
+Námety na ďalšie pomôcky:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Postup:
+a) Zelektrizujte trením dva predmety (balóny, polyetylénové vrecúška) z rovnakého materiálu a po- zorujte ich vzájomné správanie sa.
+b) Zrealizujte experimenty so zelektrizovaným polyetylénovým pásikom a predmetmi z iných látok. Zelektrizovanie pásika dosiahneme tak, že ho prehneme a trieme medzi suchými prstami. Urobte si tabuľku a záznam z pozorovania.
+c) Navlhčite zelektrizované polyetylénové pásiky a pozorujte ich správanie.
+d) Prezentujte výsledky svojich zistení spolu s pokusmi pred triedou. Vytvorte spoločný zoznam vlastností zelektrizovaných predmetov.
+
+Odpovedz:
+1. Ako sa k sebe správajú dva zelektrizované predmety z tej istej látky?
+2. Ako sa k sebe správajú zelektrizovaný polyetylénový pásik a vybrané predmety z iných látok?
+3. Ako sa správali zelektrizované predmety po navlhčení?
+4. Vysvetli svoj názor na pozorované javy.
+5. V akých prostrediach sa najlepšie prejavuje pôsobenie zelektrizovaných predmetov na okolité predmety?
+
+   Dva zelektrizované polyetylénové pásiky sa odpudzujú, ale ak trie- me o seba list papiera a polyetylénové vrecko, zistíme, že sa priťahujú. Príčinou elektrického stavu telies je elektrický náboj. Elektrický náboj môžu telesá nadobudnúť trením. Z uvedených jednoduchých poku- sov vyplýva, že papier a pásik majú rozdielne elektrické náboje.
+   Medzi polyetylénovými pásikmi sa po zelektrizovaní prejavila elek- trická sila. Zelektrizovaný list papiera a polyetylénový pásik sa navzá- jom priťahovali, pretože medzi nimi tiež pôsobila elektrická sila.
+   Náboj, ktorý získali trením polyetylénové pásiky, je záporný elek- trický náboj (−). Náboj, ktorý získal list papiera, je kladný elektrický náboj (+). Ak teda poznáme druh elektrického náboja polyetylénové- ho pásika, vieme podľa neho určovať druh náboja iných zelektrizova- ných telies.
+   Z pokusov s pásikmi a listom papiera vyplynuli aj ďalšie závery. Dve telesá so súhlasnými nábojmi sa odpudzujú (dva polyetylénové pási- ky) a telesá s nesúhlasnými nábojmi sa priťahujú (list papiera a polye- tylénové vrecúško).
+
+I. MAGNETICKÉ A ELEKTRICKÉ VLASTNOSTI LÁTOK	19
+
+Pokus 2
+   Zisti, či je na zelektrizovaných predmetoch, napr. na plastovom pravítku, balóne, predmetu zo skla alebo iných predmetoch elektrický náboj kladný alebo záporný. Využi vedomosť, že ze- lektrizovaný pásik z polyetylénu má záporný elektrický náboj. (Z výsledkov riešenia úlohy urob záznam.)
+
+   Pred trením telies sme na nich nepozorovali žiadne prejavy pôsobenia elektrickej sily na okolité pred- mety. Kde sa v telesách po zelektrizovaní berie náboj? Vysvetlenie spočíva v atómoch, z ktorých sú látky zložené. Zopakujeme si poznatky o stavbe atómu, ktoré ste získali na hodinách chémie.
+Vieme, že každý atóm sa skladá z jadra a obalu.
+   V jadre atómu sú kladne nabité protóny a neutróny bez elektrického ná- boja. Okolo jadra, v obale, sa pohybujú elektróny, ktoré majú záporný elek- trický náboj.
+   Počet elektrónov v obale a protónov v jadre atómu je rovnaký. Atóm navo- nok neprejavuje elektrické vlastnosti – nemá elektrický náboj. Hovoríme, že je v elektricky neutrálnom stave, elektricky neutrálny.
+   Na obrázku je znázornený model atómu uhlíka, ktorý má v jadre 6 protó- nov a v obale 6 elektrónov.
+   Najjednoduchší atóm je atóm vodíka. Skladá sa z jedného protónu a jedného elektrónu. Vedcom sa podarilo zistiť, že najmenší náboj, ktorý už nemožno rozdeliť, je náboj elektrónu (označuje sa e). Považu- jeme ho za elementárny náboj, pretože menší náboj sa zatiaľ samostatne nepozoroval.
+   Záporný náboj elektrónu je rovnako veľký ako kladný náboj protónu, a teda aj náboj protónu je elementárnym nábojom.
+   Veľkosť náboja možno merať, je to fyzikálna veličina a má značku Q. Jednotka elektrického náboja je coulomb (čítaj kulomb), značka je C. Jednotka elektrického náboja je odvodenou jednotkou z jednot- ky elektrického prúdu, o ktorej sa budete učiť v nasledujúcom tematickom celku.
+   Zaviesť jednotku coulomb bolo potrebné preto, lebo elementárny elektrický náboj by bol veľmi ma- lou jednotkou. Elementárny elektrický náboj je jedna z najdôležitejších fyzikálnych konštánt. Meraniami sa zistilo, že 1 C je približne 6 · 1018 e.
+   Zaoberali sme sa s elektrickou silou pôsobiacou medzi zelektrizovanými telesami. Elektrická sila (pres- nejšie elektrostatická sila) pôsobí medzi samotnými nábojmi. Môže spôsobiť, že sa náboje navzájom priťahujú alebo odpudzujú. Jej veľkosť sa dá určiť. Veľkosť elektrickej sily medzi nábojmi je priamo úmerná veľkosti nábojov a nepriamo úmerná ich vzdialenosti. Na základe meraní tento záver for- muloval v r. 1785 Charles Augustin Coulomb a jeho presnejšie vyjadrenie sa nazýva Coulombov zákon.
+
+
+
+   Na obr. 12 je znázornené silové pôsobenie medzi nábojmi a v tabuľke 1 sú uvedené časti- ce, ich značky a značky ich náboja.
+
+
+Tabuľka 1 Častice, ich značky a značky nábojov
+
+
+
+
+Obr. 12 Znázornenie síl medzi časticami
+
+20	I. MAGNETICKÉ A ELEKTRICKÉ VLASTNOSTI LÁTOK
+
+
+   Niektoré elektróny sa z atómového obalu ľahko uvoľnia a prejdú z jedného telesa na druhé. Preto jedno teleso má nedostatok elektrónov, je kladne nabité. Druhé teleso má nadbytok elektrónov a má záporný náboj.
+   Trením polyetylénových pásikov suchými prstami prešli elektróny z našich prstov na pásiky. Pásiky tak majú viac elektrónov, získali záporný náboj. Pri tesnom dotyku medzi pásikmi a prstom sa prenáša malé množstvo náboja, a telesá už nezostávajú v neutrálnom stave. Ak je v telese viac elektrónov ako protónov, je teleso nabité záporne.
+Stratou elektrónov majú prsty kladný náboj.
+   Náboj na pásikoch možno zväčšovať alebo naopak, pásiky ho môžu odovzdávať dotykom iným pred- metom. Náboj však môžu pásiky aj rýchlo stratiť, ak sa ich dotkneme napríklad vlhkou rukou.
+   Typickým pokusom na kladné zelektrizovanie telesa je trenie sklenej tyče hodvábnou šatkou. Zá- porné elektrické náboje – elektróny – sa z tyče prenášajú na hodvábnu šatku. Sklená tyč zostane nabitá kladne a hodvábna šatka záporne.
+   V oboch prípadoch zelektrizovania sa zdôrazňuje trenie. Trenie je dôležité preto, aby sme dosiahli tesnejší kontakt materiálov, a tým aj väčší počet prenesených elektrónov.
+   Trením sa náboje prerozdeľujú – elektróny prechádzajú z jedného telesa na druhé. Telesá už nezostá- vajú v neutrálnom stave.
+
+
+
+Rieš ÚLOHY
+1. Na obrázku sú znázornené dve sklené tyče, nabité súhlasnými nábojmi (obr. a) a dve tyče z rôznych materiálov nabité nesúhlasnými nábojmi (obr. b). Nabitie tyčí sa dosiahlo trením.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a) Ako sa budú správať dve sklené tyče na obr. a?
+b) Ako sa bude správať sklená tyč a ebonitová tyč na obr. b?
+c) Nabitie tyčí bolo dosiahnuté trením. Vysvetli, ako sa trením dosiahol stav zelektrizovania skle- nej a ebonitovej tyče.
+
+2. Zisti, prípadne prakticky dokáž, že klasická televízna obrazovka má elektrický náboj. Pomocou zelektrizovaného polyetylénového pásika zisti, či je náboj kladný alebo záporný.
+
+I. MAGNETICKÉ A ELEKTRICKÉ VLASTNOSTI LÁTOK	21
+
+
+
+3. Zopakuj si vedomosti z chémie:
+a) Od čoho závisia chemické vlastnosti prvkov?
+b) Sú na obrázkoch a) a b) znázornené atómy prvkov? Zdôvodni svoju odpoveď.
+c) Pomocou periodickej tabuľky prvkov urči, aké prvky sú znázornené na obrázkoch a, b. Jadrá atómov sú na obrázkoch nakreslené v jednej rovine, takže vidno všetky protóny v nich obsiahnuté.
+d) Zisti z periodickej tabuľky prvkov, koľko protónov a elektrónov má atóm medi.
+
+
+
+
+
+
+
+
+
+
+a	b
+protóny	neutróny	elektróny
+
+
+4. Teleso má náboj 6 μC a je nabité záporným nábojom. Opíš postup, ako by si vypočítal, o koľko má teleso viac elektrónov ako protónov.
+
+
+
+
+Domáca príprava na vyučovanie
+Elektroskop je zariadenie, ktorým môžeme zisťovať prítomnosť elektrického náboja na ze-
+lektrizovaných telesách. Budete ho potrebovať na skúmanie vlastností elektrických nábojov. Na obrázkoch sú dva elektroskopy zhotovené z jednoduchých pomôcok. (V pracovnej skupine sú potrebné dva elektroskopy rovnakého typu.)
+   Vyskúšaj svoje zariadenie tak, že zelektrizuješ pravítko z plastu trením o vlasy či papierovou vrec- kovkou a priložíš ho k medenému drôtu nad zátkou.
+
+
+medený drôt alobal
+zátka z fľa- še obalená plastelínou
+
+
+guľka z plaste- líny na konci ohnutého drôtu
+
+dva pásiky z alobalu
+
+odrezané dno fľaše
+
+medený drôt
+
+zátka z polystyrénu pásik z alobalu sklenený pohár
+
+22	I. MAGNETICKÉ A ELEKTRICKÉ VLASTNOSTI LÁTOK
+
+
+1.5 Prenos elektrického náboja. Elektroskop
+   V predchádzajúcom článku sme sa zaoberali elektrickým nábojom a jeho vlastnosťami. Vieme, že veľ- kosť elektrického náboja možno merať. Najmenší záporný elektrický náboj má jeden elektrón a rovnako veľký, ale kladný elektrický náboj má protón.
+   Doteraz sme zisťovali elektrický stav telies len podľa toho, či sa telesá k sebe priťahovali, prípadne odpudzovali. Na zisťovanie elektrického stavu telies slúži elektroskop. V školskom laboratóriu sa pou- žívajú žiacke a demonštračné elektroskopy s otáčavou kovovou ručičkou. Keď má takéto zariadenie aj stupnicu, potom je označované ako elektrometer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 13 Elektrometre na zisťovanie a porovnanie veľkosti náboja
+
+   Elektrometer slúži len na porovnanie veľkosti elektrického náboja, preto sa na jeho stupnici jednotka náboja neuvádza.
+   Na overenie vlastností elektrických nábojov si zrealizujeme niekoľko pokusov. Pokusy možno usku- točniť elektroskopom zhotoveným v rámci domácej prípravy, ale presvedčivejšie výsledky dosiahneme s učebnou pomôckou – demonštračným elektroskopom alebo elektrometrom.
+
+Pokus 1
+   Pozorujte a opíšte správanie sa lístkov (ručičky) elektroskopu pri pokusoch so zelektrizova- nými telesami. (Pracujte v skupine.)
+
+Pomôcky:
+elektroskop (môže byť zhotovený podľa domácej prípravy), dlhé pravítko z plastu, sklenená tyč, hodvábna šatka (kožušina), po- lyetylénový pásik, tenký medený drôt s dĺžkou 30 cm, drevená špajdľa.
+
+Postup:
+a) Zelektrizuj pravítko trením o vlasy. Pomocou zelektrizovaného polyetylénového pásika zisti, aký náboj prevažuje na pravítku,
+t. j. či má prebytok kladných alebo záporných nábojov.
+b) Dotkni sa zelektrizovaným pravítkom medeného drôtu, vyčnie-
+vajúceho zo zátky. Opakuj zelektrizovanie pravítka a následné dotýkanie drôtu niekoľkokrát.
+c) Dotkni sa drôtu prstami. Urob si záznam z pokusov a pozorovaní.
+d) Zelektrizuj sklenenú tyč trením hodvábnou šatkou (kožušinou). Pomocou zelektrizovaného polye- tylénového pásika zisti, aký náboj prevažuje na sklenenej tyči.
+e) Pomaly sa približuj zelektrizovanou sklenenou tyčou k medenému drôtu, až sa ho napokon do- tkni.
+f) Dotkni sa drôtu prstami. Urob si záznam z pokusov a pozorovaní.
+g) Spoj zelektrizovaný elektroskop s nezelektrizovaným najskôr drevenou špajdľou a potom mede- ným drôtom. Urob si záznam z pokusov a pozorovaní.
+
+I. MAGNETICKÉ A ELEKTRICKÉ VLASTNOSTI LÁTOK	23
+
+
+
+
+
+
+
+
+
+
+
+
+Odpovedz:
+1. Aký náboj prevažoval na zelektrizovanom pravítku a čo je dôkazom pre tvoje tvrdenie?
+2. Ako sa správali lístky elektroskopu po prvom dotyku medeného drôtu a ako po viacnásobných doty- koch drôtu zelektrizovaným pravítkom? Ako si vysvetľuješ správanie sa lístkov elektroskopu?
+3. Ako si vysvetľuješ zmeny na elektroskope po dotyku medeného drôtu prstami?
+4. Aký náboj prevažoval na zelektrizovanej sklenenej tyči a čo je dôkazom pre tvoje tvrdenie?
+5. Ako sa správali lístky elektroskopu po dotyku medeného drôtu zelektrizovanou sklenenou tyčou? Ako si vysvetľuješ správanie lístkov elektroskopu?
+6. Aký záver by si urobil pre správanie elektrických nábojov pri ich prenose na druhý elektroskop?
+
+   Plastové pravítko získalo trením o vlasy záporný náboj. Uvoľnené elektróny z vlasov prešli na pravít- ko. Na pravítku bol prebytok elektrónov, a preto sa pri jeho vložení medzi polyetylénové zelektrizované pásiky tieto od neho odpudzovali.
+   Keď sa zelektrizované pravítko dotklo medeného drôtu (či platne) na elektroskope, prešla časť náboja z pravítka na lístky elektroskopu. Oba lístky sa nabili záporným nábojom a odpudzovali sa. Po opakova- nom dotyku medeného drôtu elektroskopu znovu zelektrizovaným pravítkom zistíme, že sa výchylka lístkov elektroskopu zväčšuje.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 14 Zelektrizované plastové pravítko a prenos náboja
+
+   Ak sa dotkneme medeného drôtu či platne elektroskopu rukou, lístky, prípadne otáčavá kovová ru- čička, poklesnú. Hovoríme, že sme lístky elektroskopu uzemnili. V záporne nabitých lístkoch bol preby- tok elektrónov. Pri dotyku nášho tela s vodivým medeným drôtom prejdú elektróny cez obuv do zeme. Tým sa stanú lístky elektroskopu elektricky neutrálne.
+   Trením sklenenej tyče kožušinou sa tyč zelektrizuje kladne. Na tyči je prebytok kladného náboja, časť elektrónov sa uvoľnila a prešla na kožušinu. Vložením zelektrizovanej tyče medzi polyetylénové zelektri- zované pásiky, sa tieto k tyči približovali.
+   Po dotyku kladne zelektrizovanou sklenenou tyčou medeného drôtu (či platne) na elektroskope sú záporné elektróny z medeného drôtu priťahované ku sklenenej tyči a časť ich prejde na tyč. V celej vodi- vo spojenej sústave je prebytok kladného náboja. Lístky elektroskopu sa rozostúpia.
+   Pri dotyku ľudského tela s medeným drôtom (platňou) elektroskopu sa nedostatok elektrónov nahradí a lístky elektroskopu sa stanú elektricky neutrálnymi.
+
+24	I. MAGNETICKÉ A ELEKTRICKÉ VLASTNOSTI LÁTOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 15 Zelektrizovaná sklenená tyč a prenos náboja
+
+   Pokusmi s dvoma elektroskopmi sa môžeme presvedčiť, že elektrický náboj možno preniesť z jedné- ho elektroskopu na druhý. Prenos sa však uskutoční len vtedy, ak predmet, ktorým spojíme oba elektro- skopy, je vodičom elektrických nábojov.
+
+
+
+
+
+
+
+
+
+Obr. 16 Prenos náboja medzi dvoma elektrometrami
+
+Drevená špajdľa nedokáže preniesť elektrické náboje. Medený drôt elektrické náboje prenesie.
+
+
+
+Rieš ÚLOHY
+1. Urob pokus: Pozoruj a vysvetli správanie sa dvoch guľôčok z alobalu a dvoch guľôčok z polystyrénu, ktoré sú zavesené na niti, keď sa ich dotýkame zelektrizovaným pravítkom.
+
+Pomôcky:
+pomôcky sú zhodné s pomôckami na pokus 1 (str. 4) len s tým rozdielom, že guľôčky zavesíme tesne vedľa seba tak, aby sa dotýkali. Na druhú stranu drevenej paličky pridáme dve guľôčky z polystyrénu.
+
+Postup:
+je zhodný s postupom pokusu 1 na str. 9, ale s tým rozdielom, že sa dotýka- me zelektrizovaným pravítkom oboch guľôčok z vnútornej strany v mieste ich dotyku. Pravítko opakovane zelektrizujeme papierovou vreckovkou.
+
+Odpovedz:
+1. Ako sa správali guľôčky z alobalu pri opakovanom dotyku so zelektrizovaným pravítkom?
+2. Ako sa správali guľôčky z polystyrénu pri opakovanom dotyku so zelektrizovaným pravítkom?
+3. Ako vysvetlíš pozorované javy?
+
+I. MAGNETICKÉ A ELEKTRICKÉ VLASTNOSTI LÁTOK	25
+2. Elektroskop je nabitý záporným nábojom, ručička elektroskopu je vychýlená. Priblížime sa k ne- mu sklenenou tyčou s kladným nábojom. Ako sa bude správať ručička po dotyku nabitej tyče s platňou elektroskopu? Svoju odpoveď vysvetli.
+3. Na laboratórnom elektroskope, ako aj elektroskope, ktorý sa dá zhotoviť z jednoduchých pomô- cok, musia byť niektoré časti vyrobené z izolačných materiálov. Zisti, ktoré sú to časti, a prečo je to potrebné.
+
+
+Domáca príprava na vyučovanie
+   Na vyučovanie si priprav plechovku s pripevnenými prúžkami z alobalu. Na zhotovenie po- môcky (viď obrázok) budeš potrebovať: väčšiu plechovku, napr. od uhoriek alebo kávy, brúsny papier, alobal 12 × 4 cm, tenký drôt (s dĺžkou podľa obvodu plechovky), izolačný materiál na podloženie plechovky, dlhé pravítko, papierovú vreckovku.
+
+Postup:
+a) Naruš povrch prázdnej, suchej plechovky brúsnym papierom tak z vnútor- nej, ako aj z vonkajšej strany. Rovnako pošúchaj brúsnym papierom okolie otvoru plechovky. Tým zbavíš povrch plechovky izolačnej povrchovej vrstvy.
+b) Nastrihaj alobal na úzke prúžky 12 × 0,5 cm.
+c) Ohni jeden koniec prúžkov a rozvešaj ich po obvode otvoru plechovky.
+d) Pripevni prúžky po vonkajšom obvode pomocou tenkého drôtu.
+
+   Odskúšaj fungovanie pomôcky tak, že ju postavíš na izolačný materiál (polystyrénovú podložku), a zelektrizovaným pravítkom sa dotýkaj plechovky.
+
+
+1.6 Elektrické pole. Telesá v elektrickom poli
+   S termínom pole, vo fyzikálnom zmysle, sme sa už stretli pri opise gravitačných a magnetických ja- vov. Pripomenieme si ich, aby sme vedeli tieto javy porovnať a pochopiť ich zhodné a odlišné znaky.
+   Opisovali sme gravitačné pole, v ktorom pôsobí gravitačná sila Zeme. Pôsobí nielen na telesá, kto- ré sa priamo dotýkajú jej povrchu, ale aj na telesá, ktoré sa jej priamo nedotýkajú, napr. na kvapky dažďa, jablko padajúce zo stromu, parašutistu či umelú družicu. Príčinou silového pôsobenia (aj medzi vzdiale- nými telesami) je gravitačné pole, ktoré vytvára vo svojom okolí každé teleso.
+   So vzájomným približovaním sa telies je pôsobenie gravitačnej sily intenzívnejšie a naopak, so vzďa- ľovaním telies slabne.
+   Magnet pôsobí silou na telesá z feromagnetických látok. Pôsobenie magnetickej sily bez vzájomného dotyku spôsobuje magnetické pole, ktoré sa vytvára v okolí magnetov. So vzájomným približovaním sa magnetov je pôsobenie magnetickej sily intenzívnejšie a naopak, so vzďaľovaním magnetov slabne.
+Pripomeňme si pokus so zelektrizovaným pravítkom a guľôčkami z polystyrénu.
+
+26	I. MAGNETICKÉ A ELEKTRICKÉ VLASTNOSTI LÁTOK
+
+
+   Viditeľne sa pri tom prejavilo pôsobenie zelektrizovaného pravítka na guľôčky už z určitej vzdialenos- ti bez toho, aby sme sa ich pravítkom dotkli.
+   Zelektrizované telesá pôsobia na iné telesá s elektrickým nábojom elek- trickou silou. Okolo každého zelektrizovaného telesa sa nachádza elektric- ké pole. So vzájomným približovaním sa zelektrizovaných telies je pôsobenie elektrickej sily intenzívnejšie a naopak, s ich vzájomným vzďaľovaním slabne. Silové pôsobenie magnetického poľa sme znázornili pomocou oceľových pilín. Čiary, ktorými sme znázornili usporiadanie pilín, sme nazvali magnetic- ké indukčné čiary a zdôraznili sme, že silové pôsobenie magnetu sa prejavuje
+v okolí celého magnetu.
+Podobne možno modelovať aj silové pôsobenie elektrického poľa, a to
+,	krupice.
+
+
+
+
+
+
+
+
+
+
+Obr. 17 Modelovanie siločiar elektrického poľa v okolí kladne a záporne nabitej platničky a ich znázornenie
+
+   Pokus je znázornený na obrázku 17. Do Petriho misky vložíme kruhovú kovovú platničku (mincu), nalejeme ricínový olej a opatrne posypeme krupicou. Zrniečka krupice sa po zelektrizovaní platničky kladným alebo záporným nábojom usporiadajú do reťazcov. Čiary, vytvorené zo zrniek krupice, mo- delujú silové pôsobenie v okolí telesa s kladným alebo záporným nábojom. Nazývame ich siločiary elektrického poľa. Dohodou sa určilo označovanie smeru siločiar, a to z kladných nábojov siločiary vychádzajú a do záporných nábojov vchádzajú.
+Podobným spôsobom môžeme modelovať siločiary elektrického poľa pomocou dvoch platničiek
+.
+Obr. 18 Modelovanie siločiar elektrického poľa v okolí nesúhlasne zelektrizovaných platničiek a znázornenie elektrických siloči ar pri nesúhlasne a súhlasne zelektrizovaných telesách
+
+   Pokus možno obmeniť tak, že obe platničky nabijeme súhlasnými elektrickými nábojmi. Vieme, že medzi platničkami bude pôsobiť odpudivá elektrická sila, a to sa prejaví aj na tvare siločiar.
+   Siločiary elektrického poľa medzi dvoma rovnobežnými dostatočne veľkými kovovými platňami sú rovnobežné a kolmé na platne. Takéto pole nazývame rovnorodé (homogénne) elektrické pole.
+
+Obr. 19 Modelovanie a znázornenie siločiar rovnorodého elektrického poľa medzi dvoma rovnobežnými kovovými platňami
+
+I. MAGNETICKÉ A ELEKTRICKÉ VLASTNOSTI LÁTOK	27
+
+
+   Aj v predchádzajúcich častiach sme robili pokusy, v ktorých sme mohli pozorovať správanie sa telies z rôznych látok v elektrickom poli. Napríklad približovaním vlasov či drobných papierikov k zelektrizo- vanému hrebeňu. Čo sa deje s elektrickými nábojmi v telesách? Prečo sa k nabitému telesu priťahujú nenabité telesá? Urobíme si niekoľko pokusov a zameriame sa na správanie sa telies v elektrickom poli.
+
+Pokus
+   Pozoruj a vysvetli správanie prúžkov z alobalu na plechovke pri vložení zelektrizovaného telesa do jej vnútra.
+
+Pomôcky:
+pripravená plechovka s alobalovými prúžkami, dlhé pravítko, papierová vreckov- ka, podložka pod plechovku
+
+Postup:
+a) Polož plechovku na izolačnú podložku, napr. z polystyrénu. Zelektrizuj pravítko papierovou vreckovkou a vlož ho do stredu plechovky tak, aby si sa jej nedotkol.
+b) Nakresli si schému pokusu a znázorni rozloženie elektrického náboja na ple- chovke po vložení zelektrizovaného pravítka. Vieme, že pravítko trením nado- budlo záporný elektrický náboj.
+c) Ešte raz zelektrizuj pravítko a vlož ho do plechovky. Zároveň sa dotkni obalu plechovky a pomaly vyťahuj z nej pravítko.
+
+Odpovedz:
+1. Aký náboj majú, podľa teba, plechovka z vonkajšej strany a lístky po vložení zelektrizovaného pravítka?
+2. Uváž, či je náboj z vnútornej aj vonkajšej strany plechovky rovnaký.
+3. Ako sa správali prúžky po dotyku plechovky z vonkajšej strany? Ako si vysvetľuješ správanie prúžkov?
+4. Ako si vysvetľuješ správanie prúžkov po vytiahnutí pravítka z plechovky?
+
+   Pozorovania z predchádzajúceho pokusu si vysvetlíme na elektroskope. Po priblížení záporne zelek- trizovanej tyče k platni elektroskopu, alebo priblížení zelektrizovaného pravítka do blízkosti medeného drôtu na zhotovenom elektroskope, môžeme vidieť rozostúpenie sa lístkov elektroskopu. Elektroskop bol pred priblížením pravítka nezelektrizovaný. Len čo sa dostal do elektrického poľa, na lístkoch elek- troskopu sa zaznamenali súhlasné elektrické náboje. Treba zdôrazniť, že nedošlo k odovzdávaniu elek- trónov z pravítka na elektroskop.
+   Lístky zhotoveného elektroskopu sú z hliníka a v jeho pravidelnej štruktúre sa vyskytujú voľné elek- tróny. Pokiaľ bol elektroskop mimo elektrického poľa, javil sa ako elektricky neutrálny. Kladné a záporné náboje boli rovnomerne rozmiestnené.
+   Po priblížení záporne zelektrizovaného pravítka došlo k presunu elektrónov na lístky elektroskopu. Na hrote medeného drôtu zostala prevaha kladných nábojov. Vzdialené časti elektroskopu sa nabíjajú opačnými nábojmi. Po oddialení zelektrizovaného telesa prestane na elektróny pôsobiť elektrická sila a tieto sa vrátia na pôvodné polohy. Teleso je opäť v pôvodnom nezelektrizovanom stave.
+   Presunutie voľných elektrónov v kovových látkach pôsobením elektrickej sily nazývame elektrosta- tická indukcia.
+
+
+
+
+
+
+
+
+
+
+Obr. 20 Rozloženie nábojov na elektromeroch elektrostatickou indukciou
+
+28	I. MAGNETICKÉ A ELEKTRICKÉ VLASTNOSTI LÁTOK
+
+
+   K elektrostatickej indukcii došlo aj pri pokuse s plechovkou a zelektrizovaným pravítkom. Plechovka je z kovového materiálu s voľnými elektrónmi. Keď sme do nej vložili zelektrizované pravítko, náboje sa rozložili tak, že voľné elektróny sa presunuli na vonkajšiu stranu plechovky a tiež na prúžky z alobalu (obr. 21 b). Na vnútornej strane bola prevaha kladného náboja a na vonkajšej záporného náboja.
+   Po dotyku ruky z vonkajšej strany sme plechovku uzemnili, odviedli prebytočné elektróny a prúžky klesli. Vonkajšia strana plechovky a lístky stratili elektrický náboj. Stali sa neutrálnymi. Na vnútornej stra- ne však zostala prevaha kladného náboja (obr. 21 c).
+
+
+
+
+
+
+
+
+
+
+
+a	b	c
+Obr. 21 Vysvetlenie pokusu s plechovkou
+
+   Zaujímavý jav nastal, keď sme následne zelektrizované pravítko z plechovky vytiahli. Prúžky na ple- chovke sa opäť rozostúpili. Po oddialení pravítka sa elektróny vrátili na pôvodné miesto, ale po uzemne- ní časť elektrónov chýbala. Plechovka mala prevahu kladného náboja. Prúžky a plechovka mali kladný elektrický náboj, čo spôsobilo, že sa opäť odpudzovali.
+   Iné vysvetlenie je pre priťahovanie drobných papierikov k zelektrizovanému hrebeňu. Papier je izolant, nemá skoro žiadne voľné elektróny. Silové pôsobenie v elektrickom poli hrebeňa sa prejaví v atómoch alebo v molekulách tak, že dôj- de k vzájomnému posunutiu elektrónov a protónov.
+   Častice sa usporiadajú tak, že na protiľahlých koncoch telesa, napr. papierika, sa prejavuje elektrický náboj. Ak je hrebeň nabitý záporným nábojom, na konci papierikov v jeho blízkosti sú kladné náboje. Na opačnom konci papierikov sú náboje záporné.
+   Krupica, pomocou ktorej sa modeluje smer pôsobenia sily v elektrickom poli, je tiež izolantom. V kaž- dom zrnku, podobne ako v papieriku, sa v atómoch posunú elektróny a protóny.
+   Na koncoch telesa z izolantu v elektrickom poli vzniknú nesúhlasné elektrické náboje. Tento jav na- zývame polarizácia izolantu v elektrickom poli.
+
+
+Rieš ÚLOHY
+1. Na obrázku je znázornené priblíženie sa zelektrizovanej sklenenej ty- če s kladným nábojom k platni elektroskopu.
+a) Vysvetli, prečo sa náboje v elektroskope rozložili práve tak, ako je to znázornené na obrázku?
+b) Mal by si dosiahnuť, aby aj po oddialení zelektrizovanej tyče zostala ručička elektroskopu rozstúpená. Vysvetli svoj návrh riešenia.
+
+2. Na fotografii je plechovka s rozstúpenými prúžkami, pretože pred jej odfoto- grafovaním boli s ňou robené pokusy.
+
+I. MAGNETICKÉ A ELEKTRICKÉ VLASTNOSTI LÁTOK	29
+
+
+a) Vyslov hypotézu, akými pokusmi bolo možné dosiahnuť, aby zostali lístky na plechovke roz- stúpené. Over svoju hypotézu.
+b) Ako dosiahneš, aby boli prúžky opäť tesne pri plechovke? Over svoju hypotézu.
+
+3. Zisti informácie a napíš správu, ako pracuje elektrický filter na odstraňovanie drobných čiastočiek popola, napr. z tepelných elektrární, ktoré znečisťujú prostredie.
+
+4. Doplň slová do viet tak, aby vety boli z hľadiska fyziky správne.
+a) V okolí každého telesa je	pole.
+b) V okolí magnetu je	pole.
+c) V okolí zelektrizovaného telesa je	pole.
+d) Dve telesá pôsobia na seba ............................ silou, ktorou sa navzájom .........................
+e) Dve zelektrizované telesá pôsobia na seba	silou, ktorou sa navzájom môžu
+................................. alebo .......................................
+f) Dva magnety pôsobia na seba ............................... silou, ktorou sa navzájom môžu ................................
+alebo .....................................
+
+5. Medzi kladne a záporne nabitými platňami je rovnorodé elektrické pole. Medzi platňami je drobná olejová guľôčka, ktorá má záporný ná- boj a nepohybuje sa. Sily na ňu pôsobiace sú v rovnováhe. Hmotnosť guľôčky je 0,001 g.
+a) Aká veľká gravitačná sila pôsobí na guľôčku?
+b) Ako sú orientované platne (vzhľadom k povrchu zeme)?
+c) Aká veľká elektrická sila pôsobí na guľôčku?
+
+Dôležité termíny
+Vysvetli dôležité termíny uvedené v oboch stĺpcoch tabuľky.
+K termínom v ľavom stĺpci priraď z pravého stĺpca termíny tak, aby významovo patrili k sebe.
+
+
+magnet
+
+
+
+magnetické pole
+
+
+
+magnetická sila
+
+
+
+elektrický náboj
+
+
+
+elektrické pole
+
+
+
+elektrická sila
+
+indukčné čiary magnetického poľa feromagnetické látky
+príťažlivá sila odpudivá sila coulomb zelektrizované teleso magnetka
+siločiary elektrického poľa magnetizácia látky elektrostatická indukcia severný pól
+záporný elektrický náboj magnetické pole Zeme prenos elektrického náboja južný pól
+molekulárne magnety kladný elektrický náboj elektroskop
+polarizácia izolantu rovnorodé elektrické pole elementárny elektrický náboj
+
+30	I. MAGNETICKÉ A ELEKTRICKÉ VLASTNOSTI LÁTOK
+
+
+Projekt 1
+     Pokus z oblasti elektrických či magnetických javov Kompas alebo elektrometer zostrojený z jednoduchých vecí
+
+   Hovorí sa, že prví, ktorí začali využívať magnet na orientáciu v teréne, boli Číňania. Zachoval sa príbeh spred 4 600 rokov, keď čínskym vojskám v piesočnej búrke pomohla nájsť smer soška (zrejme bola z magnetovca), ktorú mali so sebou a ktorá svojou vystretou rukou ukazovala na juh. Pokusy so zelektrizovanými telesami, konkrétne s ľudským telom a následnými výbojmi, sú zaznamenané v roku 1774.
+   Je známe, že poznatky z oblasti magnetických a elektrických javov patria medzi najstaršie. Poku- sy uvedené v učebnici boli zamerané predovšetkým na zavedenie základných pojmov. Zďaleka sa nevyčerpali všetky jednoduché a zaujímavé pokusy z preberaných tém. Preto práve formou projektu môžete pripraviť, predviesť, ale aj vysvetliť pokusy, ktoré ste našli v literatúre, na internete a pod.
+
+Témy projektu
+1. Navrhnúť pokus, ktorého realizácia si vyžaduje jednoduché pomôcky a ktorý by demonštroval magnetické vlastnosti látok. Predviesť a vysvetliť pokus pred triedou.
+2. Navrhnúť pokus, ktorého realizácia si vyžaduje jednoduché pomôcky a ktorý by demonštroval elektrické vlastnosti látok. Predviesť a vysvetliť pokus pred triedou.
+3. Zostrojiť z jednoduchých predmetov kompas alebo elektrometer. Predviesť a vysvetliť princíp za- riadenia pred triedou.
+
+Postup a podmienky
+1. Vytvorte si skupinu spolupracovníkov.
+2. Vyberte si jednu z tém projektu.
+3. Rozdeľte si prácu v skupine, vyhľadajte informácie, pripravte pokus (zariadenie) a prezentáciu s vysvetlením. Pri prezentácii by mal každý člen skupiny opísať svoj podiel práce na projekte.
+
+Podmienky splnenia projektu
+Pokus musí byť úspešný a zariadenie musí byť funkčné. Prezentácia by mala byť spojená s vysvetlením.
+Každý člen skupiny opíše svoj podiel práce na projekte.
+Členovia skupiny majú byť schopní zodpovedať otázky z diskusie.
+
+Spôsob vyhodnotenia
+   Vyhodnotenie projektov sa môže uskutočniť podľa zaužívaných postupov v triede. Pri hodnotení je potrebné zohľadniť aj to, či si prezentujúci pripravili schému pokusu a prístroja.
+
+
+
+
+
+Magnetické vlastnosti látok
+
+Čo sme sa naučili
+
+V okolí magnetu je magnetické pole. V magnetickom poli pôsobí magnet na predmety z feromagne- tických látok magnetickou silou.
+N neutrálne pásmo S
+
+Pomocou magnetky určujeme póly magnetu, ale aj zemepisné póly.
+
+I. MAGNETICKÉ A ELEKTRICKÉ VLASTNOSTI LÁTOK	31
+
+
+
+
+Magnetické pole je
+v priestore okolo mag- netu. Magnetické pole znázorňujeme indukčný- mi čiarami.
+
+
+
+
+
+
+
+
+
+
+
+
+Poloha magnetov v magnetickom poli Zeme.	Vzájomné silové pôsobenie medzi pólmi magnetu.
+
+
+
+
+Po rozdelení magnetu je každá časť samostatným magnetom.
+
+
+
+
+
+Zmagnetizovanie látky.
+Elektrické vlastnosti látok
+Príčinou elektrického stavu telies je elektrický náboj. Telesá môžu získať elektrický náboj trením vte- dy, keď sa poruší rovnováha v počte protónov a elektrónov v atómoch. V okolí zelektrizovaného tele- sa je elektrické pole. Elektrické pole je v celom priestore okolo zelektrizovaného telesa (elektrického náboja).
+
+
+
+
+
+
+
+Náboj elektrónu (protónu) považujeme za elementárny náboj.
+
+
+
+
+ 	+	–		+
+
+
+
+Siločiary elektrického poľa – model elektrického poľa.
+
+32	I. MAGNETICKÉ A ELEKTRICKÉ VLASTNOSTI LÁTOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prenos elektrického náboja.
+
+
+
+
+
+
+
+
+Polarizácia izolantu.	Elektrostatická indukcia.
+Elektrický náboj je fyzikálnou veličinou a označujeme ho značkou Q. Jednotka elektrického náboja je coulomb, značka C. Hodnota elementárneho elektrického náboja e je jednou z najdôležitejších fyzikálnych konštánt.
+
+
+
+
+
+Test 1 – vyskúšaj sa
+Magnetické a elektrické vlastnosti látok
+M R
+
+1. Na obrázku je znázornená zemeguľa, os zem- ského magnetu (M) a rotačná os zeme (R).
+
+Do rámčekov doplň názov zemepisného a magnetického pólu Zeme.
+
+R M
+2. Na obrázkoch sú znázornené tri pokusy. Na obrázku a sa magnet dotýka ihly a tá priťahuje drobné kovové predmety. Na obrázku b sa zelektrizované pravítko približuje ku guľôč- kam z polystyrénu a na ďalšom obrázku zasa ku guľôčkam z hliníkovej fólie.
+
+a) Opíš deje prebiehajúce pri pokusoch v rôz- nych látkach – v oceli (obr. a), polystyréne
+
+(obr. b) a v hliníku (obr. c).
+b) Vysvetli, čo sa deje v štruktúre látok.
+
+a	b	c
+
+I. MAGNETICKÉ A ELEKTRICKÉ VLASTNOSTI LÁTOK	33
+
+
+3. Na obrázkoch sú znázornené dva pokusy
+s plechovkou a zelektrizovaným pravítkom. Na obrázku a sa pravítko plechovky dotýka a obrázku b nie.
+
+a) Vysvetli, prečo sa na oboch obrázkoch lístky na plechovke rozstúpili.
+
+b) Budú sa správať obe plechovky rovnako, ak ich uzemníš dotykom? (Ak máš zhotovenú
+plechovku, vyskúšaj oba pokusy.)	a	b
+
+
+
+4. Na obrázku je znázornený magnet a v strede nad ním magnetka s označenými pólmi.
+
+a) Urči póly magnetu.
+b) Znázorni magnetické indukčné čiary magnetu a ich smer.
+
+5. Na ktorom z obrázkov sú správne znázornené náboje na elektroskope, ak sa platne elek- troskopu dotkneme kladne zelektrizovanou sklenenou tyčou?
+
+6. Na ktorom z obrázkov sú správne znázornené náboje na elektroskope, ak sa k platni elek- troskopu priblížime kladne zelektrizovanou sklenenou tyčou?
+
+7. Na zelektrizovanom telese bol nameraný náboj Q = 4 μC.
+
+
+
+
+
+
+
+
+
+
+
+
+a	b	c
+
+
+
+
+
+a	b	c
+
+
+a) Vieš na základe tohto údaju povedať, či má zelektrizované teleso prevahu kladných alebo záporných nábojov?
+b) Navrhni spôsob, ako by si dokázal prítomnosť kladného alebo záporného náboja na zelektri- zovanom telese.
+
+8. Sponkou na spisy, uviazanou na niti, sme po-	 		1	2
+maly pohybovali nad magnetom (obr. a).
+a) Zakresli v bodoch 1, 2 niť a sponku tak, ako sa správali pri opísanom pohybe (obr. b).
+b) Opíš a vysvetli svoj nákres.	a	b
+
+9. Znázorni graficky silové pôsobenie medzi dvoma súhlasnými a nesúhlasnými:
+
+a) pólmi tyčového magnetu,
+b) elektrickými nábojmi.
+
+34
+
+II. ELEKTRICKÝ PRÚD
+
+
+
+
+Vedenie elektrického prúdu v kovových vodičoch
+   Nočné fotografie miest a obcí pripomínajú, aké veľké množstvo elektrickej energie sa dnes spotrebú- va. Za každým takýmto osvetlením sú elektrické obvody a elektrický prúd.
+
+II. ELEKTRICKÝ PRÚD	35
+
+
+   S elektrickým prúdom súvisia elektrické spotrebiče, zariadenia, ktoré nám denne slúžia a bez ktorých si už nevieme predstaviť život. Pri práci s týmito zariadeniami je potrebné dodržiavať základné pravidlá pre zaobchádzanie s elektrickými zariadeniami. Na vyučovaní budete robiť pokusy s použitím batérie elektrických článkov. Tieto pokusy nie sú nebezpečné. Stali by sa však nebezpečnými, keby sa namiesto batérie použil iný, silnejší zdroj elektrickej energie.
+
+2.1 Elektrický obvod. Elektrické vodiče a izolanty
+   Väčšina z nás už pracovala s jednoduchým elektrickým obvodom, napríklad aj pri použití vreckového svietidla. V úvodnom pokuse 2 ste mali možnosť zostaviť jednoduchý obvod z batérie a žiarovky. Žiarov- ka sa rozsvietila len vtedy, keď sa spodná časť žiarovky dotýkala jedného pliešku batérie a kovový závit žiarovky druhého pliešku batérie.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 23 Jednoduchý elektrický obvod
+
+   Kratší pliešok batérie, označený +, nazývame kladná svorka batérie. Dlhší pliešok, označený –, na- zývame záporná svorka batérie. Batéria je v elektrickom obvode zdrojom energie.
+   Ak sa bližšie pozrieme na konštrukciu žiarovky – spotrebiča, zistíme, že malá žiarovka použitá pri po- kuse sa skladá z tenkého volfrámového vlákna zvinutého do špirály. Kovové vlákno je zatavené v sklenej banke, ktorá je naplnená plynom pod nízkym tlakom. Keď elektrický prúd prechádza vláknom, rozžeraví ho a vlákno začne svietiť.
+   K špirále volfrámového vlákna vedú od spodnej časti žiarovky (pätice) dva vodiče. Na obrázku 23 vidieť, že jeden vodič sa dotýka spodnej, čiernej časti žiarovky a druhý kovovej časti so závitmi.
+   Žiarovku musíme ku svorkám plochej batérie priložiť tak, aby sa jedna svorka dotýkala spodnej časti žiarovky a druhá svorka jej závitu.
+   Ak sa žiarovka „vypáli“, dôjde k pretrhnutiu volfrámo- vého vlákna a elektrický obvod sa preruší.
+   Pri používaní žiarovky si neuvedomujeme, že cesta k jej vynájdeniu bola zdĺhavá. V úlohe 1 z časti Rieš úlohy sa opisuje zložitá cesta k vynálezu žiarovky.
+   V nasledujúcom pokuse sa naučíme zapájať jednodu- chý elektrický obvod. Zisťovať, ktoré látky vedú a ktoré ne- vedú elektrický prúd. Skúmať jas žiaroviek, ktoré budeme
+postupne zapájať do elektrického obvodu.	Obr. 24 Konštrukcia klasickej žiarovky
+
+
+Pokus 1
+Zapoj a preskúmaj elektrický obvod. Do obvodu postupne zapájaj predmety z rôznych látok.
+
+36	II. ELEKTRICKÝ PRÚD
+
+
+Pomôcky:
+plochá batéria, žiarovka (5 V), 3 vodiče, 6 pred- metov z vodivých a nevodivých látok (napr. prúžok alobalu, zápalka, oceľový kľúč, minca, guma, papier, atď…)
+
+
+
+
+
+
+Postup:
+
+plochá baterka	vodiče	vodiče na podložke
+
+a) Na svorky batérie pripoj žiarovku podľa obrázka.
+b) Priprav si tabuľku so zoznamom látok, z ktorých sú zhotovené predmety na vkladanie do elektrického obvodu.
+
+Tabuľka 1 Skúmanie elektrického obvodu pri zapájaní predmetov z rôznych látok
+Predmet z látky:meďplastoceľdrevo...................Žiarovka svieti (+) Žiarovka nesvieti (−)
+
+c) Preruš obvod a postupne prikladaj k svor- kám vodičov pripravené predmety podľa obrázka. Zaznač si do tabuľky pomocou znakov (+) alebo (–), či žiarovka svieti, alebo nesvieti.
+
+Odpovedz:
+1. Z akých látok boli telesá, keď po ich zapoje- ní do elektrického obvodu prestala žiarovka svietiť?
+2. Z akých látok boli telesá, keď po ich zapojení do elektrického obvodu žiarovka svietila?
+
+   Po zapojení elektrického obvodu zloženého z batérie, vodičov a žiarovky sa žiarovka rozsvietila, lebo celým obvodom i cez žiarovku prechádzal elektrický prúd. Elektrický obvod bol uzavretý. Rovnako zostal elektrický obvod uzatvorený, ak sa doň vložili predmety z látok, ako je hliník, meď, oceľ, tuha. Uvedené látky sú dobrými vodičmi elektrického prúdu.
+   Ak sme však do elektrického obvodu vložili gumu, sklo alebo drevo, elektrický obvod bol preruše- ný. Prúd ním neprechádzal a žiarovka prestala svietiť, pretože uvedené látky sú elektrickými izolantmi.
+
+
+Pokus 2
+   Zapoj a preskúmaj elektrický obvod. Do obvodu postupne zapájaj niekoľko žiaroviek či plo- chých batérií.
+
+Pomôcky:
+2 ploché batérie, 3 žiarovky (3,5 V), 4 vodiče
+
+Postup:
+a) Na svorky batérie pripoj najskôr jednu a potom dve žiarovky podľa obrázka.
+
+II. ELEKTRICKÝ PRÚD	37
+
+
+
+
+
+
+
+
+
+
+
+
+b) Pozoruj jas zapojených žiaroviek. Výsledok pozorovania poznač do zošita.
+c) Zaraď do elektrického obvodu k dvom žiarovkám tretiu. V prípade, že žiarovky prestali svietiť, zaraď do obvodu ešte jednu batériu podľa obrázka. Pozoruj jas žiaroviek.
+
+Obr. 25 Spájanie dvoch batérií
+Odpovedz:
+1. Aké sú tvoje závery z pozorovania dvoch či troch žiaroviek pripojených k jednej batérií?
+2. Aké sú tvoje závery z pozorovania troch žiaroviek pripojených k dvom batériám?
+
+   Veľkosť elektrického prúdu v elektrickom obvode možno pozorovať aj z účinkov elektrického prú- du. Účinkom elektrického prúdu je aj rozsvietenie žiarovky. Pripojením niekoľkých žiaroviek k tej istej batérii sa ich jas mení, slabne. Z toho môžeme usudzovať, že sa mení aj veľkosť elektrického prúdu v ob- vode. Zaradením dvoch batérii do elektrického obvodu sa jas žiaroviek zintenzívnil. Hodnota veľkosti elektrického prúdu vzrástla.
+
+
+   Elektrické obvody možno zakresliť pomocou schematických značiek. V tabuľke 2 sú znázornené vy- brané značky, ku ktorým budeme postupne pridávať ďalšie.
+
+Tabuľka 2 Časti elektrického obvodu a schematické značky
+časti elektrického obvoduschématická značkačasti elektrického obvoduschématická značka
+
+monočlánok
+
+
+žiarovka
+
+
+
+plochá baterka
+
+vodič
+
+	
+38	II. ELEKTRICKÝ PRÚD
+
+
+
+Na obr. 26 sú schematickými značkami znázor ené elektrické obvody, ktoré sa používali v pokuse 2.
+
+
+
+
+
+
+
+
+
+
+
+Obr. 26 Uzavreté elektrické obvody a ich schematické znázornenie
+
+Rieš ÚLOHY
+1. Pozorne si prečítaj nasledujúci text a odpovedz na otázky, ktoré sú uvedené na konci textu. Informácie v texte sú vybraté z knihy Jílek F. 1973. Muž za patnáct miliard dolarů. 1973. Pra- ha, PRESSFOTO.
+
+   Thomas Alva Edison (1847 – 1931) bol označovaný za ame- rického kráľa vynálezcov, alebo niekedy za čarodejníka. Na jeho životopise možno vidieť, že sa z roznášača novín na železnici, ne- skôr telegrafistu, vlastným štúdiom fyziky a chémie vypracoval na slávneho vynálezcu. Sám sa raz vyslovil, že vo vynálezoch je 99 % driny a len 1 % nápadu.
+   K vynálezom T. A. Edisona patrí – automat na sčítanie hla- sov, zariadenie na telegrafické oznamovanie burzových správ, zdokonalenie telefónu, vynájdenie zariadenia na záznam zvuku, dokončenie konštrukcie žiarovky, vypracovanie a odskúšanie sys- tému elektrického osvetlenia, vynájdenie elektrickej kalkulačky. Ďalej dal do prevádzky prvú verejnú elektráreň na svete v New
+Yorku. Veľa vynálezov patrilo železniciam a stavebníctvu. Vynašiel tiež zariadenie, ktoré je predchodca filmovej kamery. Uvádza sa, že celkove získal so svojimi spolupracovníkmi okolo 1 300 patentov.
+   Na jeho práci pri zdokonalení žiarovky možno sledovať, koľko úsilia bolo potrebné vynaložiť, aby vy- nález mohol slúžiť ľuďom.
+   Súčasne s Edisonom, a tiež pred ním, sa usilovali už mnohí iní vyrobiť použiteľnú žiarovku. On však hneď od začiatku vynachádzal elektrický svet s elektrárňami a osvetlením pre obyčajných ľudí. Bol to vraj človek s energiou bez hraníc. Nikdy vraj neváhal využiť svojich spolupracovníkov až do krajnosti. Mal pred sebou jediný cieľ – dokončiť vynález.
+   Pred Edisonom sa pokúšali zostrojiť takú žiarovku, v ktorej rozžeravovali hrubé telieska (namiesto dnes známej wolfrámovej špirály). Telieska sa síce rozžeravili, ale spotreba elektrického prúdu bola taká veľká, že každá žiarovka by musela mať vlastnú súkromnú elektrárničku.
+   Edison rozmýšľal inak. Žiarovka vydáva svetlo preto, že sa vodič v banke rozžeraví na vysokú teplotu. Táto teplota vzniká tým, že sa prúd s veľkými ťažkosťami prediera vodičom. Vodič mu kladie odpor. On vymyslel spôsob, ako vodič lacno rozpáliť do biela tým, že bude klásť elektrickému prúdu veľký odpor. Ne- chal prúd prechádzať nie hrubým vodičom, ale tenkým ako pavučina. A tak účty za elektrinu nebudú tak vysoké. Znamenalo to však nájsť ten správny vodič – tenké vlákno, ktoré vydrží tú veľkú teplotu a bude svietiť niekoľko sto hodín. Pred touto úlohou stál na jeseň v roku 1878.
+   Edison už po prvých pokusoch videl, že ho čakajú nekonečné noci driny a povedal: „Je to tak pri kaž- dom vynáleze. Prvým krokom je nápad, a ten prichádza ako výbuch, ale potom sa vynárajú stále väčšie ťažkosti.“
+   Skúšal najrôznejšie materiály. Začal s uhlíkom, ale rýchlo ho opustil a vrhol sa na irídium, bór, chróm, molybdén a osmium.
+
+II. ELEKTRICKÝ PRÚD	39
+
+
+   Edison pri výrobe žiarovkového vlákna pomýšľal aj na volfrám, ale nikto túto látku vtedy nedokázal opracovať. V jednu noc sa mu zdalo, že by tou správnou látkou mohol byť nikel. Ďalšie noci ju rozžeravo- val až do nesmiernych bolestí očí. Ale ani nikel sa neosvedčil. Nakoniec vyrobil vlákno z bavlnenej priadze, ktorú zuhoľnatel. Žiarovka so zuhoľnateným bavlneným vláknom dokázala svietiť 40 hodín. Zuhoľnate- né vlákno vyrobené z kartónového papiera svietilo 170 hodín.
+   Blížil sa Silvester 1879 a do Menlo (mestečko, kde mal Edison laboratórium) sa schádzali davy ľudí. Vtedy v noci, keď prichádzal Nový rok 1880, Edison rozsvietil v hustej tme svoje žiarovky pred celým svetom.
+
+Odpovedz:
+1. Ktorým slovám, odborným výrazom, vetám z textu nerozumieš?
+2. V čom sa líšil Edisonov prístup k vynálezu žiarovky od iných prístupov?
+3. Aké vlastnosti musí mať vlákno žiarovky, aby vydržala dlhšiu dobu svietiť?
+
+2. Na obrázku je prierez vreckovým svietidlom.
+a) Prezri si obrázok a opíš prechod elektrického prúdu svietidlom, keď je spínač zapnutý.
+
+
+
+
+
+
+b) Zakresli elektrický obvod vo vreckovom svietidle schémou. Použi schematickú značku spínača
+. V svietidle sú použité dva monočlánky. Schematická značka monočlánku je uvedená
+v tab. 2.
+
+3. Zisti informácie o žiarovkách, ktoré je dnes výhodné používať v domácnosti a zaznamenaj ich zdroj.
+
+
+2.2 Elektrický prúd v kovovom vodiči. Tepelné účinky prúdu
+   Elektrické prúdy sa vyskytujú všade okolo nás, od obrovských prúdov pri údere blesku až k nepatr- ným prúdom v nervových vláknach, ktoré riadia pohyb našich svalov.
+   Najčastejšie využívame elektrický prúd, ktorý je v bytovej inštalácii. Prechádza žiarovkami a inými spotrebičmi používanými v domácnosti. Aj bez merania elektrického prúdu vieme, že spotrebičom prúd prechádza, a to podľa tepelných, svetelných a iných prejavov, účinkov elektrického prúdu.
+   Z pokusov v predchádzajúcom článku 2.1 ste mohli zistiť, že elektrický prúd prechádza len uzavre- tým elektrickým obvodom, v ktorom je zdroj energie a všetky jeho časti sú vodičmi elektrického prúdu. Vieme, že dobrými vodičmi elektrického prúdu sú kovy, ako je meď, hliník, striebro, ale aj tuha a ďalšie látky.
+   Aby sme porozumeli príčine vedenia elektrického prúdu v kovoch, bližšie si rozoberieme štruktúru hliníka, ktorý je dobrým vodičom prú- du. Napokon pri skúmaní elektrických nábojov sme často používali alobal – hliníkovú fóliu.
+   Na modeli štruktúry atómu hliníka 13Al (obr. 27) vidíme, že elektric- ky neutrálny atóm má v elektrónovom obale 13 elektrónov a ich počet
+sa zhoduje s počtom protónov v jadre. Rozmery atómu sú veľmi malé. Potrebovali by sme približne 10 miliónov atómov hliníka, aby sme nimi zaplnili úsečku na dĺžke 1 mm.
+Atómy hliníka vytvárajú pravidelnú štruktúru, sú usporiadané v ra-
+
+doch, v navzájom rovnakých vzdialenostiach. Toto pravidelné usporia- danie môžeme vidieť na obr. 28a, čo je fotografia z elektrónového mik- roskopu. Na obr. 28b je priestorový model štruktúry hliníka. Rozloženie
+
+Obr. 27 Model štruktúry atómu hliníka
+
+40	II. ELEKTRICKÝ PRÚD
+
+
+atómov v tomto modeli pripomína mriežku – preto sa štruktúre hliníka a ďalších kovov niekedy hovorí kovová mriežka.
+
+
+
+
+
+
+b
+fotografia povrchu hliníka zostrojená elektrónovým mikroskopom	priestorový model štruktúry hliníka
+Obr. 28 Štruktúra kovového vodiča – hliníka
+
+   V takomto usporiadaní sa z vonkajších vrstiev elektrónových obalov atómov uvoľňujú elektróny. Po uvoľnení elektrónov sa z neutrálnych atómov stávajú kladne nabité ióny. Uvoľnené elektróny sa pohy- bujú v priestore okolo nich. Takéto elektróny nazývame
+voľné elektróny.
+   Voľné elektróny vykonávajú neusporiadané pohyby všetkými smermi. Ich neusporiadaný pohyb nazývame tepelný pohyb elektrónov.
+   Pri svojom tepelnom pohybe sa elektróny často zrá- žajú s katiónmi kovu, ktoré majú v kryštálovej štruktúre kovu stabilnejšiu polohu. Po zrážke sa obvykle smer po- hybu a rýchlosť elektrónu zmení. Elektrón odovzdá časť svojej pohybovej energie kladným iónom kovu. To sa prejavuje ich kmitaním, vychyľovaním na jednu a druhú stranu od rovnovážnej polohy.
+   Rýchlosti tepelného pohybu voľných elektrónov v kove nie sú rovnaké – mávajú veľkosti od nula do nie- koľko sto metrov za sekundu.
+   V kovovom vodiči, ktorý je súčasťou uzavretého elektrického obvodu, konajú voľné elektróny okrem neusporiadaného tepelného pohybu aj usmernený pohyb. Usmerneným pohybom sa každý elektrón po- súva pozdĺž vodiča, v smere od zápornej svorky zdroja
+
+ku kladnej. Elektrón tak súčasne vykonáva dva pohyby:
+• neusporiadaný vo všetkých smeroch,
+• usmernený pozdĺž vodiča.
+
+Obr. 29 Model pohybu elektrónov v kovovom vodiči
+
+
+Usmernený pohyb voľných elektrónov vytvára vo vodiči elektrický prúd.
+   Vzdialenosti medzi atómami sú veľmi malé (približne desať milióntina milimetra). Preto aj dráhy, kto- ré voľný elektrón prejde medzi dvoma nárazmi, sú veľmi krátke – tak pri tepelnom, ako aj pri usmerne- nom pohybe. Rýchlosť usmerneného pohybu voľných elektrónov v kove nie je príliš veľká – udáva sa v milimetroch za sekundu.
+   V elektrických izolantoch sa voľné častice s elektrickým nábojom nevyskytujú, alebo ich je len nepa- trný počet, a preto tieto látky nevedú elektrický prúd.
+   Pri prechode elektrického prúdu vodičmi môžeme pozorovať, že sa vodiče zohrievajú. Hovoríme o tepelných účinkoch elektrického prúdu. Tieto účinky súvisia s pohybom častíc v látke, vo vodiči,
+o ktorom sa píše vyššie.
+   Ak sa dotkneme rozsvietenej žiarovky, môžeme sa presvedčiť, že je teplá. Keď prúd prechádza cez špi- rálu volfrámového vlákna, táto sa rozžeraví a dosiahne teplotu až okolo 2 500  C. Neroztopí sa, pretože teplota topenia volfrámu je až 3 000  C. Vplyvom tejto vysokej teploty vlákna sa zohreje aj sklenená banka.
+   O tepelných účinkoch elektrického prúdu a od čoho tieto účinky závisia, sa môžeme presvedčiť aj nasledujúcim pokusom.
+
+II. ELEKTRICKÝ PRÚD	41
+
+
+Pokus
+Dokáž, že rôzne vodiče, ktorými prechádza elektrický prúd, sa zahrejú na rôznu teplotu.
+
+Pomôcky:
+2 ploché batérie 4,5 V, drôtenka na umývanie riadu, kovová špirálka z guľôčkového pera.
+
+Postup:
+a) Polož batérie vedľa seba. Na svorky jednej batérie polož drôtenku a na svorky druhej špirálku.
+b) Nechaj predmety na svorkách batérii len pár sekúnd. Po- rovnaj ako sa zohriali.
+
+
+Odpovedz:
+Ako si vysvetľuješ skutočnosť, že sa drôtenka a špirála nezohriali na rovnakú teplotu?
+
+   Do akej miery sa vodiče prechodom elektrického prúdu zohrejú, závisí od ich dĺžky, hrúbky a od látky, z ktorej sú zhotovené. Dnes sa zdokonaľujú žiarovky tak, aby sa čo najmenej zohriali, a tak sa za- bránilo stratám elektrickej energie. Sú však elektrické spotrebiče, pri ktorých chceme, aby sa prechodom elektrického prúdu zohriali čo najrýchlejšie a na vysokú teplotu. Takými spotrebičmi sú varné kanvice, variče, ohrievače vzduchu a podobne.
+   Vo vodičoch dochádza k premene energie elektrického prúdu na teplo. Bližšie informácie sú uvede- né v článku 2.8.
+   Ak cez vodič prechádza príliš veľký prúd, vodič sa prepáli. Aj v žiarovke sa volfrámová špirála po dlh- šom používaní prepáli. To isté by mohla urobiť špirálka v našom
+predchádzajúcom pokuse. Tak, ako bola zapojená k svorkám ba- térie, vzniká skrat. Batériu to môže úplne vybiť.
+   V bytových elektrických obvodoch je skrat veľmi nebezpečný. Môže zničiť spotrebiče a tiež spôsobiť požiar. Preto sa do elektric- kých obvodov dávajú poistky. Jeden druh poistiek, ktorý obsahuje neveľmi odolný drôtik, sa nazýva tepelná poistka.
+   Drôtik (vodič) sa prepáli, ak elektrický prúd v obvode prekročí prípustnú hranicu. Tak poistka preruší elektrický obvod a zabráni zničeniu spotrebiča či vzniku požiaru. Niektoré spotrebiče (napr. počítače či televízne prijímače) majú zabudované svoje vlastné
+prístrojové poistky.	Obr. 30 Poistky
+
+
+Rieš ÚLOHY
+1. Nakresli schému elektrického obvodu zloženého z batérie, žiarovky, spínača a vodičov.
+
+2. Zisti informácie, ktoré domáce spotrebiče využívajú tepelné účinky elektrického prúdu a na aké ciele sa používajú.
+
+3. Navrhni spôsob, ako by si zistil, či je zlato, olovo, cín, prípadne iné látky vodič alebo izolant. Zrea- lizuj svoj návrh.
+
+42	II. ELEKTRICKÝ PRÚD
+
+
+4. Pri žiarovkách a batérii sú uvedené čísla. Vypíš čísla v takom poradí ako by si žiarovky a batériu zapájal do jedného elektrického obvodu pomocou vodičov.
+
+
+
+
+
+
+
+
+
+
+
+
+2.3 Fyzikálna veličina – elektrický prúd. Meranie prúdu
+   Elektrický prúd v kovových vodičoch, ako už bolo uvedené aj v predchádzajúcich článkoch, tvorí usmernený pohyb voľných elektrónov. Elektrický prúd bude mať tým väčšie účinky, napr. tepelné a iné, čím väčší počet elektrónov prejde prierezom vodiča za jednotku času. Zároveň bude väčšia aj hodnota elektrického prúdu. Inak povedané, prúd bude tým väčší, čím väčší bude celkový náboj elektrónov, kto- ré za jednotku času prejdú prierezom vodiča.
+   Aby sme mohli prúdy prechádzajúce vodičmi navzájom porovnávať, zaviedla sa fyzikálna veličina elektrický prúd. Veličina elektrický prúd má značku I. Jednotka fyzikálnej veličiny elektrický prúd je základná jednotka a nazýva sa ampér, jej značka je A. Jednotka je pomenovaná podľa francúzskeho fyzika André-Marie Ampéra.
+   Presná definícia jednotky elektrického prúdu ampér je dosť zložitá, možno ju však definovať aj takto: Vodičom prechádza
+
+prúd 1 ampér, ak jeho priečnym prierezom
+prejdú za každú sekundu častice s celkovým nábojom 1 coulomb.
+   Okrem jednotky ampér (A) sa často používajú aj menšie jednotky, napr. miliam- pér (mA) či mikroampér (μA), ale aj väčšia jednotka kiloampér (kA).
+ 
+A. M. Ampér (1775 – 1836)
+
+Elektrický prúd vypočítame z veľkosti elektrického náboja, ktorý prejde prierezom vodiča za
+
+jednotku času. Vyjadrené matematickým vzťahom I	t .
+   Pre názornosť uvádzame v tabuľke približné hodnoty prúdu, ktoré prechádzajú niektorými spotre- bičmi.
+Tabuľka 3 Hodnoty elektrického prúdu vo vybraných spotrebičoch
+Spotrebič:kalkulačkarádioprijímačtelevízorpočítačžehličkamotor električkyPrúd I [A]0,00020,0212,55250
+Prístroj, ktorým veľkosť elektrického prúdu v obvode odmeriame, sa volá ampérmeter.
+   Na obr. 31a je školský merací prístroj, ktorý sa používa pri demonštračných meraniach. Na obr. 31b, c sú zobrazené digitálne prístroje. Podľa nastavenia a zapojenia prístroja do elektrického obvodu možno ním merať aj iné veličiny ako len prúd. Obr. 31 b je prístroj MoLab, ktorého súčasťou je senzor na meranie prúdu a 31c je digitálny prístroj.
+   Meracími prístrojmi na obr. 31 môžeme merať jednosmerný a tiež striedavý prúd. V pokusoch, kde zdrojom elektrickej energie bola batéria, prechádzal elektrickými obvodmi jednosmerný prúd. Prúd, ktorý prechádza spotrebičmi pripojenými k sieťovej elektrickej zásuvke, je striedavý prúd.
+   Pred školskými meraniami musíme prístroj nastaviť na meranie jednosmerného prúdu, ktorý má na ručičkovom prístroji znak –. Na digitálnom prístroji je to oblasť označená ako DCA.
+
+II. ELEKTRICKÝ PRÚD	43
+
+
+
+ampérmeter	prístroj MoLab	digitálny multimeter
+Obr. 31 Prístroje na meranie elektrického prúdu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+nastavenie na mera
+Obr. 32 Príprava meracieho prístroja na meranie elektrického prúdu
+
+nia do 1 000 mA
+
+
+   Pre zapojenie meracieho prístroja elektrického prúdu – ampérmetra – do elektrického obvodu platí presné pravidlo. Ak chceme zmerať prúd prechádzajúci žiarovkou, zaradíme ampérmeter a žiarovku za sebou, iným slovom nazývame takéto zapojenie sériové. Ampérmeter sa zapája do elektrického obvodu do série s meraným spotrebičom. Ampérmeter sa zapája do obvodu vždy tak, aby ním pre- chádzal rovnaký prúd ako elektrickým spotrebičom, na ktorom meriame prúd. Svorka označená na prístroji + sa spája s rovnako označenou svorkou zdroja. Pri kreslení schém elektrických obvodov používame pre ampérmeter značku .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 33 Zapojenie ampérmetra do elektrického obvodu. Schéma zapojenia
+
+44	II. ELEKTRICKÝ PRÚD
+
+
+
+
+Úloha
+   Zapojte do elektrického obvodu k batérii 2 žiarovky do série. Odmerajte veľkosť elektric- kého prúdu prechádzajúci každou z nich. Zapojte do elektrického obvodu k dvom batériám 3 žiarovky za sebou a opäť odmerajte veľkosť elektrického prúdu prechádzajúci každou z nich. (Pracujte v skupine.)
+
+Pomôcky:
+2 ploché batérie, 3 malé žiarovky, ampérmeter, 5 vodičov
+
+Postup:
+a) Pripravte si tabuľku 4 do zošita.
+b) Zapojte elektrický obvod so žiarovkou a ampérmetrom do elektrického obvodu podľa obr. 33. Dodržujte pravidlá pri meraní elektrického prúdu ampérmetrom.
+c) Odmerajte elektrický prúd prechádzajúci žiarovkou Ž1 a hodnotu zapíšte do tabuľky.
+d) Pripojte do elektrického obvodu žiarovku Ž2 (obr. 34). Medzi žiarovky Ž1 a Ž2 zapoj ampérmeter. Zmerajte prúd prechádzajúci žiarovkou Ž2 a hodnotu zapíšte do tabuľky.
+e) Pripojte k batérii v elektrickom obvode ešte jednu plochú batériu a 3 žiarovky.
+f) Zmerajte elektrický prúd prechádzajúci každou žiarovkou a hodnotu zapíšte do tabuľky ako 3. – 5. meranie.
+Tabuľka 4 Meranie elektrického prúdu
+
+Číslo meraniaZdroj napätiaPočet žiaroviek v obvodeVeľkosť elektrického prúdu [A]1.1 plochá batéria (4,5V)1Ž1 =2.2Ž2 =3.Ž1 =4.
+5.2 ploché batérie (spolu 9V)3Ž2 =Ž3 =
+
+Odpovedz:
+1. Odlišovali sa odmerané hodnoty prúdu pri 1. a 2. meraní z tab. 4?
+2. Aký záver môžeš vysloviť pre veľkosť elektrické- ho prúdu na základe 1. a 2. merania?
+3. Súvisí veľkosť prechádzajúceho elektrického prúdu s jasom žiaroviek?
+4. Odlišovali sa odmerané hodnoty prúdu pri 3., 4. a 5. meraní z tab. 4?
+5. Aký záver môžeš vysloviť pre veľkosť elektrické- ho prúdu na základe 3., 4. a 5. merania?
+
+Obr. 34 Elektrický obvod s dvoma žiarovkami
+
+II. ELEKTRICKÝ PRÚD	45
+   Keď do elektrického obvodu k jednej žiarovke pripojíme do série druhú, nameriame v elektrickom obvode menšiu hodnotu prúdu ako pri zapojení jednej žiarovky. Zároveň pozorujeme zníženie jasu žiaroviek. Je to tak preto, lebo spotrebiče sú prekážkou prechodu elektrického prúdu obvodom. Čím je viac spotrebičov zapojených za sebou v elektrickom obvode, tým je prekážka pre elektrický prúd väčšia. Preto elektrický prúd prechádzajúci obvodom je menší. Tým prierezom vodiča prejde menej nábojov.
+   V elektrickom obvode s troma žiarovkami zapojenými do série možno pozorovať, že namerané hod- noty prúdu prechádzajúceho každou zo žiaroviek boli rovnaké. Tieto skúsenosti z merania elektrického prúdu nám neskôr poslúžia na objavenie dôležitých pravidiel a zákonov, ktoré platia v elektrických ob- vodoch.
+
+Elektrický prúd je fyzikálna veličina a má značku I. Jednotky elektrického prúdu sú:
+A (ampér)
+kA ( kiloampér)	1 kA	= 1000 A mA (miliampér)	1 mA	= 0,001 A
+μA (mikroampér)	1 μA	= 0,000001 A
+
+
+
+Rieš ÚLOHY
+ akresli elektrický obvod na obr. 34 pomocou schematických značiek tak, aby ampérmeter meral prúd prechádzajúci žiarovkou Ž1.
+2. Premeň hodnoty elektrického prúdu (tabuľka 3, str. 42), uvedené v jednotke ampér (A) na miliampére (mA).
+
+3. Na obrázku k úlohe je znázornená schéma elektrického obvodu. Opíš slovom elektrický obvod a súčasti, z ktorých by sa skladal reálne zostavený obvod podľa schémy. (Šípky v schéme sú vysvetlené v Poznámke na s. 46.)
+
+4. Zisti, prečo práve po André-Marie Ampérovi bola pomenovaná jednotka elektrického prúdu. Zisti zaujímavé informácie zo života tohto fyzika.
+
+
+2.4 Elektrické sily a elektrické pole vo vodiči
+   V článku 2.2 sme skúmali, akú úlohu má pri vedení elektric- kého prúdu atómová stavba kovového vodiča a voľné elektró- ny, ktoré sa v kryštálovej štruktúre kovu pohybujú. Keby v ko- vovom vodiči neboli voľné elektróny, elektrický prúd by ním neprechádzal.
+   Zo skúsenosti, ale aj z vyučovania fyziky v predchádzajúcich ročníkoch vieme, že každé pohybujúce sa teleso má pohybovú energiu, ktorá závisí od jeho rýchlosti. Pri náraze na iné teleso môže túto energiu, alebo jej časť, odovzdať inému telesu. Platí to aj o časticiach, teda aj o elektrónoch.
+   Teleso uvádza z pokoja do pohybu sila. Sila koná prácu, ak pôsobí na teleso v smere jeho pohybu a premiestni ho po
+
+Obr. 35 Pôsobenie elektrickej sily na voľné elektróny
+
+46	II. ELEKTRICKÝ PRÚD
+
+
+určitej dráhe. Častice v kovovej mriežke sa síce neustále pohybujú, ale určitá sila spôsobí, že pohyb elektrónov sa stane usmerneným.
+   Ak tieto poznatky využijeme, môžeme jav usmerneného pohybu voľných elektrónov – elektrický prúd – opísať nasledovne: Voľným elektrónom dodáva pohybovú energiu, potrebnú na ich usmernený pohyb, zdroj elektrickej energie – batéria. Pri zrážkach s atómami alebo kladnými iónmi voľné elektróny strácajú rýchlosť, a tým aj pohybovú energiu. „Stratená“ energia elektrónov sa prejaví ako teplo. Preto má vodič, ktorým prechádza elektrický prúd, vyššiu teplotu ako vodič, ktorým prúd neprechádza (napr. vlákno žiarovky sa až rozžeraví).
+   Na obr. 35 je znázornené pôsobenie elektrickej sily na voľné elektróny v kovovom vodiči a ich usmer- nený pohyb.
+   Aby elektrón na dráhe medzi dvomi zrážkami opäť nadobudol energiu, musí naň v smere jeho usmerneného pohybu pôsobiť sila, ktorá vykoná potrebnú prácu. Túto silu nazývame elektrická sila.
+   Voľné elektróny, ktoré tvoria elektrický prúd, sa pohybujú v celom kovovom vodiči – od zápornej svorky zdroja až k jeho kladnej svorke.
+
+
+   Ak má vodičom prechádzať elektrický prúd, musíme do elektrického obvodu zapojiť zdroj elektrickej energie, napr. batériu. Vo vodiči sa vytvorí elektrické pole.
+V elektrickom poli začnú na voľné elektróny pôsobiť po celej dĺžke vodiča elektrické sily.
+   Vieme, že elektrickým obvodom prechádza elektrický prúd vtedy, ak je obvod uzavretý, je v ňom zapojený zdroj elektrickej energie a všetky jeho časti sú vodivé.
+   Po prehĺbení znalosti mechanizmu vedenia elektrického prúdu v kovových vodičoch môžeme pred- chádzajúce tvrdenie povedať ešte inak:
+
+
+
+Rieš ÚLOHY
+1. Na obr. a je medený drôt v tvare uzavretej slučky. Rovnaká slučka z medeného drôtu je pripojená k zdroju elektrického
+napätia.	a
+a) Vysvetli svoju predstavu pohybu voľných elektrónov v mede- nej slučke na obr. a a b.
+b) Znázorni na obr. b dohodnutý smer prúdu.
+c) Vysvetli, prečo by sa nemal vodič týmto spôsobom zapájať	b
+k zdroju.
+
+2. Na obrázku sú schémy elektrických obvodov. Vysvetli, podľa ktorej schémy by bol zapojený elek- trický obvod funkčný.
+
+II. ELEKTRICKÝ PRÚD	47
+
+Domáca príprava na vyučovanie
+   Ak máš doma (v škole) starú plochú batériu, rozober ju tak, aby si zistil, čo tvorí jej obsah. Daj z nej dolu uzáver pri svorkách batérie.
+
+Opíš, čo si objavil pod uzáverom.
+
+
+
+
+2.5 Elektrické napätie. Meranie napätia
+   V predchádzajúcom článku 2.4, sme sa zaoberali podmienkami, ktoré musia byť splnené, aby vodi- čom prechádzal elektrický prúd. Vo všeobecnosti možno povedať, že
+• vodič musí obsahovať voľné elektrické náboje,
+• vo vodiči musí byť prítomné elektrické pole.
+
+   Elektrické pole vo vodiči vznikne po jeho pripojení na svorky zdroja elektric- kej energie. V elektrickom poli pôsobí elektrická sila na elektrické náboje, v ko- vovom vodiči na elektróny. Zdroj elektrickej energie má vlastnosť, od ktorej závisí vznik elektrického poľa a veľkosť elektrickej sily v ňom. Touto vlastnosťou je elektrické napätie. Napätie súvisí s množstvom práce, ktorú dokáže zdroj vykonať pri prenášaní častíc s nábojom spotrebičom.
+   Každá fyzikálna vlastnosť, ktorú vieme odmerať, sa stáva fyzikálnou veliči- nou. Elektrické napätie je fyzikálna veličina, ktorú označujeme U.
+Jednotkou elektrického napätia je volt, jeho značkou je V.
+Okrem jednotky volt (V) sa často používa aj väčšia jednotka kilovolt (kV)
+
+a menšia jednotka milivolt (mV).
+Jednotka napätia je pomenovaná podľa talianskeho fyzika Alessandra Voltu.
+
+A. Volta (1745 – 1827)
+
+   Na používanej batérii sa môžeme dočítať, že jej hodnota napätia je 4,5 V. Keď však odstránime uzáver medzi svorkami, zistíme, že sa skladá z troch monočlánkov.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Samotné slovo „batéria“ označuje zložený predmet skladajúci sa z viacerých rovnocenných jednotiek. Doteraz sme o monočlánkoch a batériách uvažovali len ako o zariadeniach, ktoré do elektrického ob-
+vodu dodávajú energiu potrebnú na usmernený pohyb elektrónov. Teraz ich budeme nazývať – zdroje elektrického napätia.
+   Prvý zdroj elektrického napätia zostrojil v 19. storočí práve A. Volta. Elektrické napätie v batériách vzniká prostredníctvom chemických reakcií. O mechanizme vzniku elektrického napätia v monočlán- koch sa budeme podrobnejšie učiť v článku 2.16 Model vedenia elektrického prúdu v kvapalinách.
+
+48	II. ELEKTRICKÝ PRÚD
+
+
+   Pre názornosť uvádzame na obrázku často používané batérie a jednoduché monočlánky a taktiež ich hodnoty napätia.
+
+
+
+
+
+
+
+
+
+
+
+1,35 V	9 V	1,5 V	4,5 V
+Obr. 36 Batérie a monočlánky
+
+Na meranie elektrického napätia používame prístroj voltmeter.
+   Napätie možno merať aj prístrojmi, zobrazenými na obr. 31 b, c, pri správnom nastavení a zapojení do elektrického obvodu.
+   Pre zapojenie meracieho prístroja elektrického napätia – voltmetra – do elektrického obvodu platí presné pravidlo. Ak chceme zmerať napätie na žiarovke, zaradíme voltmeter a žiarovku vedľa seba. Ta- kéto zapojenie nazývame paralelné. Voltmeter sa zapája do elektrického obvodu paralelne k me- ranej časti obvodu. Svorka označená na prístroji + sa spája s rovnako označenou svorkou zdroja. Pri kreslení schém elektrických obvodov používame pre voltmeter značku V.
+Elektrické napätie je tak na póloch zdroja ako aj medzi svorkami žiarovky či iného spotrebiča.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 37 Zapojenie voltmetra do elektrického obvodu na meranie napätia na batérii a žiarovke. Schéma zapojenia
+
+
+II. ELEKTRICKÝ PRÚD	49
+
+
+Úloha
+   Zmerajte postupne hodnotu elektrického napätia na článkoch batérie a celkové napätie na batérii. Z meraní vyvoďte záver. (Pracujte v skupine.)
+
+Pomôcky:
+plochá batéria s odstráneným uzáverom, voltmeter, 2 vodiče
+
+Postup:
+a) Pripravte si tabuľku 5 do zošita.
+
+Tabuľka 5 Meranie elektrického napätia na článkoch batérie
+Číslo meraniaPočet článkovNapätie [V]1.12.13.14.3b) Odmerajte elektrické napätie na prvom článku batérie (obr. a) a hodnotu zapíš do tabuľky ako 1. meranie.
+c) Odmerajte elektrické napätie na dru- hom a treťom článku batérie a hodnotu zapíšte do tabuľky ako 2. a 3. meranie.
+d) Odmerajte elektrické napätie spolu na troch článkoch batérie (obr. b) a hodno- tu zapíšte do tabuľky ako 4. meranie.
+a	b
+Odpovedz:
+Aký záver by si vyslovil, ak porovnáš odmerané napätie na jednotlivých článkoch a na batérii?
+
+   Plochá batéria, na ktorej sme vykonávali merania, má v „čerstvom“ stave (krátko po jej výrobe) elek- trické napätie U = 4,5 V. Časom batéria „starne“ a stráca napätie, najmä ak sa často používa. Vidíme, že napätie našej batérie (obr. b) pokleslo voči pôvodnému stavu približne o 0,01 V.
+   Každý z monočlánkov batérie má na začiatku svojho „života“ napätie 1,5 V. Pri našom meraní na čias- točne vybitej batérii má jeden článok napätie ≈1,49 V. Pre celú batériu s troma článkami potom vychá- dza: 3 · 1,49 V = 4,47 V.
+Zistili sme, že napätie batérie s článkami spojenými v sérii sa rovná súčtu napätí jednotlivých článkov.
+
+
+
+Rieš ÚLOHY
+ a obrázkoch a, b je zapojená žia- rovka k monočlánkom batérie.
+a) Vysvetli rôzny jas žiarovky na obrázkoch.
+a	b
+
+50	II. ELEKTRICKÝ PRÚD
+
+
+b) Ak by mala celá batéria napätie 4,5 V, na aké napätie bola pripojená žiarovka na obr. a? Na aké napätie na obr. b?
+
+2. Máš tri ploché batérie.
+a) Aké veľké napätie dostaneme, ak ich spojíme za sebou?
+b) Môžeme meraním zistiť, že napätie spojených batérii je menšie, ako sme predpokladali?
+c) Nakresli schému zapojenia elektrického obvodu, v ktorom odmeriaš hodnotu napätia na troch spojených batériách.
+
+3. Na voltmetri sú vyznačené nasledovné rozsahy merania: 1 V, 10 V, 100 V, 1000 V. Ktorý z nich pou- žijeme na meranie napätia plochej batérie?
+
+4. Zisti, prečo bola práve po Allessandrovi Voltovi pomenovaná jednotka elektrického napätia. Zisti zaujímavé informácie zo života tohto fyzika.
+
+
+
+
+
+2.6 Ohmov zákon. Elektrický odpor vodiča
+   Počítače, televízory, mobilné telefóny a ostatné elektronické zariadenia sú zložené z množstva elek- trických obvodov. Aby prístroje pracovali spoľahlivo, sú nastavené na určitú hodnotu elektrického prú- du, ktorý má nimi prechádzať. Tieto hodnoty sa dosahujú tým, že sa do elektrických obvodov zaraďujú súčiastky nazývané rezistory. Rezistor je vodič, ktorý kladie elektrickému prúdu určený odpor, a tým reguluje prúd v obvode. Na obr. 38 sú zobrazené rezistory používané v technických zariadeniach a tiež rezistory, ktoré sa ako pomôcka zapájajú do elektrických obvodov v školskom laboratóriu.
+
+
+
+
+
+
+
+
+
+
+Obr. 38 Rezistory používané v technike a rezistory ako školské pomôcky
+
+   Rezistory, ktoré sa používajú ako súčiastky do elektrických obvodov na školské merania, sú izolované vodiče navinuté v mnohých závitoch na keramický valec. V elektrických schémach rezistor znázorňuje- me značkou	.
+   Čo znamená „klásť elektrickému prúdu odpor“, už bolo čiastočne vysvetlené v článku 2.4 Elektrické sily a elektrické pole vo vodiči (obr. 35). Voľné elektróny pri svojom usmernenom pohybe narážajú na ióny kovovej mriežky. Kovová mriežka teda pôsobí ako prekážka usmernenému pohybu elektrónov, elektrickému prúdu. Schopnosť vodiča „prekážať“ vedeniu elektrického prúdu je jeho vlastnosť, ktorú nazývame elektrický odpor.
+   Ako rezistor sa správa aj vlákno žiarovky z volfrámového drôtika. Má určitý odpor, čo je príčinou rozžeravenia žiarovky. So zapojenými žiarovkami v elektrickom obvode sme mali ešte jednu skúsenosť.
+
+II. ELEKTRICKÝ PRÚD	51
+
+
+V úlohe článku 2.3 sme k zdroju, 4,5 V batérii, pridávali žiarovky a to sa odrazilo na intenzite ich svietenia. Čím väčší počet zapojených žiaroviek pripojíme k tomu istému zdroju napätia, tým sa intenzita ich svetla zmenšuje. Z toho možno usúdiť, že obvodom, do ktorého pridávame spotrebiče (napr. žiarovky), pre- chádza menší elektrický prúd. No ak pridáme do obvodu ešte jeden zdroj elektrického napätia, žiarovky sa opäť jasnejšie rozžiaria. To znamená, že v obvode sa po pridaní zdroja zväčší celkové napätie a bude ním prechádzať väčší prúd.
+   Zatiaľ však nevieme napísať žiadny vzťah medzi veľkosťou elektrického napätia na rezistore a veľko- sťou elektrického prúdu prechádzajúceho rezistorom.
+Riešenie nasledujúcej úlohy by nám malo dať odpoveď na tento problém.
+
+
+Úloha
+        Zistite vzťah medzi elektrickým prúdom prechádzajúcim cez rezistor a napätím na tomto rezistore. (Pracujte v skupine. Každá skupina by mala mať iný rezistor.)
+
+Pomôcky:
+batéria s odstráneným uzáverom medzi svorkami, 5 vodičov, rezistor, voltmeter, ampérmeter (alebo dva univerzálne meracie prístroje), spínač
+
+Postup:
+a) Pripravte si tabuľku 6 do zošita.
+
+Tabuľka 6 Meranie elektrického napätia na rezistore a prúdu prechádzajúceho rezistorom
+
+Elektrické napätie [V]Elektrický prúd [mA]Podiel U/I [V/A]
+b) Zapojte elektrický obvod podľa schémy.
+c) Merajte elektrický prúd prechádzajúci rezistotom a napätie na rezistore
+pri postupnom zapájaní jedného, dvoch a troch článkov z batérie. Hodnoty zapisujte do tabuľky.
+
+
+
+
+
+
+
+Obr. 39 Meranie elektrického napätia a prúdu na rezistore
+
+d) Vypočítajte podiel hodnôt napätia a prúdu pre každé meranie.
+e) Z nameraných hodnôt napätia a prúdu zostrojte graf.
+f) Prezentujte výsledky svojich meraní a vlastné závery z nich.
+
+Odpovedz:
+1. K akým záverom si dospel, keď si porovnal odmerané hodnoty napätia a prúdu?
+2. Aký je vzťah medzi prúdom a napätím?
+
+
+
+
+
+
+
+
+
+Graf závislosti prúdu od napätia
+
+3. Zhoduje sa hodnota podielu napätia a prúdu z tabuľky s hodnotou vyznačenou na rezistore?
+4. Porovnajte výsledky v celej triede. Prišli všetky skupiny k rovnakému záveru?
+5. Ako by si napísal vzťah, pomocou ktorého vypočítaš veľkosť elektrického odporu rezistora, ak poznáš prúd prechádzajúci rezistorom a napätie na jeho koncoch?
+6. Ovplyvňovali hodnoty napätia alebo prúdu pri meraniach pre daný rezistor veľkosť podielu U/I?
+
+52	II. ELEKTRICKÝ PRÚD
+
+
+   V elektrickom obvode, v ktorom je zapojený zdroj elektrického napätia a rezistor, pripojíme k rezisto- ru voltmeter a ampérmeter tak, aby sme mohli merať prúd prechádzajúci rezistorom a napätie na ňom (pozri obrázok v predchádzajúcej úlohe). V obvode vystriedame dva rôzne rezistory a na každom bude- me postupne zapájať viac monočlánkov do elektrického obvodu. Namerané hodnoty napätia a prúdu sú uvedené v tabuľke 7. K podobným hodnotám ste mohli dospieť aj pri meraniach v predchádzajúcej úlohe. Záleží to od prvkov, ktoré ste do elektrického obvodu zapojili. Z nameraných hodnôt zostrojíme graf závislosti prúdu od napätia pre rezistor 1 a 2. Grafy by mali byť podobné tým, ktoré ste v triede na základe meraní zostrojili.
+
+Tabuľka 7 Meranie elektrického napätia
+
+
+
+
+
+
+
+
+
+Grafy závislosti prúdu od napätia na rezistoroch 1 a 2
+
+
+   Z nameraných hodnôt vidíme, že koľkokrát sa zväčšilo napätie na kon- coch rezistora, toľkokrát sa zväčšil prúd, ktorý ním prechádzal.
+   Grafy zobrazujú vzťah medzi napätím U na rezistore a prúdom I prechá- dzajúcim rezistorom – priamu úmernosť.
+   Ako prvý objavil a sformuloval tento vzťah v r. 1827 George Simon Ohm, a preto sa podľa neho nazýva Ohmov zákon. Jednoducho ho možno vy- jadriť takto:
+   Elektrický prúd I prechádzajúci rezistorom (kovovým vodičom) je priamo úmerný elektrickému napätiu U medzi jeho koncami.
+   Vo formulácii Ohmovho zákona je okrem rezistora uvedený aj všeobec- nejší výraz – kovový vodič. To znamená, že sa zákon vzťahuje na kovové vodivé súčasti elektrického obvodu.
+   Z tabuľky 7 môžeme vidieť, že podiel pre rezistor 1 je pre každú name- ranú dvojicu hodnôt napätia a prúdu rovnaký – 100 V/A. Táto zhoda platí aj pre rezistor 2, jeho hodnota je však iná – 150 V/A.
+
+
+
+
+
+
+
+
+
+
+
+
+
+G. S. Ohm (1787 – 1854)
+
+   Podiel napätia a prúdu je pre daný rezistor stála veličina, ktorá závisí od jeho vlastností a nezávisí od napätia a prúdu. Týmto podielom môžeme určovať elektrický odpor rezistora. Elektrický odpor je fyzi-
+
+kálna veličina a označujeme ju písmenom R. Elektrický odpor vypočítame: R	I
+   Hodnotu elektrického odporu zapojeného do elektrického obvodu môžeme zistiť meraním a výpočtom. Jednotkou odporu je ohm, značka Ω (omega). Jednotka teda dostala meno podľa nemeckého fy- zika Georga Simona Ohma (1787 – 1854). Vodič (rezistor) má elektrický odpor 1 ohm, ak pri elektrickom
+napätí medzi koncami vodiča1 volt prechádza vodičom prúd 1 ampér.
+V praxi sa používajú aj jeho väčšie jednotky, napr. kiloohm (kΩ), megaohm (MΩ).
+Vzťah, podľa ktorého veľkosť elektrického prúdu v kovovom vodiči je priamoúmerná elektrickému
+
+napätiu medzi koncami vodiča. Ohmov zákon, môžeme vyjadriť matematicky: I	R
+   Ohmov zákon má však obmedzenú platnosť. Vieme už, že so zvyšujúcou teplotou sa odpor vodiča mení. To bol tiež dôvod, prečo sme Ohmov zákon nevyvodzovali meraním prúdu a napätia na žiarovke,
+
+II. ELEKTRICKÝ PRÚD	53
+
+
+ktorá sa veľmi rýchlo zohreje. Preto odpor vlákna žiarovky nemôžeme považovať za stály (konštantný). Graf, ktorý by sme z nameraných hodnôt na žiarovke zostrojili, by nebol priamkový, ale by mal tvar krivky. Ani v mnohých súčiastkach, ktoré sú z látok nazývaných polovodiče, Ohmov zákon neplatí. Polo- vodiče sa využívajú hlavne v elektronike a princíp vedenia elektrického prúdu je iný ako pri kovových
+vodičoch.
+   Ohmov zákon je využiteľný v elektrotechnike pri použití kovových vodičov, u ktorých sa prechodom elektrického prúdu teplota nemení.
+   Odpor rezistora, či odpor inej súčiastky elektrického obvodu, môžeme odmerať aj priamo multimet- rom tak, že nastavíme prepínač do oblasti označenej Ω a zvolíme primeraný rozsah merania. Vodiče zapojíme do dierok COM a VΩmA a spojíme s koncami rezistora či inej súčiastky, ktorej odpor meriame.
+
+
+Úloha
+rever hodnoty odporov rezistorov na paneli podľa obr. 40.
+a) Urob si záznam z meraní.
+b) Vysvetli prípadné rozdiely v meraniach.
+Obr. 40 Meranie odporu rezistora
+
+
+
+Rieš ÚLOHY
+ a dvoch rezistoroch boli odmerané hodnoty prúdu pri rôznych hodnotách napätia. Z hodnôt bol pre každý re- zistor zostrojený graf.
+a) Zisti chyby na grafickom zobrazení.
+b) Navrhni tabuľku a zapíš do nej hodnoty napätia a prú- du pre oba rezistory.
+c) Urči hodnoty odporu oboch rezistorov.
+
+2. Varič je pripojený na napätie 230 V a pri ustálenej teplote je odpor variča 140 Ω. Aký prúd prechádza varičom?
+
+3. V tabuľke sú uvedené hodnoty prúdu, ktorý prechádza dvomi rôznymi súčiastkami pri udaných hodnotách na- pätia. Dobre si pozri hodnoty v tabuľke a uváž, pre ktorú zo súčiastok neplatí Ohmov zákon.
+
+4. Vypočítaj odpor štartéru automobilu, ak je napojený na akumulátor s napätím 12 V a prechádza ním prúd 60 A.
+
+54	II. ELEKTRICKÝ PRÚD
+
+
+5. Rezistorom prechádza prúd 12 mA a jeho odpor je 10 kΩ. Aké napätie je medzi svor- kami rezistora?
+
+6. Na grafe je znázornená voltampérová cha- rakteristika žiarovky. Voltampérovou cha- rakteristikou nazývame závislosť zmien prú- du prechádzajúceho žiarovkou pri zmenách hodnôt napätia. Ako si vysvetľuješ fakt, že grafom nie je priamka?
+
+
+2.7 Závislosť elektrického odporu od vlastností vodiča
+   V technických zariadeniach s elektrickými obvodmi, ale aj pri rozvode elektrickej energie, napr. v by- te, je potrebné zvážiť, aké materiály použijeme. Z doterajšej skúsenosti vieme, že niektoré látky sú dob- rými vodičmi elektrického prúdu, lebo majú malý elektrický odpor. Iné látky naopak, kladú väčší elek- trický odpor a sú zlými vodičmi.
+
+   Na porovnanie látok z hľadiska ich elektrické- ho odporu uvádzame v tabuľke namerané odpo- ry vybraných vodičov s dĺžkou 1 m a s prierezom 1 mm2. Pretože sa odpor vodiča s teplotou mení, k hodnotám odporu je uvedená teplota 20  C, pri ktorej boli hodnoty namerané.
+   Z nameraných hodnôt elektrických odporov v tabuľke vidíme, že keď zvažujeme použitie vo- diča s čo najmenším odporom, tak najčastejšie
+
+Tabuľka 8 Hodnoty odporu elektrického prúdu pre vybrané vodiče s dĺžkou 1m, prierezom 1 mm2 a pri teplote 20  C
+LátkaOdpor R [Ω]LátkaOdpor R [Ω]striebro0,015železo0,099zlato0,022olovo0,210meď0,017konštantán0,490hliník0,027uhlík60,00volfrám0,053sklo5 · 1010
+prichádzajú do úvahy meď a hliník. Okrem malého odporu majú aj iné dobré vlastnosti. Dajú sa dobre tvarovať a sú odolné voči korózii, hlavne medené vodiče.
+   Odpor je vlastnosť látky. Zatiaľ nevieme ako súvisí so zmenou dĺžky vodiča či jeho prierezu. Pri mera- niach v tab. 8 sme zachovali u všetkých vybraných vodičov rovnaké parametre.
+   Odmeriame odpor vodiča – tuhy, náplne do ceruzky – verzatilky, pri jej dvoch rôznych dĺžkach. Tuha je starší názov minerálu grafitu, ktorý je zložený z uhlíka.
+
+
+Úloha 1
+    Zistite závislosť elektrického odporu od materiálu, dĺžky a obsahu prierezu vodiča. merajte odpor tuhy, náplne do ceruziek, s rôznou dĺžkou a hrúbkou.
+b) Zmerajte odpor pásikov alobalu (hliníkovej fólie) s rovnakou dĺžkou ako mala tuha a s rôznou šír- kou. (Pracujte v skupine.)
+
+Pomôcky:
+súbor túh do ceruzky verzatilky s tvrdosťou HB (prípadne H), multimeter, 2 vodiče zakončené kro- kosvorkami, hrubšia polystyrénová podložka, 3 kratšie špajle (podľa hrúbky polystyrénu), užší a širší pásik z alobalu s rovnakou dĺžkou (12 cm), ako má tuha
+
+Postup
+a) Odmerajte dĺžku tuhy (býva 12 cm) a do polystyrénovej pod- ložky zapichnite v rovnakej vzdialenosti dve špajle tak, aby si na ne mohol nasadiť vodiče s krokosvorkami. Odmerajte vzdialenosť medzi špajľami a v strede medzi nimi zasuňte tretiu špajľu.
+
+II. ELEKTRICKÝ PRÚD	55
+b) Pripravte si multimeter na meranie odporu aj s nastavením rozsahu merania a pripojením dvoch vodičov (obr. 40, s. 53) zakončených krokosvorkami.
+
+
+
+
+
+
+
+
+
+b
+
+c) Spojte krokosvorky podľa obrázka a odmeraj ich odpor. Zapíšte si odmeranú hodnotu odporu, pretože ju bude potrebné odčítať od nameraných hodnôt odporu.
+d) Odmerajte odpor celej tuhy a zapíšte si hodnotu po odčítaní odporu krokosvoriek.
+e) Posuňte jeden z vodičov do polovičnej vzdialenosti a odmerajte odpor polovičnej dĺžky tuhy. Zapíšte si hodnotu po odčítaní odporu krokosvoriek.
+f) Dve tuhy zviažte niťou tesne vedľa seba a odmerajte ich odpor.
+
+
+g) Zopakujte meranie s užším a širším pásikom z alobalu s rovnakou dĺžkou ako pri meraniach s tu- hou. Pri zápise hodnôt odporu je potrebné odčítať odpor krokosvoriek.
+
+Odpovedz:
+1. Porovnaj odpor celej tuhy s odporom jej polovičnej dĺžky. Závisí odpor tuhy od jej dĺžky?
+2. Porovnaj odpor jednej tuhy s odporom pri dvojnásobnom priemere. Závisí odpor tuhy od jej priečne- ho prierezu?
+3. Porovnaj odpor úzkeho pásika alobalu.
+4. Má materiál, z ktorého je vyrobený vodič, vplyv na hodnoty nameraného odporu?
+
+   V laboratóriu sme robili podobné merania, ako sa vyžadujú v predchádzajúcej úlohe, ale s konštan- tánovým drôtom. Konštantán je zliatina z kovov (Ni 40 %, Cu 58 %, Mn 2 %) a vyznačuje sa tým, že jeho odpor málo závisí od teploty, a preto je vhodný pre naše merania. Drôt s dĺžkou 4 m a s obsahom plochy priečneho rezu 0,48 mm2 mal odpor 4 Ω. Keď mal drôt polovičnú dĺžku, bola nameraná približne polo- vičná hodnota odporu 2 Ω.
+   Opakovali sme merania s konštantánovým drôtom, ale s tým rozdielom, že plocha obsahu priečneho rezu bola tentoraz 1 mm2. Odpor drôtu s dĺžkou 4 m klesol približne na polovicu, namerali sme hodnotu 2 Ω (presná hodnota by mala byť 1,96 Ω). Pri polovičnej dĺžke toho istého drôtu bola hodnota približne 1 Ω. Z meraní teda vyplýva, že:
+Elektrický odpor drôtu R je priamo úmerný jeho dĺžke l. Toto tvrdenie môžeme skrátene zapísať:
+R ~ l
+   Elektrický odpor drôtu R je nepriamo úmerný obsahu prierezu S. Toto tvrdenie môžeme skráte- ne zapísať:
+R	1
+S
+   Pokiaľ by sme tie isté merania zopakovali s drôtmi z iných materiálov, napríklad s medeným drôtom, hodnoty by boli niekoľkonásobne menšie. Hodnota odporu medeného drôtu dlhého 1 m a s prierezom 1 mm2 je 28-krát menšia (pozri tab. 8) ako pri konštantáne.
+
+56	II. ELEKTRICKÝ PRÚD
+
+
+   To, že elektrický odpor závisí od materiálu, vyjadruje fyzikálna veličina rezistivita (merný elektrický odpor). Rezistivita sa označuje ρ (ró).
+
+
+Jednotkou rezistivity je ohm meter, značka Ω· m. Používa sa tiež jednotka Ω· mm, 1 Ω· mm = 0, 001 Ω· m.
+Z meraní teda vyplýva, že:
+   Elektrický odpor drôtu R závisí od materiálu drôtu, čo vyjadruje rezistivita ρ. Toto tvrdenie mô- žeme skrátene zapísať:
+R ~ ρ
+
+Z výsledkov pokusov vyplýva, že pre elektrický odpor drôtu platí:
+
+R = ρ · S
+   Hodnoty rezistivity vybraných materiálov sú uvedené v tabuľke 8 a z predchádzajúceho vzťahu ju môžeme vypočítať:
+
+ρ = R · I
+
+
+Úloha 2
+Vypočítaj odpor tuhy s dĺžkou 12 cm a obsahu prierezu 1mm2. Použi údaje na výpočet z tab. 8 pre uhlík.
+a) Porovnaj vypočítanú hodnotu s nameranou hodnotou z úlohy 1.
+b) Čo mohlo spôsobiť rozdiely medzi vypočítanou a nameranou hodnotou odporu?
+
+   V predchádzajúcom článku 2.6 sa zdôrazňoval vzťah medzi teplotou vodiča a jeho odporom. So stúpajúcou teplotou kovového vodiča sa elektrický odpor zväčšuje. Zvýši sa tepelný pohyb častíc, a tým sa kladú väčšie prekážky usmernenému pohybu elektrónov. Prierezom vodiča prejde za jednotku času menší elektrický náboj, hodnota elektrického prúdu klesá.
+
+
+
+Rieš ÚLOHY
+1. Hodnota elektrického odporu pre medený vodič s dĺžkou 1 m, prierezom 1 mm2 sa pri teplote 20  C v tab. 8 uvádza 0,017 Ω a pri teplote 0 oC , 0,016 Ω. Vysvetli príčinu rozdielnej hodnoty odpo- ru pri zmenenej teplote.
+
+2. Vypočítaj odpor medeného drôtu s prierezom 1 mm2 a dĺžkou 1 km a odpor hliníkového drôtu rovnakých rozmerov. Aký veľký by musel byť priemer hliníkového drôtu, aby oba vodiče pri tej istej dĺžke mali rovnaký odpor?
+
+II. ELEKTRICKÝ PRÚD	57
+
+
+3. Zisti informácie o elektrickom odpore ľudského tela a hodnotách napätia, ktoré sú pre človeka nebezpečné.
+
+4. Hliníkové vodiče diaľkového vedenia elektrického prúdu majú prierez 5 cm2. Vypočítaj odpor hli- níkového vodiča s dĺžkou 200 km. Vyhľadaj si ďalšie potrebné údaje na riešenie úlohy. (Daj pozor na premenu jednotiek.)
+
+5. Pri určitých dĺžkach vodiča bol v elektrickom obvode meraný prúd a jeho odpor.
+a) Doplň do tabuľky 9 odčítaním z grafu hodnoty odporu pri dĺžkach vodiča z prvého stĺpca ta- buľky.
+b) Vypočítaj napätie na koncoch vodiča pri daných hodnotách prúdu a odporu vodiča.
+
+
+Tabuľka 9
+Dĺžka l [m]Prúd I [A]Odpor R [Ω]Napätie U [V]0,300,1400,600,1320,900,1301,190,1191,490,120Graf závislosti odporu vodiča od jeho dĺžky
+
+2.8 Rezistor s premenným odporom
+   V technických zariadeniach s elektrickými obvodmi je často potrebné meniť veľkosť elektrického prúdu, pretože potrebujeme zmeniť, napr. otáčky elektromotora, jas žiarovky alebo intenzitu hlasu.
+   V predchádzajúcom článku sme prišli k záveru, že odpor vodiča závisí od jeho vlastností, ako je ma- teriál, z ktorého je zhotovený, jeho dĺžky a veľkosti prierezu.
+   V nasledujúcej úlohe sa budeme zaoberať problémom, ako možno plynule regulovať jas žiarovky v elektrickom obvode, čo znamená meniť veľkosť prúdu prechádzajúci žiarovkou.
+
+
+Úloha
+   Zapájajte do elektrického obvodu pozostávajúceho z batérie, žiarovky a tuhy, tuhu s rôznou dĺž- kou a pozorujte jas žiarovky. Odmerajte prúd prechádzajúci žiarovkou pri rôznych dĺžkach tuhy za- pojenej do elektrického obvodu. (Pracujte v skupine.)
+
+Pomôcky:
+tuha do verzatilky s tvrdosťou HB (prípadne H) a s dĺžkou 12 cm, multimeter, 2 vodiče zakončené kro- kosvorkami, hrubšia polystyrénová podložka, 5 kratších špajlí (podľa hrúbky polystyrénu), pravítko, plochá batéria (4,5 V), žiarovka (4,5 V; 0,3 A)
+
+Postup:
+a) Odmerajte dĺžku tuhy (býva 12 cm) a do polystyrénovej podložky zapichnite dve špajle do vzdia- lenosti 12 cm tak, aby sa na ne mohli nasadiť vodiče s krokosvorkami. Rozdeľte vzdialenosť medzi špajľami na 4 časti po 3 cm a zapichnite do polystyrénu ďalšie tri špajle. (Pomôcka z predchádza- júcej úlohy 1, článok 2.7, rozdelená na menšie časti.)
+b) Pripravte si tabuľku na záznam nameraných hodnôt a pozorovaní.
+
+58	II. ELEKTRICKÝ PRÚD
+
+
+Tabuľka 10 Hodnoty odporu tuhy s rôznou dĺžkou a prúdu prechádzajúceho žiarovkou
+Dĺžka tuhy l [cm]Odpor tuhy R [Ω]Prúd I [mA]Pozorovanie36912
+c) Odmerajte odpor tuhy ohmmetrom pri uvedených dĺžkach v tabuľke 10.
+d) Zapojte elektrický obvod podľa obrázka tak, aby ste pri uvedených dĺžkach v tabuľke odmerali prúd prechádzajúci elektrickým obvodom. Pri jednotlivých meraniach pozorujte jas žiarovky.
+
+Odpovedz:
+1. Ako sa menila veľkosť elektrického prúdu pri zmenách odporu tuhy?
+2. Ako sa menil jas žiarovky pri zmenách odporu a prúdu v elektrickom obvode?
+
+   Na reguláciu veľkosti elektrického prúdu v obvode sa používa súčiast- ka nazývaná reostat. Reostat je rezistor s premenným odporom. Re- zistory používané v laboratóriu sa zhotovujú tak, že sa na valec z izolantu, napr. z keramiky, navinie odporový drôt. Konce drôtu sú spojené so svor- kami 1 a 2. Tretia svorka 3 je spojená s vodivým kontaktom – jazdcom, ktorý možno posúvať po rezistore, a tak zapájať do obvodu väčší alebo menší počet závitov. Tým sa mení dĺžka vodiča zapojená do elektrického obvodu, a teda aj elektrický odpor zapojeného vodiča.
+   Na obrázku 41 je valcový reostat, vnútorná časť reostatu, schematická značka a princíp jeho fungo- vania v elektrickom obvode, ako aj schéma obvodu.
+
+
+
+
+
+
+
+
+
+
+
+
+schematická značka
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 41 Použitie reostatu na zmenu prúdu a jeho zapojenie do elektrického obvodu
+
+II. ELEKTRICKÝ PRÚD	59
+   Elektrický prúd prechádzajúci obvodom bude tým väčší, čím menší počet závitov bude do obvodu zapojených. V úlohe, kde sme do obvodu zapájali rôznu dĺžku tuhy, to znamenalo zapojiť do obvodu tuhu s čo najmenšou dĺžkou, aby bol jas žiarovky čo najväčší. Naopak, pri zapojení celej dĺžky tuhy, bol jas žiarovky najmenší. V elektrickom obvode bola nameraná najmenšia hodnota prúdu.
+   Reostat možno použiť do elektrických obvodov aj ako delič napätia, súčiastku nazývame potenciometer. Táto pomôcka býva aj v školských žiackych súpravách. Ak tú- to súčiastku pripojíme k zdroju napätia, plochej batérii (pod- ľa schémy na obr. 42) posúvaním jazdca doľava či doprava meníme napätie.
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 42 Použitie žiackeho potenciometra ako deliča napätia a jeho zapojenie do elektrického obvodu
+
+   Medzi koncami reostatu 1, 2 je také napätie ako na zdroji, plochej batérii. Medzi jazdcom a jedným koncom reostatu je napätie menšie. Jazdec akoby oddeľoval časť napätia na reostate, a preto možno takto zapojený reostat použiť ako delič napätia. Takáto súčiastka v elektrickom obvode umožňuje pri- spôsobiť elektrické napätie zdroja na hodnotu, aká je optimálna pre spotrebič.
+   Reostaty sa používajú v elektrických obvodoch, majú však inú technickú úpravu, ako sú pomôcky v škole. Na obrázku 43 je aj reostat, ktorý sa ovláda gombíkom.
+
+
+
+
+
+
+
+
+
+
+
+reostat	nahrávacie štúdio s reostatmi
+Obr. 43 Reostaty v inom technickom prevedení
+
+   Reostaty sa používajú aj v nahrávacích štúdiách na regulovanie zvuku. V starších rádioprijímačoch sa nimi regulovala hlasitosť. Dnes sa používajú elektronické potenciometre, ktoré sú integrovanými ob- vodmi. Regulácia sa nerobí natáčaním bežca, ale obvod sa riadi cez digitálnu komunikačnú linku. Elek- tronický potenciometer umožňuje napríklad digitálne ovládanie hlasitosti.
+
+
+
+60	II. ELEKTRICKÝ PRÚD
+
+
+
+Rieš ÚLOHY
+1. Navrhni a zostav elektrický obvod s tuhou tak, aby táto slúžila ako delič napätia – potenciometer.
+a) Zapoj do elektrického obvodu aj žiarovku a meracie prístroje.
+b) Nakresli schému elektrického obvodu.
+
+2. Na obrázkoch sú dve schémy elektrických obvodov. Akú funkciu má reostat na obr. a? Akú funkciu má na obr. b? Svoje tvrdenie vysvetli.
+
+
+
+
+
+
+
+
+
+
+
+a	b
+
+3. Na obrázku a je schéma otočného reostatu a na obrázku b schéma staršieho kľukového reostatu. Každý možno použiť na regulovanie jasu silného svetelného zdroja. Vysvetli, ako by si súčiastky na regulovanie jasu použil. Značka k označuje pohyblivú súčiastku zariadenia.
+
+
+
+
+
+
+
+
+
+
+
+
+
+a	b
+otočný reostat	kľukový reostat
+
+
+
+
+II. ELEKTRICKÝ PRÚD	61
+
+
+Dôležité termíny
+Vysvetli dôležité termíny uvedené v oboch stĺpcoch tabuľky.
+K termínom v ľavom stĺpci priraď z pravého stĺpca termíny tak, aby podľa teba čo najlepšie významovo patrili k sebe.
+
+
+
+elektrický prúd
+
+
+
+
+
+
+
+elektrický obvod
+
+
+
+
+
+
+
+elektrické napätie
+
+
+
+
+
+
+
+elektrický odpor
+
+usmernený pohyb elektrónov voltmeter
+prierez vodiča elektrický vodič tepelné účinky sériové zapojenie volt
+Ohmov zákon paralelné zapojenie
+teplota kovového vodiča kovová mriežka elektrický izolant spotrebič
+elektrická sila žiarovka elektrické pole
+zdroje elektrického napätia ampér
+potenciometer dĺžka vodiča rezistivita batéria
+tepelný pohyb elektrónov ampérmeter
+rezistor ohm reostat článok
+
+
+
+
+
+
+
+
+Jednoduchý elektrický obvod
+
+Čo sme sa naučili
+
+
+
+
+Schematické značky, schéma elektrického obvodu:
+
+
+
+
+
+
+
+
+Uzavretý elektrický obvod so zdrojom napätia, vodičmi a spotrebičom.
+
+62	II. ELEKTRICKÝ PRÚD
+
+
+
+Elektrické vodiče a izolanty
+Elektrické vodiče: hliník, meď, oceľ, tuha…
+Elektrické izolanty: guma, sklo, drevo, polystyrén…
+Vodivosť kovov Kryštálová štruktúra kovu. Voľné elektróny.
+Tepelný pohyb elektrónov. Usmernený pohyb elektrónov.
+Elektrónom vo vodiči dodáva energiu batéria.
+Vo vodiči sa vytvorí elektrické pole, v ktorom pôsobí elektrická sila.
+Tepelné účinky elektrického prúdu
+
+
+
+
+
+
+
+
+
+
+Fyzikálna veličina elektrický prúd I, jednotka ampér (A)
+Vodičom prechádza prúd 1 ampér, ak obsahom jeho prierezu prej- dú za každú sekundu častice s celkovým nábojom 1 coulomb (C).
+
+Pri meraní prúdu v elektrickom obvode zapájame ampérmeter do série s meraným spotrebičom.
+
+
+Fyzikálna veličina elektrické napätie U, jednotka volt (V)
+Elektrické napätie súvisí s prácou potrebnou na prenos častíc s ná- bojom medzi svorkami spotrebiča.
+
+Pri meraní napätia v elektrickom obvode na spotrebiči alebo zdroji voltmeter zapájame paralelne k meranému spotrebiču a k zdroju napätia.
+
+
+Do elektrických obvodov sa zaraďujú súčiastky nazývané rezistory.
+Rezistor je vodič, ktorý kladie elektrickému prúdu odpor.
+Z meraní hodnôt napätia a prúdu na dvoch rezistoroch sme prišli k záveru, že koľkokrát sa zväčšilo napätie na koncoch rezistorov, toľkokrát sa zväčšil prúd, ktorý nimi prechádzal.
+
+
+
+
+Ohmov zákon
+Elektrický prúd I, prechádzajúci rezistorom (kovovým vodičom), je priamo úmerný elektric- kému napätiu U medzi jeho koncami.
+
+I	R	R	I
+
+U = I · R
+
+II. ELEKTRICKÝ PRÚD	63
+
+
+Tvrdenie, že odpor je priamo úmerný napätiu a nepriamo úmerný prúdu je nesprávne!
+Správne tvrdenie je, že odpor vodiča môžeme určiť podielom z nameraných hodnôt napätia a prúdu na danom vodiči.
+
+Elektrický odpor vodiča R je priamo úmerný jeho dĺžke l a nepriamo úmerný prierezu S vodiča. Závislosť elektrického odporu od materiálu vyjadruje fyzikálna veličina rezistivita. Elektrický odpor
+vodiča vypočítame: R = ρ · S
+Na reguláciu veľkosti elektrického prúdu v obvode sa používa súčiastka nazývaná reostat. Reostat je rezistor s premenným odporom. Reostat možno použiť do elektrických obvodov aj ako delič napätia. Takúto súčiastku nazývame potenciometer.
+reostat na reguláciu veľkosti prúdu	potenciometer na delenie napätia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Test 2 – vyskúšaj sa
+
+Na riešenie testu potrebuješ kalkulačku, pravítko a písacie potreby.
+
+Praktické úlohy
+   Na laboratórnom stanovišti máš pripravené pomôcky: batéria 4,5 V, dve rovnaké žiarovky, vodiče a multimeter.
+
+1. Zapoj jednoduchý elektrický obvod, v ktorom sa nachádza batéria a jedna žiarovka.
+a) Použi vhodný merací prístroj a zmeraj veľkosť elektrického prúdu prechádzajúceho žiarovkou. Zapíš hodnotu veľkosti elektrického prúdu.
+b) Nakresli schému zapojenia elektrického obvodu, ktorý si zostrojil (aj zapojenie meracieho prí- stroja).
+2. Zapoj jednoduchý elektrický obvod, v ktorom sa bude nachádzať batéria a dve žiarovky, pričom žiarovky sú zapojené sériovo.
+a) Použi vhodný merací prístroj a zmeraj veľkosť elektrického napätia na ľubovoľnej žiarovke. Hodnotu elektrického napätia zapíš.
+b) Nakresli schému zapojenia elektrického obvodu, ktorý si zostrojil (aj zapojenie meracieho prí- stroja).
+
+64	II. ELEKTRICKÝ PRÚD
+
+
+
+Teoretické úlohy
+3. Na svorkách rezistora zapojeného v elektrickom obvode sme v istom okamihu namerali napä- tie 3,74 V pri prechádzajúcom prúde 170 mA. Vypočítaj odpor rezistora. (Prehľadne zapíš hodnoty a výpočet.)
+4. Na grafe sú znázornené hodnoty napätia na rezistore a prúdu, ktorý prechádza rezistorom.
+a) Urči odpor rezistora.
+b) Platí pre daný rezistor Ohmov zákon? Svoju odpoveď zdôvodni.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. Na známom rezistore s odporom 100 Ω sme menili elektrické napätie v intervale od 0 V do 6 V a merali sme elektrický prúd, ktorý prechádza obvodom pri určitom napätí.
+a) Navrhni tabuľku pre dané meranie a zapíš do nej najmenej štyri hod- noty napätia a zodpovedajúceho prúdu.
+b) Z hodnôt v tabuľke nakresli graf. (Nezabudni na označenie osí grafu a jeho názov.)
+6. Po zapojení elektrického obvodu podľa schémy budeme pohybovať jazdcom na reostate od miesta 1 smerom k miestu, ktoré je označené 2.
+a) Ako sa bude pri tom meniť jas žiarovky?
+b) Ak by sme zároveň merali v elektrickom obvode prúd, ako sa bude pri danom pohybe meniť veľkosť prúdu? Svoju odpoveď vysvetli.
+7. Označ správne výroky týkajúce sa elektrického odporu vodiča. (Správnych výrokov môže byť aj viac.)
+a) Odpor vodiča je priamo úmerný napätiu a nepriamo úmerný jeho dĺžke.
+b) Odpor vodiča môžeme určiť podielom z nameraných hodnôt napätia medzi jeho koncami a prúdu.
+c) Odpor vodiča je priamo úmerný prúdu a nepriamo úmerný napätiu medzi jeho koncami.
+d) Odpor vodiča závisí od jeho rezistivity, je priamo úmerný jeho dĺžke a nepriamo úmerný jeho obsahu prierezu.
+e) Odpor vodiča závisí od jeho rezistivity, je priamo úmerný jeho obsahu prierezu a nepriamo úmerný dĺžke.
+
+II. ELEKTRICKÝ PRÚD
+
+
+
+2.9 Zapájanie spotrebičov v elektrickom obvode za sebou
+   Elektrické spotrebiče, napr. žiarovky, môžeme do elektrické- ho obvodu zapojiť jednak za sebou, také zapojenie nazývame sériové, alebo vedľa seba, paralelne. S oboma spôsobmi zapo- jenia sme sa už stretli v článkoch 2.3 a 2.5 pri zapájaní ampér- metra a voltmetra do elektrických obvodov.
+   Zapojenie spotrebičov za sebou preskúmame podrobnej- šie, a to meraním prúdu a napätia v obvode. Z údajov meraní a úvahami nad nameranými hodnotami možno zovšeobecniť pravidlá, ktoré platia pre odpor, napätie a elektrický prúd v ta- komto obvode.
+Ž1	Ž2
+
+Úloha
+
+65
+
+
+
+
+
+
+
+
+
+Obr. 44 Zapojenie spotrebičov za sebou (sériovo), schéma zapojenia
+
+
+   Z meraní napätia a prúdu v elektrickom obvode so spotrebičmi zapojenými za sebou zovšeobec- nite pravidlá, ktoré platia pre veľkosť prúdu, napätia a odporu v takomto obvode. (Pracujte v skupine.)
+
+Pomôcky:
+plochá batéria (4,5 V), 2 žiarovky (4,5 V; 0,3 A alebo 3, 5 V; 0,2 A, vhodné sú aj dve rozdielne žiarovky), multimeter, 5 vodičov, 2 krokosvorky
+
+Postup:
+a) Pripravte si tabuľku 10.
+
+Tabuľka 10 Meranie elektrického prúdu
+v obvode so spotrebičmi zapojenými za sebou
+Č. meraniaPrúd I [mA]123b) Zapojte elektrický obvod podľa schémy a postupne odmerajte elektrický prúd v obvode na miestach 1, 2, 3 znázornených v schéme. Odmerané hodnoty zapíšte do tab. 10.
+c) Pripravte si tabuľku 11.
+
+
+Tabuľka 11 Meranie elektrického napätia
+v obvode so spotrebičmi zapojenými za sebou
+		
+
+d) Zapojte multimeter na meranie napätia na Ž1 a postupne odmerajte elektrické napätie na svor- kách žiarovky Ž1, Ž2 a napokon na svorkách oboch žiaroviek spolu. Odmerané hodnoty zapíšte do tab. 11.
+e) Vypočítajte z nameraných hodnôt napätia a prúdu odpor R1 žiarovky Ž1 a R2 žiarovky Ž2.
+f) Z nameranej hodnoty napätia na vonkajších svorkách oboch žiaroviek Ž1 + Ž2 a prúdu vypočítajte odpor R na žiarovkách.
+
+66	II. ELEKTRICKÝ PRÚD
+
+
+Odpovedz:
+1. Čo sa stane v elektrickom obvode, ak jednu zo žiaroviek vykrútiš z objímky? Over svoj predpoklad.
+2. Porovnaj súčet napätí U1 a U2 na svorkách žiaroviek s celkovým napätím U. Aký záver môžeš vysloviť?
+3. Porovnaj súčet vypočítaných odporov žiaroviek R1 a R2 s celkovým odporom R. Aký záver môžeš vysloviť?
+
+   V elektrickom obvode, kde sú spotrebiče zapojené za sebou, ste sa mohli meraním presvedčiť, že elektrický prúd I je rovnaký. Na rôznych miestach obvodu nameriame rovnakú hodnotu.
+   Po zmeraní napätia U1 na svorkách prvej žiarovky a U2 druhej žiarovky a porovnaní ich súčtu s celkovým napätím U vidíme, že
+U = U1 + U2
+   Napätie U medzi vonkajšími svorkami dvoch spotrebičov spojených za sebou sa rovná súčtu napätí U1, U2 medzi svor-
+
+kami jednotlivých spotrebičov.
+   Z nameraných hodnôt napätia na svorkách žiaroviek a prúdu v elektrickom obvode možno vypočítať odpor R1 na žiarovke Ž1
+
+Obr. 44 Spotrebiče
+zapojené za sebou
+
+
+
+a odpor R2 na žiarovke Ž2: R1
+
+I ; R2	I
+
+   Celkový odpor oboch žiaroviek vypočítame z celkového napätia U na žiarovkách a z prúdu I. Ak po- rovnáme vypočítané hodnoty R1 a R2 s celkovým odporom R vidíme, že
+R = R1 + R2
+   Celkový odpor spotrebičov spojených za sebou sa rovná súčtu ich odporov.
+Názorne toto tvrdenie vyjadruje obr. 45.
+   Zo štyroch samostatných odporov sa stane akoby jeden odpor, kto- rý je ich súčtom.
+
+   Na základe nameraných hodnôt napätia na svorkách žiaroviek v predchádzajúcej úlohe a z vypočítaných odporov žiaroviek si všim- neme ešte jednu skutočnosť. Ak spočítame pomer napätí na žiarov- kách a pomer ich odporov, prídeme k záveru, že napätie sa na žiarov- kách rozdelilo v pomere ich odporov.
+
+Obr. 45 Znázornenie súčtu rezis- torov zapojených v elektrickom obvode za sebou
+
+Táto skutočnosť vyplýva z Ohmovho zákona. Oboma žiarovkami prechádza prúd, ktorý vo všeobec-
+
+
+nosti vypočítame I =
+
+U . Keďže je prúd prechádzajúci žiarovkami rovnaký, platí, že sa musia rovnať aj
+R
+
+podiely U1 = U2 . Jednoduchou matematickou úpravou prídeme k záveru, že
+I1	I2
+U1 : U2 = R1 : R2
+
+Pomer napätí medzi svorkami dvoch spotrebičov spojených za sebou sa rovná pomeru ich odporov.
+
+
+
+II. ELEKTRICKÝ PRÚD	67
+
+
+Rieš ÚLOHY
+1. Michal meral v elektrickom obvode s dvoma žiarovkami zapojenými za sebou prúd a napätie na svorkách žiaroviek. Z nameraných hodnôt vypočítal odpor na žiarovke 1 R1 = 13,6 Ω a na žiarovke 2 R2 = 8 Ω. Aký je pomer napätí na žiarovkách?
+2. Na vonkajších svorkách dvoch rezistorov, zapojených v elektrickom obvode za sebou, bolo napä- tie 4,5 V. Rezistor R1 mal odpor 10 Ω a odpor rezistora R2 bol 40 Ω.
+a) Nakresli schému zapojenia rezistorov v elektrickom obvode.
+b) Vypočítaj prúd prechádzajúci rezistormi.
+c) Aké napätie by sme mohli namerať na rezistore R1 a aké na rezistore R2?
+3. K napätiu 220 V boli za sebou pripojené rezistory R1 = 100 Ω, R2 = 40 Ω a R3 = 300 Ω. Vypočítaj:
+a) celkový odpor rezistorov,
+b) prúd prechádzajúci elektrickým obvodom,
+c) napätie na jednotlivých rezistoroch.
+
+4. K zdroju napätia 230 V bolo pripojené väčšie množstvo malých žiaroviek za sebou.
+a) Ako sa budú správať ostatné žiarovky, ak sa jedna z nich prepáli?
+b) Koľko žiaroviek muselo byť zapojených do elektrického obvodu, aby sa neprepálili, ak na žia- rovke bolo napísané 3,5 V?
+c) Aký je odpor jednej žiarovky, ak prúd prechádzajúci elektrickým obvodom bol 200 mA.
+
+
+2.10 Zapájanie spotrebičov v elektrickom obvode vedľa seba
+   Zapojenie spotrebičov za sebou spôsobuje, že pri poruche niektorého z nich sú nefunkčné všetky ostatné. Ak sa vypáli jedna žiarovka, prestanú svietiť všetky.
+   Ak zapojíme spotrebiče vedľa seba, tak ako je to na obr. 46, pri poruche jedného, je druhý spotrebič funkčný.
+
+
+uzol
+
+
+
+Ž1	Ž2
+vetva vetva
+
+nerozvetvená časť obvodu
+Obr. 46 Zapojenie spotrebičov vedľa seba (paralelne), schéma zapojenia
+
+   Paralelný elektrický o bvod sa rozdeľuje, vytvára vetvy. Zapojený obvod (podľa obr. 46) vytvára dve vetvy. V každej z nich je jedna žiarovka. Body, v ktorých sa obvod vetví, sa nazývajú uzly.
+   Preskúmame podrobnejšie zapojenie spotrebičov vedľa seba, a to meraním prúdu a napätia v ta- komto obvode. Z meraní a úvahami nad nameranými hodnotami možno zovšeobecniť pravidlá, ktoré platia pre odpor, napätie a elektrický prúd v takomto obvode.
+
+68	II. ELEKTRICKÝ PRÚD
+
+
+
+Úloha
+        Na základe meraní napätia a prúdu v elektrickom obvode so spotrebičmi zapojenými vedľa seba zovšeobecnite pravidlá, ktoré platia pre veľkosť prúdu, napätia a odporu v takomto obvode. (Pracujte v skupine.)
+
+Pomôcky:
+plochá batéria (4,5 V), 2 žiarovky (4,5 V; 0,3 A alebo 3,5 V; 0,2 A, vhodné sú aj dve rozdielne žiarovky), multimeter, 6 vodičov, 2 krokosvorky
+
+Postup:
+a) Pripravte si tabuľku 12.
+
+Tabuľka 12 Meranie elektrického prúdu v obvode so spotrebičmi zapojenými vedľa seba
+Č. meraniaPrúd I [mA]1I =2I1 =2I2 =
+b) Zapojte elektrický obvod podľa schémy a postupne odmerajte elektrický prúd na miestach 1, 2, 3, znázornených v schéme. Odmerané hodnoty zapíšte do tab. 12.
+c) Pripravte si tabuľku 13.
+
+
+Tabuľka 13 Meranie elektrického napätia v obvode so spotrebičmi zapojenými vedľa seba
+MeranieNapätie U [V]Ž1Ž2Z (zdroj)
+d) Zapojte multimeter na meranie napätia a postupne odmerajte elektrické napätie na svorkách žiarovky Ž1, Ž2 a na zdroji elektrického napätia. Odmerané hodnoty zapíšte do tab. 13.
+e) Vypočítajte z nameraných hodnôt napätia a prúdu odpor R1 žiarovky Ž1 a R2 žiarovky Ž2.
+Odpovedz:
+1. Čo sa stane v elektrickom obvode, ak jednu zo žiaroviek vykrútiš z objímky? Over svoj predpoklad.
+2. Porovnaj súčet prúdov I1 a I2 vo vetvách so žiarovkami Ž1 a Ž2 s veľkosťou elektrického prúdu v neroz- vetvenej časti. Aký záver môžeš vysloviť?
+3. Porovnaj hodnoty napätia na svorkách žiaroviek vo vetvách s hodnotou napätia na zdroji. Aký záver môžeš vysloviť?
+
+   Meraním prúdu I v nerozvetvenej časti obvodu ste sa mohli presvedčiť, že prúd je väčší ako v jednot- livých vetvách, teda ako prúdy I1 a I2. Z meraní vyplynulo, že súčet prúdov vo vetvách sa rovná prúdu v nerozvetvenej časti elektrického obvodu.
+
+II. ELEKTRICKÝ PRÚD	69
+
+
+I = I1 + I2
+   Elektrický prúd prechádzajúci nerozvetvenou čas- ťou obvodu sa rovná súčtu prúdov vo vetvách.
+   Postupným zapojením multimetra na meranie napä- tia na svorkách žiaroviek a na zdroji ste z nameraných hodnôt mohli zistiť, že na každom spotrebiči bolo rov- naké napätie U ako na zdroji.
+   Odpor jednotlivých žiaroviek v meranom elektric- kom obvode vieme vypočítať z hodnôt napätia a prúdu:
+
+R1	; R2
+1	I2
+
+
+   Celkový odpor R oboch žiaroviek spojených vedľa se- ba vypočítame zo vzťahu
+
+Obr. 47 Spojenie spotrebičov vedľa seba
+
+
+
+
+
+do ktorého dosadíme z Ohmovho zákona
+
+I = I1 + I2
+
+
+R	R1	R2
+   Vieme, že napätie aj vo vetvách a v nerozvetvenej časti je rovnaké, môžeme teda celú rovnicu deliť napätím a dostaneme
+1
+R	R1	R2
+   Prevrátená hodnota výsledného odporu dvoch spotrebičov spojených vedľa seba sa rovná súčtu prevrátených hodnôt odporov jednotlivých spotrebičov.
+   Ak máme v paralelnom obvode zapojené len dva spotrebiče, po matematickej úprave predchádzajú- ceho výrazu je výsledný odpor rovný súčinu odporov oboch spotrebičov delený ich súčtom.
+
+R	 	1  2 
+(R1 + R2)
+   Všimnime si, že pokiaľ spojíme dva alebo viac spotrebi- čov paralelne, je celkový odpor menší ako odpor ľubovoľné- ho zo spotrebičov.
+   Názorne možno toto tvrdenie vyjadriť obr. 48. Výsledný prierez je súčtom prierezov jednotlivých rezistorov.
+
+
+   Napokon sa zamyslíme nad rozdelením prúdu vo vet- vách vo vzťahu k odporom spotrebičov v nich. Môžeme vyjsť z poznatku, že vo vetvách paralelného obvodu je rov- naké napätie.
+   
+Obr. 48 Znázornenie súčtu rezistorov zapojených v elektrickom obvode vedľa seba
+
+   Z Ohmovho zákona platí, že U = R · I. Súčiny odporov a prúdu budú vo vetvách rovnaké, lebo U = U1 = U2. Matematicky toto tvrdenie pre dve vetvy vyjadríme R1 · I1 = R2 · I2. Malou úpravou predchádzajúceho
+vzťahu môžeme napísať, že platí I1 = R2 .
+I2	R1
+   Prúdy vo vetvách so spotrebičmi sú v obrátenom pomere k ich odporom. Jednoducho možno pove- dať, že čím je odpor vo vetve väčší, tým je prúd menší.
+
+I1 : I2 = R2 : R1
+
+70	II. ELEKTRICKÝ PRÚD
+
+
+Pomer prúdov vo vetvách so spotrebičmi spojenými vedľa seba je obrátený ako pomer ich odporov.
+   Spojenie spotrebičov vedľa seba je v praxi veľmi časté. Spotrebiče v domácnosti majú vlastné spína- če a sú k spotrebiteľskej sieti pripojené paralelne. Každá domácnosť, spotrebiteľ, má tiež hlavný spínač, ktorým možno vypnúť celú bytovú sieť, všetky spotrebiče.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rieš ÚLOHY
+ akresli schému elektrického obvodu, v ktorom budú 3 žiarovky zapojené vedľa seba, pripojené k zdroju napätia tak, aby boli ovládané jedným spínačom.
+
+2. V elektrickom obvode, ktorého schéma je na obrázku, sú zapo- jené 4 rezistory s uvedenými hodnotami ich odporu.
+a) Vypočítaj celkový odpor elektrického obvodu.
+b) Prekresli si obvod do zošita a znázorni v ňom dohodnutý smer elektrického prúdu v nerozvetvenej časti a tiež vo vet- vách.
+c) Aké napätie je medzi svorkami na každom rezistore?
+d) Aký prúd prechádza nerozvetvenou časťou elektrického ob- vodu?
+e) Aký prúd prechádza vetvou 1 a 2?
+
+3. V lustri je zapojených 6 žiaroviek. Tri a tri žiarovky možno ovládať vlastným spínačom. Ak sa jedna zo žiaroviek vypáli, ostatné svietia. Nakresli schému zapojenia žiaroviek.
+
+4. V elektrickom obvode môže prechádzať prúd maximálne 200 mA. Môžeme použiť zdroj napätia 230 V, ak sú v ňom zapojené paralelne dva rezistory s odporom R1 = 300 Ω a R2 = 1 000 Ω?
+Konštruktérske problémy
+
+
+5. Na ktoré miesta v elektrickom obvode, označené v sché- me 1, 2, 3, je potrebné zapojiť žiarovky Ž1, Ž2 a Ž3, aby sa nepoškodili a svietili intenzívne? (Potrebné hodnoty sú vyznačené v schéme na obrázku.)
+
+6. Vyber jeden z rezistorov s hodnotami R1 = 10 Ω, R2 =
+= 5 Ω, R3 = 30 Ω k žiarovke v zapojení za sebou tak, aby sa nepoškodila a svietila intenzívne.
+
+Ž1
+Ž2 Ž3
+
+  R1 = 10 Ω 
+
+  R2 = 5 Ω 
+
+
+  R3 = 30 Ω 
+ž, 6 V, 0,1 A
+
+II. ELEKTRICKÝ PRÚD	71
+7. V lustri sú 3 žiarovky ovládané dvoma spínačmi. Prekresli si obrázok
+do zošita a pospájaj žiarovky voľne čiarami tak, aby Ž1 a Ž2 svietili spo-	1	2
+lu rovnakým jasom a boli ovládané spínačom 1 a Ž3 bola ovládaná spínačom 2.
+
+Ž1	Ž3
+Ž2
+
+2.11 Elektrická práca. Elektrický príkon
+
+   Pojmami práca, výkon a energia sme sa zaoberali v 8. ročníku. Mechanickú prácu vieme určiť, ak po- známe silu pôsobiacu na teleso v smere jeho pohybu, pričom sa teleso premiestni po určitej dráhe s. Prá- cu vypočítame zo vzťahu W = F · s. Práca, polohová a pohybová energie telesa ako aj teplo spolu súvisia, čo vyjadruje aj ich spoločná jednotka joule (J). Cieľom vyučovania tematického celku Sila a pohyb. Práca. Energia v 8. ročníku bolo, aby ste pochopili súvislosť medzi uvedenými fyzikálnymi pojmami.
+   S pojmami sila, práca, pohybová energia a teplo sme sa stretli aj pri opise vzniku elektrického prúdu, a to v článkoch 2.2 Elektrický prúd v kovovom vodiči. Tepelné účinky prúdu a 2.4 Elektrické sily a elektrické pole vo vodiči.
+   Stručne si zopakujeme dôležité skutočnosti z uvedených článkov. Po pripojení kovového vodiča k zdroju elektrického napätia sa vo vodiči vytvorí elektrické pole. V elektrickom poli pôsobí na častice látky elektrická sila. Táto zapríčiní, že sa pohyb voľných elektrónov stane usmerneným pozdĺž vodiča. V elektrickom poli sila koná elektrickú prácu. Môžeme povedať, že elektrické pole má elektrickú energiu.
+   Elektróny strácajú pohybovú energiu pri náraze na časti- ce v kryštálovej štruktúre kovu, odovzdávajú im časť svojej pohybovej energie. Tieto častice získavajú pohybovú ener- giu a vodič sa zohrieva. Zdroj napätia, napríklad batéria, elektrónom neustále dodáva pohybovú energiu.
+   Na odvodenie vzťahu pre výpočet elektrickej práce by sme potrebovali hlbšie vedomosti o elektrických javoch a veličinách, ktoré ich charakterizujú. Z fyzikálnych veličín, ktoré súvisia s pojmami elektrickej práce zatiaľ poznáme –
+
+napätie ako charakteristiku zdroja elektrického napätia. Od napätia závisí vznik elektrického poľa vo vodiči a veľkosť elektrickej sily v ňom. Ďalšou potrebnou fyzikálnou veliči-
+
+Obr. 49 Znázornenie pôsobenia elektrickej sily Fe na voľné elektróny v elektrickom poli
+
+nou je elektrický prúd. Elektrický prúd sme charakterizovali počtom nábojov, ktoré prejdú prierezom
+
+vodiča za jednotku času I	t .
+Z tohto vzťahu môžeme vyjadriť veľkosť náboja Q = I · t.
+   Elektrická práca vykonaná vo vodiči za čas t závisí od prúdu I prechádzajúceho vodičom a tiež aj od napätia U medzi jeho koncami.
+Elektrickú prácu označujeme, rovnako ako mechanickú, W a vypočítame ju:
+
+W = U · I · t	alebo	W = U · Q
+
+Jednotkou elektrickej práce je, rovnako ako pri mechanickej práci, joule (J).
+
+
+72	II. ELEKTRICKÝ PRÚD
+
+
+
+
+   Na každom elektrospotrebiči sú uvedené technické úda- je. Napríklad na štítku jednej z varných kanvíc s objemom 1 l sú údaje uvedené na obrázku vpravo.
+   Vieme, že hodnoty 230 V a 220 V znamenajú napätie, na aké majú byť spotrebiče pripojené. Takéto hodnoty elek- trického napätia sú v spotrebiteľskej sieti.
+   Hodnoty 50 a 50/60 Hz súvisia s tým, že v sieti je strie- davý elektrický prúd. Striedavý sa volá preto, lebo neustále mení svoj smer (kmitá). Striedavý prúd sa označuje znač- kou ~. Hodnota 50 Hz znamená, že sa za jednu sekundu zmení smer prúdu 50 krát. Hovoríme, že striedavý prúd má
+
+
+
+
+
+
+
+
+
+230 V, 50 Hz, 850 W	Na kopírovacom stroji:
+220 V, 50/60 Hz, 1 400 W
+
+kmitočet 50 hertzov (Hz). V našich pokusoch však pracujeme s jednosmerným prúdom. Označuje sa značkou –.
+   Hodnoty 850 W na varnej kanvici a 1 400 W na kopírovacom stroji označujú veľkosť elektrického prí- konu.
+   Elektrický príkon, rovnako ako elektrická práca, je fyzikálna veličina, ktorá má obdobu v mechanike a bola obsahom vyučovania v 8. ročníku. Nazývame ju výkon. Výkon strojov, ľudský výkon (značka P) je definovaný ako podiel práce W a času t, za ktorý bola práca vykonaná. Jednotkou výkonu je watt (W).
+   Pre elektrické zariadenia zavádzame podobnú veličinu, ktorú nazývame elektrický príkon. Podiel elektrickej práce vykonanej za čas t je vzťah pre výpočet elektrického príkonu.
+Elektrickú príkon označujeme, rovnako ako mechanický výkon, P a vypočítame ho:
+
+P	t
+Elektrický príkon možno vyjadriť pomocou napätia a prúdu:
+
+P	· ·
+t	t
+
+
+= U · I
+
+   Jednotkou elektrickej príkonu, rovnako ako jednotkou výko- nu v mechanike, je watt (W).
+   Väčšou jednotkou je 1 kW (kilowatt), čo je 1 000 krát väčšia jed- notka.
+   Elektrický príkon je praktická veličina a možno ju jednoducho vysvetliť na príklade dvoch varných kanvíc, ktoré majú rozdielny príkon označený na štítku. Napr. väčšia kanvica má príkon 2 200 W a menšia má príkon 850 W.
+
+
+
+
+
+
+
+
+2 200 W	850 W
+
+   Ak do obidvoch kanvíc dáme zohriať rovnaké množstvo vody, napríklad 1 l, v kanvici s príkonom 2 200 W sa voda zohreje rýchlejšie, pretože táto kanvica má väčší príkon.
+   Každý, kto používa elektrospotrebiče, spotrebúva elektrickú energiu a musí za ňu platiť výrobcovi. Napríklad, ak v domácnosti súčasne prala automatická pračka s príkonom 2 200 W a svietila žiarovka s príkonom 100 W povedzme 1 hodinu, elektrický prúd vykonal prácu (2 200 + 100) W · 1 h = 2 300 Wh. Ak poznáme príkon spotrebiča a čas, za ktorý ním prechádzal elektrický prúd, môžeme určiť elektric-
+kú prácu zo vzťahu:
+W = P · t
+
+   Jednotkou elektrickej práce je v tomto prípade wattsekunda (Ws), 1Ws = 1J. V praxi sa používajú väčšie jednotky elektrickej práce, a to watthodina (Wh)
+
+a tisíckrát väčšia jednotka kilowatthodina (kW bu elektrickej energie v kilowatthodinách. V príklade s pračkou by elektromer odmeral spotrebu 2,3 kWh.
+   Každá domácnosť má vlastné meradlo spot- reby elektrickej energie, ktoré sa volá elektro- mer.
+
+. lektromer meria spotr
+
+II. ELEKTRICKÝ PRÚD	73
+
+
+
+
+
+
+
+
+
+
+
+Rieš ÚLOHY
+1. Uskutočni meranie:
+Over príkon varnej kanvice napísaný na jej štítku.
+
+Pomôcky:
+varná kanvica so známym príkonom, teplomer, odmerný valec (odmerka na vodu)
+
+Postup:
+a) Zopakuj si vzťahy pre výpočet tepla, elektrickej práce a príkonu.
+b) Medzi elektrickou prácou a teplom dodaným vode je priama súvislosť, treba však uvažovať aj o úniku tepla, energie. Účinnosť kanvice je od 75 do 90 %.
+c) Navrhni spôsob overenia príkonu kanvice.
+d) Odmeraj potrebné hodnoty a vypočítaj príkon kanvice.
+
+Odpovedz:
+1. Aký je vzťah medzi teplom dodaným vode a vykonanou elektrickou prácou?
+2. Čo znamená, ak povieme, že účinnosť kanvice je 75 % či 90 %?
+3. Porovnaj výsledok svojich meraní a výpočtov s uvedenou hodnotou príkonu na štítku kanvice. Ako si vysvetľuješ prípadné rozdiely?
+
+2. Na vyhrievanie zadného skla automobilu slúži vyhrievacie teleso s odporom 1,6 Ω. Teleso je pripo- jené na batériu v automobile, ktorá má napätie 12 V.
+a) Aký je príkon vyhrievacieho telesa?
+b) Aké teplo odovzdá vyhrievacie teleso svojmu okoliu, ak pracuje 1 hodinu?
+
+3. Zisti na štítkoch spotrebičov ich príkon, napätie, na ktoré môže byť spotrebič pripojený, prípadne iné údaje. Zostav zo zistených údajov tabuľku.
+
+4. Vypočítaj cenu za dennú spotrebu elektrickej energie vo vašej domácnosti.
+a) Zisti, ktoré spotrebiče denne používate a približne aký dlhý čas.
+b) Aký je príkon denne používaných spotrebičov?
+c) Zisti cenu, ktorú platíte za 1 kWh spotrebovanej elektrickej energie.
+
+74	II. ELEKTRICKÝ PRÚD
+
+
+2.12 Magnetické pole v okolí vodiča s prúdom. Magnetické pole cievky s prúdom
+
+
+   Doteraz sme sa zaoberali elektrickými a magnetickými javmi oddelene, teda tak, ako sa tieto v histórii tradične skúmali a opisovali. Až Oerstedo- vým pokusom (1820) sa podarilo objaviť, že elektrické a magnetické javy spolu súvisia. Hans Christian Oersted zistil, že elektrický prúd prechádzajú- ci vodičom vychyľuje magnetku kompasu. Vieme, že magnetka reaguje na prítomnosť magnetického poľa a v zemskom magnetickom poli ju možno využiť na orientáciu v teréne. Možno ňou určovať približne severo-južný smer, teda svetové strany. Z tohto smeru ju však môže vychýliť iné magne- tické pole, než je magnetické pole Zeme.
+   Historický Oerstedov objav si môžete zopakovať v nasledujúcom po- kuse.
+
+Pokus
+
+
+
+
+
+
+
+
+
+
+H. Ch. Oersted (1777 – 1851)
+
+
+     Zopakujte historický Oerstedov objav, preskúmajte vodič s elektrickým prúdom. (Pracujte v skupine.)
+
+Pomôcky:
+drôtenka na riad, plochá batéria (4,5 V), 2 držiaky (Holcove svorky), 2 vodiče s krokosvorkami, magnetka (kompas), tyčový magnet, dĺžkové meradlo
+
+Postup:
+a) Oddeľte z drôtenky na riad drôt dlhý približne 60 cm a pripojte ho na držiaky (do svoriek). Nechajte drôt voľne visieť a podložte pod drôt magnetku.
+b) Natočte stojany s drôtom do severo-južného smeru, rovnobež- ne s magnetkou.
+c) Uzavrite elektrický obvod a pozorujte magnetku.
+d) Prerušte obvod a obráťte batériu tak, aby sa krokosvorky dotý- kali opačných svoriek batérie ako v predchádzajúcom uzavre- tom obvode. Pozorujte po zapojení elektrického obvodu sprá- vanie magnetky.
+e) Po prerušení obvodu odstráňte magnetku a dajte pod drôt tyčový magnet tak, aby bol jedným pólom natočený smerom k drôtu. Uzavrite elektrický obvod a pozorujte správanie drôtu.
+f) Prerušte obvod a obráťte batériu tak, aby sa krokosvorky do- týkali opačných svoriek batérie tak ako v predchádzajúcom uzavretom obvode. Po zapojení elektrického obvodu pozorujte správanie drôtu.
+
+Odpovedz:
+1. Ako sa správala magnetka po zapojení elektrického obvodu?
+2. Ako sa správala magnetka po prepólovaní batérie?
+3. Ako sa správal drôt v blízkosti pólu magnetu po zapojení elektrického obvodu?
+4. Ako sa správal drôt v blízkosti pólu magnetu po prepólovaní batérie?
+5. Aké závery si vyvodil z predchádzajúcich pokusov?
+
+II. ELEKTRICKÝ PRÚD	75
+   Objav, ktorý urobil Oersted, spočíval v zaznamenaní pootočenia magnetky keď vodičom, ktorý bol nad ňou v severo-južnom smere, prechádzal elektrický prúd. Magnetka zostala v novej polohe, pokiaľ vodičom prechádzal prúd. Po zmene smeru prúdu vo vodiči sa otočil severný pól magnetky na opačnú stranu. Oersted dokázal, že v okolí priameho vodiča s elektrickým prúdom je magnetické pole.
+   Druhé pozorovanie a dôkaz, že v okolí vodiča s prúdom je mag- netické pole, ste mohli zaznamenať pokusom, keď v blízkosti vo- diča s prúdom bol tyčový magnet (predchádzajúci pokus obrázok k bodu e). Magnetická sila tyčového magnetu pôsobila na vodič s prúdom tak, akoby ho chcela vytlačiť na jednu stranu. Smer pô- sobenia magnetickej sily závisel od pripojenia koncov vodičov na svorky zdroja. Po zámene pólov zdroja sa smer magnetickej sily
+
+pôsobiacej na vodič zmení.
+   Dokázať magnetické pole v okolí vodiča s elektrickým prúdom môžeme pomocou pilín z mäkkej ocele. Ak na vodorovne polože-
+
+Obr. 50 Magnetické pole v okolí vodiča s elektrickým prúdom
+
+nú podložku, ktorej stredom prechádza vodič s elektrickým prúdom, nasypeme oceľové piliny, tieto sa usporiadajú do sústredných kružníc – indukčných čiar magnetického poľa.
+   O indukčných čiarach magnetického poľa sme hovorili v súvislosti s magnetickým poľom v okolí trva- lého magnetu a rovnako môžeme znázorniť aj magnetické pole vytvorené elektrickým prúdom.
+   Pri Oerstedovom pokuse slúžila ako dôkaz magnetického poľa elektrického prúdu magnetka, pres- nejšie jej pootočenie pri uzavretí elektrického obvodu. Oveľa väčšiu výchylku magnetky môžeme zazna- menať, ak použijeme pri pokuse namiesto priameho vodiča cievku.
+   Cievka je zhotovená z izolovaného vodiča navinutého na valčeku z plastu či tvrdého papiera. Jej schematická značka je	.
+   Realizácia pokusu je podobná ako v pokuse so železným drôtom. Na začiatku položíme magnetku a cievku vedľa seba (obr. 51 a) v severo-južnom smere. Zapojíme elektrický obvod a môžeme pozorovať otočenie magnetky smerom do dutiny cievky (obr. 51 b).
+
+
+
+
+
+
+
+
+
+
+
+a	b	c
+Obr. 51 Dôkaz magnetického poľa cievky s prúdom
+
+
+   Po výmene pripojenia vodičov k svorkám batérie sa magnetka otočí opačným pólom (obr. 51 c).
+   Cievka, ktorou prechádza elektrický prúd, sa sprá- va ako tyčový magnet. Magnetické sily sa od jednotli- vých závitov skladajú. Oceľové piliny v okolí cievky vytvo- ria podobné reťazce ako pri tyčovom magnete a ich tvary sú výsledkom zloženia magnetických síl (str. 12, obr. 7a).
+
+Indukčné čiary magnetického poľa cievky sú znázor-
+
+
+
+
+
+
+Obr. 52 Znázornenie magnetického poľa cievky s prúdom pomocou reťazcov zo železných pilín a indukčnými čiarami magnetického poľa
+
+nené v reze pozdĺž osi. V skutočnosti magnetické pole nie je ploché, ale nachádza sa v celom priestore okolo cievky. Pole je najsilnejšie v strede cievky a menej silné v jej okolí. Vyjadruje to aj znázornenie pomocou magnetických indukčných čiar.
+Magnetické póly cievky možno určiť pomocou pravidla pravej ruky:
+
+76	II. ELEKTRICKÝ PRÚD
+
+
+   Cievku uchopíme do pravej ruky tak, aby ohnuté prsty ukazova- li smer elektrického prúdu v jej závitoch. Palec vystretý rovnobež- ne s osou cievky ukazuje na jej severný pól.
+   Účinky magnetického poľa cievky závisia od veľkosti elektrického prúdu, ktorý ňou prechádza a od počtu zavitov cievky. Ak nahradíme cievku s 300 závitmi cievkou so 600 závitmi, magnetické pole s cievkou v druhom prípade bude dvakrát silnejšie, ak bola veľkosť prúdu v oboch
+   Medzi veľkosťou elektrického prúdu a účinkami magnetického poľa cievky je priama úmernosť. Čím je elektrický prúd prechádzajúci cievkou väčší, tým sú účinky magnetického poľa väčšie.
+
+
+
+
+Rieš ÚLOHY
+ akresli schému elektrického obvodu, v ktorom bude zapojená cievka, žiarovka, spínač a zdroj napätia.
+a) Uvedené prvky elektrického obvodu majú byť v schéme zapojené do série.
+b) Cievku a žiarovku nakresli v schéme zapojené paralelne, tak aby oba prvky elektrického obvo- du boli ovládané spínačom.
+
+2. Zisti informácie o živote H. Ch. Oersteda.
+
+3. Na obrázku je elektrický obvod so žiarovkou a želez- ným drôtom, ktoré sú pripojené k zdroju elektrického napätia. Po zostavení elektrického obvodu dáme pod železný drôt magnetku a obvod uzavrieme. Prekres- li obrázok schémou do zošita a znázorni v nej smer elektrického prúdu.
+
+Poznámka: Stojany v schéme nemusíš znázorňovať, drôt – vodič vyznač napríklad hrubšou čiarou .
+
+
+4. Na obrázku a je schéma elektrického obvodu s cievkou. Prekresli si schému do zošita a vyznač v nej:
+a) smer elektrického prúdu v obvode,
+b) navrhni spôsob, akým by si určil severný a južný pól cievky a urči ho na obr. b.
+
+
+
+–	+
+
+
+
+
+a	b
+
+II. ELEKTRICKÝ PRÚD	77
+
+
+2.13 Elektromagnet a jeho využitie
+   Na skládkach železného šrotu môžeme vidieť žeriav, ktorý premiest- ňuje kusy železného odpadu. Pri pozorovaní práce žeriava zistíme, že je- ho dôležitou súčasťou je na ramene zavesené špeciálne zariadenie. Keď sa rameno žeriava priblíži k šrotu, aj ťažké kusy tohto odpadu sa prichytia k zariadeniu na konci ramena. Podobne, ako napríklad sponky na spisy k trvalému magnetu. Následne sa žeriav ramenom otočí k železničnému vagónu alebo nákladnému autu. Šrot sa oddelí od zariadenia na konci ramena a spadne do nákladného priestoru.
+   Podobným spôsobom sa triedia kovy v oceliarňach. Žeriavnik v kabí- ne ovláda špeciálne zariadenie na prepravu odpadu.
+   Jednoduchým pokusom si ukážeme, na akom princípe pracujú zaria- denia na prepravu železného šrotu či triedenie kovov.
+
+
+Pokus
+   Zistite, od čoho závisia magnetické účinky cievky s prúdom. (Pracujte v skupine. Každá sku- pina môže mať cievku s iným počtom závitov.)
+
+Pomôcky:
+cievka s 300 (600, 400,...) závitmi, väčšie množstvo drobných klinčekov (oceľové sponky na spisy alebo špendlíky), jadro z magneticky mäkkej ocele, zdroj elektrického napätia (2 batérie 4,5 V), mul- timeter, spínač
+
+Postup:
+a) Zapojte cievku do elektrického obvodu podľa schémy na obrázku. Ako zdroj napätia použite 4,5 V batériu. Pod cievku nasypte väčšie množstvo drobných klinčekov.
+
+
+
+
+
+
+
+
+
++	–
+
+b) Uzavrite elektrický obvod spínačom a zapíšte si pozorovanie.
+c) Zasuňte do cievky jadro z magneticky mäkkej ocele, uzavrite elektrický obvod spínačom. Násled- ne prerušte elektrický obvod spínačom a zapíšte si výsledok pozorovania.
+d) Do elektrického obvodu s cievkou a jadrom z mäkkej ocele zapojte zdroj elektrického napätia 9 V. Uzavrite elektrický obvod a zapíšte si výsledok pozorovania.
+
+Odpovedz:
+1. Závisí množstvo pritiahnutých klinčekov od počtu závitov cievky?
+2. Je rozdiel medzi počtom pritiahnutých klinčekov k cievke bez jadra a k cievke s jadrom z magneticky mäkkej ocele?
+3. Závisí množstvo pritiahnutých klinčekov od veľkosti elektrického prúdu, ktorý prechádza cievkou?
+4. Je cievka s jadrom trvalý alebo dočasný magnet?
+5. Ako pracuje zariadenie žeriava na prepravu odpadu?
+
+78	II. ELEKTRICKÝ PRÚD
+
+
+   Z predchádzajúceho článku 2.12 vieme, že ak cievkou prechádza elektrický prúd, cievka sa správa sa ako magnet. Má póly a priťahuje železné predmety. Ešte výraznejšie sa prejavujú jej magnetické vlast- nosti, ak sa do cievky vloží predmet z magneticky mäkkej ocele. Získame tak elektromagnet.
+   Po odpojení od batérie, cievka magnetické vlastnosti stráca. Elektromagnet sa od trvalého magnetu líši tým, že je dočasným magnetom. Je magnetom len dovtedy, kým cievkou prechádza elektrický prúd. Pokusom ste sa mohli presvedčiť, že magnetické pole elektromagnetu je tým silnejšie, čím väčší prúd prechádza cievkou a čím má cievka väčší počet závitov.
+
+
+Obr. 52 Závislosť magnetického poľa elektromagnetu od veľkosti elektrického prúdu
+
+
+   Elektromagnet je súčasťou mnohých technických zariadení, ako napríklad elektrického zvončeka v byte, automatických železničných závor, rýchlovlakov, vyššie opísaných žeriavov na triedenie či nakladanie železné- ho šrotu, ističov. Používa sa však aj v očnom lekárstve. Ak sa do oka dostane oceľová pilina, lekár ju odstráni pomocou elektromagnetu. Elektromagnety sú pod- statnou súčasťou obrovských zariadení na urýchľova- nie elektricky nabitých častíc v cyklotrónoch. V elek- trónovej optike (elektrónový mikroskop) sa používajú elektromagnety ako magnetické šošovky.
+
+
+
+
+
+
+
+
+
+
+Obr. 53 Elektromagnet v urýchľovači v Cerne
+
+   Rozozvučať elektrický zvonček v byte je veľmi jednoduché. Stlačíme spínač a zvonček zazvoní. Z do- terajších skúseností s elektrickými obvodmi už vieme, že stlačením spínača sa uzavrie elektrický obvod a zaznie zvonenie. Ako vzniká zvuk v zvončeku a akú úlohu má elektromagnet v elektrickom zvončeku? Na obr. 54 vidieť jeho súčasti.
+   Z fotografie na obr. 54 sa dá usúdiť, že zvonenie zvončeka spôsobuje rýchle udieranie paličky na zvonček. Princíp fungovania zvončeka je vysvetlený schémami.
+   Po stlačení spínača sa uzavrie elektrický obvod. Jadro v cievke pritiahne kotvu a kovová palička udrie do zvončeka. Po pritiahnutí kotvy sa však rozpojí kontakt pripevnený na nej. Prúd zanikne a elektromag- net kotvu prestane priťahovať. Tým sa ale opäť kontakt na kotve zopne a dej sa môže zopakovať. Po celý čas, kým držíme stlačený spínač, sa elektrický obvod opakovane prerušuje, uzatvára. Palička opakovane búcha do zvončeka, a to až niekoľkokrát za sekundu.
+   Pred niekoľkými desiatkami rokov sa školský zvonček zapínal ručne. Dnes sa zapína automaticky, pretože je spojený s hodinami.
+
+
+
+
+
+
+
+
+
+
+pred stlačením spínača	po stlačení spínača
+
+Obr. 54 Zvonček a jeho schéma
+
+II. ELEKTRICKÝ PRÚD	79
+
+
+
+   Na chránenie spotrebičov pred nepri- meranou veľkosťou elektrického prúdu, prúdovým preťažením, slúžia ističe. Na ob- rázku 55 je fotografia a zjednodušená sché- ma ističa.
+   Ak v elektrickom obvode neprimerane vzrastie prúd, dôjde ku skratu, vzrastie aj magnetické pole elektromagnetu. Ná- sledkom toho elektromagnet pritiahne kotvu. Uvoľní sa západka, a tým aj pružina P2. Rozpoja sa kontakty. Elektrický prúd je v obvode prerušený. Tlačidlom alebo páč- kou môžeme ručne obvod opäť uzavrieť.
+   Elektromagnetom možno ovládať spí- nač, ktorý zapája obvod, alebo aj viac elek-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 55 Istič a jeho zjednodušená schéma
+
+trických obvodov, v ktorých prechádza veľký elektrický prúd. Takýto spínač sa nazýva elektromagne- tické relé. Výhodou takéhoto spínača je diaľkové ovládanie obvodov s veľkými prúdmi. Na obrázku 56 je fotografia a zjednodušená schéma elektromagnetického relé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 56 Elektromagnetické relé a jeho zjednodušená schéma
+
+   Na schéme môžeme vidieť, že ak uzavrieme elektrický obvod s elektromagnetom (a), ktorým pre- chádza malý prúd, po pritiahnutí kotvy sa uzavrie elektrický obvod s veľkým prúdom (b) v ktorom je zapojený napr. elektromotor.
+
+
+
+
+Rieš ÚLOHY
+1. Urob pomôcku: Z jednoduchých pomôcok zostroj elektromagnet a over jeho vlastnosti.
+
+Pomôcky:
+oceľový klinec alebo skrutka (dĺžka približne 10 cm), izolovaný drôt (dĺžka približne 2 m), plochá batéria (4,5 V), drobné klinčeky, lepiaca páska, magnetka
+
+80	II. ELEKTRICKÝ PRÚD
+
+
+Postup:
+a) Naviň izolovaný drôt na skrutku (klinec tak), aby boli závity drôtu tesne vedľa seba (približne 15 zá- vitov). Posledné závity zalep lepiacou páskou, aby sa nehýbali.
+b) Konce drôtu – 2 cm odizoluj tak, aby ich bolo mož- né pripevniť k svorkám batérie.
+
+c) Konce zostrojeného elektromagnetu priblíž ku klinčekom a následne jeden vodič odpoj od batérie.
+d) Spoj vodič opäť s batériou a over magnetkou magnetické póly zostrojeného elektromagnetu, prípadne navrhni iný spôsob.
+e) Urob ďalšie pokusy s elektromagnetom (zmeň jadro cievky, počet závitov).
+
+Odpovedz:
+1. Ktoré vlastnosti elektromagnetu sa ti podarilo overiť?
+2. Ktoré vlastnosti elektromagnetu sa ti nepodarilo overiť?
+
+2. Prezri si schémy elektrického zvončeka (obr. 54) a vysvetli zmeny, ktoré nastanú v elektrickom obvode po stlačení spínača.
+
+3. Zisti, v ktorých súčiastkach osobných automobilov sa využíva elektromagnet.
+
+4. V schémach elektrického zvončeka, ističa, elektromagnetického relé (obr. 54, 55, 56) sa nachádza zariadenie nazývané kotva. Vysvetli akú funkciu má kotva v elektrických obvodoch jednotlivých zariadení.
+
+5. Prečítaj si úryvok z článku Znovu spustenie urýchľovača LHC a odpovedz na otázky.
+
+   „Čo sa 19. septembra presne stalo? Protóny pohybujúce sa 99,9999991 % rýchlosti svetla udržuje na kruhovej trajektórii magnetické pole s indukciou 8,33 T. Na jeho dosiahnutie musí supravodivými cievkami hlavných elektromagnetov pretekať prúd 11850 A. Magnety sú usporiadané v bunkách s dĺžkou 107 m, ktoré obsahujú 6 dipólov, 2 kvadrupóly a väčší počet korekčných magnetov. Dipóly sú v rámci bunky zapojené sériovo.“
+   Kubeš, T. 2010. Znovu spustenie urýchľovača LHC. In: Československý časopis pro fyziku. Praha, Fy- zikálny ústav Akadémie vied Českej republiky. Č. 3, zv. 60. ISSN 0009-0700
+
+Odpovedz:
+1. Ktoré fyzikálne veličiny uvedené v texte poznáš a o ktorých si zatiaľ nepočul a nevieš čo znamenajú?
+2. Ktoré odborné výrazy nepoznáš?
+3. Vieš kde sa pracuje s urýchľovačom LHC a o aké pokusy ide?
+
+
+
+II. ELEKTRICKÝ PRÚD	81
+Dôležité termíny, vzťahy
+   Vysvetli dôležité termíny a vzťahy uvedené v stĺpcoch tabuľky. K termínom v ľavom stĺpci priraďte termíny a vzťahy z pravého stĺpca tak, aby významovo podľa teba patrili čo najlepšie k sebe.
+
+82	II. ELEKTRICKÝ PRÚD
+
+
+
+Čo sme sa naučili
+Zapájanie spotrebičov za sebou (sériové zapojenie)
+
+
+
+
+
+
+  Ž1	Ž2 
+
+– elektrický prúd je v celom obvode rovnaký
+
+U = U1 + U2 R = R1 + R2
+U1 : U2 = R1 : R2
+
+
+
+Zapájanie spotrebičov vedľa seba (paralelné zapojenie)
+
+
+Ž1
+
+
+– napätie je na spotrebičoch a zdroji rovnaké
+
+Ž
+I = I1
+
++ I2
+1
+
+
+
+Elektrická práca
+V elektrickom poli sila koná elektrickú prácu:
+
+W = U · I · t	alebo
+
+
+
+
+
+
+W = U · Q
+
+R	R1	R2 I1 : I2 = R2 : R1
+
+
+Jednotkou elektrickej práce, rovnako ako mechanickej práce, je joule (J).
+Ak poznáme príkon spotrebiča a dobu za ktorú ním prechádzal elektrický prúd, môžeme určiť elektrickú prácu zo vzťahu:
+W = P · t
+
+Elektromer meria spotrebu elektrickej energie v kilowatthodinách (kWh).
+
+Elektrický príkon
+Elektrickú príkon vypočítame:
+
+P	t
+Elektrický príkon možno vyjadriť pomocou napätia a prúdu:
+P	t   = U · I · t  = U · I
+Jednotkou elektrického príkonu je watt (W).
+
+Magnetické pole v okolí vodiča s prúdom
+
+H. Ch. Oersted dokázal, že v okolí priameho vodiča s elektrickým prúdom je magnetické pole.
+
+II. ELEKTRICKÝ PRÚD	83
+Magnetické pole cievky s prúdom
+Cievka, v ktorej prechádza elektrický prúd sa správa ako tyčový magnet. Schematická značka cievky je	.
+
+
+
+
+
+
+
+
+Intenzita magnetického poľa cievky súvisí s počtom jej závitov a veľkosťou elektrického prúdu, ktorý ňou prechádza. Pravidlom pravej ruky možno určiť magnetické póly cievky.
+Elektromagnet a jeho využitie
+Ak sa do cievky vloží predmet z magneticky mäkkej ocele, získame tak elektromagnet. elektromagnet	istič	relé
+
+
+
+
+
+
+
+
+
+Magnetické pole elektromagnetu je tým silnejšie, čím väčší prúd prechádza cievkou a čím má cievka väčší počet závitov.
+
+84	II. ELEKTRICKÝ PRÚD
+
+
+
+
+Test 3 – vyskúšaj sa
+Na riešenie testu potrebuješ kalkulačku a písacie potreby.
+
+Praktické úlohy
+
+Na laboratórnom stanovišti máš pripravené pomôcky: batéria 4,5 V, dve rovnaké žiarovky, vodiče a multimeter.
+
+
+
+1. Zapoj dve žiarovky k zdroju elektrického napätia za sebou. Odmeraj prúd v elektrickom obvode a napätie na žiarovkách a zdroji. Urob zápis z merania.
+
+
+2. Zapoj dve žiarovky k zdroju elektrického napätia vedľa seba.
+Odmeraj napätie na žiarovkách a prúd vo vetvách elektrického obvodu. Urob zápis z merania.
+
+Teoretické úlohy	Ž1	S
+3. Na obrázku je znázornená schéma elektrického obvodu. V elek-	1
+trickom obvode sú zaradené spínače, ktoré budeme teoreticky	Ž2	S2
+spínať. Sledujeme, ktoré žiarovky sa pri zapnutí určitého spínača	Ž	S
+rozsvietia. Doplň do textu pod obrázkom správne odpovede.	3	3
+Ž4
+a) Keď zapneme iba spínač S1, bude svietiť žiarovka (žiarovky)	..............
+b) Keď zapneme S1 a aj spínač S2, bude svietiť žiarovka (žiarovky)	..............
+c) Keď zapneme iba spínač S3, bude svietiť žiarovka (žiarovky)	..............
+4. V tabuľke sú uvedené príkony niektorých spotrebičov v domácnosti. Všetky sú súčasne v prevádzke.
+
+SpotrebičPríkon [W]SpotrebičPríkon [W]práčka2 300žiarivka40chladnička200televízor110Vypočítaj koľko zaplatíme za 1 hodinu spotrebovanej elektrickej energie, ak za 1 kWh nám predaj- ca účtuje cenu 0,126 €.
+5. V elektrickom obvode sú zapojené dva rezistory 20 Ω a 30 Ω.
+a) Vypočítaj celkový odpor v elektrickom obvode, ak sú rezistory zapojené za sebou.
+b) Vypočítaj celkový odpor v elektrickom obvode, ak sú rezistory zapojené vedľa seba.
+6. V elektrickom obvode je k zdroju elektrického napätia 4,5 V pripojená žiarovka (4,5 V; 0,1 A) a re- zistor s odporom 45 Ω. Bude žiarovka v tomto obvode svietiť plným jasom? Svoju odpoveď dolož výpočtami, prípadne hľadaj riešenia, aby žiarovka svietila plným jasom.
+7. V elektromagnete, ktorý je zapojený v elektrickom obvode, je potrebné urobiť nasledovné zmeny:
+a) zameniť magnetické póly,
+b) dosiahnuť silnejšie magnetické pole. Navrhnite úpravy v elektrickom obvode.
+
+II. ELEKTRICKÝ PRÚD	85
+
+
+Vedenie elektrického prúdu v kvapalinách a plynoch
+   Pre človeka je nebezpečné používať pri kúpaní vo vani elektrické spotrebiče, napríklad sušiť si vlasy fénom. V niektorých hoteloch možno nájsť aj značku, ktorá pred takouto činnosťou vystríha. Je to preto, že aj voda môže za určitých podmienok viesť elektrický prúd, byť vodičom. Pri napätí 230 V môže byť preto nebezpečná.
+   Ako je to s plynmi? V článku 1.5 Prenos elektrického náboja. Elektroskop ste mali možnosť pozorovať nabitý elektroskop, ktorého ručička zostala vychýlená aj bez do- tyku zelektrizovaným telesom. Ak by bol vzduch alebo iný plyn v okolí elektroskopu dobrým vodičom, elektroskop by sa rýchlo vybil, stratil by elektrický náboj. Skúsme však v blízkosti elektroskopu zapáliť sviečku, elektroskop sa pomerne rýchlo vybije. Plameň sviečky spôsobí zvýšenie vodivosti vzduchu, čo dokazuje, že aj plyny môžu byť za istých podmienok vodivé.
+
+
+2.14 Vedenie elektrického prúdu v kvapalinách. Elektrolýza a jej využitie
+   Pri skúmaní podmienok vedenia elektrického prúdu v kvapalinách je potrebné povedať, že sa na- še závery nebudú týkať, napr. ortuti či roztavených kovov, vodičov. V nich vedenie elektrického prúdu sprostredkujú voľné elektróny, ktoré vznikli uvoľnením z vonkajších vrstiev elektrónových obalov ató- mov. Po uvoľnení elektrónov sa z elektricky neutrálneho atómu stáva kladne nabitý ión.
+   V nasledujúcom pokuse budeme skúmať za akých podmienok kvapalinami prechádza elektrický prúd.
+
+Pokus
+Presvedčte sa, za akých podmienok prechádza elektrický prúd vodou? (Pracujte v skupine.)
+
+
+
+Pomôcky:
+3 vodiče, plochá batéria (4,5 V), malá žiarovka, dve uhlíkové tyčinky, voda (najlepšie destilovaná), kuchynská soľ, nádoba z plastu alebo skla, stojany
+
+Postup:
+a) Skontrolujte, či sú uhlíkové tyčinky a nádoba na vodu do- statočne čisté.
+b) Zostavte elektrický obvod podľa obrázka. Nalejte vodu do nádoby a pripojte vodič k zdroju elektrického napätia.
+c) Pozorujte žiarovku po zapojení elektrického obvodu.
+d) Pomaly sypte do vody soľ. Pozorujte, ako sa správa žiarov- ka.
+
+Odpovedz:
+1. Ako si vysvetľuješ skutočnosť, že po nasypaní kuchynskej soli sa žiarovka v elektrickom obvode rozsvietila?
+2. Ako by si sa presvedčil, že v destilovanej (čistej) vode neprechádza prúd?
+3. Dokáž, alebo vyvráť, tvrdenie: „So zvyšujúcou sa koncentráciou kuchynskej soli vo vode sa zväčšuje v elektrickom obvode prúd“.
+
+86	II. ELEKTRICKÝ PRÚD
+
+
+   Na základe pozorovania predchádzajúceho pokusu možno povedať, že pokiaľ bola v nádobe len čis- tá voda, žiarovka sa nerozsvietila. Ak aj obvodom prechádzal nejaký elektrický prúd, tak bol taký malý, že žiarovku nedokázal rozsvietiť. Možno by ho zaznamenal citlivý merací prístroj.
+   Po prisypaní kuchynskej soli do vody sa žiarovka rozsvietila. Možno teda povedať, že vodný roztok kuchynskej soli je elektricky vodivý. Aj iné látky, ako napr. modrá skalica alebo kyselina sírová spôso- bujú, že ich pridaním do vody sa voda stane vodičom elektrického prúdu.
+   Vlhká zem, ale aj iné vlhké predmety, ktoré sú inak izolantmi, sa môžu stať vodičmi elektrického prú- du. Spôsobia to vodné roztoky rôznych nečistôt. Napríklad suché drevo je nevodičom, ale mokré drevo môže viesť elektrický prúd.
+   Destilovaná voda je zlým vodičom elektrického prúdu. Pridaním už nepatrného množstva soli, ky- seliny alebo zásady sa vodivosť roztokov výrazne zvýši. Z toho vyplýva, že vodné roztoky solí, kyselín a zásad vedú elektrický prúd.
+   Vrátime sa k podrobnejšiemu vysvetleniu nášho predchádzajúceho pokusu. Pri rozpúšťaní kuchynskej soli (chloridu sodného, NaCl) vo vode, prenikajú moleku- ly vody medzi ióny Na+ a Cl−, čím dochádza k narušeniu iónovej väzby v kryštály soli. (obr. 57).
+   Pri rozpustení sa kryštály kuchynskej soli rozpadnú na kladné ióny, katióny sodíka a záporné ióny, anióny chlóru.
+Po uzavretí elektrického obvodu sa medzi uhlíkový-
+
+mi tyčinkami, ktoré budeme nazývať elektródy, vytvorí elektrické pole. Záporná elektróda je spojená so zápor- ným pólom zdroja a kladná elektróda s kladným pólom. Vo vodnom roztoku NaCl sa anióny Cl− začnú pohybovať ku kladnej elektróde a katióny Na+ k zápornej elektróde. Elektrický prúd je tvorený usmerneným pohybom anió- nov a katiónov, ktoré sa pohybujú v elektrickom obvode navzájom opačnými smermi.
+   Podobne ako prechádzal elektrický prúd vodným roztokom kuchynskej soli, vedú elektrický prúd aj vodné roztoky kyseliny sírovej či modrej skalice a ďalšie. Kvapa- liny, ktoré obsahujú voľné ióny a vedú elektrický prúd, sa nazývajú elektrolyty.
+Ak by sme pokus so slaným roztokom zopakovali, ale
+
+Obr. 57 Vznik iónov Na+ a Cl−
+
+
+
+
+
+
+
+
+
+
+Obr. 58 Smer pohybu iónov v elektrolyte
+
+uhlíkovú elektródu spojenú s kladným pólom zdroja nahradíme medenou elektródou a elektrolytom by bol roztok modrej skalice (CuSO4 · 5 H2O), po malej chvíli (5 – 10 minút) zistíme, že sa na zápornej elektróde vylúčila meď.
+
+
+
+
+
+
+
+
+
+Obr. 59 Elektrolýza roztoku modrej skalice
+a pokrytie zápornej, uhlíkovej elektródy meďou
+   
+Na obr. 59 vidíme priebeh pokusu – elektrolýzy a uhlíkovú elektródu pred pokusom (vľavo) a po vylúčení medi.
+   Pri prechode elektrického prúdu v elek- trolytoch dochádza k prenosu iónov látky. Na elektródach prebiehajú chemické reak- cie. V našom pokuse sa to prejavilo vylúče- ním medi na zápornej uhlíkovej elektróde. Podobne sa môžu vylučovať aj iné látky, napr. vodík alebo nejaký kov. Elektrický prúd prechádzajúci elektrolytom má po- dobné účinky ako prúd v kovoch – vzniká magnetické pole, roztok sa prechodom
+
+prúdu zohrieva a platí Ohmov zákon (v upravenej podobe). Novým poznatkom je, že pri elektrolýze do- chádza k prenosu iónov látky, zatiaľ čo pri vedení elektrického prúdu v kovoch sme sa s takýmto javom viditeľne nestretli.
+
+II. ELEKTRICKÝ PRÚD	87
+   Elektrolýza má bohaté využitie vo vede aj v technickej praxi. Z roztokov alebo z roztavených rúd sa elektrolýzou získavajú čisté kovy, ako napríklad z oxidu hlinitého hliník. Elektrolýza sa tiež využíva pri pokovovaní predmetov (napríklad chrómom), vďaka čomu sa stávajú odolnejšie voči korózii. Na princí- pe elektrolýzy sú založené dôležité zdroje elektrického napätia, o čom hovorí ďalší článok 2.15.
+
+
+
+Rieš ÚLOHY
+ôže prechádzať elektrický prúd zemiakom?
+
+Pomôcky:
+zemiak, 4,5 V batéria, 2 odizolované medené drôty s dĺžkou 3 cm.
+
+Postup:
+a) Odrež v strede zemiaka plátok s hrúbkou približne 0,5 cm.
+b) Pripevni medené drôty na svorky batérie.
+c) Zapichni drôty do plátku zemiaka. Vzdialenosť medzi zapichnutými drôtmi môže byť okolo 1,5 cm.
+
+
+d) Nechaj prebiehať pokus 5 – 10 minút. Potom oddeľ zemiak a dobre si ho prezri.
+
+Odpovedz:
+1. Aké zmeny možno pozorovať na zemiaku po pokuse?
+2. Ako si zistené zmeny vysvetľuješ?
+3. Z akých látok sa skladá zemiak?
+4. Ako by si dokázal, že zemiakom prechádza či neprechádza elektrický prúd?
+
+2. Ktoré látky sa vylúčia pri elektrolýze vody?
+
+Pomôcky:
+batéria (9 V), 3 injekčné striekačky s objemom 20 ml, kadička s objemom 250 ml (malé akvárium), voda, 2 tlačky, tenký drôt, plastová hadička s dĺžkou 8 cm, stojan, svorky, kryštalická sóda do pračky na zmäkčenie vody
+
+Postup:
+a) Vyber zo striekačiek piesty a spoj valce striekačiek drôtikom.
+b) Plastovú hadičku rozstrihni na dve časti po 4 cm a nasaď na striekačky.
+c) Vlož striekačky do nádoby s vodou tak, aby boli čiastočne ponorené a upevni ich svorkami o stojan.
+
+88	II. ELEKTRICKÝ PRÚD
+
+
+d) Pomocou tretej striekačky postupne odsaj z valcov striekačiek vzduch tak, aby sa valce naplnili vodou. Prehni hadičky a uzavri ich napr. tlačkou.
+e) Vlož do kadičky s vodou pod spojené valce 9V batériu tak, aby každý pól batérie ústil do jedného valca.
+f) Pridaj do vody niekoľko malých lyžičiek kryštalickej sódy (podľa množstva vody) a roztok zamiešaj.
+g) Pozoruj a zaznamenaj si deje vo valcoch striekačiek.
+
+Odpovedz:
+1. Aký plyn sa vylučoval na kladnom a aký na zápornom póle batérie pri elektrolýze vody?
+2. Ako by si dokázal svoje tvrdenie v odpovedi na 1. otázku?
+3. Aký je približný pomer vylúčených objemov jedného a druhého plynu?
+4. Aké vlastnosti atómov vyplývajú z elektrolýzy vody?
+
+3. Zisti ďalšie informácie o využití elektrolýzy v priemysle.
+
+
+
+
+Domáca príprava na vyučovanie
+   V triede by mali pracovať štyri skupiny na zhotovení zdroja napätia. Odporúča sa, aby každá skupina zhotovila iný zdroj napätia. Základ- nou pomôckou je buď citrón, alebo jablko, zemiak či dve mince z roz- dielnych kovov, napr. mosadze a hliníka. Ďalej bude pre každú skupinu potrebný oceľový klinec a medený drôt (pokiaľ nemáte v škole dosta- tok medených a zinkových elektród).
+
+
+2.15 Chemické zdroje elektrického napätia
+Galvaniho pokusy so „živočíšnou elektrinou“ (pozri Vieš, že...) zapôsobili na
+A. Voltu, a ten sa pustil do ich skúmania. Zistil, že príčinou krátkotrvajúceho elek- trického prúdu v žabích svaloch nie je nič iné, ako sústava vodičov – kovov (železa a medi) a vodivej tekutiny v svalovej hmote. Volta pri svojich pokusoch objavil, že ak priložíme k sebe, kontaktujeme dva správne vybrané kovy, získame „kontaktnú elektrinu“. A tak v r. 1799 skonštruoval dlhodobý zdroj elektrickej energie, nazvaný Voltov stĺp, ktorý mu spolu s ďalšími objavmi priniesol svetovú slávu.
+   Voltov stĺp sa dá ľahko zhotoviť aj z jednoduchých pomôcok a návod na jeho zhotovenie je uvedený v časti Rieš úlohy.
+
+II. ELEKTRICKÝ PRÚD	89
+   Odvtedy sa vo výrobe zdrojov elektrického napätia, aj chemických zdrojov, veľa zmenilo. Princíp ta- kýchto zdrojov si môžete vyskúšať aj v nasledujúcej úlohe.
+
+Úloha
+    robte si vlastný chemický zdroj napätia a presvedčte sa o veľkosti jeho napätia. (Pracujte v skupi- ne, pričom každá skupina by mala pracovať s inými pomôckami.)
+
+Pomôcky:
+2 vodiče, citrón (alebo zemiak, jablko alebo 2 mince z rozdiel- nych kovov a papierová vreckovka), multimeter, medená a zin- ková elektróda (medený drôt, oceľový klinec)
+
+Postup:
+a) Dvakrát narežte citrón (jablko...) približne vo vzdialenosti 2 cm. Zapichnite do narezaných miest zinkovú a medenú elektródu (oceľový klinec a medený drôt). V prípade citró- na je potrebné postláčať ho v dlani a povaľkať po stole, aby sa z dužiny uvoľnila šťava. Ak použijete mince, je potrebné medzi ne vložiť vystrihnutý štvorec papierovej vreckovky, namočenej napríklad v citrónovej šťave, slanej vode a pod.
+b) Vyslovte hypotézu o hodnote napätia na zhotovenom zdroji.
+c) Odmerajte na ňom napätie.
+d) Referujte v triede o zhotovenom zdroji napätia a nameranej hodnote napätia.
+
+Odpovedz:
+1. Zhoduje sa nameraná hodnota napätia s hodnotou, ktorú ste ako skupina očakávali?
+2. Ako si vysvetľuješ skutočnosť, že z citróna, jablka, zemiaka či mincí z rozdielnych kovov možno zhoto- viť zdroj elektrického napätia?
+3. Ktorá skupina namerala najväčšiu hodnotu napätia a ako si to vysvetľuješ?
+
+   Doteraz sme pri pokusoch používali chemické zdroje elektrické- ho napätia – galvanické články. Vieme, že batéria (4,5 V) sa skladá z troch článkov (1,5 V), spojených v jej vnútri za sebou. Na obr. 60 je článok a jeho prierez s označením častí, z ktorých sa skladá.
+   Zápornou elektródou je zinková nádoba. Kladnou elektródou je uhlíková tyčinka. Elektrolytom je kašovitý roztok salmiakovej pasty (chloridu amónneho, NH4Cl). Okolo uhlíkovej tyčinky je bu-
+
+rel (oxid manganičitý, MnO2), ktorý predlžuje použiteľnosť článku.
+Práškový uhlík (koks) zlepšuje vodivosť medzi elektródami.
+   Napätie na elektródach vzniká ako dôsledok chemických reak- cií medzi elektródami a elektrolytom.
+   V náramkových hodinkách, ale aj v kalkulačkách, sa používajú články v tvare gombíka. Tieto majú iné zloženie ako článok na obr.
+60. Výhodou týchto článkov sú malé rozmery, a preto sú vhodné do prenosných spotrebičov. Ich elektródy môžu byť strieborno
+– zinkové, elektrolytom je hydroxid draselný, alebo sú články or- tuťové, vhodné práve do kalkulačiek. Ich zloženie je znázornené v priereze na obr. 61. Tieto články sa líšia kovmi, z ktorých sú vyro- bené, čo je vyjadrené v ich označení, napr. PX, LR, SR, BR a líšia sa aj životnosťou.
+
+Obr. 60 Článok (1,5 V) a jeho prierez
+
+
+
+
+
+
+
+
+
+Obr. 61 Ortuťový článok (1,35 V) a jeho prierez
+
+90	II. ELEKTRICKÝ PRÚD
+
+
+
+
+   Články a batérie patria medzi nebezpečné odpady pre životné prostredie, pretože obsahujú zdraviu škodlivé látky. Musia sa ako odpad zberať do osobitných kontajnerov.
+   Dlhým a nevhodným skladovaním týchto článkov elektrické napätie medzi elektródami klesá a nedá sa obnoviť.
+   Elektrický článok, ktorého napätie možno obnoviť, sa nazýva akumulátor. Najčastejšie používaným akumulátorom je olovený akumulátor. Jedna z jeho elektród (záporná) je z olova, druhá (klad- ná) je olovená mriežka vyplnená oxidom olovičitým. Elektrolytom je kyselina sírová. Nabitý akumulátor má elektrické napätie 2 V.
+Batéria olovených akumulátorov, najčastejšie šesť článkov, sa
+
+
+
+
+
+
+
+
+
+Obr. 62 Autobatéria (12 V) a jej prierez (vidno štyri zo šiestich článkov)
+
+používa ako zdroj napätia v automobiloch. V priebehu chodu automobilu sa batéria dobíja.
+   V malých prenosných zariadeniach, ako je walkman, mobilný telefón, notebook atď., sa používajú lítiové (lítium – iónové) akumulátory.
+
+
+
+
+Rieš ÚLOHY
+ rob pomôcku: Z jednoduchých pomôcok zo- stroj zdroj elektrického napätia.
+
+Pomôcky:
+mince z dvoch rozdielnych kovov, prípadne pliešky zinkové (hliníkové) a medené, papierové vreckov- ky, elektrolyt, (napr. slaný roztok), medený drôt, lepiaca páska
+
+Postup:
+a) Priprav si slaný roztok a v prípade použitia plieškov, nastrihaj ich na rovnaké veľkosti.
+Na rovnakú veľkosť nastrihaj aj papierovú vre
+b) Na spodnú mincu (pliešok) prilep lepiacou páskou medený drôtik tak, aby vyčnieval spod stĺpa a mal dobrý vodivý kontakt s mincou (plieškom).
+c) Ukladaj mince (pliešky) a namočené kúsky papierovej vreckovky v slanom roztoku (elektrolyt) tak, ako je to znázornené na obrázku.
+d) Na vrchnú mincu (pliešok) rovnako prilep medený drôt.
+e) Odmeraj napätie na zostrojenom zdroji elektrického napätia.
+
+Odpovedz:
+1. Ak by si pridával ďalšie elementy k zostrojenému zdroju, ako by sa na ňom menilo napätie?
+2. Ak by si odoberal elementy zo zostrojeného zdroja, ako by sa na ňom menilo napätie?
+3. Prečo bolo potrebné použiť na zostrojenie zdroja elektrického napätia práve také materiály? Možno odporúčané materiály zameniť inými?
+
+2. Zisti informácie:
+a) o chemických zdrojoch elektrického napätia, ktoré sa používajú v prenosných elektronických zariadeniach, napr. počítačoch či mobilných telefónoch,
+b) o škodlivosti látok, ktoré sa nachádzajú v niektorých chemických zdrojoch napätia.
+
+II. ELEKTRICKÝ PRÚD	91
+
+
+2.16 Vedenie elektrického prúdu v plynoch
+   V úvode kapitoly Vedenie elektrického prúdu v kvapalinách a plynoch je príklad zmeny vodivosti vzdu- chu v okolí nabitého elektroskopu. Vzduch, ktorý je za bežných podmienok nevodičom, sa zmenil pla- meňom sviečky na vodivý. Plameň zohrial vzduch na takú teplotu, že sa stal vodivým, a preto došlo k strate náboja na elektroskope.
+   Zmenu vodivosti vzduchu si v našom príklade vysvetľujeme zmenou rýchlosti pohybu molekúl ply- nu a dejmi, ktoré sa následne v plyne stali. Molekuly plynu sú za bežných podmienok (tlaku a teploty) v neustálom a neusporiadanom pohybe. Pohybujú sa všetkými smermi určitými rýchlosťami. Ich rých- losť sa značne zvýši, ak sa zvýši ich teplota. Ak má molekula plynu veľkú rýchlosť, môže pri zrážke s inou molekulou uvoľniť z nej elektrón. Tak vznikne z neutrálnej molekuly kladne nabitý ión – katión a voľný záporne nabitý elektrón. Ak dôjde k tomu, že sa uvoľnený elektrón pridá k inej neutrálnej molekule, vznikne záporný ión. Tento proces sa nazýva ionizácia plynu. Plyn sa stal vplyvom zvýšenia teploty ionizovaným.
+   Ak bol elektroskop v spomínanom príklade nabitý, napríklad kladne, elektróny z okolia spôsobili stra- tu jeho náboja.
+   V prípade, že sa ionizovaný plyn nachádza medzi nabitými elektróda- mi, pôsobí na nabité častice elektrické pole. Katióny sa začnú pohybovať k zápornej elektróde a elektróny alebo anióny ku kladnej elektróde.
+   Takto sa vysvetľuje jeden spôsob ionizácie plynu – vysokou teplotou. Sú však aj ďalšie spôsoby ako plyn ionizovať, napr. pôsobením silného elektrického poľa, prípadne vplyvom rôznych druhov žiarenia, napr. koz- mického, rádioaktívneho.
+   Pokusy s ionizáciou plynu elektrickým poľom ukázali, že v závislosti od veľkosti napätia na elektródach, tvare elektród a ich vzájomnej vzdialenosti dochádza v ionizovanom plyne k rôznym formám výbojov.
+   Jedna forma výboja je iskrový výboj, ktorého príkladom je blesk pri búrke. Blesk je krátko trvajúci elektrický prúd (0,001 s) medzi mrakom a zemou, prípadne medzi dvoma mrakmi. V búrkových mrakoch sa hromadí elektrický náboj. Napríklad v spodnej časti mraku sa môže nahromadiť záporný elektrický náboj. Priblížením sa takéhoto mraku k zemi, vzniká elektrostatickou indukciou na povrchu zeme, zvlášť na vysokých budovách, ktoré sú k mraku najbližšie, nadbytok kladného elektrického náboja.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 63 Vznik elektrického náboja pri búrke. Blesk
+
+   Medzi mrakmi a zemou, najmä výškovými budovami, vzniká veľké elektrické napätie, ktoré sa od- haduje na 109 V. Pretože sa vo vzduchu aj za pekného počasia nachádza malé množstvo častíc s elek- trickým nábojom (hlavne s kladným) silným elektrickým poľom sú tieto ióny urýchľované a narážajú na neutrálne molekuly vo vzduchu. Tak vznikajú ďalšie častice s elektrickým nábojom. Vzduch sa ionizuje. Ionizáciou vodivosť vzduchu rýchlo stúpa a v určitom okamžiku nastane iskrový výboj – blesk.
+Blesk môže mať dĺžku v priemere 2 – 3 km a prúd, ktorý vznikne, môže byť až 105 A.
+   V okolí blesku sa vzduch silne zohrieva a jeho teplota môže dosiahnuť okolo 20 000  C a v určitých miestach až 35 000  C. Prudké rozpínanie vzduchu v okolí blesku spôsobuje silný hluk – hrom. Vieme, že zvuk sa šíri omnoho pomalšie ako svetlo, a preto pri pozorovaní blesku z väčšej vzdialenosti vidíme najprv záblesk, zatiaľ čo zvuk počujeme s časový oneskorením.
+
+92	II. ELEKTRICKÝ PRÚD
+
+
+   Výboj medzi elektródami možno modelovať aj školskou pomôckou – Van de Graaffovým generátorom.
+   V minulosti sa často stávalo, že pri búrkach zhoreli domy. Ľudia premýšľali ako tomu zabrániť. Český prírodovedec Václav Prokop Diviš a americký fyzik Benjamín Franklin prišli v 18. storočí na to, že budovy, komíny či veže možno chrániť bleskozvodom.
+   Bleskozvod je kovová tyč umiestnená na najvyšších miestach budovy. Tyč je spojená so zemou kovovými vodičmi, ktoré siahajú až pod povrch zeme. Ak sa priblíži k bleskozvodu mrak s elektrickými nábojmi, tieto sa pomocou vodičov zvedú do zeme bez škodlivých účinkov.
+   Naše vysvetlenie vzniku búrky je veľmi zjednodušené. To, ako presne vznikajú elektrické náboje v mrakoch, nevedia úplne presne vysvetliť ani vedci. Vie sa však, že pred bleskom sa musíme chrániť, pretože môže spôsobiť požiare alebo smrteľne zasiahnuť ľudí.
+   Ročne podľa štatistík zahynie niekoľko stoviek ľudí, pretože sa nevhodne správali pri búrke. Po mno- hých skúsenostiach a s odbornými vedomosťami o elektrických javoch vieme, že je nebezpečné skrývať sa pod vysoké stromy, kríky, ktoré vyčnievajú v teréne. Rovnako je nebezpečné plávať, surfovať či plaviť sa na plachetnici počas búrky v jazere. Voda je vodivá a po udretí blesku v blízkosti plavca elektrický prúd zasiahne aj jeho.
+
+   Ďalší zo spôsobov vedenia elektrického prúdu vo vzduchu je elektrický oblúk. Ak sa pri napätí okolo 60 V navzájom priblížia dve uhlíkové elektródy so svo- jimi zahrotenými koncami, čo sa využívalo v starších oblúkových lampách, po zohriatí ich koncov sa elek- tródy oddialia a medzi rozžeravenými hrotmi vzniká elektrický oblúk. Oblúk vzniká ako dôsledok vyletova- nia uvoľnených elektrónov zo zápornej elektródy. Na- rážanie letiacich elektrónov do neutrálnych molekúl vzduchu vytvorí prúd ionizovaného plynu, ktorý má vysokú teplotu a jasne svieti. Svieti až tak, že zrak bez ochrany môže žiarivé svetlo poškodiť. Spôsob vedenia
+elektrického prúdu vo vzduchu oblúkom sa využíva v stavebníctve, hutníctve a bežne sa s ním stretáva- me pri zváraní rôznych konštrukcií. Treba však povedať, že pri zváraní kovových súčiastok tvorí súčiastka, ktorú zvárame jednu elektródu. Druhá elektróda je súčasťou zváračky, môže byť napr. z ocele. Elektróda sa zároveň odtavuje, a tým „sceľuje“ dva zvárané kusy .
+
+   Elektrický výboj vo vzduchu elektrickou iskrou si vyžaduje vysoké hodnoty napätia. Ak však vzduch v trubici čiastočne vyčerpáme, dosiahneme výboj s omnoho nižšími hodnotami napätia ako za normál- neho tlaku. Ide o ďalší spôsob vedenia elektrického prúdu v plynoch a nazývame ho – elektrický výboj v zriedených plynoch. Zníženie tlaku v trubici spôsobí, že elektróny a ióny majú omnoho väčšiu voľnú dráhu a získavajú väčšiu kinetickú energiu potrebnú na ionizáciu nárazom. Trubice bývajú často napl- nené plynmi, napr. neónom, ktorý žiari červenou farbou. Tento jav sa využíva v svetelných reklamách. V „úsporných žiarovkách“ sa využíva elektrický výboj v zriedenom plyne obsahujúcom malé množstvo ortuti. Žlté sfarbenie lámp pouličného osvetlenia je zasa spôsobené malým množstvom iónov sodíka nachádzajúcich sa v zriedenom plyne.
+
+
+
+II. ELEKTRICKÝ PRÚD	93
+
+
+Rieš ÚLOHY
+1. Prečítaj si nasledovné texty a odpovedz na otázky.
+
+Benjamin Franklin
+   „Slávny americký vedec a politik Benjamin Franklin v roku 1752 dokázal, že blesk nie je nič iné ako elektrická iskra. Vo Philadelphii, v lete roku 1752, 45-ročný Franklin so svojím synom púšťali pa- pierového šarkana. Na koniec hodvábnej šnúry šarkana priviazali masívny železný kľúč od záhradnej brány. Keď sa priblížil búrkový oblak a Franklin-otec sa priblížil prstom ku kľúču, preskočila medzi kľúčom a prstom iskra. Od elektrickej iskry dostal úder, a to bol vraj pre neho najpríjemnejší pocit, pretože sa dočkal toho, čo si tak veľmi želal. Môžeme povedať, že mal vtedy naozaj šťastie, pretože celý rad ľudí, ktorí na iných miestach a v inom čase púšťali šarkana počas búrky, zabilo.
+   Franklinov objav vzrušil celý vtedajší svet. Dokázal, že búrkové oblaky majú elektrický náboj a že blesk je elektrický výboj medzi oblakom a zemou.
+(Hlaváč, A.: Bojíte sa blesku? Bratislava : Alfa, 1986, 63–206–86, s. 10.)
+
+Václav Prokop Diviš
+   „Divišov bleskozvod“ bol prístroj s veľkým počtom kovových hrotov a pripisovala sa mu iná funkcia ako dnes. Diviš bol presvedčený, že jeho prístroj odsáva elektrický náboj z atmosféry, a tým predchádza nielen bleskom, ale vôbec vzniku búrky. Jeho prístroj nebol ochranou vysokých objektov pred bleskom, ale zariadením, ktoré odsávaním elektrického náboja z atmosféry malo vytvárať pekné počasie.
+   V r. 1759 bolo v oblasti okolo Znojma veľmi sucho. Miestni ľudia sa zhodli na tom, že to spôsobuje Di- višov bleskozvod. Odsávanie elektrického náboja bleskozvodom vytvorilo príliš veľa slnečných dní. Z Di- višových záznamov vieme, že miestni ľudia požadovali bleskozvod odstrániť.
+(Hlaváč, A.: Bojíte sa blesku? Bratislava : Alfa, 1986, 63 – 206 – 86, s. 116 –117.)
+
+Odpovedz:
+a) V ktorých rokoch a v ktorom storočí pracovali P. Diviš a B. Franklin na vynáleze bleskozvodu?
+b) V čom sa V. P. Diviš a ľudia v jeho okolí pri funkcii bleskozvodu mýlili?
+c) Myslíš si, že v tej dobe mali Franklin a Diviš navzájom o sebe dosť informácii? (Svoj názor vysvetli.)
+
+2. Doplň chýbajúce slová do viet:
+Elektrický prúd v kovových vodičoch tvorí usmernený pohyb ......................................................................
+Elektrický prúd v kvapalinách (elektrolytoch) tvorí usmernený pohyb ......................................................
+...............................................................................................................................................................................................
+Elektrický prúd v plynoch tvorí usmernený pohyb  ............................................................................................
+...............................................................................................................................................................................................
+
+3. Zisti informácie o využití iskrového výboja v praxi.
+
+4. Doba trvania blesku je okolo 0,001 s. Medzi mrakom a zemou bolo napätie 1 000 000 000 V. Vznik- nutý prúd dosiahol hodnotu 120 kA. Aká energia sa uvoľnila pri blesku?
+
+
+2.17 Účinky elektrického prúdu na ľudský organizmus. Bezpečnosť pri práci s elektrickými zariadeniami
+   Ľudské telo je vodičom elektrického prúdu. Jeho odpor sa mení. Napríklad medzi suchými dlaňami rúk môžeme namerať odpor aj desaťtisíce ohmov, pretože na dlaniach je koža hrubšia. Stačí však ruky navlhčiť a elektrický odpor klesne.
+   Jednoduchým a bezpečným meraním sa môžete presvedčiť o veľkosti elektrického prúdu, ktorý pri napätí 4,5 V môže prechádzať telom.
+
+94	II. ELEKTRICKÝ PRÚD
+
+
+
+
+Úloha
+Zmeraj veľkosť elektrického prúdu, ktorý prechádza tvojím telom pri napätí 4,5 V.
+
+Pomôcky:
+batéria (4,5 V), 3 vodiče, multimeter
+
+Postup:
+a) Odhadni veľkosť elektrického prúdu, ktorý by mohol prechádzať tvojím telom, keď sa staneš sú- časťou elektrického obvodu.
+b) Nastav meranie prúdu na multimetri na hodnoty μA a zapoj elektrický obvod podľa obrázka.
+c) Zmeraj napätie batérie.
+d) Vypočítaj odpor svojho tela.
+
+Odpovedz:
+1. Opíš (nakresli), ktorou časťou tela mohol prechádzať prúd.
+2. Zhodoval sa tvoj predpoklad o veľkosti elektrického prúdu s name- ranou hodnotou?
+3. Domnievaš sa, že vypočítaný odpor tela platí pre celé telo?
+4. Mohol by si ovplyvniť veľkosť elektrického prúdu pri danom napätí?
+
+   Keď elektrický prúd s hodnotou okolo 8 mA prechádza živými organizmami (pozri tabuľku 14), môžu nastať vážne následky. Veľmi nebezpečné je, ak prúd prechádza srdcom, pretože môže poškodiť jeho pravidelnú činnosť.
+
+Tabuľka 14 Účinky elektrického prúdu pri určitých hodnotách
+Prúd I [mA]Účinky1Začíname cítiť ľahké dráždenie.3Nepríjemné dráždenie v kĺboch RÚK a nôh.8Svaly na rukách STUHNÚ, ruky možno roztvoriť len s námahou.15Ruky sa NEDAJÚ roztvoriť, nastávAJÚ kŕče.30Nastáva vážne nebezpečenstvo pre organizmus.100Srdce nepravidelne kmitá, môže nastať smrť.
+   Pre človeka môže byť aj menšia hodnota prúdu ako 100 mA nebezpečná, záleží to od organizmu a spôsobu prechodu prúdu cez telo. Na obr. 64 sú vyznačené rozličné možnosti prechodu prúdu ľud- ským telom.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 64 Možnosti prechodu elektrického prúdu ľudským telom
+
+II. ELEKTRICKÝ PRÚD	95
+
+
+   Následky úrazu elektrickým prúdom sú ovplyvnené mnohými okolnosťami. Predovšetkým je to veľ- kosť napätia v mieste dotyku. Najvyššia bezpečná hodnota jednosmerného napätia, podľa normy, je 25 V a striedavého napätia 12 V.
+   Na veľkosť prúdu, ktorý pri úraze môže prejsť telom, má vplyv odpor medzi telom a zemou. Ak má človek obuv s korkovou či gumenou podrážkou, je nebezpečenstvo úrazu menšie, ako keď bosou no- hou stojí vo vlhkom prostredí. Ľahko možno predchádzajúce tvrdenie doložiť výpočtami. Ak sa človek dotkne vlhkou rukou vodiča pod napätím 220 V a stojí bosou nohou na vlhkej zemi (predpokladaný odpor tela je 2000 Ω), potom:
+
+I	R	2 000 Ω = 0,11 A = 110 mA, čo je veľmi nebezpečná hodnota.
+Suchá ruka a nevodivá podložka môžu odpor podstatne zvýšiť, a tým ovplyvniť riziko úrazu. Na niektorých elektrických zariadeniach, napríklad skrinkách s elektrickým vede-
+ním, sa môžeme stretnúť so žltou značkou s výstražným nápisom.
+   Táto výstražná značka upozorňuje na nebezpečenstvo úrazu spôsobeného elektri- nou. S takto označeným zariadením môžu pracovať len určení odborníci.
+
+   Aby sme sa vyvarovali nešťastiu, musíme pri práci s elektrickými zariadeniami dodržiavať nasledovné pravidlá bezpečnosti.
+Nesmieme sa dotýkať vlhkou rukou vypínača ani elektrických šnúr. Nesmieme používať elektrospot- rebiče pri kúpaní vo vani.
+Žiarovka v lustri sa vymieňa pri vypnutí ističa (poistky) v byte. Varnú kanvicu, varič, stolnú lampu, ako aj ostatné spotrebiče, pripájame do zásuvky vypnuté.
+Do elektrickej zásuvky sa nesmú nikdy strkať drobné predmety.
+Je nebezpečné dotýkať sa jednou rukou elektrickej šnúry a druhou rukou kovového predmetu, ako je napr. vodovodný kohútik či radiátor ústredného kúrenia.
+Nesmieme sa dotýkať nosných stožiarov elektrického vedenia, ani drôtov spadnutých na zem. Nikdy nepoužívame poškodené elektrické šnúry.
+Nikdy neotvárame, neopravujeme prístrojové časti elektrických spotrebičov, keď nie sú vypnuté. Oprava elektrických spotrebičov patrí odborníkom.
+
+   V starších bytoch sa používajú poistky, ktoré si ľudia zvykli opravovať sami. Ich „oprava“ bola nebez- pečná pre celé elektrické vedenie v byte.
+   Dnes sa používajú ističe, ktoré sa jednoduchým spôsobom dajú uviesť do činnosti. Ak istič vypne prívod elektrického prúdu v byte, v elektrickom vedení nie je niečo v poriadku. Preto by mal odborník elektrické vedenie prezrieť a príčinu odstrániť.
+   Napriek dodržiavaniu pravidiel bezpečnosti sa môže stať úraz elektrickým prúdom. Ak sme svedkami takejto udalosti, je našou povinnosťou poskytnúť prvú pomoc. Pre poskytnutie prvej pomoci platí niekoľko zásad:
+Prerušíme elektrický prúd – vypnutím hlavného vypínača, ističa, vytiahnutím zástrčky zo zásuvky, odstránením vedenia nevodivým predmetom.
+Nedotýkame sa holou rukou tela, odevu postihnutého. Rovnako sa nesmieme holou rukou dotýkať ani predmetov s ním spojených. Podľa možnosti použiť nevodivé podložky či gumené materiály.
+Keď je zranený mimo dosahu elektrického prúdu, uvoľníme mu odev, skontrolujeme tep, dych a v prí- pade potreby poskytneme umelé dýchanie a masáž srdca.
+Zavoláme záchrannú službu č. 155.
+
+
+Rieš ÚLOHY
+1. Odpovedz:
+a) Môže prejsť elektrický prúd ľudským telom, keď sa človek dotkne vodiča s prúdom jednou rukou?
+b) Prečo je najnebezpečnejší prechod elektrického prúdu z jedného ramena do druhého?
+
+96	II. ELEKTRICKÝ PRÚD
+
+
+2. Stalo sa nešťastie. Juraj pravdepodobne prechádzal pod stĺpmi s elektrickým vedením a spadol naňho drôt. Leží v bezvedomí. Ondrej mu chce pomôcť. Na obrázkoch A a B sú znázornené dva spôsoby pomoci. Vyber si z obrázkov vhodný spôsob pomoci Jurajovi tak, aby sa Ondrejovi nič nestalo. Svoj výber vysvetli.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. V jeseni za sychravého počasia deti púšťali šarkana. Šarkan sa zachytil na drôtoch elektrického ve- denia. Ako by mali v takejto situácii postupovať deti. Aké nebezpečenstvo hrozí v takejto situácii?
+
+4. Muž na obrázku chytil odizolovaný drôt na šnúre od rádioprijímača, kto- rý bol zapojený v elektrickej zásuvke. Zdá sa, že mu ide o život. Čo by mal okamžite urobiť jeho kamarát?
+
+5. Pri jednej skutočnej automobilovej ne- hode sa stalo, že auto narazilo do stĺpa s elektrickým vedením, ktorý spadol aj s vedením na auto. V neďalekej záhra- de pracoval muž, ktorý prišiel pomôcť ľuďom v aute a chytil sa jednou rukou kľučky automobilu. Mohol pri tom prísť o život, pretože drôty boli pripo-
+jené na vysoké napätie. V tomto prípade k nešťastiu nedošlo. Čo mohlo zabrániť, že človek prežil?
+
+
+Elektrická energia a jej premeny
+   Pri školských pokusoch sme používali prevažne chemické zdroje elektrické- ho napätia. Z nich sme mohli čerpať pomerne nízke napätie a ich nevýhodou je, že po určitom čase používania hodnota ich napätia klesá. Väčšina spotre- bičov, ktoré sa používajú v domácnosti, ale aj v priemyselnej výrobe, odoberá elektrickú energiu z verejnej rozvodnej siete. Ako sa elektrická energia priemy- selne vyrába? Aké objavy a technické vynálezy bolo potrebné urobiť, aby sme ju mohli tak jednoducho získať?
+   Vieme už, že v okolí vodiča s elektrickým prúdom sa vytvorí magnetické pole. Mohol by – naopak – pôsobením magnetického poľa vzniknúť elek- trický prúd? Túto otázku si položil Michael Faraday (čítaj majkl faradej), ktorý
+
+
+
+
+
+
+
+
+
+
+
+M. Faraday (1791 – 1867)
+
+II. ELEKTRICKÝ PRÚD	97
+si v r. 1822 do svojho denníka zapísal: „Premeniť magnetizmus v elektrinu.“ Trvalo však desať rokov než svoj cieľ dosiahol.
+   Jednoduchými pokusmi sa môžeme presvedčiť, že keď v blízkosti cievky budeme pohybovať mag- netom (obr. 65 a, c) zaznamenáme na cievke vznik napätia. Ak magnetom prestaneme pohybovať (b, d), napätie zanikne. Je potrebné zdôrazniť, že záleží aj na smere pohybu magnetu, čo zaznamenáva aj merací prístroj.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obr. 65 Jav elektromagnetickej indukcie
+
+   Jav, pri ktorom vzniká elektrický prúd zmenami magnetického poľa, nazývame elektromagnetická indukcia. Napätie, ktoré týmto spôsobom vzniká na cievke, sa nazýva indukované napätie. Čím rých- lejšie sa magnetické pole v blízkosti cievky mení, tým je indukované napätie väčšie.
+   Tento objav sa stal kľúčovým pri získavaní elektrickej energie. Základom zariadení – generátorov na výrobu elektrickej energie sú cievky s pohybujúcimi sa elektromagnetmi. Pohyb elektromagnetov zabezpečujú vodné alebo parné turbíny.
+   Zariadenie na výrobu elektrickej energie sa dá modelovať aj jednoduchými pomôckami (obr. 66). Ak pomaly otáčame magnetom pred cievkou, mení sa v jej okolí magnetické pole. Ampérmeter zazname- ná elektrický prúd. Hodnoty elektrického prúdu sú raz kladné a raz záporné.
+
+Obr. 66 Model generátora a časový priebeh prúdu
+
+   Smer prúdu sa strieda podľa toho, ako sa otáča magnet. Zo zaznamenaných hodnôt prúdu v čase do- staneme graf, ktorý má tvar vlnovky. Prúdu, ktorého smer sa neustále mení, hovoríme striedavý prúd (značíme ho ~). Elektrický prúd, ktorý dodáva do elektrického obvodu batéria, je jednosmerný prúd. Časový priebeh jednosmerného prúdu zaznamenaný grafom je čiara rovnobežná s osou x.
+
+98	II. ELEKTRICKÝ PRÚD
+
+
+   Podobne, ako vznikal striedavý prúd elektromagnetickou indukciou, sa vyrába striedavý prúd v elek- trárňach, v zariadeniach, ktoré sa nazývajú alternátory. Cievky v elektrárenských alternátoroch tvoria stator – nepohyblivú časť a otáčajúce sa elektromagnety tvoria rotor. Rotory v elektrárňach otáča tur- bína a táto môže byť poháňaná parou (tepelné a jadrové elektrárne) alebo padajúcou vodou (vodné elektrárne).
+   V alternátore sa pohybová energia rotoru premieňa na elektrickú energiu, ktorá sa odoberá z cievok statoru.
+   Vyrobenú elektrickú energiu treba dopraviť k spotrebiteľom, čo sú často aj stovky kilometrov. Už pri prvých pokusoch s prenosom elektric- kej energie sa zistilo, že dochádza k veľkým stratám, pretože skoro štyri pätiny energie sa premenilo na teplo. Ukázalo sa, že je to dôsledkom pre- nosu príliš veľkého prúdu.
+Problémy s prenosom elektrickej energie vyriešil srbský fyzik Nikola
+vodičmi vysoké napätie, stačí na prenos rovnakej energie malý prúd a straty energie sú malé.
+Zmenu napätia z nízkeho na vysoké a obrátene sa podarilo vyriešiť zariadením, ktoré sa nazýva
+transformátor.
+   V transformátore sa využíva jav elek- tromagnetickej indukcie. Základnou časťou transformátora sú dve cievky navinuté na spoločnom jadre z magne- ticky mäkkej ocele.
+   Na jednu – primárnu cievku – sa pripája vstupné striedavé napätie U1. Druhá cievka  – sekundárna cievka s napätím U2 – sa pripája k spotrebiču.
+   Striedavý prúd v primárnej cievke vytvára v jadre transformátora meniace
+sa magnetické pole. Tým sa v sekundárnej cievke indukuje striedavé napätie. Pokiaľ má sekundárna cievka menší počet závitov ako primárna cievka, napätie sa transformátorom znižuje. Ak má sekundár- na cievka väčší počet závitov, napätie sa naopak zvyšuje. Transformátor je zariadenie, ktoré umožňuje meniť striedavé napätie.
+   Na stožiaroch môžeme vidieť transformátory, v ktorých sa transformuje napätie 22 000 V na spotrebiteľské napätie 230 V. Niektoré spotrebiče v do- mácnosti, napr. televízny prijímač, potrebuje pre svoju činnosť obrazovky napätie až 20 000 V. Túto hodnotu napätia mu zabezpečuje vlastný transfor- mátor.
+   V mnohých strojoch, strojových zariadeniach, spotrebičoch, ktoré využívajú elektrickú energiu, dochádza k premene elektrickej energie na me- chanickú energiu. Túto premenu zabezpečujú elektromotory. Príkladom premeny elektrickej energie na rotačný pohyb je bubon v pračke, ven- tilátor, mixér a pod. V praxi sa využíva veľa druhov elektromotorov.
+                        Vo veľkej skupine elektrospotrebičov sa pre- mieňa elektrická energia na tepelnú energiu. Medzi tzv. malé tepelné spot-
+rebiče patrí elektrický varič, kávovar, žehlička či elektrický infražiarič. Túto premenu energie obyčajne zabezpečuje odporová špirála – súčiastka, ktorá kladie elektrickému prúdu veľký odpor. Napr. elektrický infražiarič má ako zdroj tepla zaliatu v keramickom telese alebo navinutú na kovovej rúrke odporovú špirálu.
+   Pri meraniach a zapájaniach elektrických obvodov ste sa mali možnosť bližšie oboznámiť so žiarov- kou, v ktorej sa elektrická energia mení na svetlo. Svetelní technici tvrdia, že napriek tomu, že od vzniku Edisonových uhlíkových žiaroviek uplynulo viac ako 130 rokov, stále nemôžeme byť spokojní so stra- tami elektrickej energie pri jej premene na svetlo. Pokiaľ prvé používané žiarovky využili pri premene
+
+II. ELEKTRICKÝ PRÚD	99
+energie na svetlo 2 % z dodanej elektrickej energia a 98 % bolo bez úžitku, volfrámové žiarovky to zlepši- li len o málo (4 – 6 %). Ani najmodernejšie svetelné zdroje, ako žiarivky, sodíkové výbojky či halogénové výbojky, nedokážu z privedenej elektrickej energie využiť na svetlo viac ako 30 %. Zdá sa, že viac ako 70 % tepelnej straty energie je dodnes sprievodným javom každého svetelného zdroja.
+
+Dôležité termíny, vzťahy
+Vysvetli dôležité termíny uvedené v stĺpcoch tabuľky.
+   K termínom v ľavom stĺpci priraď z pravého stĺpca termíny podľa seba tak, aby významovo patrili čo najlepšie k sebe.
+
+
+
+
+elektrický prúd v kvapalinách
+
+
+
+
+
+chemické zdroje napätia
+
+
+
+
+
+elektrický prúd v plynoch
+
+
+
+
+
+elektromagnetická  indukcia
+
+Voltov stĺp anión
+voľné elektróny záporná elektróda prenos látky galvanické články kladná elektróda bleskozvod indukované napätie ionizácia plynu elektrolyt
+iskrový výboj jednosmerný prúd katión
+elektrolýza medená elektróda akumulátory elektrický oblúk uhlíková elektróda zinková elektróda striedavý prúd transformátor
+
+100	II. ELEKTRICKÝ PRÚD
+
+
+
+
+Projekt 2
+Zostrojiť elektrický zdroj s regulovateľným napätím
+   V mnohých elektrických zariadeniach je potrebné spojito regulovať veľkosť napätia. Ak reguluje- me napätie na žiarovke, žiarovka mení svoj jas úmerne napätiu. Reguláciou napätia sa mení hlasitosť prijímačov či jas televíznej obrazovky. Regulovateľný zdroj napätia je v praxi veľmi užitočný a kon- štruktéri technických zariadení ho museli vymyslieť.
+   V tomto školskom roku ste preberali niekoľko tém, ktoré by vás mohli inšpirovať k realizácii tohto projektu.
+
+Návrh postupu
+1. Vytvorte si tím spolupracovníkov.
+2. Oboznámte sa s témou a vyhľadajte si potrebné informácie.
+3. Navrhnite do zošita elektrický obvod a princíp zariadenia na re- gulovanie zdroja napätia. Na obrázku je hrubá schéma toho, čo sa od návrhu očakáva. Miesto v schéme s otáznikom je predme- tom projektu. K zariadeniu môže byť pripojený spotrebič (svorky 1, 2), ktorým možno overiť, že zariadenie funguje.
+4. Zostrojte a odskúšajte zariadenie.
+5. Pripravte si prezentáciu s vysvetlením. Pri prezentácii by mal kaž- dý člen tímu opísať svoj podiel práce na projekte.
+
+Podmienky splnenia projektu
+Zariadenie musí byť funkčné.
+Prezentácia by mala byť spojená s vysvetlením.
+Členovia tímu majú byť schopní prezentovať svoj podiel práce a zodpovedať otázky z diskusie.
+
+Spôsob vyhodnotenia
+   Vyhodnotenie projektov sa môže uskutočniť podľa zaužívaných postupov v triede. Pri hodnotení treba zohľadniť aj to, či si prezentujúci pripravili schému zariadenia.
+
+II. ELEKTRICKÝ PRÚD
+
+101
+
+
+
+
+Čo sme sa naučili
+Kvapaliny za určitých podmienok vedú elektrický prúd
+Roztoky kyselín, zásad a solí sú elektrolytmi, vedú elektrický prúd. V roztokoch sú voľné ióny – kladne nabité katióny a záporne nabité anióny.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Počas elektrolýzy roztoku modrej skalice sa uhlíková elektróda po- kryje meďou. Dochádza k prenosu látky.
+
+
+
+Chemické zdroje napätia
+galvanické články	akumulátory
+
+
+
+
+
+
+
+
+
+
+
+Plyny za určitých podmienok vedú elektrický prúd
+
+
+Ak má molekula plynu veľkú rýchlosť, môže pri zrážke s inou mole- kulou uvoľniť jej elektrón. Tak vznikne z neutrálnej molekuly kladne nabitý ión – katión a záporne nabitý elektrón. Ak sa uvoľnený elek- trón pridá k inej neutrálnej molekule, vznikne záporný ión. Tento proces sa nazýva ionizácia plynu.
+
+102	II. ELEKTRICKÝ PRÚD
+
+
+
+iskrový výboj	oblúkový výboj	výboj v zriedených plynoch
+
+
+
+
+
+
+
+
+
+Ľudské telo je vodič
+
+
+
+
+
+
+
+
+
+Možnosti prechodu elektrického prúdu ľudským telom.
+Pri práci s elektrickými zariadeniami je nutné dodržiavať prísne pravidlá bezpečnosti.
+Elektromagnetická indukcia
+
+
+
+
+
+
+
+
+Jav, pri ktorom vzniká elektrický prúd zmenou magnetického poľa, nazývame elektromagnetická in- dukcia. Na cievke sa indukuje napätie. Tento jav je kľúčový pre získanie elektrickej energie.
+Transformátor
+
+
+Transformátorom sa mení na- pätie z nízkeho na vysoké a ob- rátene.
+V transformátore sa využíva jav elektromagnetickej indukcie.
+
+II. ELEKTRICKÝ PRÚD
+
+103
+
+
+
+
+
+Test 4 – vyskúšaj sa
+
+Súhrnný test
+1. Kovová lyžica sa má elektrolyticky postriebriť; vložíme ju do roztoku solí striebra ako jednu elek- tródu. Ku ktorému pólu zdroja napätia musíme lyžicu pripojiť? Svoju odpoveď vysvetli.
+
+2. Medzi mrakom a zemou je pred búrkou napätie 1 200 000 kV. Vzniknutý prúd dosahuje hodnotu 130 kA. Doba trvania blesku je 0,001 s. Aká energia sa uvoľní pri blesku?
+
+
+
+3. Na obrázku je schematicky znázornené vede- nie elektrického prúdu v elektrolyte. Opíš ve- denie elektrického prúdu v kvapalinách.
+
+
+
+
+4. Pri meraní elektrického prúdu prechádzajúceho telom bola nameraná hodnota 93 μA. Ako zdroj elektrického napätia bola použitá batéria s napätím 4,5 V. Vypočítaj odpor, ktorý kládlo telo elek- trickému prúdu.
+
+5. Do pivnice domu natiekla voda. Majiteľ ju chcel odčerpať elektrickým čerpadlom, ktoré malo po- rušenú izoláciu na prívodnom kábli. Zasiahol ho elektrický prúd. Akých chýb sa dopustil majiteľ domu pri práci s elektrickým zariadením?
+
+6. Opíš, čo je príčinou vedenia elektrického prúdu v:
+– kovoch,
+– kvapalinách,
+– plynoch.
+
+7. Na obrázkoch sú kresbou zachytené dve rôzne zapojenia troch žiaroviek.
+a) Nakresli schémy oboch zapojení žiaroviek so zdrojom napätia, batériou 4,5 V.
+b) Vypočítaj odpor v oboch elektrických obvodoch, ak sú žiarovky rovnaké a odpor jednej žiarov- ky je 20 Ω.
+c) Vypočítaj veľkosť prúdu, ktorý prechádza každou zo žiaroviek v oboch zapojeniach.
+d) Aké napätie je na každej zo žiaroviek v oboch zapojeniach?
+
+8. Pri obliekaní pulóvra z umelých vlákien si počul praskanie a v tme bolo vidieť záblesky. Vysvetli tento jav.
